@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="1">
+  <advance width="1152"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="617" y="-313" type="curve" smooth="yes"/>
+      <point x="617" y="-400"/>
+      <point x="660" y="-456"/>
+      <point x="745" y="-481" type="curve" smooth="yes"/>
+      <point x="790.715087891" y="-494.80078125"/>
+      <point x="876.60566175" y="-502.649638653"/>
+      <point x="1002.02999346" y="-504.546572208" type="curve" smooth="yes"/>
+      <point x="1037.10997071" y="-505.077126249"/>
+      <point x="1065.0" y="-477.605719719"/>
+      <point x="1065.0" y="-442.521730618" type="curve" smooth="yes"/>
+      <point x="1065.0" y="-440.37602703" type="line" smooth="yes"/>
+      <point x="1065.0" y="-404.45451832"/>
+      <point x="1037.90103434" y="-377.0790778"/>
+      <point x="1001.98137617" y="-376.714461136" type="curve" smooth="yes"/>
+      <point x="932.063616276" y="-376.004733324"/>
+      <point x="888.069824219" y="-373.928222656"/>
+      <point x="870" y="-370" type="curve" smooth="yes"/>
+      <point x="824" y="-360"/>
+      <point x="809" y="-348"/>
+      <point x="809" y="-309" type="curve" smooth="yes"/>
+      <point x="809" y="-260"/>
+      <point x="832" y="-204"/>
+      <point x="879" y="-143" type="curve" smooth="yes"/>
+      <point x="919.500000038" y="-89.9999999506"/>
+      <point x="950.000000057" y="-50.249999926"/>
+      <point x="970.375000057" y="-23.6249999256" type="curve" smooth="yes"/>
+      <point x="978.737796177" y="-12.6969289221"/>
+      <point x="964.068823546" y="17.0"/>
+      <point x="950.308042507" y="17.0" type="curve" smooth="yes"/>
+      <point x="912.042895021" y="17.0" type="line" smooth="yes"/>
+      <point x="893.459404009" y="17.0"/>
+      <point x="832.300838795" y="-1.27281848108"/>
+      <point x="816.763271332" y="-11.4674315453" type="curve" smooth="yes"/>
+      <point x="736.641113281" y="-64.0377197266"/>
+      <point x="617.0" y="-180.7421875"/>
+    </contour>
+    <component base="A" xOffset="6"/>
+  </outline>
+</glyph>

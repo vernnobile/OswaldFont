@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="1063"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <component base="A" xOffset="-1"/>
+    <component base="dieresis" xOffset="79" yOffset="508"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

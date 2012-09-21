@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="442"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="235" y="1232" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="334" y="1229" type="line"/>
+      <point x="130" y="1229" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

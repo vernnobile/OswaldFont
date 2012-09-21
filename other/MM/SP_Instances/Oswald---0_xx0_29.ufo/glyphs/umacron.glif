@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacron" format="1">
+  <advance width="923"/>
+  <unicode hex="016B"/>
+  <outline>
+    <component base="u" xOffset="-4"/>
+    <component base="macron" xOffset="146" yOffset="-19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

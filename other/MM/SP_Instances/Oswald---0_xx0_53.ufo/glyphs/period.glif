@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="464"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="366" y="253" type="line"/>
+      <point x="106" y="253" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

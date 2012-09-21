@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="405.897572293"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="172.412820187" y="0.0" type="move" name="_bot"/>
+    </contour>
+    <contour>
+      <point x="99.6313936815" y="-328.545702668" type="line"/>
+      <point x="239.114082685" y="-328.545702668"/>
+      <point x="334.032369125" y="-305.611592417"/>
+      <point x="334.032369125" y="-222.911160965" type="curve" smooth="yes"/>
+      <point x="334.032369125" y="-171.063963886"/>
+      <point x="288.179526573" y="-124.41141975"/>
+      <point x="203.919603651" y="-86.8791190599" type="curve"/>
+      <point x="203.919603651" y="0.0" type="line"/>
+      <point x="139.781141038" y="0.0" type="line"/>
+      <point x="139.781141038" y="-124.986749389" type="line"/>
+      <point x="190.582941163" y="-147.622467118"/>
+      <point x="235.310888031" y="-182.363545812"/>
+      <point x="235.310888031" y="-217.43321397" type="curve" smooth="yes"/>
+      <point x="235.310888031" y="-249.398169139"/>
+      <point x="189.300811925" y="-259.510537912"/>
+      <point x="99.6313936815" y="-259.510537912" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

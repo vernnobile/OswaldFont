@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldotaccent" format="1">
+  <advance width="824"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="L" xOffset="-5"/>
+    <component base="dotaccent" xOffset="424" yOffset="-628"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
