@@ -1,68 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="1">
-  <advance width="834"/>
+  <advance width="816"/>
   <unicode hex="00E7"/>
   <outline>
-    <contour>
-      <point x="106" y="568" type="line" smooth="yes"/>
-      <point x="106" y="267"/>
-      <point x="106" y="-27"/>
-      <point x="433" y="-27" type="curve" smooth="yes"/>
-      <point x="680" y="-27"/>
-      <point x="728" y="164"/>
-      <point x="738" y="396" type="curve" smooth="yes"/>
-      <point x="738" y="403" type="line"/>
-      <point x="587" y="403" type="line"/>
-      <point x="587" y="393" type="line"/>
-      <point x="577" y="164"/>
-      <point x="540" y="74"/>
-      <point x="433" y="74" type="curve" smooth="yes"/>
-      <point x="285" y="74"/>
-      <point x="256" y="208"/>
-      <point x="256" y="568" type="curve" smooth="yes"/>
-      <point x="256" y="630" type="line" smooth="yes"/>
-      <point x="256" y="984"/>
-      <point x="276" y="1124"/>
-      <point x="433" y="1124" type="curve" smooth="yes"/>
-      <point x="544" y="1124"/>
-      <point x="579" y="1034"/>
-      <point x="587" y="815" type="curve" smooth="yes"/>
-      <point x="587" y="806" type="line"/>
-      <point x="737" y="806" type="line"/>
-      <point x="737" y="810"/>
-      <point x="736" y="813"/>
-      <point x="736" y="817" type="curve"/>
-      <point x="724" y="1033"/>
-      <point x="672" y="1225"/>
-      <point x="433" y="1225" type="curve" smooth="yes"/>
-      <point x="106" y="1225"/>
-      <point x="106" y="909"/>
-      <point x="106" y="630" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="348" y="-408" type="line"/>
-      <point x="507" y="-408"/>
-      <point x="598" y="-359"/>
-      <point x="598" y="-291" type="curve" smooth="yes"/>
-      <point x="598" y="-243"/>
-      <point x="553" y="-186"/>
-      <point x="456" y="-129" type="curve"/>
-      <point x="456" y="-14" type="line"/>
-      <point x="392" y="-14" type="line"/>
-      <point x="392" y="-148" type="line"/>
-      <point x="451" y="-187"/>
-      <point x="495" y="-240"/>
-      <point x="495" y="-282" type="curve" smooth="yes"/>
-      <point x="495" y="-321"/>
-      <point x="455" y="-349"/>
-      <point x="348" y="-349" type="curve"/>
-    </contour>
+    <component base="c"/>
+    <component base="cedilla" xOffset="235" yOffset="-13.8667"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
     </dict>
   </lib>
 </glyph>

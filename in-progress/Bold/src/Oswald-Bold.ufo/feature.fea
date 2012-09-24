@@ -5,7 +5,7 @@
 lookup ligaStandardLigatureslookup0 {
   lookupflag 0;
     sub \f \f  by \uniFB00;
-    sub \f \f \i  by \uniFB03;
+    sub \f \f \i  by \ffi;
     sub \f \f \l  by \uniFB04;
     sub \f \i  by \uniFB01;
     sub \f \l  by \uniFB02;
@@ -69,7 +69,7 @@ lookup kernHorizontalKerninglookup0 {
     pos \L \quoteright -60;
     pos \L \quotedblright -60;
     pos \T \C -52;
-    pos \Tcommaaccent \C -52;
+    pos \uni021A \C -52;
     pos \Y \o -69;
     pos \Yacute \o -85;
     pos \b \ydieresis -15;
@@ -143,7 +143,7 @@ lookup kernHorizontalKerninglookup0 {
     @kc2_first_5 = [\L ];
     @kc2_first_6 = [\P ];
     @kc2_first_7 = [\R \Racute \Rcaron \Rcommaaccent \uni0210 \uni0212 ];
-    @kc2_first_8 = [\T \Tcommaaccent \uni021A ];
+    @kc2_first_8 = [\T \uni021A \uni021A ];
     @kc2_first_9 = [\U \Uacute \Ucircumflex \Udieresis \Ugrave \uni0216 ];
     @kc2_first_10 = [\V ];
     @kc2_first_11 = [\W ];
@@ -166,7 +166,7 @@ lookup kernHorizontalKerninglookup0 {
 	\Atilde \uni0202 ];
     @kc2_second_2 = [\C \Cacute \Ccaron \Ccedilla \G \Gcedilla \O \OE \Oacute \Ocircumflex \Odieresis 
 	\Ograve \Oslash \Otilde \Q \uni020C \uni020E ];
-    @kc2_second_3 = [\T \Tcommaaccent \uni021A ];
+    @kc2_second_3 = [\T \uni021A \uni021A ];
     @kc2_second_4 = [\U \Uacute \Ucircumflex \Udieresis \Ugrave \uni0216 ];
     @kc2_second_5 = [\V ];
     @kc2_second_6 = [\W ];
@@ -288,23 +288,23 @@ feature kern {
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron 
-	\Aogonek \Aring \Atilde \B \C \CR \Cacute \Ccaron \Ccedilla \Ccircumflex 
-	\Cdotaccent \D \Dz \Dcaron \Dcroat \Delta \uni01F2 \E \Eacute \Ecaron \Ecircumflex 
-	\Edieresis \Egrave \Emacron \Eogonek \Eth \Euro \F \G \Gbreve \Gcommaaccent 
-	\Gcircumflex \Gdotaccent \H \Hbar \Hcircumflex \I \IJ \Iacute \Ibreve 
-	\Icircumflex \Idieresis \Idotaccent \Igrave \Imacron \Iogonek \Itilde \J 
+	\Aogonek \Aring \Atilde \B \C \uni000D \Cacute \Ccaron \Ccedilla \Ccircumflex 
+	\Cdotaccent \D \uni01F2 \Dcaron \Dcroat \Delta \uni01F2 \E \Eacute \Ecaron 
+	\Ecircumflex \Edieresis \Egrave \Emacron \Eogonek \Eth \Euro \F \G \Gbreve 
+	\Gcommaaccent \Gcircumflex \Gdotaccent \H \Hbar \Hcircumflex \I \IJ \Iacute 
+	\Ibreve \Icircumflex \Idieresis \Idotaccent \Igrave \Imacron \Iogonek \Itilde \J 
 	\Jcircumflex \K \Kcommaaccent \L \Lacute \Lcaron \Lcommaaccent \Ldot \Lslash \M \N 
 	\Nacute \Ncaron \Ncommaaccent \Ntilde \O \OE \Oacute \Obreve \Ocircumflex 
 	\Odieresis \Ograve \Ohungarumlaut \Omacron \Oslash \Otilde \P \Q \R \Racute 
 	\Rcaron \Rcommaaccent \S \Sacute \Scaron \Scedilla \Scircumflex \Scommaaccent \T 
-	\Tcaron \Tcommaaccent \Thorn \U \Uacute \Ubreve \Ucircumflex \Udieresis \Ugrave 
+	\Tcaron \uni021A \Thorn \U \Uacute \Ubreve \Ucircumflex \Udieresis \Ugrave 
 	\Uhungarumlaut \Umacron \Uogonek \Uring \V \W \Wacute \Wcircumflex \Wdieresis 
 	\Wgrave \X \Y \Yacute \Ycircumflex \Ydieresis \Ygrave \Z \Zacute \Zcaron 
 	\Zdotaccent \a \aacute \abreve \acircumflex \acute \adieresis \ae \agrave 
 	\amacron \ampersand \aogonek \aring \asciicircum \asciitilde \asterisk \at 
 	\atilde \b \backslash \bar \braceleft \braceright \bracketleft \bracketright 
 	\breve \brokenbar \bullet \c \cacute \caron \ccaron \ccedilla \ccircumflex 
-	\cdotaccent \cedilla \cent \circumflex \colon \comma \commaaccent \copyright 
+	\cdotaccent \cedilla \cent \circumflex \colon \comma \uni0326 \copyright 
 	\currency \d \daggerdbl \dcaron \dcroat \degree \dieresis \divide \dollar 
 	\dotaccent \dotlessi \uni0237 \uni01F3 \e \eacute \ecaron \ecircumflex 
 	\edieresis \egrave \eight \emacron \emdash \endash \eogonek \equal \eth \exclam 
@@ -316,24 +316,26 @@ feature kern {
 	\kgreenlandic \l \lacute \lcaron \lcommaaccent \ldot \less \logicalnot \lslash \m 
 	\macron \minus \mu \multiply \n \nacute \uni00A0 \ncaron \ncommaaccent \nine 
 	\ntilde \numbersign \o \oacute \obreve \ocircumflex \odieresis \oe \ogonek 
-	\ograve \ohungarumlaut \omacron \one \onehalf \onequarter \uni00B9 \ordfeminine 
-	\ordmasculine \oslash \otilde \p \paragraph \parenleft \parenright \percent 
-	\period \periodcentered \plus \plusminus \product \q \question \questiondown 
-	\quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft \quoteright 
-	\quotesinglbase \quotesingle \r \racute \rcaron \rcommaaccent \registered \ring 
-	\s \sacute \scaron \scedilla \scircumflex \scommaaccent \section \semicolon 
-	\seven \six \slash \space \sterling \t \tcaron \tcommaaccent \thorn \three 
-	\threequarters \uni00B3 \tilde \trademark \tt \two \uni00B2 \u \uacute \ubreve 
-	\ucircumflex \udieresis \ugrave \uhungarumlaut \umacron \underscore \uni00AD 
-	\uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 \uni01C9 \uni01CA \uni01CB \uni01CC 
-	\uni01F4 \uni01F5 \uni0200 \uni0201 \uni0202 \uni0203 \uni0204 \uni0205 \uni0206 
-	\uni0207 \uni0208 \uni0209 \uni020A \uni020B \uni020C \uni020D \uni020E \uni020F 
-	\uni0210 \uni0211 \uni0212 \uni0213 \uni0214 \uni0215 \uni0216 \uni0217 
-	\Scommaaccent \scommaaccent \uni021A \uni021B \uni030F \uni0311 \uni0326 
-	\uogonek \uring \v \w \wacute \wcircumflex \wdieresis \wgrave \x \y \yacute 
-	\ycircumflex \ydieresis \yen \ygrave \z \zacute \zcaron \zdotaccent \zero \Utilde 
-	\utilde \uni01F1 ];
-@GDEF_Ligature = [\uniFB00 \uniFB03 \uniFB04 \uniFB01 \uniFB02 ];
+	\ograve \ohungarumlaut \omacron \one \onehalf \onequarter \one.superior 
+	\ordfeminine \ordmasculine \oslash \otilde \p \paragraph \parenleft \parenright 
+	\percent \period \periodcentered \plus \plusminus \product \q \question 
+	\questiondown \quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft 
+	\quoteright \quotesinglbase \quotesingle \r \racute \rcaron \rcommaaccent 
+	\registered \ring \s \sacute \scaron \scedilla \scircumflex \scommaaccent 
+	\section \semicolon \seven \six \slash \space \sterling \t \tcaron \uni021B \thorn 
+	\three \threequarters \three.superior \tilde \trademark \tt \two \two.superior 
+	\u \uacute \ubreve \ucircumflex \udieresis \ugrave \uhungarumlaut \umacron 
+	\underscore \uni00AD \uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 \uni01C9 
+	\uni01CA \uni01CB \uni01CC \uni01F4 \uni01F5 \uni0200 \uni0201 \uni0202 \uni0203 
+	\uni0204 \uni0205 \uni0206 \uni0207 \uni0208 \uni0209 \uni020A \uni020B \uni020C 
+	\uni020D \uni020E \uni020F \uni0210 \uni0211 \uni0212 \uni0213 \uni0214 \uni0215 
+	\uni0216 \uni0217 \Scommaaccent \scommaaccent \uni021A \uni021B \dblgravecmb 
+	\uni0311 \uni0326 \uogonek \uring \v \w \wacute \wcircumflex \wdieresis \wgrave \x 
+	\y \yacute \ycircumflex \ydieresis \yen \ygrave \z \zacute \zcaron \zdotaccent 
+	\zero \Utilde \utilde \uni01F1 \Edotaccent \edotaccent \uni1E02 \uni1E03 
+	\uni1E0A \uni1E0B \uni1E1E \uni1E1F \uni1E40 \uni1E41 \uni1E56 \uni1E57 \uni1E60 
+	\uni1E61 \uni1E6A \uni1E6B \florin \dagger \ellipsis ];
+@GDEF_Ligature = [\uniFB00 \ffi \uniFB04 \uniFB01 \uniFB02 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;

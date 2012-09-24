@@ -5,18 +5,16 @@
   <outline>
     <contour>
       <point x="173" y="-321" type="line"/>
-      <point x="241" y="-321" type="line"/>
-      <point x="267" y="-169"/>
-      <point x="265" y="-168"/>
-      <point x="291" y="-14" type="curve"/>
       <point x="123" y="-14" type="line"/>
+      <point x="291" y="-14" type="line"/>
+      <point x="265" y="-168"/>
+      <point x="267" y="-169"/>
+      <point x="241" y="-321" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
     </dict>
   </lib>
 </glyph>

@@ -3,24 +3,12 @@
   <advance width="405"/>
   <unicode hex="00EC"/>
   <outline>
-    <contour>
-      <point x="132" y="0" type="line"/>
-      <point x="282" y="0" type="line"/>
-      <point x="282" y="1198" type="line"/>
-      <point x="132" y="1198" type="line"/>
-    </contour>
-    <contour>
-      <point x="179" y="1327" type="line"/>
-      <point x="235" y="1327" type="line"/>
-      <point x="112" y="1725" type="line"/>
-      <point x="-50" y="1725" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="grave" xOffset="-120" yOffset="64"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
     </dict>
   </lib>
 </glyph>
