@@ -1,1 +1,36 @@
+FONTLOG for the Oswald font
+
+This file provides detailed information on Oswald
+Font Software. 
+
+This information should be distributed along with the 
+Oswald font and any derivative works.
+
+Basic Font Information
+
 Oswald is a reworking of the classic gothic typeface style historically represented by designs such as 'Alternate Gothic'. The characters of Oswald have been re-drawn and reformed to better fit the pixel grid of standard digital screens. Oswald is designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.
+
+Oswald is a Unicode typeface family that supports 
+languages that use the Latin script and its variants, 
+and could be expanded to support other scripts.
+
+More specifically, this release supports the following 
+Unicode ranges: Latin-1, Latin-2: Eastern Europe, Turkish, 
+Macintosh Character Set.
+
+There are four Source files:
+
+1. Oswald-Regular.sfd Original Fontforge Source File
+
+2. Oswald-Regular-TTF.sfd TrueType outlines that correspond to the unhinged TTF file
+
+3. Oswald-Regular.otf Merged contours and 
+   optimized file in OTF-CFF format
+
+4 Oswald-Regular.ufo Original UFO Source File
+
+Source files are available from
+http://code.google.com/p/googlefontdirectory/
+
+To contribute to the project contact Vernon Adams at 
+vernnobile@gmail.com
