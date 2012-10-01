@@ -10,17 +10,17 @@ UnderlinePosition: -125
 UnderlineWidth: 50
 Ascent: 1638
 Descent: 410
-sfntRevision: 0x00010000
+sfntRevision: 0x00020000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 332 1330122705 11447081]
+XUID: [1021 332 1330122705 16753529]
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1345466565
-ModificationTime: 1348410120
+ModificationTime: 1349110638
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 5
@@ -127,7 +127,7 @@ ShortTable: maxp 16
   2
   2
 EndShort
-LangName: 1033 "" "" "" "vernonadams: Oswald Light: 2011" "" "Version " "" "Oswald Light is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011 by vernon adams. All rights reserved." "newtypography.co.uk" "newtypography.co.uk" "" "http://scripts.sil.org/OFL" "" "" "" "Oswald Light" 
+LangName: 1033 "" "" "" "vernonadams: Oswald Light: 2011-12" "" "Version " "" "Oswald Light is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011-12 by vernon adams. All rights reserved." "newtypography.co.uk" "newtypography.co.uk" "" "http://scripts.sil.org/OFL" "" "" "" "Oswald Light" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -136,7 +136,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 22 11
+WinInfo: 0 17 11
 BeginChars: 65541 417
 
 StartChar: .notdef
@@ -175,7 +175,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 3
-Width: 334
+Width: 406
 Flags: W
 LayerCount: 2
 EndChar
@@ -2085,7 +2085,7 @@ Fore
 SplineSet
 220 896 m 1,0,-1
  43 896 l 1,1,2
- 43 896 43 896 270 1459 c 1,3,-1
+ 270 1459 l 1,3,-1
  477 1459 l 1,4,-1
  703 896 l 1,5,-1
  528 896 l 1,6,-1
@@ -3287,7 +3287,7 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 98
-Width: 334
+Width: 406
 Flags: W
 LayerCount: 2
 EndChar
@@ -8887,16 +8887,22 @@ EndChar
 
 StartChar: Tcommaaccent
 Encoding: 354 354 415
-Width: 2048
+Width: 753
 Flags: W
 LayerCount: 2
+Fore
+Refer: 119 184 N 1 0 0 1 188 13 2
+Refer: 55 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: tcommaaccent
 Encoding: 355 355 416
-Width: 2048
+Width: 550
 Flags: W
 LayerCount: 2
+Fore
+Refer: 119 184 N 1 0 0 1 190 -5 2
+Refer: 87 116 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont

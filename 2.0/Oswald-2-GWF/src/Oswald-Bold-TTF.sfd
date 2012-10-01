@@ -4,23 +4,23 @@ FullName: Oswald Bold
 FamilyName: Oswald
 Weight: Bold
 Copyright: Copyright (c) 2011-12 by vernon adams. All rights reserved.
-Version: 1.000
+Version: 2.002
 ItalicAngle: 0
 UnderlinePosition: -205
 UnderlineWidth: 102
 Ascent: 1638
 Descent: 410
-sfntRevision: 0x00010000
+sfntRevision: 0x00020000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 332 1330122705 8693168]
+XUID: [1021 332 1330122705 1304976]
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1331556123
-ModificationTime: 1348847727
+ModificationTime: 1349110812
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -130,7 +130,7 @@ ShortTable: maxp 16
   3
   2
 EndShort
-LangName: 1033 "" "" "" "vernonadams: Oswald Bold: 2011" "" "Version 1.000" "" "Oswald Bold is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011 by vernon adams. All rights reserved." "newtypography.co.uk" "newtypography.co.uk" "" "http://scripts.sil.org/OFL" "" "" "" "Oswald Bold" 
+LangName: 1033 "" "" "" "vernonadams: Oswald Bold: 2011-12" "" "Version 2.002" "" "Oswald Bold is a trademark of vernon adams." "vernon adams" "vernon adams" "Copyright (c) 2011-12 by vernon adams. All rights reserved." "newtypography.co.uk" "newtypography.co.uk" "" "http://scripts.sil.org/OFL" "" "" "" "Oswald Bold" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -139,7 +139,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 21 8
+WinInfo: 0 17 11
 BeginChars: 65546 426
 
 StartChar: .notdef
