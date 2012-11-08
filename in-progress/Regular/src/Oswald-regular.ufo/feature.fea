@@ -707,7 +707,7 @@ feature kern {
 	\ygrave \z \zacute \zcaron \zdotaccent \zero \Tcommaaccent \tcommaaccent 
 	\uni00A0 \Edotaccent \edotaccent \uni1E02 \uni1E03 \uni1E0A \uni1E0B \uni1E1E 
 	\uni1E1F \uni1E40 \uni1E41 \uni1E56 \uni1E57 \uni1E60 \uni1E61 \uni1E6A \uni1E6B 
-	\florin \dagger \uni00B5 \uni2215 \uniE0FF \uniEFFD \uniF000 ];
+	\florin \dagger \uni00B5 \uni2215 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

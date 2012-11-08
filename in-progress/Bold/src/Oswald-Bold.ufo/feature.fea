@@ -5,7 +5,7 @@
 lookup ligaStandardLigatureslookup0 {
   lookupflag 0;
     sub \f \f  by \uniFB00;
-    sub \f \f \i  by \ffi;
+    sub \f \f \i  by \uniFB03;
     sub \f \f \l  by \uniFB04;
     sub \f \i  by \uniFB01;
     sub \f \l  by \uniFB02;
@@ -316,26 +316,26 @@ feature kern {
 	\kgreenlandic \l \lacute \lcaron \lcommaaccent \ldot \less \logicalnot \lslash \m 
 	\macron \minus \mu \multiply \n \nacute \uni00A0 \ncaron \ncommaaccent \nine 
 	\ntilde \numbersign \o \oacute \obreve \ocircumflex \odieresis \oe \ogonek 
-	\ograve \ohungarumlaut \omacron \one \onehalf \onequarter \one.superior 
-	\ordfeminine \ordmasculine \oslash \otilde \p \paragraph \parenleft \parenright 
-	\percent \period \periodcentered \plus \plusminus \product \q \question 
-	\questiondown \quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft 
-	\quoteright \quotesinglbase \quotesingle \r \racute \rcaron \rcommaaccent 
-	\registered \ring \s \sacute \scaron \scedilla \scircumflex \scommaaccent 
-	\section \semicolon \seven \six \slash \space \sterling \t \tcaron \uni021B \thorn 
-	\three \threequarters \three.superior \tilde \trademark \tt \two \two.superior 
-	\u \uacute \ubreve \ucircumflex \udieresis \ugrave \uhungarumlaut \umacron 
-	\underscore \uni00AD \uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 \uni01C9 
-	\uni01CA \uni01CB \uni01CC \uni01F4 \uni01F5 \uni0200 \uni0201 \uni0202 \uni0203 
-	\uni0204 \uni0205 \uni0206 \uni0207 \uni0208 \uni0209 \uni020A \uni020B \uni020C 
-	\uni020D \uni020E \uni020F \uni0210 \uni0211 \uni0212 \uni0213 \uni0214 \uni0215 
-	\uni0216 \uni0217 \Scommaaccent \scommaaccent \uni021A \uni021B \dblgravecmb 
-	\uni0311 \uni0326 \uogonek \uring \v \w \wacute \wcircumflex \wdieresis \wgrave \x 
-	\y \yacute \ycircumflex \ydieresis \yen \ygrave \z \zacute \zcaron \zdotaccent 
-	\zero \Utilde \utilde \uni01F1 \Edotaccent \edotaccent \uni1E02 \uni1E03 
-	\uni1E0A \uni1E0B \uni1E1E \uni1E1F \uni1E40 \uni1E41 \uni1E56 \uni1E57 \uni1E60 
-	\uni1E61 \uni1E6A \uni1E6B \florin \dagger \ellipsis ];
-@GDEF_Ligature = [\uniFB00 \ffi \uniFB04 \uniFB01 \uniFB02 ];
+	\ograve \ohungarumlaut \omacron \one \onehalf \onequarter \uni00B9 \ordfeminine 
+	\ordmasculine \oslash \otilde \p \paragraph \parenleft \parenright \percent 
+	\period \periodcentered \plus \plusminus \product \q \question \questiondown 
+	\quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft \quoteright 
+	\quotesinglbase \quotesingle \r \racute \rcaron \rcommaaccent \registered \ring 
+	\s \sacute \scaron \scedilla \scircumflex \scommaaccent \section \semicolon 
+	\seven \six \slash \space \sterling \t \tcaron \uni021B \thorn \three 
+	\threequarters \uni00B3 \tilde \trademark \tt \two \uni00B2 \u \uacute \ubreve 
+	\ucircumflex \udieresis \ugrave \uhungarumlaut \umacron \underscore \uni00AD 
+	\uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 \uni01C9 \uni01CA \uni01CB \uni01CC 
+	\uni01F4 \uni01F5 \uni0200 \uni0201 \uni0202 \uni0203 \uni0204 \uni0205 \uni0206 
+	\uni0207 \uni0208 \uni0209 \uni020A \uni020B \uni020C \uni020D \uni020E \uni020F 
+	\uni0210 \uni0211 \uni0212 \uni0213 \uni0214 \uni0215 \uni0216 \uni0217 
+	\Scommaaccent \scommaaccent \uni021A \uni021B \uni030F \uni0311 \uni0326 
+	\uogonek \uring \v \w \wacute \wcircumflex \wdieresis \wgrave \x \y \yacute 
+	\ycircumflex \ydieresis \yen \ygrave \z \zacute \zcaron \zdotaccent \zero \Utilde 
+	\utilde \uni01F1 \Edotaccent \edotaccent \uni1E02 \uni1E03 \uni1E0A \uni1E0B 
+	\uni1E1E \uni1E1F \uni1E40 \uni1E41 \uni1E56 \uni1E57 \uni1E60 \uni1E61 \uni1E6A 
+	\uni1E6B \florin \dagger \ellipsis \uni2215 \uni2219 ];
+@GDEF_Ligature = [\uniFB00 \uniFB03 \uniFB04 \uniFB01 \uniFB02 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
