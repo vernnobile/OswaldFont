@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1345466565
-ModificationTime: 1349113333
+ModificationTime: 1352346789
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 5
@@ -524,13 +524,13 @@ p11
 S'maxp'
 p13
 (dp14
-S'tableTag'
+S'numGlyphs'
 p15
-S'maxp'
-p16
-sS'numGlyphs'
-p17
 I398
+sS'tableTag'
+p16
+S'maxp'
+p17
 sS'tableVersion'
 p18
 I20480
@@ -608,7 +608,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 23 23 11
+WinInfo: 161 23 11
 BeginPrivate: 5
 BlueScale 9 0.0366667
 BlueShift 1 0
@@ -6989,7 +6989,7 @@ EndChar
 
 StartChar: quotedblbase
 Encoding: 387 8222 274
-Width: 725
+Width: 686
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -7000,16 +7000,20 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-497 -320 m 1
- 446 -13 l 1
- 614 -13 l 1
- 588 -167 590 -168 564 -320 c 1
- 497 -320 l 1
-174 -320 m 1
- 123 -13 l 1
- 291 -13 l 1
- 265 -167 267 -168 241 -320 c 1
- 174 -320 l 1
+443 -256 m 5
+ 416 -201 l 5
+ 517 -168 522 -38 522 0 c 5
+ 394 0 l 5
+ 394 179 l 5
+ 579 179 l 5
+ 579 -124 564 -241 443 -256 c 5
+149 -256 m 5
+ 122 -201 l 5
+ 223 -168 228 -38 228 0 c 5
+ 100 0 l 5
+ 100 179 l 5
+ 285 179 l 5
+ 285 -124 270 -241 149 -256 c 5
 EndSplineSet
 EndChar
 
@@ -7121,7 +7125,7 @@ EndChar
 
 StartChar: quotesinglbase
 Encoding: 384 8218 279
-Width: 403
+Width: 393
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -7132,11 +7136,13 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-173 -321 m 1
- 123 -14 l 1
- 291 -14 l 1
- 265 -168 267 -169 241 -321 c 1
- 173 -321 l 1
+149 -256 m 5
+ 122 -201 l 5
+ 223 -168 228 -38 228 0 c 5
+ 100 0 l 5
+ 100 179 l 5
+ 285 179 l 5
+ 285 -124 270 -241 149 -256 c 5
 EndSplineSet
 EndChar
 
