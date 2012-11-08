@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="674"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="227" y="233" type="line"/>
+      <point x="227" y="412" type="line"/>
+      <point x="411" y="412" type="line"/>
+      <point x="411" y="233" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="879" type="line"/>
+      <point x="227" y="1058" type="line"/>
+      <point x="411" y="1058" type="line"/>
+      <point x="411" y="879" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="576" type="line"/>
+      <point x="35" y="691" type="line"/>
+      <point x="603" y="691" type="line"/>
+      <point x="603" y="576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

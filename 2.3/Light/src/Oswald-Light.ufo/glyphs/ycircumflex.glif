@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ycircumflex" format="1">
+  <advance width="777"/>
+  <unicode hex="0177"/>
+  <outline>
+    <component base="circumflex" xOffset="40" yOffset="-20"/>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>
