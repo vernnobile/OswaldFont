@@ -26,7 +26,8 @@ time, mark, audio, video {
 .blanket {
 	background-color:white;
 	padding:21px;
-	margin-top:89px;
+	margin-top:55px;
+	margin-bottom:34px;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -70,7 +71,7 @@ a:hover {
 }
 
 header {
-  padding-top: 89px;
+  padding-top: 0px;
   padding-bottom: 0px;
 }
 
