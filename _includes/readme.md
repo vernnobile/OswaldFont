@@ -1,1 +1,5 @@
+---
+published: true
+---
+
 Oswald is a reworking of the classic Gothic type style historically most usually represented by the 'Alternate Gothic' sans serif typefaces. Alternate Gothic was itself built upon earlier faces and spawned many more. The characters of Oswald have been informed from historical printers specimens of late nineteenth and early twentieth century gothics typefaces, then re-drawn and reformed to better fit the pixel grid of standard digital screens. Oswald is designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices
