@@ -23,10 +23,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-.headerMast {
-	margin-top:55px;
-	background-color:white;
-}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -69,8 +66,8 @@ a:hover {
 }
 
 header {
-  padding-top: 35px;
-  padding-bottom: 25px;
+  padding-top: 89px;
+  padding-bottom: 0px;
 }
 
 header h1 {
