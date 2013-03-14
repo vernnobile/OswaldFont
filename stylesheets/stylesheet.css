@@ -1,10 +1,14 @@
 .blanket {
 	background-color:white;
 	padding:21px;
-	margin-top:55px;
 	margin-bottom:34px;
 }
 
+.headerBlanket {
+	background-color:#ccc;
+	padding:21px;
+	margin-top:55px;
+}
 
 body {
   font-size: 1em;
