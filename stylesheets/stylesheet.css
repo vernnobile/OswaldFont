@@ -1,3 +1,29 @@
+#topnavbar {  
+  background-color: #464646;  
+  background-image: -webkit-linear-gradient(top, #373737 0px, #464646 5px);
+  background-image: -o-linear-gradient(top, #373737 0px, #464646 5px);
+  background-image: -ms-linear-gradient(top, #373737 0px, #464646 5px);
+  background-image: -moz-linear-gradient(top, #373737 0px, #464646 5px);
+  /* Impossible to translate property background-image for webkit20110101 */
+  background-image: linear-gradient(to top, #373737 0px, #464646 5px);  
+  color: #cccccc;  
+  font-size: 13px;  
+  font-style: normal;  
+  font-variant: normal;  
+  font-weight: normal;  
+  height: 28px;  
+  line-height: 28px;  
+  z-index: 99999;  
+  font-family: Muli;  
+  padding-left: 8px;
+-webkit-border-radius: 0px 0px 4px 4px;
+  border-radius: 0px 0px 4px 4px;
+}
+
+#topnavbar a {  
+  color: #cccccc;
+}
+
 .blanket {
 	background-color:white;
 	padding:21px;
