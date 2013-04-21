@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="992"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="496" y="187" type="line" name="Z10R"/>
+      <point x="628" y="187"/>
+      <point x="658" y="286"/>
+      <point x="658" y="446" type="curve" name="Z9R"/>
+      <point x="906" y="485" type="line" name="Z9L,start"/>
+      <point x="906" y="168"/>
+      <point x="798" y="-14"/>
+      <point x="496" y="-14" type="curve" name="Z10L"/>
+    </contour>
+    <contour>
+      <point x="906" y="798" type="line" name="Z7L,start"/>
+      <point x="906" y="485" type="line" name="Z8L"/>
+      <point x="658" y="446" type="line" name="Z8R"/>
+      <point x="658" y="837" type="line" name="Z7R"/>
+    </contour>
+    <contour>
+      <point x="496" y="1096" type="curve" name="Z5R"/>
+      <point x="496" y="1297" type="line" name="Z5L,start"/>
+      <point x="798" y="1297"/>
+      <point x="906" y="1115"/>
+      <point x="906" y="798" type="curve" name="Z6L"/>
+      <point x="658" y="837" type="line" name="Z6R"/>
+      <point x="658" y="997"/>
+      <point x="628" y="1096"/>
+    </contour>
+    <contour>
+      <point x="496" y="187" type="curve" name="Z11R"/>
+      <point x="496" y="-14" type="line" name="Z11L,start"/>
+      <point x="194" y="-14"/>
+      <point x="86" y="168"/>
+      <point x="86" y="485" type="curve" name="Z12L"/>
+      <point x="334" y="446" type="line" name="Z12R"/>
+      <point x="334" y="286"/>
+      <point x="364" y="187"/>
+    </contour>
+    <contour>
+      <point x="86" y="485" type="line" name="Z1L,start"/>
+      <point x="86" y="798" type="line" name="Z2L"/>
+      <point x="334" y="837" type="line" smooth="yes" name="Z2R"/>
+      <point x="334" y="446" type="line" name="Z1R"/>
+    </contour>
+    <contour>
+      <point x="496" y="1096" type="line" name="Z4R"/>
+      <point x="364" y="1096"/>
+      <point x="334" y="997"/>
+      <point x="334" y="837" type="curve" name="Z3R"/>
+      <point x="86" y="798" type="line" name="Z3L,start"/>
+      <point x="86" y="1115"/>
+      <point x="194" y="1297"/>
+      <point x="496" y="1297" type="curve" name="Z4L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-14</integer>
+            <key>width</key>
+            <integer>201</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>485</integer>
+            <key>width</key>
+            <integer>313</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1096</integer>
+            <key>width</key>
+            <integer>201</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>86</integer>
+            <key>width</key>
+            <integer>248</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>658</integer>
+            <key>width</key>
+            <integer>248</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>o</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>992</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
