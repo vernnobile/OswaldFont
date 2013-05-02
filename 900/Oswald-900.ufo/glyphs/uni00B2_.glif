@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00B2" format="1">
+  <advance width="666"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="57" y="582" type="line"/>
+      <point x="602" y="582" type="line"/>
+      <point x="602" y="762" type="line"/>
+      <point x="324" y="762" type="line"/>
+      <point x="381" y="837"/>
+      <point x="376" y="783"/>
+      <point x="474" y="918" type="curve" smooth="yes"/>
+      <point x="547" y="1015"/>
+      <point x="596" y="1099"/>
+      <point x="596" y="1166" type="curve" smooth="yes"/>
+      <point x="596" y="1327"/>
+      <point x="486" y="1419"/>
+      <point x="321" y="1419" type="curve" smooth="yes"/>
+      <point x="154" y="1419"/>
+      <point x="56" y="1318"/>
+      <point x="56" y="1169" type="curve"/>
+      <point x="315" y="1169" type="line"/>
+      <point x="315" y="1164"/>
+      <point x="296" y="1239"/>
+      <point x="320" y="1239" type="curve" smooth="yes"/>
+      <point x="361" y="1239"/>
+      <point x="338" y="1166"/>
+      <point x="338" y="1167" type="curve" smooth="yes"/>
+      <point x="338" y="1128"/>
+      <point x="322" y="1081"/>
+      <point x="277" y="1011" type="curve"/>
+      <point x="153" y="812"/>
+      <point x="98" y="805"/>
+      <point x="57" y="751" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

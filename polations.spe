@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="Auto" />
+<data name="previewtext" value="HOLBURN COMEDY anton" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="0.392699081699" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Light/src/Oswald-Light.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="300" />
+</location>
+<!-- color for Light/src/Oswald-Light.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Bold/src/Oswald-Bold.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="700" />
+</location>
+<!-- color for Bold/src/Oswald-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+<master filename="100/Oswald-100.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="0" />
+</location>
+<!-- color for 100/Oswald-100.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="1.000000" />
+</master>
+<master filename="900/Oswald-900.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for 900/Oswald-900.ufo -->
+<color a="1.000000" b="0.500000" g="0.000000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+</designspace>

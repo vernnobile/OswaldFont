@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="767"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="170" y="398" type="line"/>
+      <point x="392" y="690" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="731" y="0" type="line"/>
+      <point x="438" y="738" type="line"/>
+      <point x="733" y="1153" type="line"/>
+      <point x="660" y="1153" type="line"/>
+      <point x="170" y="480" type="line"/>
+    </contour>
+    <component base="lc_ascender_stem"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
