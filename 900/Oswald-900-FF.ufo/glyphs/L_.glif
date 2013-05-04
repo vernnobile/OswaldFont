@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="909"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="290" y="0" type="line"/>
+      <point x="860" y="0" type="line"/>
+      <point x="860" y="275" type="line"/>
+      <point x="290" y="275" type="line"/>
+    </contour>
+    <component base="uc_main_stem"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

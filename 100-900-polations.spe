@@ -3,15 +3,15 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="120823_1018_beta_" superpolator="1" />
+<version format="110221_1144_developer_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="Auto" />
-<data name="previewtext" value="HAHRHA" />
+<data name="previewtext" value="SOLA" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561454657" />
+<data name="projectionAngle" value="2.68561526992" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
@@ -23,11 +23,11 @@
 <!-- color for 100/Oswald-100.ufo -->
 <color a="1.000000" b="0.500000" g="0.500000" r="1.000000" />
 </master>
-<master filename="900/Oswald-900.ufo">
+<master filename="900/Oswald-900-FF.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
-<!-- color for 900/Oswald-900.ufo -->
+<!-- color for 900/Oswald-900-FF.ufo -->
 <color a="1.000000" b="0.500000" g="0.000000" r="1.000000" />
 </master>
 
