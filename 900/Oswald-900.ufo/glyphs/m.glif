@@ -3,15 +3,37 @@
   <advance width="1654"/>
   <unicode hex="006D"/>
   <outline>
-    <component base="lc_xheight_curve_stem" xOffset="536"/>
-    <component base="lc_xheight_curve_stem"/>
-    <component base="lc_xheight_stem"/>
-    <component base="lc_xheight_curve_stem"/>
+    <component base="lc_xheight_curve_stem" xOffset="545"/>
+    <component base="lc_xheight_curve_stem" xOffset="5"/>
+    <component base="lc_xheight_stem" xOffset="1"/>
+    <component base="lc_xheight_curve_stem" xOffset="1"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1654</integer>
+        </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>

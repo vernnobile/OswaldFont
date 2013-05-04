@@ -1,41 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="1307"/>
+  <advance width="1309.01917919"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="417" y="0" type="line"/>
-      <point x="544" y="0" type="line" smooth="yes"/>
-      <point x="1140" y="0"/>
-      <point x="1235" y="197"/>
-      <point x="1235" y="679" type="curve" smooth="yes"/>
-      <point x="1235" y="1246" type="line" smooth="yes"/>
-      <point x="1235" y="1669"/>
-      <point x="1083" y="1835"/>
-      <point x="576" y="1835" type="curve" smooth="yes"/>
-      <point x="419" y="1835" type="line"/>
-      <point x="419" y="1519" type="line"/>
-      <point x="593" y="1519" type="line" smooth="yes"/>
-      <point x="743" y="1519"/>
-      <point x="759" y="1472"/>
-      <point x="759" y="1352" type="curve" smooth="yes"/>
-      <point x="759" y="406" type="line" smooth="yes"/>
-      <point x="759" y="270"/>
-      <point x="728" y="316"/>
-      <point x="591" y="314" type="curve" smooth="yes"/>
-      <point x="584" y="314"/>
-      <point x="453" y="314"/>
-      <point x="417" y="313" type="curve"/>
+      <point x="419" y="1490" type="line"/>
+      <point x="593" y="1490" type="line" smooth="yes"/>
+      <point x="743" y="1490"/>
+      <point x="759" y="1443"/>
+      <point x="759" y="1323" type="curve" smooth="yes"/>
+      <point x="759" y="483" type="line" smooth="yes"/>
+      <point x="759" y="363"/>
+      <point x="743" y="316"/>
+      <point x="593" y="316" type="curve" smooth="yes"/>
+      <point x="419" y="316" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="576" y="0" type="line" smooth="yes"/>
+      <point x="1083" y="0"/>
+      <point x="1237" y="166"/>
+      <point x="1235" y="589" type="curve" smooth="yes"/>
+      <point x="1235" y="1217" type="line" smooth="yes"/>
+      <point x="1235" y="1640"/>
+      <point x="1083" y="1806"/>
+      <point x="576" y="1806" type="curve" smooth="yes"/>
+      <point x="419" y="1806" type="line"/>
     </contour>
     <component base="uc_main_stem"/>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>316</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1519</integer>
+            <key>width</key>
+            <integer>316</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>759</integer>
+            <key>width</key>
+            <integer>476</integer>
+          </dict>
+        </array>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>D</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1309.01917919</real>
+        </dict>
       </dict>
     </dict>
   </lib>

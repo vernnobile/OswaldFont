@@ -9,15 +9,40 @@
       <point x="483" y="852" type="line"/>
       <point x="810" y="0" type="line"/>
       <point x="1123" y="0" type="line"/>
-      <point x="1123" y="1836" type="line"/>
-      <point x="745" y="1836" type="line"/>
-      <point x="745" y="1079" type="line"/>
-      <point x="416" y="1836" type="line"/>
-      <point x="90" y="1836" type="line"/>
+      <point x="1123" y="1806" type="line"/>
+      <point x="745" y="1806" type="line"/>
+      <point x="745" y="1069" type="line"/>
+      <point x="416" y="1806" type="line"/>
+      <point x="90" y="1806" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1213</integer>
+        </dict>
+      </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

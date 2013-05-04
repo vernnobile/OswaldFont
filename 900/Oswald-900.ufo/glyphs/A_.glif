@@ -5,22 +5,47 @@
   <outline>
     <contour>
       <point x="-8" y="0" type="line"/>
-      <point x="445" y="0" type="line"/>
-      <point x="507" y="357" type="line"/>
-      <point x="671" y="357" type="line"/>
-      <point x="739" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="467" y="367" type="line"/>
+      <point x="731" y="367" type="line"/>
+      <point x="769" y="0" type="line"/>
       <point x="1188" y="0" type="line"/>
-      <point x="779" y="1835" type="line"/>
-      <point x="403" y="1835" type="line"/>
+      <point x="859" y="1806" type="line"/>
+      <point x="323" y="1806" type="line"/>
     </contour>
     <contour>
-      <point x="535" y="635" type="line"/>
-      <point x="593" y="1151" type="line"/>
-      <point x="644" y="635" type="line"/>
+      <point x="505" y="625" type="line"/>
+      <point x="593" y="1341" type="line"/>
+      <point x="684" y="625" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1181</integer>
+        </dict>
+      </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
