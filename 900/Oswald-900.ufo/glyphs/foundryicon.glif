@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foundryicon" format="1">
-  <advance width="1733"/>
+  <advance width="1559"/>
   <outline>
     <contour>
-      <point x="401" y="277" type="line"/>
-      <point x="860" y="604" type="line"/>
-      <point x="1329" y="277" type="line"/>
-      <point x="1159" y="819" type="line"/>
-      <point x="1620" y="1168" type="line"/>
-      <point x="1048" y="1168" type="line"/>
-      <point x="860" y="1710" type="line"/>
-      <point x="682" y="1168" type="line"/>
-      <point x="110" y="1157" type="line"/>
-      <point x="569" y="819" type="line"/>
+      <point x="361" y="249" type="line"/>
+      <point x="774" y="544" type="line"/>
+      <point x="1196" y="249" type="line"/>
+      <point x="1043" y="737" type="line"/>
+      <point x="1458" y="1051" type="line"/>
+      <point x="943" y="1051" type="line"/>
+      <point x="774" y="1539" type="line"/>
+      <point x="614" y="1051" type="line"/>
+      <point x="99" y="1041" type="line"/>
+      <point x="512" y="737" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

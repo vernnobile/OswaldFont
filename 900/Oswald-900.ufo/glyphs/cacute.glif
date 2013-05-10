@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cacute" format="1">
-  <advance width="977"/>
+  <advance width="879"/>
   <unicode hex="0107"/>
   <outline>
-    <component base="acute" xOffset="249" yOffset="35"/>
+    <component base="acute" xOffset="224" yOffset="32"/>
     <component base="c"/>
   </outline>
   <lib>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>977</integer>
+          <integer>879</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

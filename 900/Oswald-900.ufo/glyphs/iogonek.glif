@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek" format="1">
-  <advance width="584"/>
+  <advance width="525"/>
   <unicode hex="012F"/>
   <outline>
     <component base="i"/>
-    <component base="ogonek" xOffset="110" yOffset="-5"/>
+    <component base="ogonek" xOffset="99" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>584</integer>
+          <integer>525</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

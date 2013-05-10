@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nacute" format="1">
-  <advance width="1069"/>
+  <advance width="962"/>
   <unicode hex="0144"/>
   <outline>
-    <component base="acute" xOffset="283" yOffset="34"/>
+    <component base="acute" xOffset="255" yOffset="31"/>
     <component base="n"/>
   </outline>
   <lib>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1069</integer>
+          <integer>962</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

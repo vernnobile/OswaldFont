@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
-  <advance width="706"/>
+  <advance width="635"/>
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="188" y="237" type="line"/>
-      <point x="520" y="237" type="line"/>
-      <point x="520" y="572" type="line"/>
-      <point x="188" y="572" type="line"/>
+      <point x="169" y="213" type="line"/>
+      <point x="468" y="213" type="line"/>
+      <point x="468" y="515" type="line"/>
+      <point x="169" y="515" type="line"/>
     </contour>
     <contour>
-      <point x="-7" y="586" type="line"/>
-      <point x="717" y="586" type="line"/>
-      <point x="717" y="857" type="line"/>
-      <point x="-7" y="857" type="line"/>
+      <point x="-6" y="527" type="line"/>
+      <point x="645" y="527" type="line"/>
+      <point x="645" y="771" type="line"/>
+      <point x="-6" y="771" type="line"/>
     </contour>
     <contour>
-      <point x="188" y="895" type="line"/>
-      <point x="520" y="895" type="line"/>
-      <point x="520" y="1229" type="line"/>
-      <point x="188" y="1229" type="line"/>
+      <point x="169" y="806" type="line"/>
+      <point x="468" y="806" type="line"/>
+      <point x="468" y="1106" type="line"/>
+      <point x="169" y="1106" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="1069"/>
+  <advance width="962"/>
   <unicode hex="00F1"/>
   <outline>
     <component base="n"/>
-    <component base="tilde" xOffset="43" yOffset="14"/>
+    <component base="tilde" xOffset="39" yOffset="13"/>
   </outline>
   <lib>
     <dict>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1069</integer>
+          <integer>962</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflex" format="1">
-  <advance width="1029"/>
+  <advance width="926"/>
   <unicode hex="00F4"/>
   <outline>
-    <component base="circumflex" xOffset="15" yOffset="71"/>
+    <component base="circumflex" xOffset="14" yOffset="64"/>
     <component base="o"/>
   </outline>
   <lib>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1029</integer>
+          <integer>926</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="1">
-  <advance width="1134"/>
+  <advance width="1020"/>
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="65" y="38" type="line"/>
-      <point x="539" y="576" type="line"/>
-      <point x="539" y="704" type="line"/>
-      <point x="65" y="1242" type="line"/>
-      <point x="65" y="870" type="line"/>
-      <point x="312" y="641" type="line"/>
-      <point x="65" y="410" type="line"/>
+      <point x="58" y="34" type="line"/>
+      <point x="485" y="518" type="line"/>
+      <point x="485" y="634" type="line"/>
+      <point x="58" y="1118" type="line"/>
+      <point x="58" y="783" type="line"/>
+      <point x="281" y="577" type="line"/>
+      <point x="58" y="369" type="line"/>
     </contour>
     <contour>
-      <point x="573" y="38" type="line"/>
-      <point x="1047" y="576" type="line"/>
-      <point x="1047" y="704" type="line"/>
-      <point x="573" y="1242" type="line"/>
-      <point x="573" y="870" type="line"/>
-      <point x="820" y="641" type="line"/>
-      <point x="573" y="410" type="line"/>
+      <point x="516" y="34" type="line"/>
+      <point x="942" y="518" type="line"/>
+      <point x="942" y="634" type="line"/>
+      <point x="516" y="1118" type="line"/>
+      <point x="516" y="783" type="line"/>
+      <point x="738" y="577" type="line"/>
+      <point x="516" y="369" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

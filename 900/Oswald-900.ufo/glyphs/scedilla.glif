@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="1">
-  <advance width="929"/>
+  <advance width="836"/>
   <unicode hex="015F"/>
   <outline>
+    <component base="cedilla" xOffset="146" yOffset="-7"/>
     <component base="s"/>
-    <component base="cedilla" xOffset="162" yOffset="-8"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="1057"/>
+  <advance width="951"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="comma" xOffset="1014" yOffset="1457"/>
+    <component base="comma" xOffset="913" yOffset="1311"/>
     <component base="d"/>
   </outline>
   <lib>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1057</integer>
+          <integer>951</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

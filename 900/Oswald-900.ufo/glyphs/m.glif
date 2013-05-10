@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1654"/>
+  <advance width="1485"/>
   <unicode hex="006D"/>
   <outline>
-    <component base="lc_xheight_curve_stem" xOffset="545"/>
-    <component base="lc_xheight_curve_stem" xOffset="5"/>
-    <component base="lc_xheight_stem" xOffset="1"/>
-    <component base="lc_xheight_curve_stem" xOffset="1"/>
+    <component base="lc_xheight_curve_stem" xOffset="-1"/>
+    <component base="lc_xheight_curve_stem" xOffset="488"/>
+    <component base="lc_xheight_stem" xOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -32,11 +31,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1654</integer>
+          <integer>1485</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

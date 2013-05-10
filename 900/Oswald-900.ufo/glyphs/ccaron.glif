@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="1">
-  <advance width="977"/>
+  <advance width="879"/>
   <unicode hex="010D"/>
   <outline>
-    <component base="caron" xOffset="23" yOffset="47"/>
     <component base="c"/>
+    <component base="caron" xOffset="21" yOffset="42"/>
   </outline>
   <lib>
     <dict>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>977</integer>
+          <integer>879</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

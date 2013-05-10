@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="986"/>
+  <advance width="887"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="269" y="0" type="line"/>
-      <point x="726" y="0" type="line"/>
-      <point x="726" y="1497" type="line"/>
-      <point x="950" y="1497" type="line"/>
-      <point x="950" y="1835" type="line"/>
-      <point x="36" y="1835" type="line"/>
-      <point x="36" y="1497" type="line"/>
-      <point x="269" y="1497" type="line"/>
+      <point x="855" y="1321" type="line"/>
+      <point x="855" y="1626" type="line"/>
+      <point x="32" y="1626" type="line"/>
+      <point x="32" y="1321" type="line"/>
     </contour>
+    <component base="uc_main_stem" xOffset="166"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>T</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>887</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

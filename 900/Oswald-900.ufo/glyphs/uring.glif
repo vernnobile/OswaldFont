@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="1">
-  <advance width="1056"/>
+  <advance width="950"/>
   <unicode hex="016F"/>
   <outline>
-    <component base="ring" xOffset="136" yOffset="-48"/>
+    <component base="ring" xOffset="122" yOffset="-43"/>
     <component base="u"/>
   </outline>
   <lib>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1056</integer>
+          <integer>950</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

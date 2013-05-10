@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="978"/>
+  <advance width="880"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="322" y="792" type="line"/>
-      <point x="830" y="792" type="line"/>
-      <point x="830" y="1110" type="line"/>
-      <point x="322" y="1110" type="line"/>
+      <point x="290" y="713" type="line"/>
+      <point x="747" y="713" type="line"/>
+      <point x="747" y="999" type="line"/>
+      <point x="290" y="999" type="line"/>
     </contour>
     <contour>
-      <point x="322" y="0" type="line"/>
-      <point x="940" y="0" type="line"/>
-      <point x="940" y="306" type="line"/>
-      <point x="322" y="306" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="846" y="0" type="line"/>
+      <point x="846" y="275" type="line"/>
+      <point x="290" y="275" type="line"/>
     </contour>
     <contour>
-      <point x="322" y="1499" type="line"/>
-      <point x="936" y="1499" type="line"/>
-      <point x="936" y="1806" type="line"/>
-      <point x="322" y="1806" type="line"/>
+      <point x="290" y="1350" type="line"/>
+      <point x="842" y="1350" type="line"/>
+      <point x="842" y="1626" type="line"/>
+      <point x="290" y="1626" type="line"/>
     </contour>
     <component base="uc_main_stem"/>
   </outline>
@@ -47,11 +47,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>978</integer>
+          <integer>880</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

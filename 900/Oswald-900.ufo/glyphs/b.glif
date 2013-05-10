@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1101.0"/>
+  <advance width="998"/>
   <unicode hex="0062"/>
   <outline>
-    <component base="lc_ascender_stem" xOffset="1.0"/>
-    <component base="lc_right_curve" xOffset="13.0"/>
+    <component base="lc_ascender_stem" xOffset="1"/>
+    <component base="lc_right_curve" xOffset="12"/>
   </outline>
   <lib>
     <dict>
@@ -30,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <real>1101.0</real>
+          <integer>998</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

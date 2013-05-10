@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="746"/>
+  <advance width="671"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="-4" y="-49" type="line"/>
-      <point x="219" y="-49" type="line" smooth="yes"/>
-      <point x="575" y="-49"/>
-      <point x="659" y="122"/>
-      <point x="659" y="446" type="curve"/>
-      <point x="201" y="446" type="line"/>
-      <point x="201" y="314"/>
-      <point x="143" y="266"/>
-      <point x="-4" y="269" type="curve"/>
+      <point x="-4" y="-44" type="line"/>
+      <point x="197" y="-44" type="line" smooth="yes"/>
+      <point x="517" y="-44"/>
+      <point x="593" y="109"/>
+      <point x="593" y="401" type="curve"/>
+      <point x="181" y="401" type="line"/>
+      <point x="181" y="282"/>
+      <point x="128" y="239"/>
+      <point x="-4" y="242" type="curve"/>
     </contour>
-    <component base="uc_part_stem" xOffset="111"/>
+    <component base="uc_part_stem" xOffset="100"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -43,11 +40,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>746</integer>
+          <integer>671</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1213"/>
+  <advance width="1091"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="483" y="0" type="line"/>
-      <point x="483" y="852" type="line"/>
-      <point x="810" y="0" type="line"/>
-      <point x="1123" y="0" type="line"/>
-      <point x="1123" y="1806" type="line"/>
-      <point x="745" y="1806" type="line"/>
-      <point x="745" y="1069" type="line"/>
-      <point x="416" y="1806" type="line"/>
-      <point x="90" y="1806" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="435" y="767" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="1011" y="0" type="line"/>
+      <point x="1011" y="1626" type="line"/>
+      <point x="670" y="1626" type="line"/>
+      <point x="670" y="962" type="line"/>
+      <point x="374" y="1626" type="line"/>
+      <point x="81" y="1626" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,11 +40,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1213</integer>
+          <integer>1091</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1123"/>
+  <advance width="1008"/>
   <unicode hex="006E"/>
   <outline>
-    <component base="lc_xheight_stem" xOffset="1"/>
-    <component base="lc_xheight_curve_stem" xOffset="14"/>
+    <component base="lc_xheight_curve_stem" xOffset="11"/>
+    <component base="lc_xheight_stem" xOffset="-1"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -33,11 +30,8 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1123</integer>
+          <integer>1008</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

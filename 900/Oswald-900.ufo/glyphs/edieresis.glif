@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="1">
-  <advance width="989"/>
+  <advance width="890"/>
   <unicode hex="00EB"/>
   <outline>
-    <component base="dieresis" xOffset="-34" yOffset="-80"/>
+    <component base="dieresis" xOffset="-31" yOffset="-72"/>
     <component base="e"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>edieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>890</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

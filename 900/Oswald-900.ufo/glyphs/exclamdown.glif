@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="1">
-  <advance width="564"/>
+  <advance width="507"/>
   <unicode hex="00A1"/>
   <outline>
     <contour>
-      <point x="79" y="-563" type="line"/>
-      <point x="488" y="-563" type="line"/>
-      <point x="373" y="777" type="line"/>
-      <point x="230" y="777" type="line"/>
+      <point x="71" y="-507" type="line"/>
+      <point x="439" y="-507" type="line"/>
+      <point x="336" y="699" type="line"/>
+      <point x="207" y="699" type="line"/>
     </contour>
     <contour>
-      <point x="113" y="894" type="line"/>
-      <point x="497" y="894" type="line"/>
-      <point x="497" y="1273" type="line"/>
-      <point x="113" y="1273" type="line"/>
+      <point x="102" y="805" type="line"/>
+      <point x="447" y="805" type="line"/>
+      <point x="447" y="1146" type="line"/>
+      <point x="102" y="1146" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1282.0"/>
+  <advance width="1153"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="327.0" y="788.0" type="line"/>
-      <point x="963.0" y="788.0" type="line"/>
-      <point x="963.0" y="1115.0" type="line"/>
-      <point x="327.0" y="1115.0" type="line"/>
+      <point x="294" y="709" type="line"/>
+      <point x="867" y="709" type="line"/>
+      <point x="867" y="1004" type="line"/>
+      <point x="294" y="1004" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="644"/>
     <component base="uc_main_stem"/>
+    <component base="uc_main_stem" xOffset="580"/>
   </outline>
   <lib>
     <dict>
@@ -36,11 +36,8 @@
           <array>
           </array>
           <key>width</key>
-          <real>1282.0</real>
+          <integer>1153</integer>
         </dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
       </dict>
     </dict>
   </lib>
