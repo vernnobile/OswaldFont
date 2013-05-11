@@ -3,34 +3,76 @@
   <advance width="1022"/>
   <outline>
     <contour>
-      <point x="609" y="-18" type="curve" smooth="yes"/>
-      <point x="703" y="-18"/>
-      <point x="814" y="8"/>
-      <point x="938" y="210" type="curve"/>
-      <point x="938" y="336" type="line"/>
-      <point x="874" y="275"/>
-      <point x="828" y="250"/>
-      <point x="796" y="250" type="curve" smooth="yes"/>
-      <point x="761" y="250"/>
+      <point x="616" y="-18" type="curve" smooth="yes"/>
+      <point x="771" y="-18"/>
+      <point x="930" y="73"/>
+      <point x="1054" y="275" type="curve"/>
+      <point x="1054" y="422" type="line"/>
+      <point x="990" y="361"/>
+      <point x="862" y="245"/>
+      <point x="800" y="245" type="curve" smooth="yes"/>
+      <point x="758" y="245"/>
       <point x="737" y="281"/>
       <point x="737" y="322" type="curve" smooth="yes"/>
       <point x="737" y="900" type="line" smooth="yes"/>
       <point x="737" y="954"/>
-      <point x="761" y="981"/>
-      <point x="796" y="981" type="curve" smooth="yes"/>
-      <point x="828" y="981"/>
-      <point x="874" y="957"/>
-      <point x="938" y="896" type="curve"/>
-      <point x="938" y="1043" type="line"/>
-      <point x="825" y="1210"/>
-      <point x="722" y="1244"/>
+      <point x="756" y="990"/>
+      <point x="804" y="990" type="curve" smooth="yes"/>
+      <point x="883" y="990"/>
+      <point x="990" y="875"/>
+      <point x="1054" y="814" type="curve"/>
+      <point x="1054" y="927" type="line"/>
+      <point x="950" y="1101"/>
+      <point x="780" y="1244"/>
       <point x="618" y="1244" type="curve" smooth="yes"/>
-      <point x="473" y="1244"/>
+      <point x="456" y="1244"/>
       <point x="363" y="1120"/>
       <point x="363" y="919" type="curve" smooth="yes"/>
       <point x="363" y="307" type="line" smooth="yes"/>
-      <point x="363" y="106"/>
-      <point x="464" y="-18"/>
+      <point x="363" y="101"/>
+      <point x="449" y="-18"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>lc_right_curve</string>
+              <key>transformation</key>
+              <array>
+                <real>-1.0</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>-1.0</real>
+                <integer>1319</integer>
+                <integer>1226</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lc_left_curve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1022</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

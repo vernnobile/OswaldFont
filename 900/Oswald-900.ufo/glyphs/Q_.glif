@@ -3,8 +3,6 @@
   <advance width="1151"/>
   <unicode hex="0051"/>
   <outline>
-    <component base="O"/>
-    <component base="O"/>
     <contour>
       <point x="1012" y="-282" type="curve"/>
       <point x="1012" y="-94" type="line"/>
@@ -15,5 +13,36 @@
       <point x="696" y="-121"/>
       <point x="907" y="-242"/>
     </contour>
+    <component base="O"/>
+    <component base="O"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1151</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

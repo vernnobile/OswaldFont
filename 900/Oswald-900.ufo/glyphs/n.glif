@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1008"/>
+  <advance width="1039"/>
   <unicode hex="006E"/>
   <outline>
     <component base="lc_xheight_curve_stem" xOffset="11"/>
@@ -8,6 +8,9 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -30,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1008</integer>
+          <integer>1039</integer>
         </dict>
       </dict>
     </dict>

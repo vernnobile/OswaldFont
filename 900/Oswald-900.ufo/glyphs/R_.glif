@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="1220"/>
+  <advance width="1227"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="299" y="701" type="line"/>
-      <point x="593" y="701" type="line"/>
-      <point x="794" y="0" type="line"/>
-      <point x="1195" y="0" type="line"/>
-      <point x="959" y="761" type="line"/>
-      <point x="1128" y="849"/>
-      <point x="1177" y="980"/>
-      <point x="1177" y="1187" type="curve" smooth="yes"/>
-      <point x="1177" y="1546"/>
-      <point x="949" y="1626"/>
-      <point x="616" y="1626" type="curve" smooth="yes"/>
-      <point x="299" y="1626" type="line"/>
-      <point x="299" y="1329" type="line"/>
-      <point x="618" y="1329" type="line" smooth="yes"/>
-      <point x="733" y="1329"/>
-      <point x="790" y="1286"/>
-      <point x="790" y="1160" type="curve" smooth="yes"/>
-      <point x="790" y="1038"/>
-      <point x="749" y="981"/>
-      <point x="608" y="981" type="curve" smooth="yes"/>
-      <point x="299" y="981" type="line"/>
+      <point x="294.0" y="701.0" type="line"/>
+      <point x="568.0" y="701.0" type="line"/>
+      <point x="789.0" y="0.0" type="line"/>
+      <point x="1213.0" y="0.0" type="line"/>
+      <point x="940.0" y="763.0" type="line"/>
+      <point x="1109.0" y="851.0"/>
+      <point x="1172.0" y="980.0"/>
+      <point x="1172.0" y="1187.0" type="curve" smooth="yes"/>
+      <point x="1172.0" y="1546.0"/>
+      <point x="944.0" y="1626.0"/>
+      <point x="611.0" y="1626.0" type="curve" smooth="yes"/>
+      <point x="294.0" y="1626.0" type="line"/>
+      <point x="294.0" y="1329.0" type="line"/>
+      <point x="621" y="1329" type="line" smooth="yes"/>
+      <point x="736" y="1329"/>
+      <point x="785" y="1281"/>
+      <point x="785" y="1155" type="curve" smooth="yes"/>
+      <point x="785" y="1033"/>
+      <point x="752" y="976"/>
+      <point x="611" y="976" type="curve" smooth="yes"/>
+      <point x="294" y="976" type="line"/>
     </contour>
-    <component base="uc_main_stem"/>
+    <component base="uc_main_stem" xOffset="7"/>
   </outline>
   <lib>
     <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1220</integer>
+          <integer>1227</integer>
         </dict>
       </dict>
     </dict>
