@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="1">
-  <advance width="815"/>
+  <advance width="744"/>
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="219" y="0" type="line"/>
-      <point x="815" y="0" type="line"/>
-      <point x="815" y="68" type="line"/>
-      <point x="282" y="68" type="line"/>
-      <point x="282" y="871" type="line"/>
-      <point x="530" y="966" type="line"/>
-      <point x="530" y="1052" type="line"/>
-      <point x="282" y="957" type="line"/>
-      <point x="282" y="1688" type="line"/>
-      <point x="219" y="1688" type="line"/>
-      <point x="219" y="934" type="line"/>
-      <point x="55" y="871" type="line"/>
-      <point x="55" y="785" type="line"/>
-      <point x="219" y="847" type="line"/>
+      <point x="489" y="1026" type="line"/>
+      <point x="489" y="1082" type="line"/>
+      <point x="14" y="841" type="line"/>
+      <point x="14" y="785" type="line"/>
     </contour>
+    <component base="L"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

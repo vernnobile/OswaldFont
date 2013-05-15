@@ -4,19 +4,20 @@
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="34" y="891" type="curve"/>
+      <point x="34" y="891" type="line"/>
       <point x="163" y="891" type="line"/>
-      <point x="331" y="1483" type="line"/>
+      <point x="331" y="1329" type="line"/>
       <point x="500" y="891" type="line"/>
       <point x="627" y="891" type="line"/>
-      <point x="420" y="1407" type="line"/>
-      <point x="242" y="1407" type="line"/>
-      <point x="242" y="1407"/>
-      <point x="130" y="1133"/>
+      <point x="400" y="1407" type="line"/>
+      <point x="262" y="1407" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

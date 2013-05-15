@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1428"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="315" y="709" type="line"/>
+      <point x="1120" y="709" type="line"/>
+      <point x="1120" y="1004" type="line"/>
+      <point x="315" y="1004" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="833"/>
+    <component base="uc_main_stem" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>88</integer>
+            <key>width</key>
+            <integer>412</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>668</integer>
+            <key>width</key>
+            <integer>412</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

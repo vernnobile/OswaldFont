@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="529"/>
+  <advance width="532"/>
   <unicode hex="006C"/>
   <outline>
-    <contour>
-      <point x="76" y="0" type="line"/>
-      <point x="453" y="0" type="line"/>
-      <point x="453" y="1652" type="line"/>
-      <point x="76" y="1652" type="line"/>
-    </contour>
+    <component base="lc_ascender_stem" xOffset="5"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>529</integer>
+          <integer>532</integer>
         </dict>
       </dict>
     </dict>

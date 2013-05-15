@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="765"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="168" y="398" type="line"/>
+      <point x="390" y="690" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="436" y="738" type="line"/>
+      <point x="731" y="1153" type="line"/>
+      <point x="658" y="1153" type="line"/>
+      <point x="168" y="480" type="line"/>
+    </contour>
+    <component base="lc_ascender_stem" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>765</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

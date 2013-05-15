@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="1051"/>
+  <advance width="1185"/>
   <unicode hex="00D0"/>
   <outline>
     <contour>
-      <point x="392" y="282" type="line"/>
-      <point x="536" y="284"/>
-      <point x="576" y="235"/>
-      <point x="576" y="365" type="curve" smooth="yes"/>
-      <point x="576" y="1318" type="line" smooth="yes"/>
-      <point x="576" y="1404"/>
-      <point x="499" y="1366"/>
-      <point x="386" y="1368" type="curve"/>
-      <point x="464" y="1368" type="line"/>
-      <point x="464" y="946" type="line"/>
-      <point x="546" y="946" type="line"/>
-      <point x="546" y="746" type="line"/>
-      <point x="464" y="746" type="line"/>
-      <point x="464" y="282" type="line"/>
+      <point x="10" y="746" type="line"/>
+      <point x="581" y="746" type="line"/>
+      <point x="581" y="946" type="line"/>
+      <point x="10" y="946" type="line"/>
     </contour>
-    <contour>
-      <point x="53" y="0" type="line"/>
-      <point x="382" y="0" type="line" smooth="yes"/>
-      <point x="918" y="0"/>
-      <point x="987" y="177"/>
-      <point x="987" y="611" type="curve" smooth="yes"/>
-      <point x="987" y="1099" type="line" smooth="yes"/>
-      <point x="987" y="1516"/>
-      <point x="879" y="1652"/>
-      <point x="387" y="1652" type="curve" smooth="yes"/>
-      <point x="53" y="1652" type="line"/>
-      <point x="53" y="946" type="line"/>
-      <point x="-11" y="946" type="line"/>
-      <point x="-11" y="746" type="line"/>
-      <point x="53" y="746" type="line"/>
-    </contour>
+    <component base="D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1185</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

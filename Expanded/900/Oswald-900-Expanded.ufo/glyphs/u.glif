@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="1169"/>
+  <unicode hex="0075"/>
+  <outline>
+    <component base="lc_xheight_curve_stem" xScale="-1" yScale="-1" xOffset="1046" yOffset="1217"/>
+    <component base="lc_xheight_stem" xScale="-1" yScale="-1" xOffset="1146" yOffset="1217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>583</integer>
+            <key>width</key>
+            <integer>372</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

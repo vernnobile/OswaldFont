@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="825"/>
+  <unicode hex="0046"/>
+  <outline>
+    <component base="uc_main_stem" xOffset="7"/>
+    <contour>
+      <point x="304" y="1350" type="line"/>
+      <point x="821" y="1350" type="line"/>
+      <point x="821" y="1626" type="line"/>
+      <point x="304" y="1626" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="713" type="line"/>
+      <point x="774" y="713" type="line"/>
+      <point x="774" y="999" type="line"/>
+      <point x="311" y="999" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>88</integer>
+	    <key>width</key>
+	    <integer>412</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
