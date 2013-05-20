@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10026" format="1">
-  <advance width="930"/>
+  <advance width="1045"/>
   <unicode hex="0418"/>
   <outline>
     <contour>
-      <point x="84" y="0" type="line"/>
-      <point x="84" y="1721" type="line"/>
-      <point x="215" y="1721" type="line"/>
-      <point x="215" y="387" type="line"/>
-      <point x="761" y="1721" type="line"/>
-      <point x="875" y="1721" type="line"/>
-      <point x="875" y="0" type="line"/>
-      <point x="746" y="0" type="line"/>
-      <point x="746" y="1363" type="line"/>
-      <point x="201" y="0" type="line"/>
+      <point x="883" y="0" type="line"/>
+      <point x="823" y="0" type="line"/>
+      <point x="823" y="1542" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="1688" type="line"/>
+      <point x="222" y="1688" type="line"/>
+      <point x="222" y="137" type="line"/>
+      <point x="821" y="1688" type="line"/>
+      <point x="883" y="1688" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,27 +23,23 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1702</integer>
-	    <key>width</key>	    <integer>19</integer>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>84</integer>
+	    <integer>823</integer>
 	    <key>width</key>
-	    <integer>131</integer>
+	    <integer>60</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>746</integer>
+	    <integer>162</integer>
 	    <key>width</key>
-	    <integer>129</integer>
+	    <integer>60</integer>
 	  </dict>
 	</array>
       </dict>

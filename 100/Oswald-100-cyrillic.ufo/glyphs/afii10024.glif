@@ -4,26 +4,26 @@
   <unicode hex="0416"/>
   <outline>
     <contour>
-      <point x="702" y="797" type="line"/>
-      <point x="202" y="1688" type="line"/>
-      <point x="136" y="1688" type="line"/>
-      <point x="516" y="1009" type="line"/>
-      <point x="97" y="0" type="line"/>
-      <point x="166" y="0" type="line"/>
-      <point x="554" y="955" type="line"/>
-      <point x="702" y="693" type="line"/>
+      <point x="776" y="715" type="line"/>
+      <point x="894" y="924" type="line"/>
+      <point x="1282" y="0" type="line"/>
+      <point x="1351" y="0" type="line"/>
+      <point x="932" y="978" type="line"/>
+      <point x="1312" y="1688" type="line"/>
+      <point x="1246" y="1688" type="line"/>
+      <point x="776" y="819" type="line"/>
     </contour>
     <contour>
-      <point x="702" y="796" type="line"/>
-      <point x="702" y="694" type="line"/>
-      <point x="870" y="909" type="line"/>
-      <point x="1238" y="0" type="line"/>
-      <point x="1399" y="0" type="line"/>
-      <point x="962" y="1011" type="line"/>
-      <point x="1318" y="1688" type="line"/>
-      <point x="1161" y="1688" type="line"/>
+      <point x="776" y="715" type="line"/>
+      <point x="776" y="819" type="line"/>
+      <point x="306" y="1688" type="line"/>
+      <point x="240" y="1688" type="line"/>
+      <point x="620" y="978" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="658" y="924" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="510"/>
+    <component base="uc_main_stem" xOffset="582"/>
   </outline>
   <lib>
     <dict>
@@ -33,30 +33,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-3</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>20</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1702</integer>
-            <key>width</key>
-            <integer>19</integer>
+            <integer>1688</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>702</integer>
+            <integer>672</integer>
             <key>width</key>
-            <integer>156</integer>
+            <integer>64</integer>
           </dict>
         </array>
       </dict>
