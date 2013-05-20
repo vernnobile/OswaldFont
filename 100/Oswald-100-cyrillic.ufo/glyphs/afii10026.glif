@@ -5,43 +5,45 @@
   <outline>
     <contour>
       <point x="883" y="0" type="line"/>
-      <point x="823" y="0" type="line"/>
-      <point x="823" y="1542" type="line"/>
-      <point x="225" y="0" type="line"/>
-      <point x="162" y="0" type="line"/>
-      <point x="162" y="1688" type="line"/>
-      <point x="222" y="1688" type="line"/>
-      <point x="222" y="137" type="line"/>
-      <point x="821" y="1688" type="line"/>
       <point x="883" y="1688" type="line"/>
+      <point x="821" y="1688" type="line"/>
+      <point x="222" y="137" type="line"/>
+      <point x="222" y="1688" type="line"/>
+      <point x="162" y="1688" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="823" y="1542" type="line"/>
+      <point x="823" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>823</integer>
-	    <key>width</key>
-	    <integer>60</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>162</integer>
-	    <key>width</key>
-	    <integer>60</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>823</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>162</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

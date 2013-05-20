@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10091" format="1">
-  <advance width="1263"/>
+  <advance width="1251"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
-      <point x="185.0" y="0.0" type="line"/>
-      <point x="1175.0" y="0.0" type="line"/>
-      <point x="1186.0" y="-201.0" type="line"/>
-      <point x="1238.0" y="-201.0" type="line"/>
-      <point x="1238.0" y="50.0" type="line"/>
-      <point x="185.0" y="50.0" type="line"/>
+      <point x="170.0" y="0.0" type="line"/>
+      <point x="1152" y="0" type="line"/>
+      <point x="1152" y="-201" type="line"/>
+      <point x="1211" y="-201" type="line"/>
+      <point x="1211" y="44" type="line"/>
+      <point x="170" y="44" type="line"/>
     </contour>
-    <component base="lc_xheight_stem" xOffset="951"/>
-    <component base="lc_xheight_stem" xOffset="484"/>
-    <component base="lc_xheight_stem" xOffset="16"/>
+    <component base="lc_xheight_stem" xOffset="936"/>
+    <component base="lc_xheight_stem" xOffset="469"/>
+    <component base="lc_xheight_stem" xOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -74,7 +74,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <real>-1.0</real>
-                <integer>1302</integer>
+                <integer>1287</integer>
                 <integer>1152</integer>
               </array>
             </dict>
@@ -91,7 +91,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1263</integer>
+          <integer>1251</integer>
         </dict>
       </dict>
     </dict>

@@ -3,7 +3,6 @@
   <advance width="513"/>
   <unicode hex="004A"/>
   <outline>
-    <component base="uc_part_stem" xOffset="125"/>
     <contour>
       <point x="17" y="-20" type="line"/>
       <point x="54" y="-20" type="line" smooth="yes"/>
@@ -15,5 +14,6 @@
       <point x="278" y="37"/>
       <point x="17" y="36" type="curve"/>
     </contour>
+    <component base="uc_part_stem" xOffset="125"/>
   </outline>
 </glyph>

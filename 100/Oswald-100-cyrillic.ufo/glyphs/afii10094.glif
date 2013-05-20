@@ -3,27 +3,8 @@
   <advance width="809"/>
   <unicode hex="044C"/>
   <outline>
-    <contour>
-      <point x="186" y="703" type="line"/>
-      <point x="186" y="647" type="line"/>
-      <point x="389" y="647" type="line" smooth="yes"/>
-      <point x="548" y="647"/>
-      <point x="684" y="586"/>
-      <point x="684" y="347" type="curve" smooth="yes"/>
-      <point x="684" y="132"/>
-      <point x="558" y="54"/>
-      <point x="389" y="54" type="curve" smooth="yes"/>
-      <point x="186" y="54" type="line"/>
-      <point x="186" y="0" type="line"/>
-      <point x="373" y="0" type="line" smooth="yes"/>
-      <point x="693" y="0"/>
-      <point x="750" y="214"/>
-      <point x="750" y="346" type="curve" smooth="yes"/>
-      <point x="750" y="457"/>
-      <point x="714" y="703"/>
-      <point x="384" y="703" type="curve" smooth="yes"/>
-    </contour>
     <component base="lc_xheight_stem" xOffset="17"/>
+    <component base="cyrillic_lc_right_bowl"/>
   </outline>
   <lib>
     <dict>

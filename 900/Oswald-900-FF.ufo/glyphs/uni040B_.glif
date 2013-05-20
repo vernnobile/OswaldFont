@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040B" format="1">
-  <advance width="370"/>
+  <advance width="1237"/>
   <unicode hex="040B"/>
+  <outline>
+    <component base="T"/>
+    <component base="lc_xheight_curve_stem" xOffset="209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni040B</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1237</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

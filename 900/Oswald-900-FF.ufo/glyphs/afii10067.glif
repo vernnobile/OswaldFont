@@ -3,7 +3,6 @@
   <advance width="1069"/>
   <unicode hex="0432"/>
   <outline>
-    <component base="lc_xheight_stem" xOffset="-1"/>
     <contour>
       <point x="271" y="767" type="line"/>
       <point x="271" y="560" type="line"/>
@@ -39,47 +38,54 @@
       <point x="601" y="767"/>
       <point x="522" y="767" type="curve" smooth="yes"/>
     </contour>
+    <component base="lc_xheight_stem" xOffset="-1"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>2</integer>
-	    <key>width</key>	    <integer>101</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>588</integer>
-	    <key>width</key>	    <integer>108</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1098</integer>
-	    <key>width</key>	    <integer>102</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>79</integer>
-	    <key>width</key>
-	    <integer>145</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>516</integer>
-	    <key>width</key>
-	    <integer>142</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>551</integer>
-	    <key>width</key>
-	    <integer>132</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>2</integer>
+            <key>width</key>
+            <integer>101</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>588</integer>
+            <key>width</key>
+            <integer>108</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1098</integer>
+            <key>width</key>
+            <integer>102</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>79</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>516</integer>
+            <key>width</key>
+            <integer>142</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>551</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

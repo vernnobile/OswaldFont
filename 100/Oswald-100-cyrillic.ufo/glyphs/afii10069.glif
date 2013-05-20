@@ -14,12 +14,6 @@
       <point x="12" y="48" type="line"/>
     </contour>
     <contour>
-      <point x="681.0" y="1152.0" type="line"/>
-      <point x="251" y="1152" type="line"/>
-      <point x="251" y="1095" type="line"/>
-      <point x="681.0" y="1095.0" type="line"/>
-    </contour>
-    <contour>
       <point x="76" y="0" type="curve"/>
       <point x="140" y="0" type="line"/>
       <point x="162" y="55"/>
@@ -30,6 +24,12 @@
       <point x="219" y="864" type="line" smooth="yes"/>
       <point x="219" y="381"/>
       <point x="96" y="60"/>
+    </contour>
+    <contour>
+      <point x="681.0" y="1152.0" type="line"/>
+      <point x="251" y="1152" type="line"/>
+      <point x="251" y="1095" type="line"/>
+      <point x="681.0" y="1095.0" type="line"/>
     </contour>
     <component base="lc_xheight_stem" xOffset="513"/>
   </outline>

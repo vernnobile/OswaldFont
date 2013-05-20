@@ -3,7 +3,6 @@
   <advance width="752"/>
   <unicode hex="0072"/>
   <outline>
-    <component base="lc_xheight_stem" xOffset="1"/>
     <contour>
       <point x="261" y="191" type="line"/>
       <point x="351.086" y="628.839"/>
@@ -20,5 +19,6 @@
       <point x="327" y="705"/>
       <point x="261" y="277" type="curve"/>
     </contour>
+    <component base="lc_xheight_stem" xOffset="1"/>
   </outline>
 </glyph>

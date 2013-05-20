@@ -3,13 +3,13 @@
   <advance width="1093"/>
   <unicode hex="0048"/>
   <outline>
-    <component base="uc_main_stem"/>
-    <component base="uc_main_stem" xOffset="705"/>
     <contour>
       <point x="196" y="846" type="line"/>
       <point x="897" y="846" type="line"/>
       <point x="897" y="898" type="line"/>
       <point x="196" y="898" type="line"/>
     </contour>
+    <component base="uc_main_stem"/>
+    <component base="uc_main_stem" xOffset="705"/>
   </outline>
 </glyph>
