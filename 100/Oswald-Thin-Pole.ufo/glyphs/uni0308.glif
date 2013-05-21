@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ucircumflex" format="1">
-  <advance width="844"/>
-  <unicode hex="00FB"/>
+<glyph name="uni0308" format="1">
+  <advance width="739"/>
   <outline>
-    <component base="circumflex" xOffset="82" yOffset="-46"/>
-    <component base="u"/>
+    <component base="dieresis"/>
   </outline>
   <lib>
     <dict>

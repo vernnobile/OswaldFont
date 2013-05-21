@@ -5,11 +5,13 @@
   <outline>
     <component base="uc_main_stem" xOffset="7"/>
     <component base="uc_main_stem" xOffset="595"/>
-    <contour>
-      <point x="308" y="0" type="line"/>
-      <point x="881" y="0" type="line"/>
-      <point x="881" y="295" type="line"/>
-      <point x="308" y="295" type="line"/>
-    </contour>
+    <component base="uc_horiz_bar" xScale="0.767504775361" xOffset="239"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
