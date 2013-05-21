@@ -52,7 +52,7 @@
       <point x="1991" y="368" type="line"/>
       <point x="1855" y="368" type="line"/>
       <point x="1855" y="1194" type="line"/>
-      <point x="1639" y="1194" type="line"/>
+      <point x="1709" y="1194" type="line"/>
       <point x="1359" y="362" type="line"/>
       <point x="1359" y="289" type="line"/>
       <point x="1755" y="289" type="line"/>
@@ -65,8 +65,37 @@
     </contour>
     <contour>
       <point x="1468" y="368" type="line"/>
+      <point x="1754" y="1034" type="line"/>
       <point x="1755" y="368" type="line"/>
-      <point x="1754" y="1197" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threequarters</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1888</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

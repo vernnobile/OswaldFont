@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10089" format="1">
+  <advance width="714"/>
+  <unicode hex="0447"/>
+  <outline>
+    <contour>
+      <point x="78" y="743" type="line" smooth="yes"/>
+      <point x="78" y="585"/>
+      <point x="193" y="491"/>
+      <point x="337" y="491" type="curve" smooth="yes"/>
+      <point x="411" y="491"/>
+      <point x="492" y="516"/>
+      <point x="569" y="569" type="curve"/>
+      <point x="569" y="631" type="line"/>
+      <point x="496" y="570"/>
+      <point x="414" y="541"/>
+      <point x="343" y="541" type="curve" smooth="yes"/>
+      <point x="231" y="541"/>
+      <point x="142" y="611"/>
+      <point x="142" y="740" type="curve" smooth="yes"/>
+      <point x="142" y="1152" type="line"/>
+      <point x="78" y="1152" type="line"/>
+    </contour>
+    <component base="lc_xheight_stem" xOffset="403"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>b</key>
+      <dict>
+      </dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10089</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>714</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>hhints</key>
+      <dict>
+      </dict>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>afii10089</string>
+      <key>position</key>
+      <integer>590</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>vhints</key>
+      <dict>
+      </dict>
+      <key>width</key>
+      <integer>714</integer>
+    </dict>
+  </lib>
+</glyph>
