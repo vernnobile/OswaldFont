@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045A" format="1">
+  <advance width="1428"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="755" y="725" type="line"/>
+      <point x="326" y="725" type="line"/>
+      <point x="294" y="495" type="line"/>
+      <point x="723" y="495" type="line"/>
+    </contour>
+    <component base="cyrillic_lc_right_bowl" xOffset="500" yOffset="2"/>
+    <component base="lc_xheight_stem" xOffset="-1"/>
+    <component base="lc_xheight_stem" xOffset="517" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni045A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1428</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
