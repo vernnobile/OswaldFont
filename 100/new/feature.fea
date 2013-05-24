@@ -199,11 +199,22 @@ feature kern {
 	\Ucircumflex \Udieresis \Ugrave \Uhungarumlaut \Umacron \Uogonek \Uring \Utilde 
 	\V \W \Wacute \Wcircumflex \Wdieresis \Wgrave \X \Y \Yacute \Ycircumflex 
 	\Ydieresis \Ygrave \Z \Zacute \Zcaron \Zdotaccent \a \aacute \abreve \acircumflex 
-	\acute \adieresis \ae \agrave \amacron \ampersand \aogonek \aring \asciicircum 
-	\asciitilde \asterisk \at \atilde \b \backslash \bar \braceleft \braceright 
-	\bracketleft \bracketright \breve \brokenbar \bullet \c \cacute \caron \ccaron 
-	\ccedilla \ccircumflex \cdotaccent \cedilla \cent \circumflex \colon \comma 
-	\copyright \currency \d \dagger \daggerdbl \dcaron \dcroat \degree \dieresis 
+	\acute \adieresis \ae \afii10017 \afii10018 \afii10019 \afii10020 \afii10021 
+	\afii10022 \afii10023 \afii10024 \afii10025 \afii10026 \afii10027 \afii10028 
+	\afii10029 \afii10030 \afii10031 \afii10032 \afii10033 \afii10034 \afii10035 
+	\afii10036 \afii10037 \afii10038 \afii10039 \afii10040 \afii10041 \afii10042 
+	\afii10043 \afii10044 \afii10045 \afii10046 \afii10047 \afii10048 \afii10049 
+	\afii10053 \afii10055 \afii10056 \afii10065 \afii10066 \afii10067 \afii10068 
+	\afii10069 \afii10070 \afii10071 \afii10072 \afii10073 \afii10074 \afii10075 
+	\afii10076 \afii10077 \afii10078 \afii10079 \afii10080 \afii10081 \afii10082 
+	\afii10083 \afii10084 \afii10085 \afii10086 \afii10087 \afii10088 \afii10089 
+	\afii10090 \afii10091 \afii10092 \afii10093 \afii10094 \afii10095 \afii10096 
+	\afii10097 \afii10101 \afii10103 \afii10104 \agrave \amacron \ampersand 
+	\aogonek \aring \asciicircum \asciitilde \asterisk \at \atilde \b \backslash \bar 
+	\braceleft \braceright \bracketleft \bracketright \breve \brokenbar \bullet \c 
+	\cacute \caron \ccaron \ccedilla \ccircumflex \cdotaccent \cedilla \cent 
+	\circumflex \colon \comma \copyright \currency \cyrillic_lc_right_bowl 
+	\cyrillic_uc_right_bowl \d \dagger \daggerdbl \dcaron \dcroat \degree \dieresis 
 	\divide \dollar \dotaccent \dotlessi \e \eacute \ecaron \ecircumflex \edieresis 
 	\edotaccent \egrave \eight \emacron \emdash \endash \eogonek \equal \eth \exclam 
 	\exclamdown \f \five \foundryicon \four \fraction \g \gbreve \gcircumflex 
@@ -217,35 +228,27 @@ feature kern {
 	\numbersign \o \oacute \obreve \ocircumflex \odieresis \oe \ogonek \ograve 
 	\ohungarumlaut \omacron \one \onequarter \ordmasculine \oslash \otilde \p 
 	\paragraph \parenleft \parenright \percent \period \periodcentered \plus 
-	\plusminus \product \q \question \quotedbl \quotedblbase \quotedblleft 
-	\quotedblright \quoteleft \quoteright \quotesinglbase \quotesingle \r \racute 
-	\rcaron \rcommaaccent \registered \ring \s \sacute \scaron \scedilla 
-	\scircumflex \scommaaccent \section \semicolon \seven \six \slash \space 
-	\sterling \t \tcaron \tcommaaccent \thorn \three \threequarters \tilde 
-	\trademark \tt \two \u \uacute \ubreve \uc_main_stem \uc_part_stem \ucircumflex 
-	\udieresis \ugrave \uhungarumlaut \umacron \underscore \uni00A0 \uni00AD 
-	\uni00B2 \uni00B3 \uni00B9 \uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 \uni01C9 
-	\uni01CA \uni01CB \uni01CC \uni01F1 \uni01F2 \uni01F3 \uni01F4 \uni01F5 \uni0200 
-	\uni0201 \uni0202 \uni0203 \uni0204 \uni0205 \uni0206 \uni0207 \uni0208 \uni0209 
-	\uni020A \uni020B \uni020C \uni020D \uni020E \uni020F \uni0210 \uni0211 \uni0212 
-	\uni0213 \uni0214 \uni0215 \uni0216 \uni0217 \uni021A \uni021B \uni0237 \uni030F 
-	\uni0311 \uni0326 \uni1E02 \uni1E03 \uni1E0A \uni1E0B \uni1E1E \uni1E1F \uni1E40 
-	\uni1E41 \uni1E56 \uni1E57 \uni1E60 \uni1E61 \uni1E6A \uni1E6B \uni2074 \uniFB00 
-	\uniFB01 \uniFB02 \uniFB03 \uniFB04 \uogonek \uring \utilde \v \w \wacute 
+	\plusminus \product \q \question \questiondown \quotedbl \quotedblbase 
+	\quotedblleft \quotedblright \quoteleft \quoteright \quotesinglbase 
+	\quotesingle \r \racute \rcaron \rcommaaccent \registered \ring \s \sacute 
+	\scaron \scedilla \scircumflex \scommaaccent \section \semicolon \seven \six 
+	\slash \space \sterling \t \tcaron \tcommaaccent \thorn \three \threequarters 
+	\tilde \trademark \tt \two \u \uacute \ubreve \uc_main_stem \uc_part_stem 
+	\ucircumflex \udieresis \ugrave \uhungarumlaut \umacron \underscore \uni00A0 
+	\uni00AD \uni00B2 \uni00B3 \uni00B9 \uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 
+	\uni01C9 \uni01CA \uni01CB \uni01CC \uni01F1 \uni01F2 \uni01F3 \uni01F4 \uni01F5 
+	\uni0200 \uni0201 \uni0202 \uni0203 \uni0204 \uni0205 \uni0206 \uni0207 \uni0208 
+	\uni0209 \uni020A \uni020B \uni020C \uni020D \uni020E \uni020F \uni0210 \uni0211 
+	\uni0212 \uni0213 \uni0214 \uni0215 \uni0216 \uni0217 \uni021A \uni021B \uni0237 
+	\uni030F \uni0311 \uni0326 \uni1E02 \uni1E03 \uni1E0A \uni1E0B \uni1E1E \uni1E1F 
+	\uni1E40 \uni1E41 \uni1E56 \uni1E57 \uni1E60 \uni1E61 \uni1E6A \uni1E6B \uni2074 
+	\uniFB00 \uniFB01 \uniFB02 \uniFB03 \uniFB04 \uogonek \uring \utilde \v \w \wacute 
 	\wcircumflex \wdieresis \wgrave \x \y \yacute \ycircumflex \ydieresis \yen 
-	\ygrave \z \zacute \zcaron \zdotaccent \zero \afii10017 \afii10018 \afii10019 
-	\afii10020 \afii10021 \afii10022 \afii10024 \afii10025 \afii10026 \afii10027 
-	\afii10028 \afii10029 \afii10030 \afii10031 \afii10032 \afii10033 \afii10034 
-	\afii10035 \afii10036 \afii10037 \afii10038 \afii10039 \afii10040 \afii10041 
-	\afii10042 \afii10043 \afii10044 \afii10045 \afii10046 \afii10047 \afii10048 
-	\afii10049 \afii10065 \afii10066 \afii10067 \afii10068 \afii10069 \afii10070 
-	\afii10072 \afii10073 \afii10074 \afii10075 \afii10076 \afii10077 \afii10078 
-	\afii10079 \afii10080 \afii10081 \afii10082 \afii10083 \afii10084 \afii10085 
-	\afii10086 \afii10087 \afii10088 \afii10089 \afii10090 \afii10091 \afii10092 
-	\afii10093 \afii10094 \afii10095 \afii10096 \afii10097 \NameMe.240 \afii10071 
-	\afii10101 \NameMe.245 \afii10103 \afii10104 \afii10023 
-	\uni0402 \uni0403 \afii10053 \uni0405 \afii10055 \afii10056 \uni0408 \uni0409 
-	\uni040A \uni040B \uni040C \uni040E \uni040F ];
+	\ygrave \z \zacute \zcaron \zdotaccent \zero \afii10052 \afii10061 \afii10062 
+	\afii61352 \afii10100 \afii10102 \afii10105 \afii10109 \afii10110 \Dcroat 
+	\Hcircumflex \afii10054 \afii10057 \uni0409 \uni040A \uni040B \uni040F \uni0452 
+	\uni0459 \uni045A \uni045B \uni045F \Eng \Tbar \afii10051 \eng \uni0123 \tbar 
+	\gravecomb \uni0304 \onehalf \ordfeminine \uni0306 \uni0307 \uni030C ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

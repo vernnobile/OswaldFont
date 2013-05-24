@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
 	<array>
-		<real>1.0</real>
+		<real>1</real>
 		<real>0.75</real>
-		<real>0.0</real>
+		<real>0</real>
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
@@ -26,7 +26,7 @@
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
-		<real>0.0</real>
+		<real>0</real>
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
@@ -539,7 +539,6 @@
 				<string>lc_xheight_stem</string>
 				<string>uc_main_stem</string>
 				<string>uc_part_stem</string>
-				<string>afii10047.add_1</string>
 				<string>cyrillic_lc_right_bowl</string>
 			</array>
 			<key>type</key>
@@ -1042,7 +1041,6 @@
 		<string>lc_xheight_stem</string>
 		<string>uc_main_stem</string>
 		<string>uc_part_stem</string>
-		<string>afii10047.add_1</string>
 		<string>cyrillic_lc_right_bowl</string>
 	</array>
 </dict>
