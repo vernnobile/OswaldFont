@@ -3,9 +3,10 @@
   <advance width="1120"/>
   <unicode hex="043B"/>
   <outline>
-    <component base="lc_xheight_stem" yScale="0.664474" xOffset="76" yOffset="408"/>
-    <component base="lc_xheight_stem" xOffset="595"/>
     <contour>
+      <point x="215.005" y="-14.0296" type="curve" smooth="yes"/>
+      <point x="447.568" y="-14.0296"/>
+      <point x="525" y="68.4326"/>
       <point x="525" y="297" type="curve" smooth="yes"/>
       <point x="525" y="408" type="line"/>
       <point x="153" y="408" type="line"/>
@@ -16,32 +17,35 @@
       <point x="14" y="0" type="line"/>
       <point x="91.1655" y="-9.03704"/>
       <point x="157.781" y="-14.0296"/>
-      <point x="215.005" y="-14.0296" type="curve" smooth="yes"/>
-      <point x="447.568" y="-14.0296"/>
-      <point x="525" y="68.4326"/>
     </contour>
     <contour>
+      <point x="336" y="968" type="line"/>
       <point x="918" y="968" type="line"/>
       <point x="918" y="1216" type="line"/>
       <point x="336" y="1216" type="line"/>
-      <point x="336" y="968" type="line"/>
     </contour>
+    <component base="lc_xheight_stem" xOffset="595"/>
+    <component base="lc_xheight_stem" yScale="0.664474" xOffset="76" yOffset="408"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-14</integer>
-	    <key>width</key>	    <integer>422</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>246</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-14</integer>
+            <key>width</key>
+            <integer>422</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>246</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10044" format="1">
-  <advance width="1082"/>
+  <advance width="957"/>
   <unicode hex="042A"/>
   <outline>
-    <component base="cyrillic_uc_right_bowl"/>
-    <component base="uc_main_stem"/>
+    <component base="cyrillic_uc_right_bowl" xOffset="40"/>
+    <component base="uc_main_stem" xOffset="40"/>
     <contour>
-      <point x="-34" y="1635" type="line"/>
-      <point x="194" y="1635" type="line"/>
-      <point x="194" y="1688" type="line"/>
-      <point x="-34" y="1688" type="line"/>
+      <point x="-46" y="1635" type="line"/>
+      <point x="234" y="1635" type="line"/>
+      <point x="234" y="1688" type="line"/>
+      <point x="-46" y="1688" type="line"/>
     </contour>
   </outline>
 </glyph>

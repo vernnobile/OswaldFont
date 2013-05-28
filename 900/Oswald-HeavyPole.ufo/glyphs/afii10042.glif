@@ -3,9 +3,9 @@
   <advance width="1659"/>
   <unicode hex="0428"/>
   <outline>
-    <component base="uc_main_stem" xScale="0.93128" xOffset="13"/>
-    <component base="uc_main_stem" xScale="0.93128" xOffset="1112.57"/>
-    <component base="uc_main_stem" xScale="0.93128" xOffset="564.566"/>
+    <component base="uc_main_stem" xScale="0.93128" xOffset="1082"/>
+    <component base="uc_main_stem" xScale="0.93128" xOffset="43"/>
+    <component base="uc_main_stem" xScale="0.93128" xOffset="558"/>
     <component base="uc_horiz_bar" xScale="1.45184178855" xOffset="157"/>
   </outline>
   <lib>
@@ -51,6 +51,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10042</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1659</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

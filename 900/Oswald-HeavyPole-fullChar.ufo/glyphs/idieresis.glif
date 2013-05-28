@@ -3,29 +3,31 @@
   <advance width="538"/>
   <unicode hex="00EF"/>
   <outline>
-    <component base="dieresis" xOffset="-174" yOffset="-19"/>
     <component base="dotlessi"/>
+    <component base="uni0308" xOffset="269" yOffset="-19"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1366</integer>
-	    <key>width</key>	    <integer>328</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>80</integer>
-	    <key>width</key>
-	    <integer>378</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1366</integer>
+            <key>width</key>
+            <integer>328</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>80</integer>
+            <key>width</key>
+            <integer>378</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

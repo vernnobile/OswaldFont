@@ -4,6 +4,9 @@
   <unicode hex="006F"/>
   <outline>
     <contour>
+      <point x="494" y="236" type="curve" smooth="yes"/>
+      <point x="450" y="236"/>
+      <point x="426" y="264"/>
       <point x="426" y="338" type="curve" smooth="yes"/>
       <point x="426" y="879" type="line" smooth="yes"/>
       <point x="426" y="953"/>
@@ -15,14 +18,8 @@
       <point x="565" y="338" type="line" smooth="yes"/>
       <point x="565" y="261"/>
       <point x="541" y="236"/>
-      <point x="494" y="236" type="curve" smooth="yes"/>
-      <point x="450" y="236"/>
-      <point x="426" y="264"/>
     </contour>
     <contour>
-      <point x="60" y="344" type="line" smooth="yes"/>
-      <point x="60" y="90"/>
-      <point x="245" y="-27"/>
       <point x="493" y="-27" type="curve" smooth="yes"/>
       <point x="741" y="-27"/>
       <point x="931" y="89"/>
@@ -34,34 +31,39 @@
       <point x="245" y="1244"/>
       <point x="60" y="1127"/>
       <point x="60" y="873" type="curve" smooth="yes"/>
+      <point x="60" y="344" type="line" smooth="yes"/>
+      <point x="60" y="90"/>
+      <point x="245" y="-27"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-27</integer>
-	    <key>width</key>	    <integer>19</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>39</integer>
-	    <key>width</key>
-	    <integer>374</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>513</integer>
-	    <key>width</key>
-	    <integer>374</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-27</integer>
+            <key>width</key>
+            <integer>19</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>39</integer>
+            <key>width</key>
+            <integer>374</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>513</integer>
+            <key>width</key>
+            <integer>374</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

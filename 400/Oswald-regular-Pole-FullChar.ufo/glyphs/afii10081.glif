@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10081" format="1">
+  <advance width="934"/>
+  <unicode hex="043F"/>
+  <outline>
+    <contour>
+      <point x="239" y="1005" type="line"/>
+      <point x="701" y="1005" type="line"/>
+      <point x="701" y="1184" type="line"/>
+      <point x="239" y="1184" type="line"/>
+    </contour>
+    <component base="lc_xheight_stem"/>
+    <component base="lc_xheight_stem" xOffset="461"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

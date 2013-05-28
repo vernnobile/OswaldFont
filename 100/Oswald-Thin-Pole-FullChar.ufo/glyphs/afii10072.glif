@@ -5,9 +5,6 @@
   <outline>
     <component base="lc_xheight_stem" xOffset="342"/>
     <contour>
-      <point x="96" y="1152" type="line"/>
-      <point x="32" y="1152" type="line"/>
-      <point x="348" y="663" type="line"/>
       <point x="14" y="0" type="line"/>
       <point x="81" y="0" type="line"/>
       <point x="386" y="625" type="line"/>
@@ -21,6 +18,9 @@
       <point x="921" y="1152" type="line"/>
       <point x="543" y="571" type="line"/>
       <point x="477" y="571" type="line"/>
+      <point x="96" y="1152" type="line"/>
+      <point x="32" y="1152" type="line"/>
+      <point x="348" y="663" type="line"/>
     </contour>
   </outline>
 </glyph>

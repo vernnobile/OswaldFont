@@ -6,10 +6,10 @@
     <component base="cyrillic_lc_right_bowl"/>
     <component base="lc_xheight_stem" xOffset="17"/>
     <contour>
-      <point x="184" y="1152" type="line"/>
-      <point x="-2" y="1152" type="line"/>
       <point x="-2" y="1101" type="line"/>
       <point x="184" y="1101" type="line"/>
+      <point x="184" y="1152" type="line"/>
+      <point x="-2" y="1152" type="line"/>
     </contour>
   </outline>
 </glyph>

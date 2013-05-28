@@ -5,30 +5,30 @@
   <outline>
     <component base="uc_main_stem" xOffset="671"/>
     <contour>
-      <point x="866" y="1687" type="line"/>
-      <point x="494" y="1687" type="line" smooth="yes"/>
-      <point x="189" y="1687"/>
-      <point x="116" y="1392"/>
-      <point x="116" y="1212" type="curve" smooth="yes"/>
-      <point x="116" y="994"/>
-      <point x="193" y="766"/>
-      <point x="492" y="766" type="curve" smooth="yes"/>
+      <point x="512" y="766" type="curve" smooth="yes"/>
       <point x="868" y="766" type="line"/>
       <point x="868" y="820" type="line"/>
-      <point x="492" y="820" type="line" smooth="yes"/>
-      <point x="287" y="820"/>
-      <point x="187" y="931"/>
-      <point x="187" y="1212" type="curve" smooth="yes"/>
-      <point x="187" y="1490"/>
+      <point x="512" y="820" type="line" smooth="yes"/>
+      <point x="279" y="820"/>
+      <point x="189" y="961"/>
+      <point x="189" y="1242" type="curve" smooth="yes"/>
+      <point x="189" y="1520"/>
       <point x="293" y="1632"/>
       <point x="493" y="1632" type="curve" smooth="yes"/>
       <point x="866" y="1632" type="line"/>
+      <point x="866" y="1687" type="line"/>
+      <point x="494" y="1687" type="line" smooth="yes"/>
+      <point x="189" y="1687"/>
+      <point x="124" y="1466"/>
+      <point x="124" y="1243" type="curve" smooth="yes"/>
+      <point x="124" y="980"/>
+      <point x="213" y="766"/>
     </contour>
     <contour>
+      <point x="92" y="0" type="line"/>
       <point x="161" y="0" type="line"/>
       <point x="421" y="783" type="line"/>
       <point x="365" y="808" type="line"/>
-      <point x="92" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

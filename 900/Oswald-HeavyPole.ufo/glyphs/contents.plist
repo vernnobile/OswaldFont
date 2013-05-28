@@ -198,6 +198,8 @@
 	<string>T_horn.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
+	<key>U+0393</key>
+	<string>U+0393_.glif</string>
 	<key>Uacute</key>
 	<string>U_acute.glif</string>
 	<key>Ubreve</key>
@@ -266,20 +268,50 @@
 	<string>adieresis.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
+	<key>afii10017</key>
+	<string>afii10017.glif</string>
 	<key>afii10018</key>
 	<string>afii10018.glif</string>
+	<key>afii10019</key>
+	<string>afii10019.glif</string>
+	<key>afii10020</key>
+	<string>afii10020.glif</string>
 	<key>afii10021</key>
 	<string>afii10021.glif</string>
+	<key>afii10022</key>
+	<string>afii10022.glif</string>
 	<key>afii10024</key>
 	<string>afii10024.glif</string>
 	<key>afii10025</key>
 	<string>afii10025.glif</string>
+	<key>afii10026</key>
+	<string>afii10026.glif</string>
+	<key>afii10027</key>
+	<string>afii10027.glif</string>
+	<key>afii10028</key>
+	<string>afii10028.glif</string>
 	<key>afii10029</key>
 	<string>afii10029.glif</string>
+	<key>afii10030</key>
+	<string>afii10030.glif</string>
+	<key>afii10031</key>
+	<string>afii10031.glif</string>
+	<key>afii10032</key>
+	<string>afii10032.glif</string>
+	<key>afii10033</key>
+	<string>afii10033.glif</string>
+	<key>afii10034</key>
+	<string>afii10034.glif</string>
+	<key>afii10035</key>
+	<string>afii10035.glif</string>
+	<key>afii10036</key>
+	<string>afii10036.glif</string>
 	<key>afii10037</key>
 	<string>afii10037.glif</string>
 	<key>afii10038</key>
 	<string>afii10038.glif</string>
+	<key>afii10039</key>
+	<string>afii10039.glif</string>
 	<key>afii10040</key>
 	<string>afii10040.glif</string>
 	<key>afii10041</key>
@@ -302,6 +334,8 @@
 	<string>afii10049.glif</string>
 	<key>afii10053</key>
 	<string>afii10053.glif</string>
+	<key>afii10065</key>
+	<string>afii10065.glif</string>
 	<key>afii10066</key>
 	<string>afii10066.glif</string>
 	<key>afii10067</key>
@@ -310,6 +344,8 @@
 	<string>afii10068.glif</string>
 	<key>afii10069</key>
 	<string>afii10069.glif</string>
+	<key>afii10070</key>
+	<string>afii10070.glif</string>
 	<key>afii10072</key>
 	<string>afii10072.glif</string>
 	<key>afii10073</key>
@@ -326,12 +362,22 @@
 	<string>afii10078.glif</string>
 	<key>afii10079</key>
 	<string>afii10079.glif</string>
+	<key>afii10080</key>
+	<string>afii10080.glif</string>
 	<key>afii10081</key>
 	<string>afii10081.glif</string>
+	<key>afii10082</key>
+	<string>afii10082.glif</string>
+	<key>afii10083</key>
+	<string>afii10083.glif</string>
+	<key>afii10084</key>
+	<string>afii10084.glif</string>
 	<key>afii10085</key>
 	<string>afii10085.glif</string>
 	<key>afii10086</key>
 	<string>afii10086.glif</string>
+	<key>afii10087</key>
+	<string>afii10087.glif</string>
 	<key>afii10088</key>
 	<string>afii10088.glif</string>
 	<key>afii10089</key>
@@ -352,8 +398,32 @@
 	<string>afii10096.glif</string>
 	<key>afii10097</key>
 	<string>afii10097.glif</string>
+	<key>afii10099</key>
+	<string>afii10099.glif</string>
+	<key>afii10100</key>
+	<string>afii10100.glif</string>
 	<key>afii10101</key>
 	<string>afii10101.glif</string>
+	<key>afii10102</key>
+	<string>afii10102.glif</string>
+	<key>afii10103</key>
+	<string>afii10103.glif</string>
+	<key>afii10104</key>
+	<string>afii10104.glif</string>
+	<key>afii10105</key>
+	<string>afii10105.glif</string>
+	<key>afii10106</key>
+	<string>afii10106.glif</string>
+	<key>afii10107</key>
+	<string>afii10107.glif</string>
+	<key>afii10108</key>
+	<string>afii10108.glif</string>
+	<key>afii10109</key>
+	<string>afii10109.glif</string>
+	<key>afii10110</key>
+	<string>afii10110.glif</string>
+	<key>afii10193</key>
+	<string>afii10193.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
 	<key>amacron</key>
@@ -914,78 +984,8 @@
 	<string>uni040E_.glif</string>
 	<key>uni040F</key>
 	<string>uni040F_.glif</string>
-	<key>uni0410</key>
-	<string>uni0410.glif</string>
-	<key>uni0412</key>
-	<string>uni0412.glif</string>
-	<key>uni0413</key>
-	<string>uni0413.glif</string>
-	<key>uni0415</key>
-	<string>uni0415.glif</string>
-	<key>uni0418</key>
-	<string>uni0418.glif</string>
-	<key>uni0419</key>
-	<string>uni0419.glif</string>
-	<key>uni041A</key>
-	<string>uni041A_.glif</string>
-	<key>uni041C</key>
-	<string>uni041C_.glif</string>
-	<key>uni041D</key>
-	<string>uni041D_.glif</string>
-	<key>uni041E</key>
-	<string>uni041E_.glif</string>
-	<key>uni041F</key>
-	<string>uni041F_.glif</string>
-	<key>uni0420</key>
-	<string>uni0420.glif</string>
-	<key>uni0421</key>
-	<string>uni0421.glif</string>
-	<key>uni0422</key>
-	<string>uni0422.glif</string>
-	<key>uni0425</key>
-	<string>uni0425.glif</string>
-	<key>uni0430</key>
-	<string>uni0430.glif</string>
-	<key>uni0435</key>
-	<string>uni0435.glif</string>
-	<key>uni043E</key>
-	<string>uni043E_.glif</string>
-	<key>uni0440</key>
-	<string>uni0440.glif</string>
-	<key>uni0441</key>
-	<string>uni0441.glif</string>
-	<key>uni0442</key>
-	<string>uni0442.glif</string>
-	<key>uni0443</key>
-	<string>uni0443.glif</string>
-	<key>uni0445</key>
-	<string>uni0445.glif</string>
 	<key>uni0451</key>
 	<string>uni0451.glif</string>
-	<key>uni0452</key>
-	<string>uni0452.glif</string>
-	<key>uni0453</key>
-	<string>uni0453.glif</string>
-	<key>uni0455</key>
-	<string>uni0455.glif</string>
-	<key>uni0456</key>
-	<string>uni0456.glif</string>
-	<key>uni0457</key>
-	<string>uni0457.glif</string>
-	<key>uni0458</key>
-	<string>uni0458.glif</string>
-	<key>uni0459</key>
-	<string>uni0459.glif</string>
-	<key>uni045A</key>
-	<string>uni045A_.glif</string>
-	<key>uni045B</key>
-	<string>uni045B_.glif</string>
-	<key>uni045C</key>
-	<string>uni045C_.glif</string>
-	<key>uni045E</key>
-	<string>uni045E_.glif</string>
-	<key>uni045F</key>
-	<string>uni045F_.glif</string>
 	<key>uni1E02</key>
 	<string>uni1E_02.glif</string>
 	<key>uni1E03</key>

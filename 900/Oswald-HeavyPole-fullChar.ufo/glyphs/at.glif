@@ -77,42 +77,48 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-64</integer>
-	    <key>width</key>	    <integer>193</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1056</integer>
-	    <key>width</key>	    <integer>244</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1472</integer>
-	    <key>width</key>	    <integer>187</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>51</integer>
-	    <key>width</key>
-	    <integer>229</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>950</integer>
-	    <key>width</key>
-	    <integer>272</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1448</integer>
-	    <key>width</key>
-	    <integer>227</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-64</integer>
+            <key>width</key>
+            <integer>193</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1056</integer>
+            <key>width</key>
+            <integer>244</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1472</integer>
+            <key>width</key>
+            <integer>187</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>51</integer>
+            <key>width</key>
+            <integer>229</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>950</integer>
+            <key>width</key>
+            <integer>272</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1448</integer>
+            <key>width</key>
+            <integer>227</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

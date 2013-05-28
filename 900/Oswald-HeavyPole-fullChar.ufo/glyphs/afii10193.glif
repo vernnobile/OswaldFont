@@ -3,9 +3,14 @@
   <advance width="1043"/>
   <unicode hex="045F"/>
   <outline>
+    <contour>
+      <point x="259" y="0" type="line"/>
+      <point x="788" y="0" type="line"/>
+      <point x="788" y="248" type="line"/>
+      <point x="259" y="248" type="line"/>
+    </contour>
     <component base="lc_xheight_stem" xOffset="518"/>
     <component base="lc_xheight_stem" xOffset="-1"/>
-    <component base="uc_horiz_bar" xScale="0.712502194394" xOffset="197"/>
   </outline>
   <lib>
     <dict>
@@ -41,9 +46,6 @@
             <integer>153</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
       </dict>
     </dict>
   </lib>

@@ -4,19 +4,21 @@
   <unicode hex="00E2"/>
   <outline>
     <component base="a"/>
-    <component base="circumflex" xOffset="31.4394" yOffset="120"/>
+    <component base="uni0302" xOffset="469.439" yOffset="120"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1367</integer>
-	    <key>width</key>	    <integer>405</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1367</integer>
+            <key>width</key>
+            <integer>405</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

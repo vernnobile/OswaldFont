@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2074" format="1">
-  <advance width="782"/>
+  <advance width="1011"/>
   <unicode hex="2074"/>
   <outline>
     <contour>
-      <point x="348" y="522" type="line"/>
-      <point x="581" y="522" type="line"/>
-      <point x="581" y="748" type="line"/>
-      <point x="698" y="748" type="line"/>
-      <point x="698" y="913" type="line"/>
-      <point x="581" y="913" type="line"/>
-      <point x="581" y="1370" type="line"/>
-      <point x="412" y="1370" type="line"/>
-      <point x="76" y="903" type="line"/>
-      <point x="76" y="748" type="line"/>
-      <point x="348" y="748" type="line"/>
+      <point x="96" y="661" type="line"/>
+      <point x="919" y="661" type="line"/>
+      <point x="919" y="830" type="line"/>
+      <point x="282" y="830" type="line"/>
+      <point x="593" y="1626" type="line"/>
+      <point x="437" y="1626" type="line"/>
+      <point x="96" y="826" type="line"/>
     </contour>
-    <contour>
-      <point x="319" y="913" type="line"/>
-      <point x="348" y="913" type="line"/>
-      <point x="348" y="898" type="line"/>
-    </contour>
+    <component base="lc_xheight_stem" xScale="0.915184" xOffset="377" yOffset="410"/>
   </outline>
 </glyph>

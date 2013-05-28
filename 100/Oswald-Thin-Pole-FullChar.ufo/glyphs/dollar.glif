@@ -5,16 +5,16 @@
   <outline>
     <component base="S"/>
     <contour>
-      <point x="414" y="1895" type="line"/>
-      <point x="414" y="1688" type="line"/>
-      <point x="471" y="1688" type="line"/>
-      <point x="471" y="1895" type="line"/>
-    </contour>
-    <contour>
-      <point x="464" y="0" type="line"/>
       <point x="464" y="-207" type="line"/>
       <point x="519" y="-207" type="line"/>
       <point x="519" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="1688" type="line"/>
+      <point x="471" y="1688" type="line"/>
+      <point x="471" y="1895" type="line"/>
+      <point x="414" y="1895" type="line"/>
     </contour>
   </outline>
 </glyph>

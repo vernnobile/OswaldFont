@@ -4,16 +4,16 @@
   <unicode hex="0449"/>
   <outline>
     <contour>
-      <point x="255" y="0" type="line"/>
-      <point x="1346" y="0" type="line"/>
       <point x="1346" y="-250" type="line"/>
       <point x="1626" y="-250" type="line"/>
       <point x="1626" y="248" type="line"/>
       <point x="255" y="248" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="1346" y="0" type="line"/>
     </contour>
-    <component base="lc_xheight_stem" xScale="0.972805" xOffset="495"/>
-    <component base="lc_xheight_stem" xScale="0.972805" xOffset="1"/>
     <component base="lc_xheight_stem" xScale="0.972805" xOffset="988"/>
+    <component base="lc_xheight_stem" xScale="0.972805" xOffset="1"/>
+    <component base="lc_xheight_stem" xScale="0.972805" xOffset="495"/>
   </outline>
   <lib>
     <dict>

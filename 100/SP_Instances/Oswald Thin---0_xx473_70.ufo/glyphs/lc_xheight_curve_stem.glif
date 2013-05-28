@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_xheight_curve_stem" format="1">
+  <advance width="731"/>
+  <outline>
+    <contour>
+      <point x="217" y="844" type="line"/>
+      <point x="302" y="993"/>
+      <point x="407" y="1053"/>
+      <point x="486" y="1054" type="curve" smooth="yes"/>
+      <point x="545" y="1055"/>
+      <point x="593" y="1024"/>
+      <point x="593" y="915" type="curve" smooth="yes"/>
+      <point x="593" y="0" type="line"/>
+      <point x="812" y="0" type="line"/>
+      <point x="812" y="931" type="line" smooth="yes"/>
+      <point x="812" y="1127"/>
+      <point x="707" y="1208"/>
+      <point x="589" y="1208" type="curve" smooth="yes"/>
+      <point x="447" y="1208"/>
+      <point x="324" y="1135"/>
+      <point x="217" y="923" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

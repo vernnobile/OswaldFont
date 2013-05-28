@@ -3,20 +3,22 @@
   <advance width="1031"/>
   <unicode hex="00FC"/>
   <outline>
-    <component base="dieresis" xOffset="72.5" yOffset="-19"/>
     <component base="u"/>
+    <component base="uni0308" xOffset="515.5" yOffset="-19"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1366</integer>
-	    <key>width</key>	    <integer>328</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1366</integer>
+            <key>width</key>
+            <integer>328</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>
