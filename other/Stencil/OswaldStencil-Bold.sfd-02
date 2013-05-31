@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1369950361
-ModificationTime: 1369950977
+ModificationTime: 1369950834
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 1
@@ -63,7 +63,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 108 27 12
+WinInfo: 0 27 12
 BeginPrivate: 6
 BlueFuzz 1 0
 BlueScale 21 0.0098823697639234612
@@ -73,7 +73,7 @@ ForceBold 5 false
 OtherBlues 11 [-189 -188]
 EndPrivate
 TeXData: 1 0 0 148480 74240 49493 912384 -1048576 49493 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65543 385
+BeginChars: 65543 384
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -335,16 +335,9 @@ Width: 562
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 110 184 N 1 0 0 1 161.5 51.5 2
-Refer: 11 67 N 1 0 0 1 0 0 3
+Refer: 110 184 N 1 0 0 1 165 0 2
+Refer: 11 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ccircumflex
@@ -451,16 +444,9 @@ Width: 425
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 85 180 N 1 0 0 1 38 273 2
-Refer: 17 69 N 1 0 0 1 0 0 3
+Refer: 17 69 N 1 0 0 1 0 0 2
+Refer: 85 180 N 1 0 0 1 123 251 2
 EndChar
 
 StartChar: Ecircumflex
@@ -469,16 +455,9 @@ Width: 425
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 112 710 N 1 0 0 1 35.5 277 2
-Refer: 17 69 N 1 0 0 1 0 0 3
+Refer: 17 69 N 1 0 0 1 0 0 2
+Refer: 112 710 N 1 0 0 1 15 251 2
 EndChar
 
 StartChar: Edieresis
@@ -487,16 +466,9 @@ Width: 425
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 120 168 N 1 0 0 1 1.5 229 2
-Refer: 17 69 N 1 0 0 1 0 0 3
+Refer: 17 69 N 1 0 0 1 0 0 2
+Refer: 120 168 N 1 0 0 1 -6 251 2
 EndChar
 
 StartChar: Egrave
@@ -505,16 +477,9 @@ Width: 425
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 148 96 N 1 0 0 1 121 273 2
-Refer: 17 69 N 1 0 0 1 0 0 3
+Refer: 148 96 N 1 0 0 1 18 251 2
+Refer: 17 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Eth
@@ -759,16 +724,9 @@ Width: 267
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 85 180 N 1 0 0 1 -60.5 273 2
-Refer: 28 73 N 1 0 0 1 0 0 3
+Refer: 85 180 N 1 0 0 1 31 245 2
+Refer: 28 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Icircumflex
@@ -777,16 +735,9 @@ Width: 267
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 112 710 N 1 0 0 1 -63 277 2
-Refer: 28 73 N 1 0 0 1 0 0 3
+Refer: 112 710 N 1 0 0 1 -76 245 2
+Refer: 28 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Idieresis
@@ -795,16 +746,9 @@ Width: 267
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 120 168 N 1 0 0 1 -97 229 2
-Refer: 28 73 N 1 0 0 1 0 0 3
+Refer: 120 168 N 1 0 0 1 -97 245 2
+Refer: 28 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Idotaccent
@@ -824,16 +768,9 @@ Width: 267
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 148 96 N 1 0 0 1 22.5 273 2
-Refer: 28 73 N 1 0 0 1 0 0 3
+Refer: 148 96 N 1 0 0 1 -73 245 2
+Refer: 28 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Iogonek
@@ -1147,16 +1084,9 @@ Width: 584
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 85 180 N 1 0 0 1 98.5 273 2
-Refer: 48 79 N 1 0 0 1 0 0 3
+Refer: 85 180 N 1 0 0 1 189 245 2
+Refer: 48 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ocircumflex
@@ -1165,16 +1095,9 @@ Width: 584
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 112 710 N 1 0 0 1 96 277 2
-Refer: 48 79 N 1 0 0 1 0 0 3
+Refer: 112 710 N 1 0 0 1 82 245 2
+Refer: 48 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Odieresis
@@ -1183,16 +1106,9 @@ Width: 584
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 120 168 N 1 0 0 1 62 229 2
-Refer: 48 79 N 1 0 0 1 0 0 3
+Refer: 120 168 N 1 0 0 1 61 245 2
+Refer: 48 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ograve
@@ -1201,16 +1117,9 @@ Width: 584
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 148 96 N 1 0 0 1 181.5 273 2
-Refer: 48 79 N 1 0 0 1 0 0 3
+Refer: 148 96 N 1 0 0 1 108 245 2
+Refer: 48 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Oslash
@@ -1257,16 +1166,9 @@ Width: 584
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
-Refer: 239 732 N 1 0 0 1 77 259 2
-Refer: 48 79 N 1 0 0 1 0 0 3
+Refer: 239 732 N 1 0 0 1 67 245 2
+Refer: 48 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: P
@@ -5808,14 +5710,8 @@ Width: 547
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
+Refer: 58 82 N 1 0 0 1 0 0 2
 Refer: 115 63171 N 1 0 0 1 153 0 2
 EndChar
 
@@ -6665,7 +6561,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 266 806 N 1 0 0 1 20 -37 2
+Refer: 266 806 N 1 0 0 1 0.5 -946 2
 Refer: 25 71 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7963,24 +7859,6 @@ EndUndoRedoHistory
 Fore
 Refer: 266 806 N 1 0 0 1 -77.5 -930 2
 Refer: 234 116 N 1 0 0 1 0 0 3
-EndChar
-
-StartChar: gcommaaccent
-Encoding: 225 291 384
-Width: 591
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-Refer: 25 71 N 1 0 0 1 0 0 3
-Refer: 266 806 N 1 0 0 1 20 -37 2
 EndChar
 EndChars
 EndSplineFont
