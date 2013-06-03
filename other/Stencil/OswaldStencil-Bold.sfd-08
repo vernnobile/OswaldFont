@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1369950361
-ModificationTime: 1369978753
+ModificationTime: 1369978404
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 1
@@ -65,7 +65,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 22 11
+WinInfo: 66 22 11
 BeginPrivate: 10
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -1201,7 +1201,7 @@ StartChar: Ldot
 Encoding: 253 319 41
 Width: 408
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 373.5 139
 VStem: 157 142
 LayerCount: 2
@@ -1213,7 +1213,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 205 183 S 1 0 0 1 281 39.5 2
+Refer: 205 183 N 1 0 0 1 105 39.5 2
 Refer: 40 76 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5072,11 +5072,11 @@ EndChar
 
 StartChar: ldot
 Encoding: 254 320 172
-Width: 408
+Width: 653
 VWidth: 0
 Flags: W
-HStem: 373.5 139
-VStem: 157 142
+HStem: 334 139
+VStem: 460 142
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -5086,8 +5086,8 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 40 76 N 1 0 0 1 0 0 3
-Refer: 205 183 S 1 0 0 1 281 39.5 2
+Refer: 205 183 N 1 0 0 1 408 0 2
+Refer: 171 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: less
@@ -5120,9 +5120,9 @@ StartChar: logicalnot
 Encoding: 108 172 174
 Width: 386
 VWidth: 0
-Flags: WO
-HStem: 254 204
-VStem: 22 326
+Flags: W
+HStem: 126 192
+VStem: 62 256
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -5133,13 +5133,13 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-22 371 m 5
- 262 371 l 5
- 262 254 l 5
- 348 254 l 5
- 348 458 l 5
- 22 458 l 5
- 22 371 l 5
+62 221 m 1
+ 252 221 l 1
+ 252 126 l 1
+ 318 126 l 1
+ 318 318 l 1
+ 62 318 l 1
+ 62 221 l 1
 EndSplineSet
 EndChar
 
@@ -8488,7 +8488,6 @@ StartChar: Dcaron
 Encoding: 206 270 291
 Width: 560
 VWidth: 0
-Flags: H
 HStem: 0 110<240 336.125> 760 110<241 332.126> 946 201<205.998 210 362 366.035>
 VStem: 361 155<135.079 293 593 727.483>
 LayerCount: 2
@@ -8509,8 +8508,8 @@ Encoding: 207 271 292
 Width: 560
 VWidth: 0
 Flags: W
-HStem: 0 110<240 336.125> 760 110<241 332.126> 946 201<205.998 210 362 366.035>
-VStem: 361 155<135.079 293 593 727.483>
+HStem: 0 110<240 336.125> 760 110<241 332.126>
+VStem: 361 155<135.079 293 593 727.483> 606 143<746 814> 662 87<701.372 746>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8520,8 +8519,8 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 68 N 1 0 0 1 0 0 3
-Refer: 107 711 N 1 0 0 1 90 277 2
+Refer: 114 44 N 1 0 0 1 562 746 2
+Refer: 118 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Emacron
@@ -9023,10 +9022,10 @@ EndChar
 
 StartChar: Lcaron
 Encoding: 251 317 319
-Width: 451
+Width: 408
 VWidth: 0
 Flags: W
-VStem: 363 143<746 814> 419 87<701.372 746>
+VStem: 489 143<746 814> 545 87<701.372 746>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -9036,16 +9035,16 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 114 44 N 1 0 0 1 319 746 2
+Refer: 114 44 N 1 0 0 1 445 746 2
 Refer: 40 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: lcaron
 Encoding: 252 318 320
-Width: 451
+Width: 408
 VWidth: 0
 Flags: W
-VStem: 363 143<746 814> 419 87<701.372 746>
+VStem: 489 143<746 814> 545 87<701.372 746>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -9055,8 +9054,8 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 40 76 N 1 0 0 1 0 0 2
-Refer: 114 44 N 1 0 0 1 319 746 2
+Refer: 114 44 N 1 0 0 1 445 746 2
+Refer: 171 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ncommaaccent
@@ -9426,7 +9425,6 @@ StartChar: Tcaron
 Encoding: 289 356 340
 Width: 431
 VWidth: 0
-Flags: H
 HStem: 946 201<134.998 139 291 295.035>
 LayerCount: 2
 UndoRedoHistory
@@ -9446,7 +9444,7 @@ Encoding: 290 357 341
 Width: 431
 VWidth: 0
 Flags: W
-HStem: 946 201<134.998 139 291 295.035>
+VStem: 519 143<746 814> 575 87<701.372 746>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -9456,8 +9454,8 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 64 84 N 1 0 0 1 0 0 3
-Refer: 107 711 N 1 0 0 1 19 277 2
+Refer: 114 44 N 1 0 0 1 475 746 2
+Refer: 234 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Utilde

@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1369950361
-ModificationTime: 1369978753
+ModificationTime: 1369977957
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 1
@@ -131,7 +131,6 @@ Encoding: 33 65 2
 Width: 537
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 269 886 basechar 0
 AnchorPoint: "ogonek" 446 0 basechar 0
 LayerCount: 2
 UndoRedoHistory
@@ -294,8 +293,8 @@ Encoding: 133 197 8
 Width: 537
 VWidth: 0
 Flags: W
-HStem: 922 55<278 301.303> 1095 55<278 301.016>
-VStem: 147 73<984.272 1087.95> 312 74<983.773 1088.09>
+HStem: 878.4 55<280 303.303> 1051.4 55<280 303.016>
+VStem: 149 73<940.672 1044.35> 314 74<940.173 1044.49>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -305,7 +304,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 224 730 N 1 0 0 1 91 236 2
+Refer: 224 730 N 1 0 0 1 93 192.4 2
 Refer: 2 65 N 1 0 0 1 0 0 3
 Kerns2: 271 -38 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  269 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  268 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  234 -49 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  74 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  73 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  64 -49 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
@@ -536,7 +535,7 @@ StartChar: E
 Encoding: 37 69 17
 Width: 425
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "ogonek" 331 0 basechar 0
 LayerCount: 2
 UndoRedoHistory
@@ -907,7 +906,7 @@ StartChar: I
 Encoding: 41 73 28
 Width: 267
 VWidth: 0
-Flags: W
+Flags: HW
 VStem: 56 155
 AnchorPoint: "ogonek" 146 0 basechar 0
 LayerCount: 2
@@ -1095,7 +1094,6 @@ VWidth: 0
 Flags: W
 HStem: -13 110<1 70.5795>
 VStem: 88 155<111.799 209>
-AnchorPoint: "top" 170 886 basechar 0
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -1122,7 +1120,7 @@ Encoding: 242 308 38
 Width: 298
 VWidth: 0
 Flags: W
-HStem: -13 110<1 70.5795> 912 201<85.9982 90 242 246.035>
+HStem: -13 110<1 70.5795> 946 201<41.4982 45.5 197.5 201.535>
 VStem: 88 155<111.799 209>
 LayerCount: 2
 UndoRedoHistory
@@ -1133,7 +1131,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 112 710 N 1 0 0 1 -30 243 2
+Refer: 112 710 N 1 0 0 1 -74.5 277 2
 Refer: 37 74 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1201,7 +1199,7 @@ StartChar: Ldot
 Encoding: 253 319 41
 Width: 408
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 373.5 139
 VStem: 157 142
 LayerCount: 2
@@ -1213,7 +1211,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 205 183 S 1 0 0 1 281 39.5 2
+Refer: 205 183 N 1 0 0 1 105 39.5 2
 Refer: 40 76 N 1 0 0 1 0 0 3
 EndChar
 
@@ -1387,7 +1385,7 @@ StartChar: O
 Encoding: 47 79 48
 Width: 584
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 120<233.321 280 304 350.679> 766 120<240.267 280 304 350.679>
 VStem: 45 154<146.918 279 587 727.367> 385 155<143.194 282 587 727.811>
 AnchorPoint: "ogonek" 353 0 basechar 0
@@ -1940,7 +1938,7 @@ StartChar: U
 Encoding: 53 85 66
 Width: 597
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 120<243.868 288 312 364>
 VStem: 52 155<141.979 300> 391 154<134.885 300>
 AnchorPoint: "ogonek" 366 0 basechar 0
@@ -2344,7 +2342,6 @@ Encoding: 65 97 82
 Width: 537
 VWidth: 0
 Flags: HW
-AnchorPoint: "top" 272 886 basechar 0
 AnchorPoint: "ogonek" 453 0 basechar 0
 LayerCount: 2
 UndoRedoHistory
@@ -2593,7 +2590,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 224 730 N 1 0 0 1 94 236 2
+Refer: 224 730 N 1 0 0 1 93 260 2
 Refer: 82 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3277,7 +3274,6 @@ Width: 393
 VWidth: 0
 Flags: W
 HStem: 669 201<115.998 120 272 276.035>
-AnchorPoint: "top" 200 643 mark 0
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -3752,10 +3748,9 @@ StartChar: uni0237
 Encoding: 358 567 126
 Width: 298
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -13 110<1 70.5795>
 VStem: 88 155<111.799 209>
-AnchorPoint: "top" 170 886 basechar 0
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -3781,7 +3776,7 @@ StartChar: e
 Encoding: 69 101 127
 Width: 425
 VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "ogonek" 327 0 basechar 0
 LayerCount: 2
 UndoRedoHistory
@@ -4944,7 +4939,7 @@ StartChar: jcircumflex
 Encoding: 243 309 167
 Width: 298
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -13 110<1 70.5795> 946 201<41.4982 45.5 197.5 201.535>
 VStem: 88 155<111.799 209>
 LayerCount: 2
@@ -4956,7 +4951,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 112 710 N 1 0 0 1 -30 243 2
+Refer: 112 710 N 1 0 0 1 -74.5 277 2
 Refer: 126 567 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5072,11 +5067,11 @@ EndChar
 
 StartChar: ldot
 Encoding: 254 320 172
-Width: 408
+Width: 653
 VWidth: 0
 Flags: W
-HStem: 373.5 139
-VStem: 157 142
+HStem: 334 139
+VStem: 460 142
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -5086,8 +5081,8 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 40 76 N 1 0 0 1 0 0 3
-Refer: 205 183 S 1 0 0 1 281 39.5 2
+Refer: 205 183 N 1 0 0 1 408 0 2
+Refer: 171 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: less
@@ -5120,9 +5115,9 @@ StartChar: logicalnot
 Encoding: 108 172 174
 Width: 386
 VWidth: 0
-Flags: WO
-HStem: 254 204
-VStem: 22 326
+Flags: W
+HStem: 126 192
+VStem: 62 256
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -5133,13 +5128,13 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-22 371 m 5
- 262 371 l 5
- 262 254 l 5
- 348 254 l 5
- 348 458 l 5
- 22 458 l 5
- 22 371 l 5
+62 221 m 1
+ 252 221 l 1
+ 252 126 l 1
+ 318 126 l 1
+ 318 318 l 1
+ 62 318 l 1
+ 62 221 l 1
 EndSplineSet
 EndChar
 
@@ -5481,7 +5476,7 @@ StartChar: o
 Encoding: 79 111 186
 Width: 584
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 120<233.321 280 304 350.679> 766 120<240.267 280 304 350.679>
 VStem: 45 154<146.918 279 587 727.367> 385 155<143.194 282 587 727.811>
 AnchorPoint: "ogonek" 346 0 basechar 0
@@ -6713,7 +6708,6 @@ VWidth: 0
 Flags: W
 HStem: 686 55<187 210.303> 859 55<187 210.016>
 VStem: 56 73<748.272 851.948> 221 74<747.773 852.091>
-AnchorPoint: "top" 178 650 mark 0
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7390,7 +7384,7 @@ StartChar: u
 Encoding: 85 117 243
 Width: 597
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 120<243.868 288 312 364>
 VStem: 52 155<141.979 300> 391 154<134.885 300>
 AnchorPoint: "ogonek" 350 0 basechar 0
@@ -8488,7 +8482,6 @@ StartChar: Dcaron
 Encoding: 206 270 291
 Width: 560
 VWidth: 0
-Flags: H
 HStem: 0 110<240 336.125> 760 110<241 332.126> 946 201<205.998 210 362 366.035>
 VStem: 361 155<135.079 293 593 727.483>
 LayerCount: 2
@@ -8509,8 +8502,8 @@ Encoding: 207 271 292
 Width: 560
 VWidth: 0
 Flags: W
-HStem: 0 110<240 336.125> 760 110<241 332.126> 946 201<205.998 210 362 366.035>
-VStem: 361 155<135.079 293 593 727.483>
+HStem: 0 110<240 336.125> 760 110<241 332.126>
+VStem: 361 155<135.079 293 593 727.483> 606 143<746 814> 662 87<701.372 746>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8520,8 +8513,8 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 68 N 1 0 0 1 0 0 3
-Refer: 107 711 N 1 0 0 1 90 277 2
+Refer: 114 44 N 1 0 0 1 562 746 2
+Refer: 118 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Emacron
@@ -9023,10 +9016,10 @@ EndChar
 
 StartChar: Lcaron
 Encoding: 251 317 319
-Width: 451
+Width: 408
 VWidth: 0
 Flags: W
-VStem: 363 143<746 814> 419 87<701.372 746>
+VStem: 489 143<746 814> 545 87<701.372 746>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -9036,16 +9029,16 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 114 44 N 1 0 0 1 319 746 2
+Refer: 114 44 N 1 0 0 1 445 746 2
 Refer: 40 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: lcaron
 Encoding: 252 318 320
-Width: 451
+Width: 408
 VWidth: 0
 Flags: W
-VStem: 363 143<746 814> 419 87<701.372 746>
+VStem: 489 143<746 814> 545 87<701.372 746>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -9055,8 +9048,8 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 40 76 N 1 0 0 1 0 0 2
-Refer: 114 44 N 1 0 0 1 319 746 2
+Refer: 114 44 N 1 0 0 1 445 746 2
+Refer: 171 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ncommaaccent
@@ -9426,7 +9419,6 @@ StartChar: Tcaron
 Encoding: 289 356 340
 Width: 431
 VWidth: 0
-Flags: H
 HStem: 946 201<134.998 139 291 295.035>
 LayerCount: 2
 UndoRedoHistory
@@ -9446,7 +9438,7 @@ Encoding: 290 357 341
 Width: 431
 VWidth: 0
 Flags: W
-HStem: 946 201<134.998 139 291 295.035>
+VStem: 519 143<746 814> 575 87<701.372 746>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -9456,8 +9448,8 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 64 84 N 1 0 0 1 0 0 3
-Refer: 107 711 N 1 0 0 1 19 277 2
+Refer: 114 44 N 1 0 0 1 475 746 2
+Refer: 234 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Utilde
@@ -9789,7 +9781,6 @@ StartChar: uni01C7
 Encoding: 319 455 359
 Width: 706
 VWidth: 0
-Flags: H
 HStem: -13 110<409 478.58>
 VStem: 496 155<111.799 209>
 LayerCount: 2
@@ -9847,7 +9838,6 @@ StartChar: uni01CA
 Encoding: 322 458 362
 Width: 875
 VWidth: 0
-Flags: H
 HStem: -13 110<578 647.58>
 VStem: 665 155<111.799 209>
 LayerCount: 2
