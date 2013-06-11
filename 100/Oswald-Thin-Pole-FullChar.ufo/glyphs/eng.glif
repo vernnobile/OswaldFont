@@ -3,7 +3,6 @@
   <advance width="794"/>
   <unicode hex="014B"/>
   <outline>
-    <component base="n"/>
     <contour>
       <point x="361" y="-296" type="line"/>
       <point x="372" y="-296" type="line" smooth="yes"/>
@@ -17,18 +16,46 @@
       <point x="565" y="-239"/>
       <point x="361" y="-239" type="curve"/>
     </contour>
+    <component base="n"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-406</integer>
-	    <key>width</key>	    <integer>237</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-406</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eng</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>794</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

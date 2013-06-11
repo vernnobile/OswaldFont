@@ -3,12 +3,41 @@
   <advance width="769"/>
   <unicode hex="0454"/>
   <outline>
-    <component base="c"/>
     <contour>
       <point x="149" y="575" type="line"/>
       <point x="509" y="575" type="line"/>
       <point x="509" y="626" type="line"/>
       <point x="149" y="626" type="line"/>
     </contour>
+    <component base="c"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10101</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>769</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

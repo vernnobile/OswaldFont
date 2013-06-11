@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="1">
-  <advance width="808"/>
+  <advance width="778"/>
   <unicode hex="0070"/>
   <outline>
-    <component base="lc_descender_stem" xOffset="-16"/>
-    <component base="lc_right_curve" xOffset="-2"/>
+    <component base="lc_descender_stem" xOffset="-34"/>
+    <component base="lc_right_curve" xOffset="-20"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>p</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>778</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

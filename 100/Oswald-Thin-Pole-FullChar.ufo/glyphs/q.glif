@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="1">
-  <advance width="804"/>
+  <advance width="774"/>
   <unicode hex="0071"/>
   <outline>
-    <component base="lc_descender_stem" xOffset="452"/>
-    <component base="lc_left_curve" xOffset="-56"/>
+    <component base="lc_descender_stem" xOffset="440"/>
+    <component base="lc_left_curve" xOffset="-68"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>774</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

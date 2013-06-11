@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="1">
-  <advance width="791"/>
+  <advance width="758"/>
   <unicode hex="0068"/>
   <outline>
-    <component base="lc_ascender_stem" xOffset="-2"/>
-    <component base="lc_xheight_curve_stem" xOffset="-2"/>
+    <component base="lc_ascender_stem" xOffset="-20"/>
+    <component base="lc_xheight_curve_stem" xOffset="-20"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>h</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>758</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
