@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10067" format="1">
-  <advance width="873"/>
+  <advance width="863"/>
   <unicode hex="0432"/>
   <outline>
     <contour>
-      <point x="241" y="0" type="line"/>
-      <point x="474" y="0" type="line" smooth="yes"/>
-      <point x="740" y="0"/>
-      <point x="811" y="137"/>
-      <point x="811" y="344" type="curve" smooth="yes"/>
-      <point x="811" y="479"/>
-      <point x="780" y="615"/>
-      <point x="632" y="652" type="curve"/>
-      <point x="761" y="700"/>
-      <point x="786" y="786"/>
-      <point x="784" y="904" type="curve" smooth="yes"/>
-      <point x="781" y="1053"/>
-      <point x="708" y="1184"/>
-      <point x="464" y="1184" type="curve" smooth="yes"/>
-      <point x="240" y="1184" type="line"/>
-      <point x="240" y="1006" type="line"/>
-      <point x="434" y="1006" type="line" smooth="yes"/>
-      <point x="525" y="1006"/>
-      <point x="587" y="984"/>
-      <point x="587" y="873" type="curve" smooth="yes"/>
-      <point x="587" y="750"/>
-      <point x="538" y="718"/>
-      <point x="455" y="718" type="curve" smooth="yes"/>
-      <point x="241" y="718" type="line"/>
-      <point x="241" y="548" type="line"/>
-      <point x="434" y="548" type="line" smooth="yes"/>
-      <point x="523" y="548"/>
-      <point x="591" y="537"/>
-      <point x="591" y="353" type="curve" smooth="yes"/>
-      <point x="591" y="196"/>
-      <point x="508" y="178"/>
-      <point x="424" y="178" type="curve" smooth="yes"/>
-      <point x="241" y="178" type="line"/>
+      <point x="233.0" y="0.0" type="line"/>
+      <point x="462" y="0" type="line" smooth="yes"/>
+      <point x="728" y="0"/>
+      <point x="805" y="138"/>
+      <point x="805" y="345" type="curve" smooth="yes"/>
+      <point x="805" y="480"/>
+      <point x="768" y="620"/>
+      <point x="620" y="647" type="curve"/>
+      <point x="749" y="685"/>
+      <point x="777" y="783"/>
+      <point x="775" y="901" type="curve" smooth="yes"/>
+      <point x="772" y="1050"/>
+      <point x="696" y="1184"/>
+      <point x="452" y="1184" type="curve" smooth="yes"/>
+      <point x="232.0" y="1184.0" type="line"/>
+      <point x="232.0" y="1012.0" type="line"/>
+      <point x="416" y="1012" type="line" smooth="yes"/>
+      <point x="507" y="1012"/>
+      <point x="569" y="983"/>
+      <point x="569" y="872" type="curve" smooth="yes"/>
+      <point x="569" y="749"/>
+      <point x="520" y="713"/>
+      <point x="437" y="713" type="curve" smooth="yes"/>
+      <point x="233.0" y="713.0" type="line"/>
+      <point x="233.0" y="543.0" type="line"/>
+      <point x="416" y="543" type="line" smooth="yes"/>
+      <point x="505" y="543"/>
+      <point x="573" y="537"/>
+      <point x="573" y="353" type="curve" smooth="yes"/>
+      <point x="573" y="196"/>
+      <point x="490" y="178"/>
+      <point x="406" y="178" type="curve" smooth="yes"/>
+      <point x="233.0" y="178.0" type="line"/>
     </contour>
-    <component base="lc_xheight_stem"/>
+    <component base="lc_xheight_stem" xScale="0.976115049402" xOffset="-5"/>
   </outline>
   <lib>
     <dict>
@@ -102,7 +102,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>873</integer>
+          <integer>863</integer>
         </dict>
       </dict>
     </dict>

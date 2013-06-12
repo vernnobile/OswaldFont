@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="1">
-  <advance width="809"/>
+  <advance width="729"/>
   <unicode hex="015F"/>
   <outline>
-    <component base="cedilla" xOffset="251" yOffset="-1"/>
+    <component base="cedilla" xOffset="180" yOffset="-1"/>
     <component base="s"/>
   </outline>
   <lib>
@@ -68,7 +68,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>809</integer>
+          <integer>729</integer>
         </dict>
       </dict>
     </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10108" format="1">
-  <advance width="869"/>
+  <advance width="849"/>
   <unicode hex="045B"/>
   <outline>
-    <component base="cyrillic_lc_right_bowl" xOffset="-116"/>
-    <component base="lc_xheight_stem"/>
+    <component base="cyrillic_lc_right_bowl" xOffset="-124"/>
+    <component base="lc_xheight_stem" xOffset="-8"/>
   </outline>
   <lib>
     <dict>
@@ -68,7 +68,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>869</integer>
+          <integer>849</integer>
         </dict>
       </dict>
     </dict>

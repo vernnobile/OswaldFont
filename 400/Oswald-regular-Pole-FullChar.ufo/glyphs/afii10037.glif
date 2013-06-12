@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10037" format="1">
-  <advance width="927"/>
+  <advance width="925"/>
   <unicode hex="0423"/>
   <outline>
     <contour>
-      <point x="292.0" y="0.0" type="line"/>
-      <point x="357.0" y="0.0" type="line"/>
-      <point x="513.0" y="534.0" type="line"/>
-      <point x="861.0" y="1688.0" type="line"/>
-      <point x="794.0" y="1688.0" type="line"/>
-      <point x="484.0" y="644.0" type="line"/>
-      <point x="132.0" y="1688.0" type="line"/>
-      <point x="65.0" y="1688.0" type="line"/>
-      <point x="453.0" y="559.0" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="605" y="534" type="line"/>
+      <point x="905" y="1658" type="line"/>
+      <point x="674" y="1658" type="line"/>
+      <point x="477" y="856" type="line"/>
+      <point x="262" y="1658" type="line"/>
+      <point x="35" y="1658" type="line"/>
+      <point x="357" y="501" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -64,6 +64,19 @@ b</key>
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>v</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>66</integer>
+                <integer>474</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -77,7 +90,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>927</integer>
+          <integer>925</integer>
         </dict>
       </dict>
     </dict>

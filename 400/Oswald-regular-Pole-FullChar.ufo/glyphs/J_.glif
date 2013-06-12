@@ -1,19 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="591"/>
+  <advance width="629"/>
   <unicode hex="004A"/>
   <outline>
-    <component base="uc_part_stem" xOffset="108"/>
     <contour>
-      <point x="0" y="0" type="line"/>
-      <point x="118" y="0" type="line" smooth="yes"/>
-      <point x="407" y="0"/>
-      <point x="474" y="133"/>
-      <point x="474" y="420" type="curve"/>
-      <point x="237" y="420" type="line"/>
-      <point x="237" y="221"/>
-      <point x="194" y="178"/>
-      <point x="0" y="178" type="curve"/>
+      <point x="14.0" y="-31.0" type="line"/>
+      <point x="132.0" y="-31.0" type="line" smooth="yes"/>
+      <point x="421.0" y="-31.0"/>
+      <point x="501" y="102"/>
+      <point x="501" y="389" type="curve"/>
+      <point x="251.0" y="389.0" type="line"/>
+      <point x="251.0" y="190.0"/>
+      <point x="208.0" y="147.0"/>
+      <point x="14.0" y="147.0" type="curve"/>
     </contour>
+    <component base="uc_part_stem" yScale="1.02714546016" xOffset="122.0" yOffset="-45"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>&lt;?xml_version="1.0"_encoding="UTF-8"?&gt;
+&lt;glyph_name="None"_format="1"&gt;
+__&lt;advance_width="0"-&gt;
+__&lt;outline&gt;
+____&lt;contour&gt;
+______&lt;point_x="441"_y="178"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="178"-&gt;
+______&lt;point_x="323"_y="296"-&gt;
+______&lt;point_x="323"_y="414"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="769"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="887"-&gt;
+______&lt;point_x="323"_y="1007"-&gt;
+______&lt;point_x="441"_y="1007"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="1007"-&gt;
+______&lt;point_x="559"_y="887"-&gt;
+______&lt;point_x="559"_y="769"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="414"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="296"-&gt;
+______&lt;point_x="559"_y="178"-&gt;
+____&lt;-contour&gt;
+____&lt;contour&gt;
+______&lt;point_x="441"_y="-17"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="708"_y="-17"-&gt;
+______&lt;point_x="797"_y="152"-&gt;
+______&lt;point_x="797"_y="414"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="797"_y="769"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="797"_y="1031"-&gt;
+______&lt;point_x="708"_y="1200"-&gt;
+______&lt;point_x="441"_y="1200"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="174"_y="1200"-&gt;
+______&lt;point_x="86"_y="1031"-&gt;
+______&lt;point_x="86"_y="769"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="86"_y="414"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="86"_y="152"-&gt;
+______&lt;point_x="174"_y="-17"-&gt;
+____&lt;-contour&gt;
+__&lt;-outline&gt;
+&lt;-glyph&gt;
+b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>J</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>629</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

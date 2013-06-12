@@ -1,18 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="1091"/>
+  <advance width="1098"/>
   <unicode hex="0051"/>
   <outline>
-    <component base="O"/>
     <contour>
-      <point x="933" y="-297" type="curve"/>
-      <point x="933" y="-102" type="line"/>
-      <point x="859" y="-52"/>
+      <point x="893" y="-337" type="curve"/>
+      <point x="933" y="-142" type="line"/>
+      <point x="859" y="-92"/>
       <point x="772" y="31"/>
       <point x="714" y="107" type="curve"/>
       <point x="548" y="52" type="line"/>
       <point x="614" y="-54"/>
-      <point x="792" y="-227"/>
+      <point x="752" y="-267"/>
     </contour>
+    <component base="O"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>&lt;?xml_version="1.0"_encoding="UTF-8"?&gt;
+&lt;glyph_name="None"_format="1"&gt;
+__&lt;advance_width="0"-&gt;
+__&lt;outline&gt;
+____&lt;contour&gt;
+______&lt;point_x="441"_y="178"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="178"-&gt;
+______&lt;point_x="323"_y="296"-&gt;
+______&lt;point_x="323"_y="414"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="769"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="887"-&gt;
+______&lt;point_x="323"_y="1007"-&gt;
+______&lt;point_x="441"_y="1007"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="1007"-&gt;
+______&lt;point_x="559"_y="887"-&gt;
+______&lt;point_x="559"_y="769"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="414"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="296"-&gt;
+______&lt;point_x="559"_y="178"-&gt;
+____&lt;-contour&gt;
+____&lt;contour&gt;
+______&lt;point_x="441"_y="-17"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="708"_y="-17"-&gt;
+______&lt;point_x="797"_y="152"-&gt;
+______&lt;point_x="797"_y="414"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="797"_y="769"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="797"_y="1031"-&gt;
+______&lt;point_x="708"_y="1200"-&gt;
+______&lt;point_x="441"_y="1200"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="174"_y="1200"-&gt;
+______&lt;point_x="86"_y="1031"-&gt;
+______&lt;point_x="86"_y="769"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="86"_y="414"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="86"_y="152"-&gt;
+______&lt;point_x="174"_y="-17"-&gt;
+____&lt;-contour&gt;
+__&lt;-outline&gt;
+&lt;-glyph&gt;
+b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1098</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

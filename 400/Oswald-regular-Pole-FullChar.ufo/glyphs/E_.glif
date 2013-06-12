@@ -1,26 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="795"/>
+  <advance width="839"/>
   <unicode hex="0045"/>
   <outline>
-    <component base="uc_main_stem"/>
     <contour>
-      <point x="244" y="0" type="line"/>
-      <point x="769" y="0" type="line"/>
-      <point x="769" y="178" type="line"/>
-      <point x="244" y="178" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="784" y="0" type="line"/>
+      <point x="784" y="178" type="line"/>
+      <point x="252" y="178" type="line"/>
     </contour>
     <contour>
-      <point x="244" y="769" type="line"/>
-      <point x="651" y="769" type="line"/>
-      <point x="651" y="947" type="line"/>
-      <point x="244" y="947" type="line"/>
+      <point x="252" y="767" type="line"/>
+      <point x="703" y="767" type="line"/>
+      <point x="703" y="945" type="line"/>
+      <point x="252" y="945" type="line"/>
     </contour>
     <contour>
-      <point x="244" y="1480" type="line"/>
-      <point x="769" y="1480" type="line"/>
-      <point x="769" y="1658" type="line"/>
-      <point x="244" y="1658" type="line"/>
+      <point x="252" y="1474" type="line"/>
+      <point x="779" y="1474" type="line"/>
+      <point x="779" y="1658" type="line"/>
+      <point x="252" y="1658" type="line"/>
     </contour>
+    <component base="uc_main_stem" xOffset="8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>&lt;?xml_version="1.0"_encoding="UTF-8"?&gt;
+&lt;glyph_name="None"_format="1"&gt;
+__&lt;advance_width="0"-&gt;
+__&lt;outline&gt;
+____&lt;contour&gt;
+______&lt;point_x="441"_y="178"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="178"-&gt;
+______&lt;point_x="323"_y="296"-&gt;
+______&lt;point_x="323"_y="414"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="769"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="887"-&gt;
+______&lt;point_x="323"_y="1007"-&gt;
+______&lt;point_x="441"_y="1007"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="1007"-&gt;
+______&lt;point_x="559"_y="887"-&gt;
+______&lt;point_x="559"_y="769"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="414"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="296"-&gt;
+______&lt;point_x="559"_y="178"-&gt;
+____&lt;-contour&gt;
+____&lt;contour&gt;
+______&lt;point_x="441"_y="-17"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="708"_y="-17"-&gt;
+______&lt;point_x="797"_y="152"-&gt;
+______&lt;point_x="797"_y="414"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="797"_y="769"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="797"_y="1031"-&gt;
+______&lt;point_x="708"_y="1200"-&gt;
+______&lt;point_x="441"_y="1200"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="174"_y="1200"-&gt;
+______&lt;point_x="86"_y="1031"-&gt;
+______&lt;point_x="86"_y="769"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="86"_y="414"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="86"_y="152"-&gt;
+______&lt;point_x="174"_y="-17"-&gt;
+____&lt;-contour&gt;
+__&lt;-outline&gt;
+&lt;-glyph&gt;
+b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>839</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

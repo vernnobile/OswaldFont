@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10060" format="1">
-  <advance width="1237"/>
+  <advance width="924.974129477"/>
   <unicode hex="040B"/>
   <outline>
-    <component base="T"/>
-    <component base="lc_xheight_curve_stem" xOffset="209"/>
+    <component base="T" xScale="0.974129476536" xOffset="-172"/>
+    <component base="lc_xheight_curve_stem" xOffset="3.97412947654"/>
   </outline>
   <lib>
     <dict>
@@ -68,7 +68,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1237</integer>
+          <real>924.9741294765363</real>
         </dict>
       </dict>
     </dict>
