@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ebreve" format="1">
-  <advance width="773"/>
+  <advance width="742"/>
   <unicode hex="0115"/>
   <outline>
+    <component base="uni0306" xOffset="-8" yOffset="-7"/>
     <component base="e"/>
-    <component base="uni0306" xOffset="393" yOffset="-7"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>773</integer>
+          <integer>742</integer>
         </dict>
       </dict>
     </dict>

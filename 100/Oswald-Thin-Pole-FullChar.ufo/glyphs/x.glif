@@ -6,18 +6,47 @@
     <contour>
       <point x="35" y="0" type="line"/>
       <point x="102" y="0" type="line"/>
-      <point x="372" y="556" type="line"/>
-      <point x="392" y="592" type="line"/>
-      <point x="687" y="1152" type="line"/>
-      <point x="616" y="1152" type="line"/>
-      <point x="360" y="654" type="line"/>
-      <point x="334" y="617" type="line"/>
+      <point x="374" y="559" type="line"/>
+      <point x="394" y="595" type="line"/>
+      <point x="687" y="1184" type="line"/>
+      <point x="616" y="1184" type="line"/>
+      <point x="362" y="657" type="line"/>
+      <point x="336" y="620" type="line"/>
     </contour>
     <contour>
       <point x="631" y="0" type="line"/>
       <point x="691" y="0" type="line"/>
-      <point x="130" y="1152" type="line"/>
-      <point x="59" y="1152" type="line"/>
+      <point x="130" y="1184" type="line"/>
+      <point x="59" y="1184" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>726</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

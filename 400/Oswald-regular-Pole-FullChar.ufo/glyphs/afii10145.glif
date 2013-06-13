@@ -4,10 +4,10 @@
   <unicode hex="040F"/>
   <outline>
     <contour>
-      <point x="196.0" y="0.0" type="line"/>
-      <point x="822.0" y="0.0" type="line"/>
-      <point x="822.0" y="52.0" type="line"/>
-      <point x="196.0" y="52.0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="881" y="0" type="line"/>
+      <point x="881" y="178" type="line"/>
+      <point x="255" y="178" type="line"/>
     </contour>
     <component base="uc_main_stem" xOffset="629"/>
     <component base="uc_main_stem"/>
@@ -64,6 +64,71 @@ b</key>
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1314.0</real>
+                  <key>y</key>
+                  <real>-283.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1527.0</real>
+                  <key>y</key>
+                  <real>-283.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1527.0</real>
+                  <key>y</key>
+                  <real>178.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>245.0</real>
+                  <key>y</key>
+                  <real>178.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>245.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1314.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>

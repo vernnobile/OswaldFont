@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcroat" format="1">
-  <advance width="1065"/>
+  <advance width="1087"/>
   <unicode hex="0110"/>
   <outline>
-    <component base="Eth"/>
+    <component base="Eth" xOffset="5"/>
   </outline>
   <lib>
     <dict>
@@ -67,7 +67,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1065</integer>
+          <integer>1087</integer>
         </dict>
       </dict>
     </dict>

@@ -3,16 +3,45 @@
   <advance width="825"/>
   <unicode hex="0138"/>
   <outline>
-    <component base="lc_xheight_stem"/>
     <contour>
       <point x="668" y="0" type="line"/>
       <point x="735" y="0" type="line"/>
-      <point x="419" y="713" type="line"/>
-      <point x="727" y="1153" type="line"/>
-      <point x="653" y="1153" type="line"/>
+      <point x="408" y="717" type="line"/>
+      <point x="727" y="1184" type="line"/>
+      <point x="653" y="1184" type="line"/>
       <point x="169" y="481" type="line"/>
       <point x="169" y="410" type="line"/>
-      <point x="371" y="671" type="line"/>
+      <point x="360" y="675" type="line"/>
     </contour>
+    <component base="lc_xheight_stem"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>kgreenlandic</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>825</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10018" format="1">
-  <advance width="917"/>
+  <advance width="1020"/>
   <unicode hex="0411"/>
   <outline>
-    <component base="cyrillic_uc_right_bowl"/>
-    <component base="uc_horiz_bar" xScale="0.980084" xOffset="197" yOffset="1636"/>
-    <component base="uc_main_stem"/>
+    <component base="cyrillic_uc_right_bowl" xOffset="-6"/>
+    <component base="uc_horiz_bar" xScale="0.718467909124" xOffset="255" yOffset="1478"/>
+    <component base="uc_main_stem" xOffset="8"/>
   </outline>
   <lib>
     <dict>
@@ -69,7 +69,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>917</integer>
+          <integer>1020</integer>
         </dict>
       </dict>
     </dict>

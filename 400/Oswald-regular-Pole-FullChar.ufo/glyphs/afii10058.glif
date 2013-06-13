@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10058" format="1">
-  <advance width="1632"/>
+  <advance width="1638"/>
   <unicode hex="0409"/>
   <outline>
     <contour>
-      <point x="117.0" y="0.0" type="line"/>
-      <point x="134.0" y="0.0" type="line" smooth="yes"/>
-      <point x="350.0" y="0.0"/>
-      <point x="350.0" y="177.0"/>
-      <point x="350.0" y="462.0" type="curve"/>
-      <point x="286.0" y="462.0" type="line"/>
-      <point x="286.0" y="170.0"/>
-      <point x="286.0" y="55.0"/>
-      <point x="117.0" y="55.0" type="curve"/>
+      <point x="49" y="0" type="line"/>
+      <point x="106" y="0" type="line" smooth="yes"/>
+      <point x="402" y="0"/>
+      <point x="498" y="129"/>
+      <point x="498" y="454" type="curve"/>
+      <point x="248" y="454" type="line"/>
+      <point x="248" y="252"/>
+      <point x="218" y="178"/>
+      <point x="49" y="178" type="curve"/>
     </contour>
-    <component base="cyrillic_uc_right_bowl" xOffset="715"/>
-    <component base="uc_horiz_bar" xScale="1.00323" xOffset="321" yOffset="1636"/>
-    <component base="uc_main_stem" xOffset="715"/>
-    <component base="uc_main_stem" yScale="0.726012" xOffset="124" yOffset="462"/>
+    <component base="cyrillic_uc_right_bowl" xOffset="610"/>
+    <component base="uc_horiz_bar" xScale="0.64778932382" xOffset="359" yOffset="1477"/>
+    <component base="uc_main_stem" xOffset="646"/>
+    <component base="uc_main_stem" yScale="0.726012" xOffset="130" yOffset="454"/>
   </outline>
   <lib>
     <dict>
@@ -102,7 +102,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1632</integer>
+          <integer>1638</integer>
         </dict>
       </dict>
     </dict>

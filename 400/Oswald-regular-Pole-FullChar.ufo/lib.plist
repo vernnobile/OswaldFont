@@ -184,7 +184,7 @@ b</string>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -415,9 +415,9 @@ b</string>
 		<string>rcommaaccent</string>
 		<string>obreve</string>
 		<string>Scaron</string>
-		<string>eng</string>
 		<string>Cacute</string>
 		<string>gcommaaccent</string>
+		<string>Ccircumflex</string>
 		<string>afii10145</string>
 		<string>Uhungarumlaut</string>
 		<string>afii61352</string>
@@ -448,10 +448,9 @@ b</string>
 		<string>cdotaccent</string>
 		<string>guilsinglleft</string>
 		<string>uni040D</string>
-		<string>afii10021</string>
 		<string>uni030F</string>
 		<string>uni030C</string>
-		<string>tbar</string>
+		<string>uni030A</string>
 		<string>kgreenlandic</string>
 		<string>lacute</string>
 		<string>ygrave</string>
@@ -462,7 +461,7 @@ b</string>
 		<string>uni0302</string>
 		<string>uni0308</string>
 		<string>uniFB04</string>
-		<string>uni030A</string>
+		<string>eng</string>
 		<string>uniFB01</string>
 		<string>uniFB00</string>
 		<string>uniFB03</string>
@@ -490,7 +489,6 @@ b</string>
 		<string>uni0206</string>
 		<string>endash</string>
 		<string>Eng</string>
-		<string>fraction</string>
 		<string>uni1E02</string>
 		<string>Ohungarumlaut</string>
 		<string>acutecomb</string>
@@ -541,6 +539,7 @@ b</string>
 		<string>abreve</string>
 		<string>racute</string>
 		<string>florin</string>
+		<string>tbar</string>
 		<string>uni1E41</string>
 		<string>itilde</string>
 		<string>Emacron</string>
@@ -617,6 +616,7 @@ b</string>
 		<string>ycircumflex</string>
 		<string>uni00A0</string>
 		<string>Amacron</string>
+		<string>afii10021</string>
 		<string>lc_xheight_stem</string>
 		<string>foundryicon</string>
 		<string>uni020D</string>
@@ -701,7 +701,7 @@ b</string>
 		<string>Ibreve</string>
 		<string>Gcommaaccent</string>
 		<string>uogonek</string>
-		<string>Ccircumflex</string>
+		<string>fraction</string>
 		<string>afii10077</string>
 		<string>wgrave</string>
 		<string>Omacron</string>

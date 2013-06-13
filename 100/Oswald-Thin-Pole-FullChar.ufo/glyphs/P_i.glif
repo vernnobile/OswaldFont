@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="1">
-  <advance width="1164"/>
+  <advance width="1151"/>
   <unicode hex="03A0"/>
   <outline>
-    <component base="uc_horiz_bar" xScale="1.30411" xOffset="194" yOffset="1636"/>
-    <component base="uc_main_stem"/>
-    <component base="uc_main_stem" xOffset="765"/>
+    <component base="uc_horiz_bar" xScale="1.30411" xOffset="193" yOffset="1606"/>
+    <component base="uc_main_stem" xOffset="-1"/>
+    <component base="uc_main_stem" xOffset="764"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Pi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1151</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

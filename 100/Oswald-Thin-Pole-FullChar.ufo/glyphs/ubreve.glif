@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="807"/>
+  <advance width="770"/>
   <unicode hex="016D"/>
   <outline>
+    <component base="uni0306" xOffset="12" yOffset="-7"/>
     <component base="u"/>
-    <component base="uni0306" xOffset="398.5" yOffset="-7"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>807</integer>
+          <integer>770</integer>
         </dict>
       </dict>
     </dict>

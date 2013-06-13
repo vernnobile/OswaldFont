@@ -5,26 +5,55 @@
   <outline>
     <contour>
       <point x="-1" y="0" type="line"/>
-      <point x="73" y="0" type="line"/>
-      <point x="242" y="474" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="262" y="474" type="line"/>
       <point x="664" y="474" type="line"/>
       <point x="664" y="0" type="line"/>
       <point x="1212" y="0" type="line"/>
       <point x="1212" y="68" type="line"/>
       <point x="738" y="68" type="line"/>
-      <point x="738" y="844" type="line"/>
-      <point x="1077" y="844" type="line"/>
+      <point x="738" y="840" type="line"/>
+      <point x="1077" y="840" type="line"/>
       <point x="1077" y="899" type="line"/>
       <point x="738" y="899" type="line"/>
-      <point x="738" y="1620" type="line"/>
-      <point x="1212" y="1620" type="line"/>
-      <point x="1212" y="1688" type="line"/>
-      <point x="620" y="1688" type="line"/>
+      <point x="738" y="1590" type="line"/>
+      <point x="1212" y="1590" type="line"/>
+      <point x="1212" y="1658" type="line"/>
+      <point x="620" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="262" y="524" type="line"/>
-      <point x="662" y="1621" type="line"/>
-      <point x="662" y="524" type="line"/>
+      <point x="282" y="532" type="line"/>
+      <point x="662" y="1591" type="line"/>
+      <point x="662" y="532" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1284</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

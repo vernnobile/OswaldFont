@@ -4,16 +4,45 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="175" y="1233" type="line"/>
-      <point x="211" y="1233" type="line"/>
-      <point x="234" y="1688" type="line"/>
-      <point x="157" y="1688" type="line"/>
+      <point x="175" y="1204" type="line"/>
+      <point x="211" y="1204" type="line"/>
+      <point x="234" y="1658" type="line"/>
+      <point x="157" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="430" y="1233" type="line"/>
-      <point x="466" y="1233" type="line"/>
-      <point x="489" y="1688" type="line"/>
-      <point x="412" y="1688" type="line"/>
+      <point x="430" y="1204" type="line"/>
+      <point x="466" y="1204" type="line"/>
+      <point x="489" y="1658" type="line"/>
+      <point x="412" y="1658" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>667</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

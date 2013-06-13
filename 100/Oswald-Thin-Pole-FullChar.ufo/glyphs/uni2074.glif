@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2074" format="1">
-  <advance width="739"/>
+  <advance width="750"/>
   <unicode hex="2074"/>
   <outline>
-    <component base="lc_xheight_stem" xOffset="310" yOffset="536"/>
     <contour>
-      <point x="95" y="796" type="line"/>
-      <point x="694" y="796" type="line"/>
-      <point x="694" y="852" type="line"/>
-      <point x="163" y="852" type="line"/>
-      <point x="493" y="1688" type="line"/>
-      <point x="437" y="1688" type="line"/>
-      <point x="95" y="848" type="line"/>
+      <point x="126" y="839" type="line"/>
+      <point x="652" y="839" type="line"/>
+      <point x="652" y="895" type="line"/>
+      <point x="191" y="895" type="line"/>
+      <point x="499" y="1658" type="line"/>
+      <point x="446" y="1658" type="line"/>
+      <point x="126" y="891" type="line"/>
     </contour>
+    <component base="lc_xheight_stem" yScale="0.96335724343" xOffset="319" yOffset="518"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni2074</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>750</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

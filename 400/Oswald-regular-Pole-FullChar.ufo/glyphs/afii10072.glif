@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10072" format="1">
-  <advance width="1225"/>
+  <advance width="1209"/>
   <unicode hex="0436"/>
   <outline>
     <contour>
-      <point x="8" y="0" type="line"/>
-      <point x="245" y="0" type="line"/>
-      <point x="480" y="517" type="line"/>
-      <point x="581.0" y="473.0" type="line"/>
-      <point x="647.0" y="473.0" type="line"/>
-      <point x="746" y="517" type="line"/>
-      <point x="980" y="0" type="line"/>
-      <point x="1217" y="0" type="line"/>
-      <point x="933" y="599" type="line"/>
-      <point x="1208" y="1184" type="line"/>
-      <point x="955" y="1184" type="line"/>
-      <point x="667" y="513" type="line"/>
-      <point x="561" y="513" type="line"/>
-      <point x="270" y="1184" type="line"/>
-      <point x="16" y="1184" type="line"/>
-      <point x="292" y="599" type="line"/>
+      <point x="8.0" y="0.0" type="line"/>
+      <point x="237.0" y="0.0" type="line"/>
+      <point x="478" y="557" type="line"/>
+      <point x="478" y="557"/>
+      <point x="732" y="557"/>
+      <point x="732" y="557" type="curve"/>
+      <point x="972.0" y="0.0" type="line"/>
+      <point x="1201.0" y="0.0" type="line"/>
+      <point x="913.0" y="593.0" type="line"/>
+      <point x="1182.0" y="1184.0" type="line"/>
+      <point x="947.0" y="1184.0" type="line"/>
+      <point x="731" y="665" type="line"/>
+      <point x="479" y="665" type="line"/>
+      <point x="262.0" y="1184.0" type="line"/>
+      <point x="26.0" y="1184.0" type="line"/>
+      <point x="297.0" y="593.0" type="line"/>
     </contour>
-    <component base="lc_xheight_stem" xOffset="378"/>
+    <component base="lc_xheight_stem" xScale="0.931412192997" xOffset="385"/>
   </outline>
   <lib>
     <dict>
@@ -85,7 +85,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1225</integer>
+          <integer>1209</integer>
         </dict>
       </dict>
     </dict>

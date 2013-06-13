@@ -1,15 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0490" format="1">
-  <advance width="761"/>
+  <advance width="760"/>
   <unicode hex="0490"/>
   <outline>
-    <component base="uc_horiz_bar" xScale="0.88859" xOffset="195" yOffset="1636"/>
-    <component base="uc_main_stem"/>
     <contour>
-      <point x="668" y="1661" type="line"/>
-      <point x="715" y="1661" type="line"/>
-      <point x="715" y="1849" type="line"/>
-      <point x="668" y="1849" type="line"/>
+      <point x="667" y="1631" type="line"/>
+      <point x="714" y="1631" type="line"/>
+      <point x="714" y="1819" type="line"/>
+      <point x="667" y="1819" type="line"/>
     </contour>
+    <component base="uc_horiz_bar" xScale="0.88859" xOffset="194" yOffset="1606"/>
+    <component base="uc_main_stem" xOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0490</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>760</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

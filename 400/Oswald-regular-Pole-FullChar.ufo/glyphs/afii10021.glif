@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10021" format="1">
-  <advance width="1112"/>
+  <advance width="1295"/>
   <unicode hex="0414"/>
   <outline>
     <contour>
-      <point x="16.0" y="-201.0" type="line"/>
-      <point x="73.0" y="-201.0" type="line"/>
-      <point x="73.0" y="0.0" type="line"/>
-      <point x="991.0" y="0.0" type="line"/>
-      <point x="991.0" y="-201.0" type="line"/>
-      <point x="1050.0" y="-201.0" type="line"/>
-      <point x="1050.0" y="57.0" type="line"/>
-      <point x="16.0" y="57.0" type="line"/>
+      <point x="1052" y="-283" type="line"/>
+      <point x="1265" y="-283" type="line"/>
+      <point x="1265" y="178" type="line"/>
+      <point x="-3" y="178" type="line"/>
+      <point x="-3" y="-283" type="line"/>
+      <point x="210" y="-283" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="1052" y="0" type="line"/>
     </contour>
-    <component base="afii10029" xOffset="-19"/>
+    <component base="afii10029" xOffset="51"/>
   </outline>
   <lib>
     <dict>
@@ -67,6 +67,71 @@ b</key>
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-3</integer>
+                  <key>y</key>
+                  <integer>-283</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>210</integer>
+                  <key>y</key>
+                  <integer>-283</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>210</integer>
+                  <key>y</key>
+                  <integer>178</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-740</integer>
+                  <key>y</key>
+                  <integer>178</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-740</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-3</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -77,7 +142,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1112</integer>
+          <integer>1295</integer>
         </dict>
       </dict>
     </dict>

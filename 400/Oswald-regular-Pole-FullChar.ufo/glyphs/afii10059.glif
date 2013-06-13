@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10059" format="1">
-  <advance width="1505"/>
+  <advance width="1612"/>
   <unicode hex="040A"/>
   <outline>
-    <component base="cyrillic_uc_right_bowl" xOffset="588"/>
-    <component base="uc_horiz_bar" xScale="1.00323" xOffset="196" yOffset="896"/>
-    <component base="uc_main_stem" yOffset="2"/>
-    <component base="uc_main_stem" xOffset="590" yOffset="2"/>
+    <component base="cyrillic_uc_right_bowl" xOffset="596"/>
+    <component base="uc_horiz_bar" xScale="0.746808724295" xOffset="260" yOffset="789"/>
+    <component base="uc_main_stem" xOffset="8" yOffset="2"/>
+    <component base="uc_main_stem" xOffset="630" yOffset="2"/>
   </outline>
   <lib>
     <dict>
@@ -70,7 +70,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1505</integer>
+          <integer>1612</integer>
         </dict>
       </dict>
     </dict>

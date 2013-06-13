@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10092" format="1">
-  <advance width="961"/>
+  <advance width="969"/>
   <unicode hex="044A"/>
   <outline>
     <contour>
-      <point x="16" y="1018" type="line"/>
-      <point x="316" y="1018" type="line"/>
-      <point x="316" y="1184" type="line"/>
-      <point x="16" y="1184" type="line"/>
+      <point x="18" y="1010" type="line"/>
+      <point x="330" y="1010" type="line"/>
+      <point x="330" y="1184" type="line"/>
+      <point x="18" y="1184" type="line"/>
     </contour>
-    <component base="lc_xheight_stem" xOffset="82"/>
-    <component base="cyrillic_lc_right_bowl" xOffset="7"/>
+    <component base="lc_xheight_stem" xOffset="90"/>
+    <component base="cyrillic_lc_right_bowl" xOffset="15"/>
   </outline>
   <lib>
     <dict>
@@ -74,7 +74,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>961</integer>
+          <integer>969</integer>
         </dict>
       </dict>
     </dict>

@@ -3,7 +3,6 @@
   <advance width="513"/>
   <unicode hex="004A"/>
   <outline>
-    <component base="uc_part_stem" xOffset="125"/>
     <contour>
       <point x="17" y="-114" type="line"/>
       <point x="54" y="-114" type="line" smooth="yes"/>
@@ -15,5 +14,35 @@
       <point x="278" y="-57"/>
       <point x="17" y="-58" type="curve"/>
     </contour>
+    <component base="uc_part_stem" xOffset="125"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>J</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>513</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

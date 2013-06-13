@@ -1,28 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10024" format="1">
-  <advance width="1350"/>
+  <advance width="1314"/>
   <unicode hex="0416"/>
   <outline>
-    <component base="uc_main_stem" xOffset="481"/>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="169" y="0" type="line"/>
-      <point x="559" y="934" type="line"/>
-      <point x="675" y="735" type="line"/>
-      <point x="675" y="814" type="line"/>
-      <point x="205" y="1688" type="line"/>
-      <point x="139" y="1688" type="line"/>
-      <point x="519" y="978" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="541" y="913" type="line"/>
+      <point x="657" y="714" type="line"/>
+      <point x="657" y="793" type="line"/>
+      <point x="187" y="1658" type="line"/>
+      <point x="121" y="1658" type="line"/>
+      <point x="501" y="957" type="line"/>
     </contour>
     <contour>
-      <point x="1181" y="0" type="line"/>
-      <point x="1250" y="0" type="line"/>
-      <point x="831" y="978" type="line"/>
-      <point x="1211" y="1688" type="line"/>
-      <point x="1145" y="1688" type="line"/>
-      <point x="675" y="814" type="line"/>
-      <point x="675" y="735" type="line"/>
-      <point x="791" y="934" type="line"/>
+      <point x="1163" y="0" type="line"/>
+      <point x="1232" y="0" type="line"/>
+      <point x="813" y="957" type="line"/>
+      <point x="1193" y="1658" type="line"/>
+      <point x="1127" y="1658" type="line"/>
+      <point x="657" y="793" type="line"/>
+      <point x="657" y="714" type="line"/>
+      <point x="773" y="913" type="line"/>
     </contour>
+    <component base="uc_main_stem" xOffset="463"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10024</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1314</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

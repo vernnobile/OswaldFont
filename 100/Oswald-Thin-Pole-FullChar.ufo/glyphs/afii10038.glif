@@ -3,7 +3,6 @@
   <advance width="1095"/>
   <unicode hex="0424"/>
   <outline>
-    <component base="uc_main_stem" xOffset="359"/>
     <contour>
       <point x="555" y="279" type="curve"/>
       <point x="555" y="329" type="line"/>
@@ -40,5 +39,35 @@
       <point x="800" y="329"/>
       <point x="555" y="329" type="curve"/>
     </contour>
+    <component base="uc_main_stem" xOffset="359"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10038</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1095</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

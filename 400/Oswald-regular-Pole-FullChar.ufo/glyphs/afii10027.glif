@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10027" format="1">
-  <advance width="1045"/>
+  <advance width="1085"/>
   <unicode hex="0419"/>
   <outline>
     <component base="afii10026"/>
@@ -55,6 +55,19 @@ b</key>
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>N</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -68,7 +81,7 @@ b</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1045</integer>
+          <integer>1085</integer>
         </dict>
       </dict>
     </dict>

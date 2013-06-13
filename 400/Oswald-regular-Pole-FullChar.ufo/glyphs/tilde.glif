@@ -4,26 +4,93 @@
   <unicode hex="02DC"/>
   <outline>
     <contour>
-      <point x="567" y="1343" type="curve" smooth="yes"/>
-      <point x="703" y="1343"/>
-      <point x="770" y="1463"/>
-      <point x="770" y="1598" type="curve"/>
-      <point x="628" y="1598" type="line"/>
-      <point x="628" y="1559"/>
-      <point x="615" y="1535"/>
-      <point x="581" y="1535" type="curve" smooth="yes"/>
-      <point x="487" y="1535"/>
-      <point x="426" y="1614"/>
-      <point x="321" y="1614" type="curve" smooth="yes"/>
-      <point x="185" y="1614"/>
-      <point x="117" y="1496"/>
-      <point x="117" y="1362" type="curve"/>
+      <point x="722" y="1343"/>
+      <point x="760" y="1443"/>
+      <point x="760" y="1578" type="curve"/>
+      <point x="628" y="1578" type="line"/>
+      <point x="628" y="1514"/>
+      <point x="617" y="1494"/>
+      <point x="586" y="1494" type="curve" smooth="yes"/>
+      <point x="533" y="1494"/>
+      <point x="408" y="1594"/>
+      <point x="308" y="1594" type="curve" smooth="yes"/>
+      <point x="172" y="1594"/>
+      <point x="127" y="1496"/>
+      <point x="127" y="1362" type="curve"/>
       <point x="260" y="1362" type="line"/>
-      <point x="260" y="1401"/>
-      <point x="270" y="1424"/>
-      <point x="304" y="1424" type="curve" smooth="yes"/>
-      <point x="396" y="1424"/>
-      <point x="461" y="1343"/>
+      <point x="260.0" y="1422.0"/>
+      <point x="275" y="1445"/>
+      <point x="308" y="1445" type="curve" smooth="yes"/>
+      <point x="374" y="1445"/>
+      <point x="486" y="1343"/>
+      <point x="586" y="1343" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>&lt;?xml_version="1.0"_encoding="UTF-8"?&gt;
+&lt;glyph_name="None"_format="1"&gt;
+__&lt;advance_width="0"-&gt;
+__&lt;outline&gt;
+____&lt;contour&gt;
+______&lt;point_x="441"_y="178"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="178"-&gt;
+______&lt;point_x="323"_y="296"-&gt;
+______&lt;point_x="323"_y="414"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="769"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="323"_y="887"-&gt;
+______&lt;point_x="323"_y="1007"-&gt;
+______&lt;point_x="441"_y="1007"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="1007"-&gt;
+______&lt;point_x="559"_y="887"-&gt;
+______&lt;point_x="559"_y="769"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="414"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="559"_y="296"-&gt;
+______&lt;point_x="559"_y="178"-&gt;
+____&lt;-contour&gt;
+____&lt;contour&gt;
+______&lt;point_x="441"_y="-17"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="708"_y="-17"-&gt;
+______&lt;point_x="797"_y="152"-&gt;
+______&lt;point_x="797"_y="414"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="797"_y="769"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="797"_y="1031"-&gt;
+______&lt;point_x="708"_y="1200"-&gt;
+______&lt;point_x="441"_y="1200"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="174"_y="1200"-&gt;
+______&lt;point_x="86"_y="1031"-&gt;
+______&lt;point_x="86"_y="769"_type="curve"_smooth="yes"-&gt;
+______&lt;point_x="86"_y="414"_type="line"_smooth="yes"-&gt;
+______&lt;point_x="86"_y="152"-&gt;
+______&lt;point_x="174"_y="-17"-&gt;
+____&lt;-contour&gt;
+__&lt;-outline&gt;
+&lt;-glyph&gt;
+b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>887</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

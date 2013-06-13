@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="763"/>
+  <advance width="792"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="194" y="0" type="line"/>
-      <point x="699" y="0" type="line"/>
-      <point x="699" y="56" type="line"/>
-      <point x="194" y="56" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="712" y="0" type="line"/>
+      <point x="712" y="56" type="line"/>
+      <point x="193" y="56" type="line"/>
     </contour>
     <contour>
-      <point x="196" y="844" type="line"/>
-      <point x="601" y="844" type="line"/>
-      <point x="601" y="899" type="line"/>
-      <point x="196" y="899" type="line"/>
+      <point x="195" y="834" type="line"/>
+      <point x="622" y="834" type="line"/>
+      <point x="622" y="889" type="line"/>
+      <point x="195" y="889" type="line"/>
     </contour>
     <contour>
-      <point x="195" y="1632" type="line"/>
-      <point x="699" y="1632" type="line"/>
-      <point x="699" y="1688" type="line"/>
-      <point x="195" y="1688" type="line"/>
+      <point x="194" y="1602" type="line"/>
+      <point x="707" y="1602" type="line"/>
+      <point x="707" y="1658" type="line"/>
+      <point x="194" y="1658" type="line"/>
     </contour>
-    <component base="uc_main_stem"/>
+    <component base="uc_main_stem" xOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -47,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>763</integer>
+          <integer>792</integer>
         </dict>
       </dict>
     </dict>

@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10084" format="1">
-  <advance width="1263"/>
+  <advance width="657.39565332"/>
   <unicode hex="0442"/>
   <outline>
-    <component base="lc_xheight_curve_stem" xOffset="484"/>
-    <component base="lc_xheight_curve_stem" xOffset="17"/>
-    <component base="lc_xheight_curve_stem" xOffset="17"/>
-    <component base="lc_xheight_stem" xOffset="17"/>
+    <component base="lc_xheight_stem" xOffset="168"/>
+    <component base="lc_horiz_bar" xScale="1.11007803986" xOffset="4" yOffset="1132"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10084</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>657.3956533204247</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
