@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="681"/>
+  <advance width="691"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
@@ -16,4 +16,11 @@
     </contour>
     <component base="uc_part_stem" xOffset="100"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

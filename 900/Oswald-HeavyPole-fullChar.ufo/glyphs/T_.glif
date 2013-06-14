@@ -4,11 +4,18 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="21" y="1321" type="line"/>
-      <point x="866" y="1321" type="line"/>
-      <point x="866" y="1626" type="line"/>
-      <point x="21" y="1626" type="line"/>
+      <point x="21" y="1353" type="line"/>
+      <point x="866" y="1353" type="line"/>
+      <point x="866" y="1658" type="line"/>
+      <point x="21" y="1658" type="line"/>
     </contour>
     <component base="uc_main_stem" xOffset="155"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

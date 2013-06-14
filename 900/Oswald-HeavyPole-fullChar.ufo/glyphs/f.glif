@@ -6,10 +6,10 @@
     <contour>
       <point x="119" y="0" type="line"/>
       <point x="491" y="0" type="line"/>
-      <point x="491" y="958" type="line"/>
-      <point x="631" y="958" type="line"/>
-      <point x="631" y="1216" type="line"/>
-      <point x="491" y="1216" type="line"/>
+      <point x="491" y="926" type="line"/>
+      <point x="631" y="926" type="line"/>
+      <point x="631" y="1184" type="line"/>
+      <point x="491" y="1184" type="line"/>
       <point x="491" y="1278" type="line" smooth="yes"/>
       <point x="491" y="1334"/>
       <point x="526" y="1348"/>
@@ -24,10 +24,10 @@
       <point x="157" y="1625"/>
       <point x="119" y="1486"/>
       <point x="119" y="1282" type="curve" smooth="yes"/>
-      <point x="119" y="1216" type="line"/>
-      <point x="16" y="1216" type="line"/>
-      <point x="16" y="958" type="line"/>
-      <point x="119" y="958" type="line"/>
+      <point x="119" y="1184" type="line"/>
+      <point x="16" y="1184" type="line"/>
+      <point x="16" y="926" type="line"/>
+      <point x="119" y="926" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -52,6 +52,9 @@
             <integer>615</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

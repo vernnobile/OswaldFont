@@ -3,10 +3,17 @@
   <advance width="450"/>
   <outline>
     <contour>
-      <point x="77" y="-356" type="line"/>
-      <point x="449" y="-356" type="line"/>
-      <point x="449" y="1216" type="line"/>
-      <point x="77" y="1216" type="line"/>
+      <point x="77" y="-390" type="line"/>
+      <point x="449" y="-390" type="line"/>
+      <point x="449" y="1184" type="line"/>
+      <point x="77" y="1184" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
