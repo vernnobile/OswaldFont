@@ -4,20 +4,27 @@
   <unicode hex="0078"/>
   <outline>
     <contour>
-      <point x="16" y="0" type="line"/>
-      <point x="238" y="0" type="line"/>
-      <point x="421" y="477" type="line"/>
-      <point x="497" y="551" type="line"/>
-      <point x="784" y="1184" type="line"/>
-      <point x="553" y="1184" type="line"/>
-      <point x="387" y="766" type="line"/>
-      <point x="305" y="690" type="line"/>
+      <point x="16.0" y="0.0" type="line"/>
+      <point x="238.0" y="0.0" type="line"/>
+      <point x="421.0" y="477.0" type="line"/>
+      <point x="497.0" y="551.0" type="line"/>
+      <point x="784.0" y="1184.0" type="line"/>
+      <point x="553.0" y="1184.0" type="line"/>
+      <point x="387.0" y="766.0" type="line"/>
+      <point x="305.0" y="690.0" type="line"/>
     </contour>
     <contour>
-      <point x="564" y="0" type="line"/>
-      <point x="789" y="0" type="line"/>
-      <point x="244" y="1184" type="line"/>
-      <point x="18" y="1184" type="line"/>
+      <point x="564.0" y="0.0" type="line"/>
+      <point x="789.0" y="0.0" type="line"/>
+      <point x="244.0" y="1184.0" type="line"/>
+      <point x="18.0" y="1184.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -3,18 +3,25 @@
   <advance width="1106"/>
   <unicode hex="014A"/>
   <outline>
-    <component base="N"/>
     <contour>
-      <point x="540" y="-389" type="line"/>
-      <point x="622" y="-389" type="line" smooth="yes"/>
-      <point x="894" y="-389"/>
-      <point x="959" y="-254"/>
-      <point x="959" y="0" type="curve"/>
-      <point x="751" y="160" type="line"/>
-      <point x="751" y="26" type="line" smooth="yes"/>
-      <point x="751" y="-158"/>
-      <point x="751" y="-219"/>
-      <point x="540" y="-219" type="curve"/>
+      <point x="540.0" y="-389.0" type="line"/>
+      <point x="622.0" y="-389.0" type="line" smooth="yes"/>
+      <point x="894.0" y="-389.0"/>
+      <point x="959.0" y="-254.0"/>
+      <point x="959.0" y="0.0" type="curve"/>
+      <point x="751.0" y="160.0" type="line"/>
+      <point x="751.0" y="26.0" type="line" smooth="yes"/>
+      <point x="751.0" y="-158.0"/>
+      <point x="751.0" y="-219.0"/>
+      <point x="540.0" y="-219.0" type="curve"/>
     </contour>
+    <component base="N"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

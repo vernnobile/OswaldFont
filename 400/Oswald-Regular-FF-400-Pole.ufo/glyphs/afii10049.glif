@@ -3,32 +3,39 @@
   <advance width="1065"/>
   <unicode hex="042F"/>
   <outline>
+    <contour>
+      <point x="524.0" y="769.0" type="curve" smooth="yes"/>
+      <point x="837.0" y="769.0" type="line"/>
+      <point x="837.0" y="947.0" type="line"/>
+      <point x="604.0" y="947.0" type="line" smooth="yes"/>
+      <point x="369.0" y="947.0"/>
+      <point x="346.0" y="1003.0"/>
+      <point x="346.0" y="1233.0" type="curve" smooth="yes"/>
+      <point x="346.0" y="1431.0"/>
+      <point x="408.0" y="1480.0"/>
+      <point x="608.0" y="1480.0" type="curve" smooth="yes"/>
+      <point x="837.0" y="1480.0" type="line"/>
+      <point x="837.0" y="1658.0" type="line"/>
+      <point x="524.0" y="1658.0" type="line" smooth="yes"/>
+      <point x="256.0" y="1658.0"/>
+      <point x="110.0" y="1503.0"/>
+      <point x="110.0" y="1232.0" type="curve" smooth="yes"/>
+      <point x="110.0" y="936.0"/>
+      <point x="228.0" y="769.0"/>
+    </contour>
+    <contour>
+      <point x="82.0" y="0.0" type="line"/>
+      <point x="321.0" y="0.0" type="line"/>
+      <point x="540.0" y="858.0" type="line"/>
+      <point x="344.0" y="923.0" type="line"/>
+    </contour>
     <component base="uc_main_stem" xOffset="592"/>
-    <contour>
-      <point x="524" y="769" type="curve" smooth="yes"/>
-      <point x="837" y="769" type="line"/>
-      <point x="837" y="947" type="line"/>
-      <point x="604" y="947" type="line" smooth="yes"/>
-      <point x="369" y="947"/>
-      <point x="346" y="1003"/>
-      <point x="346" y="1233" type="curve" smooth="yes"/>
-      <point x="346" y="1431"/>
-      <point x="408" y="1480"/>
-      <point x="608" y="1480" type="curve" smooth="yes"/>
-      <point x="837" y="1480" type="line"/>
-      <point x="837" y="1658" type="line"/>
-      <point x="524" y="1658" type="line" smooth="yes"/>
-      <point x="256" y="1658"/>
-      <point x="110" y="1503"/>
-      <point x="110" y="1232" type="curve" smooth="yes"/>
-      <point x="110" y="936"/>
-      <point x="228" y="769"/>
-    </contour>
-    <contour>
-      <point x="82" y="0" type="line"/>
-      <point x="321" y="0" type="line"/>
-      <point x="540" y="858" type="line"/>
-      <point x="344" y="923" type="line"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

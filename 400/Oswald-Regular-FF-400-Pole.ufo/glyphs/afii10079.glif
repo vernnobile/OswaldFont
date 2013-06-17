@@ -3,13 +3,20 @@
   <advance width="950"/>
   <unicode hex="043D"/>
   <outline>
+    <contour>
+      <point x="242.0" y="519.0" type="line"/>
+      <point x="724.0" y="519.0" type="line"/>
+      <point x="724.0" y="692.0" type="line"/>
+      <point x="242.0" y="692.0" type="line"/>
+    </contour>
     <component base="lc_xheight_stem" xOffset="486"/>
     <component base="lc_xheight_stem" xOffset="-8"/>
-    <contour>
-      <point x="242" y="519" type="line"/>
-      <point x="724" y="519" type="line"/>
-      <point x="724" y="692" type="line"/>
-      <point x="242" y="692" type="line"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

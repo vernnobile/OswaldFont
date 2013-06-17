@@ -3,12 +3,19 @@
   <advance width="929"/>
   <unicode hex="0127"/>
   <outline>
-    <component base="h"/>
     <contour>
-      <point x="-12" y="1411" type="line"/>
-      <point x="603" y="1411" type="line"/>
-      <point x="603" y="1542" type="line"/>
-      <point x="-12" y="1542" type="line"/>
+      <point x="-12.0" y="1411.0" type="line"/>
+      <point x="603.0" y="1411.0" type="line"/>
+      <point x="603.0" y="1542.0" type="line"/>
+      <point x="-12.0" y="1542.0" type="line"/>
     </contour>
+    <component base="h"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

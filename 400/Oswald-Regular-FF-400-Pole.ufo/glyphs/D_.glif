@@ -3,28 +3,35 @@
   <advance width="1082"/>
   <unicode hex="0044"/>
   <outline>
-    <component base="uc_main_stem" xOffset="8"/>
     <contour>
-      <point x="252" y="0" type="line"/>
-      <point x="504" y="0" type="line" smooth="yes"/>
-      <point x="857" y="0"/>
-      <point x="986" y="187"/>
-      <point x="986" y="549" type="curve" smooth="yes"/>
-      <point x="986" y="1147" type="line" smooth="yes"/>
-      <point x="986" y="1495"/>
-      <point x="861" y="1658"/>
-      <point x="486" y="1658" type="curve" smooth="yes"/>
-      <point x="252" y="1658" type="line"/>
-      <point x="252" y="1474" type="line"/>
-      <point x="481" y="1474" type="line" smooth="yes"/>
-      <point x="716" y="1474"/>
-      <point x="734" y="1374"/>
-      <point x="734" y="1118" type="curve" smooth="yes"/>
-      <point x="734" y="598" type="line" smooth="yes"/>
-      <point x="734" y="324"/>
-      <point x="736" y="178"/>
-      <point x="486" y="178" type="curve" smooth="yes"/>
-      <point x="252" y="178" type="line"/>
+      <point x="252.0" y="0.0" type="line"/>
+      <point x="504.0" y="0.0" type="line" smooth="yes"/>
+      <point x="857.0" y="0.0"/>
+      <point x="986.0" y="187.0"/>
+      <point x="986.0" y="549.0" type="curve" smooth="yes"/>
+      <point x="986.0" y="1147.0" type="line" smooth="yes"/>
+      <point x="986.0" y="1495.0"/>
+      <point x="861.0" y="1658.0"/>
+      <point x="486.0" y="1658.0" type="curve" smooth="yes"/>
+      <point x="252.0" y="1658.0" type="line"/>
+      <point x="252.0" y="1474.0" type="line"/>
+      <point x="481.0" y="1474.0" type="line" smooth="yes"/>
+      <point x="716.0" y="1474.0"/>
+      <point x="734.0" y="1374.0"/>
+      <point x="734.0" y="1118.0" type="curve" smooth="yes"/>
+      <point x="734.0" y="598.0" type="line" smooth="yes"/>
+      <point x="734.0" y="324.0"/>
+      <point x="736.0" y="178.0"/>
+      <point x="486.0" y="178.0" type="curve" smooth="yes"/>
+      <point x="252.0" y="178.0" type="line"/>
     </contour>
+    <component base="uc_main_stem" xOffset="8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

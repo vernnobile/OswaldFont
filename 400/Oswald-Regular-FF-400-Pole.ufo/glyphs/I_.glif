@@ -4,5 +4,15 @@
   <unicode hex="0049"/>
   <outline>
     <component base="uc_main_stem" xScale="0.980777" xOffset="23.2683"/>
+    <contour>
+      <point x="254.0" y="0.0" type="move" name="ogonek"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

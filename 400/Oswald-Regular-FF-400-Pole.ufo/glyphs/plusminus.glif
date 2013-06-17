@@ -4,24 +4,31 @@
   <unicode hex="00B1"/>
   <outline>
     <contour>
-      <point x="296" y="355" type="line"/>
-      <point x="473" y="355" type="line"/>
-      <point x="473" y="533" type="line"/>
-      <point x="651" y="533" type="line"/>
-      <point x="651" y="711" type="line"/>
-      <point x="473" y="711" type="line"/>
-      <point x="473" y="888" type="line"/>
-      <point x="296" y="888" type="line"/>
-      <point x="296" y="711" type="line"/>
-      <point x="118" y="711" type="line"/>
-      <point x="118" y="533" type="line"/>
-      <point x="296" y="533" type="line"/>
+      <point x="296.0" y="355.0" type="line"/>
+      <point x="473.0" y="355.0" type="line"/>
+      <point x="473.0" y="533.0" type="line"/>
+      <point x="651.0" y="533.0" type="line"/>
+      <point x="651.0" y="711.0" type="line"/>
+      <point x="473.0" y="711.0" type="line"/>
+      <point x="473.0" y="888.0" type="line"/>
+      <point x="296.0" y="888.0" type="line"/>
+      <point x="296.0" y="711.0" type="line"/>
+      <point x="118.0" y="711.0" type="line"/>
+      <point x="118.0" y="533.0" type="line"/>
+      <point x="296.0" y="533.0" type="line"/>
     </contour>
     <contour>
-      <point x="118" y="0" type="line"/>
-      <point x="651" y="0" type="line"/>
-      <point x="651" y="178" type="line"/>
-      <point x="118" y="178" type="line"/>
+      <point x="118.0" y="0.0" type="line"/>
+      <point x="651.0" y="0.0" type="line"/>
+      <point x="651.0" y="178.0" type="line"/>
+      <point x="118.0" y="178.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
