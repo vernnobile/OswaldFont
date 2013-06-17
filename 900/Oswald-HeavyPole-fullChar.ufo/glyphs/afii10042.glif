@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10042" format="1">
-  <advance width="1659"/>
+  <advance width="1679.25736"/>
   <unicode hex="0428"/>
   <outline>
-    <component base="uc_horiz_bar" xScale="1.45184" xOffset="157"/>
-    <component base="uc_main_stem" xScale="0.93128" xOffset="13"/>
-    <component base="uc_main_stem" xScale="0.93128" xOffset="1112.57"/>
-    <component base="uc_main_stem" xScale="0.93128" xOffset="564.566"/>
+    <component base="uc_horiz_bar" xScale="1.45184" xOffset="166.56632"/>
+    <component base="uc_main_stem" xScale="0.93128" xOffset="22.56632"/>
+    <component base="uc_main_stem" xScale="0.93128" xOffset="1122.13632"/>
+    <component base="uc_main_stem" xScale="0.93128" xOffset="574.13232"/>
   </outline>
   <lib>
     <dict>
@@ -51,6 +51,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10042</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1679.2573599999998</real>
+        </dict>
       </dict>
     </dict>
   </lib>

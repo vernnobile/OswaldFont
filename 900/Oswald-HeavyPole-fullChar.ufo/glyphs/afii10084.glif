@@ -3,13 +3,8 @@
   <advance width="917"/>
   <unicode hex="0442"/>
   <outline>
-    <contour>
-      <point x="76" y="968" type="line"/>
-      <point x="841" y="968" type="line"/>
-      <point x="841" y="1216" type="line"/>
-      <point x="76" y="1216" type="line"/>
-    </contour>
     <component base="lc_xheight_stem" xOffset="190"/>
+    <component base="lc_horiz_bar" yScale="0.784679569592" xOffset="-4" yOffset="936"/>
   </outline>
   <lib>
     <dict>
@@ -48,6 +43,73 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>76.0</real>
+                  <key>y</key>
+                  <real>936.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>841.0</real>
+                  <key>y</key>
+                  <real>936.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>841.0</real>
+                  <key>y</key>
+                  <real>1184.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>76.0</real>
+                  <key>y</key>
+                  <real>1184.0</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10084</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>917</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

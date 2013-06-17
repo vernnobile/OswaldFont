@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10106" format="1">
-  <advance width="1520"/>
+  <advance width="1655"/>
   <unicode hex="0459"/>
   <outline>
-    <component base="cyrillic_lc_right_bowl" xOffset="509" yOffset="2"/>
-    <component base="lc_horiz_bar" xScale="0.690648" yScale="0.773971618753" xOffset="213" yOffset="940"/>
-    <component base="lc_xheight_stem" xScale="0.948638224917" xOffset="12"/>
-    <component base="lc_xheight_stem" xScale="0.948638224917" xOffset="535"/>
+    <contour>
+      <point x="268" y="723" type="line" smooth="yes"/>
+      <point x="241" y="288"/>
+      <point x="212" y="236"/>
+      <point x="46" y="236" type="curve"/>
+      <point x="46" y="0" type="line"/>
+      <point x="110" y="0" type="line" smooth="yes"/>
+      <point x="370" y="0"/>
+      <point x="553" y="36"/>
+      <point x="586" y="598" type="curve" smooth="yes"/>
+      <point x="620" y="1184" type="line"/>
+      <point x="297" y="1184" type="line"/>
+    </contour>
+    <component base="uc_horiz_bar" xScale="0.690221366991" xOffset="396" yOffset="867"/>
+    <component base="cyrillic_lc_right_bowl" xOffset="720"/>
+    <component base="lc_xheight_stem" xOffset="716"/>
   </outline>
   <lib>
     <dict>
@@ -51,6 +63,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10106</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1655</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

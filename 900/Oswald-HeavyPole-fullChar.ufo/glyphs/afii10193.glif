@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10193" format="1">
-  <advance width="1072"/>
+  <advance width="1078"/>
   <unicode hex="045F"/>
   <outline>
     <contour>
-      <point x="268" y="0" type="line"/>
-      <point x="797" y="0" type="line"/>
-      <point x="797" y="214" type="line"/>
-      <point x="268" y="214" type="line"/>
+      <point x="375" y="175" type="line"/>
+      <point x="408" y="-252" type="line"/>
+      <point x="683" y="-252" type="line"/>
+      <point x="710" y="175" type="line"/>
     </contour>
-    <component base="lc_xheight_stem" xOffset="538"/>
-    <component base="lc_xheight_stem" xOffset="8"/>
+    <component base="uc_horiz_bar" xScale="0.692780100844" yScale="0.988888888889" xOffset="226"/>
+    <component base="lc_xheight_stem" xOffset="9"/>
+    <component base="lc_xheight_stem" xOffset="543"/>
   </outline>
   <lib>
     <dict>
@@ -49,6 +50,54 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>lc_xheight_stem</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>8</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>lc_xheight_stem</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>538</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10193</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1078</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

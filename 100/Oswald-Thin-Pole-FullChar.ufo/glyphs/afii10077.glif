@@ -4,7 +4,6 @@
   <unicode hex="043B"/>
   <outline>
     <contour>
-      <point x="22" y="-10" type="line"/>
       <point x="39" y="-10" type="line" smooth="yes"/>
       <point x="237" y="-10"/>
       <point x="278" y="210"/>
@@ -15,6 +14,7 @@
       <point x="218" y="209"/>
       <point x="169" y="45"/>
       <point x="22" y="45" type="curve"/>
+      <point x="22" y="-10" type="line"/>
     </contour>
     <component base="lc_xheight_stem" xOffset="539"/>
     <component base="uc_horiz_bar" xScale="0.693916474246" xOffset="301" yOffset="1132"/>

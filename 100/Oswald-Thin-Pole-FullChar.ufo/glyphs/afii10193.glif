@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10193" format="1">
-  <advance width="770"/>
+  <advance width="790"/>
   <unicode hex="045F"/>
   <outline>
+    <contour>
+      <point x="372" y="25" type="line"/>
+      <point x="384" y="-188" type="line"/>
+      <point x="418" y="-188" type="line"/>
+      <point x="426" y="25" type="line"/>
+    </contour>
     <component base="lc_xheight_stem" xOffset="-17"/>
-    <component base="lc_xheight_stem" xOffset="453"/>
-    <component base="uc_horiz_bar" xScale="0.803640464982" xOffset="151"/>
+    <component base="lc_xheight_stem" xOffset="473"/>
+    <component base="uc_horiz_bar" xScale="0.827828106757" xOffset="151"/>
   </outline>
   <lib>
     <dict>
@@ -64,7 +70,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>770</integer>
+          <integer>790</integer>
         </dict>
       </dict>
     </dict>

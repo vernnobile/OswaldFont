@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10145" format="1">
-  <advance width="1176"/>
+  <advance width="1196"/>
   <unicode hex="040F"/>
   <outline>
-    <component base="uc_horiz_bar" xScale="0.767505" xOffset="239"/>
-    <component base="uc_main_stem" xOffset="7"/>
-    <component base="uc_main_stem" xOffset="595"/>
+    <component base="uc_horiz_bar" xScale="0.767505" xOffset="249"/>
+    <component base="uc_main_stem" xOffset="17"/>
+    <component base="uc_main_stem" xOffset="605"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10145</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1196</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

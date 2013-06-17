@@ -8,7 +8,6 @@
       <point x="750" y="727" type="line"/>
       <point x="268" y="727" type="line"/>
       <point x="268" y="462" type="line"/>
-      <point x="750" y="462" type="line"/>
     </contour>
     <component base="lc_xheight_stem" xOffset="8"/>
     <component base="o" xScale="0.961665" xOffset="524"/>
@@ -74,6 +73,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10096</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1502.850095</real>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="1">
-  <advance width="949"/>
+  <advance width="984"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>
-      <point x="433" y="-317" type="line"/>
-      <point x="524" y="-317" type="line"/>
-      <point x="524" y="5" type="line"/>
-      <point x="433" y="5" type="line"/>
+      <point x="458" y="-308" type="line"/>
+      <point x="549" y="-308" type="line"/>
+      <point x="549" y="14" type="line"/>
+      <point x="458" y="14" type="line"/>
     </contour>
     <contour>
-      <point x="433" y="1160" type="line"/>
-      <point x="524" y="1160" type="line"/>
-      <point x="524" y="1479" type="line"/>
-      <point x="433" y="1479" type="line"/>
+      <point x="458" y="1169" type="line"/>
+      <point x="549" y="1169" type="line"/>
+      <point x="549" y="1488" type="line"/>
+      <point x="458" y="1488" type="line"/>
     </contour>
     <component base="c"/>
   </outline>
@@ -21,6 +21,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>984</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -4,16 +4,16 @@
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="57" y="1264" type="line"/>
-      <point x="248" y="1264" type="line"/>
-      <point x="495" y="1712" type="line"/>
-      <point x="192" y="1712" type="line"/>
+      <point x="57" y="1184" type="line"/>
+      <point x="248" y="1184" type="line"/>
+      <point x="495" y="1658" type="line"/>
+      <point x="192" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="455" y="1264" type="line"/>
-      <point x="650" y="1264" type="line"/>
-      <point x="897" y="1712" type="line"/>
-      <point x="591" y="1712" type="line"/>
+      <point x="455" y="1184" type="line"/>
+      <point x="650" y="1184" type="line"/>
+      <point x="903" y="1658" type="line"/>
+      <point x="591" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,6 +29,31 @@
             <integer>448</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1016</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

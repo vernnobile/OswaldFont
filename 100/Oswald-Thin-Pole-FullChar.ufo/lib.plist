@@ -292,9 +292,9 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>minus</string>
-		<string>uni0217</string>
+		<string>utilde</string>
 		<string>Hcircumflex</string>
-		<string>uni0211</string>
+		<string>uni1E0B</string>
 		<string>obreve</string>
 		<string>Ygrave</string>
 		<string>quotedblright</string>
@@ -302,15 +302,14 @@
 		<string>tt</string>
 		<string>ccaron</string>
 		<string>quotesinglbase</string>
-		<string>foundryicon</string>
 		<string>Euro</string>
 		<string>lc_horiz_bar</string>
 		<string>cyrillic_lc_right_bowl</string>
 		<string>uc_horiz_bar</string>
 		<string>amacron</string>
 		<string>Kcommaaccent</string>
+		<string>rcommaaccent</string>
 		<string>Scaron</string>
-		<string>Sacute</string>
 		<string>Cacute</string>
 		<string>lessequal</string>
 		<string>gcommaaccent</string>
@@ -337,19 +336,18 @@
 		<string>afii10039</string>
 		<string>dcaron</string>
 		<string>scaron</string>
+		<string>lc_ascender_stem</string>
 		<string>greaterequal</string>
-		<string>afii10029</string>
+		<string>lc_descender_stem</string>
 		<string>uni1E1E</string>
 		<string>uni1E1F</string>
 		<string>uni2113</string>
-		<string>afii10062</string>
-		<string>afii10025</string>
-		<string>Uring</string>
+		<string>oe</string>
 		<string>Eogonek</string>
 		<string>cdotaccent</string>
-		<string>afii10023</string>
-		<string>afii10022</string>
-		<string>afii10020</string>
+		<string>guilsinglleft</string>
+		<string>uni040D</string>
+		<string>uni0491</string>
 		<string>uni030F</string>
 		<string>uni030C</string>
 		<string>tbar</string>
@@ -362,7 +360,6 @@
 		<string>uni0307</string>
 		<string>uni0304</string>
 		<string>uni0308</string>
-		<string>afii10053</string>
 		<string>uniFB04</string>
 		<string>eng</string>
 		<string>uniFB01</string>
@@ -371,45 +368,41 @@
 		<string>uniFB02</string>
 		<string>uni1E56</string>
 		<string>uni1E57</string>
-		<string>ecaron</string>
 		<string>uring</string>
 		<string>afii10078</string>
 		<string>afii10079</string>
-		<string>afii10088</string>
 		<string>afii10074</string>
 		<string>afii10075</string>
 		<string>afii10076</string>
-		<string>afii10110</string>
+		<string>afii10059</string>
 		<string>afii10070</string>
 		<string>afii10071</string>
 		<string>afii10072</string>
 		<string>afii10073</string>
-		<string>uni021A</string>
 		<string>Scedilla</string>
 		<string>gcircumflex</string>
 		<string>Idotaccent</string>
 		<string>ccircumflex</string>
 		<string>dcroat</string>
-		<string>Itilde</string>
 		<string>omacron</string>
-		<string>afii10026</string>
 		<string>ygrave</string>
+		<string>uni0206</string>
 		<string>endash</string>
 		<string>Eng</string>
+		<string>fraction</string>
+		<string>uni1E02</string>
 		<string>Ohungarumlaut</string>
 		<string>acutecomb</string>
-		<string>Gcommaaccent</string>
 		<string>Ecaron</string>
 		<string>Lcaron</string>
 		<string>Tcommaaccent</string>
 		<string>Ncommaaccent</string>
-		<string>Obreve</string>
-		<string>afii10101</string>
 		<string>imacron</string>
 		<string>wacute</string>
 		<string>notequal</string>
 		<string>Tbar</string>
 		<string>radical</string>
+		<string>Itilde</string>
 		<string>uni0237</string>
 		<string>Ubreve</string>
 		<string>Ycircumflex</string>
@@ -436,6 +429,7 @@
 		<string>afii10049</string>
 		<string>afii10048</string>
 		<string>Jcircumflex</string>
+		<string>uni01F2</string>
 		<string>lc_right_curve</string>
 		<string>tcaron</string>
 		<string>uni01CA</string>
@@ -451,8 +445,8 @@
 		<string>Emacron</string>
 		<string>edotaccent</string>
 		<string>gravecomb</string>
+		<string>Nacute</string>
 		<string>ohungarumlaut</string>
-		<string>guilsinglright</string>
 		<string>emacron</string>
 		<string>uni2074</string>
 		<string>lozenge</string>
@@ -461,6 +455,7 @@
 		<string>perthousand</string>
 		<string>uni020F</string>
 		<string>uni020E</string>
+		<string>Sacute</string>
 		<string>uni020C</string>
 		<string>uni020B</string>
 		<string>uni020A</string>
@@ -482,17 +477,19 @@
 		<string>afii10087</string>
 		<string>afii10086</string>
 		<string>afii10089</string>
+		<string>afii10088</string>
 		<string>napostrophe</string>
 		<string>uni0209</string>
 		<string>uni0208</string>
 		<string>uni0207</string>
-		<string>uni0206</string>
 		<string>uni0205</string>
 		<string>uni0204</string>
 		<string>uni0203</string>
 		<string>uni0202</string>
 		<string>uni0201</string>
 		<string>uni0200</string>
+		<string>uc_main_stem</string>
+		<string>Obreve</string>
 		<string>rcaron</string>
 		<string>Ccaron</string>
 		<string>Pi</string>
@@ -506,12 +503,13 @@
 		<string>quotedblleft</string>
 		<string>zacute</string>
 		<string>Tcaron</string>
-		<string>lc_ascender_stem</string>
 		<string>Lcommaaccent</string>
 		<string>hbar</string>
 		<string>Racute</string>
 		<string>uhungarumlaut</string>
 		<string>Utilde</string>
+		<string>nacute</string>
+		<string>uni1E0A</string>
 		<string>partialdiff</string>
 		<string>trademark</string>
 		<string>lslash</string>
@@ -521,7 +519,9 @@
 		<string>ycircumflex</string>
 		<string>uni00A0</string>
 		<string>Amacron</string>
+		<string>afii10021</string>
 		<string>lc_xheight_stem</string>
+		<string>foundryicon</string>
 		<string>uni020D</string>
 		<string>uni0326</string>
 		<string>uni0306</string>
@@ -532,11 +532,11 @@
 		<string>afii10054</string>
 		<string>afii10055</string>
 		<string>afii10052</string>
+		<string>afii10053</string>
 		<string>afii10051</string>
 		<string>afii10058</string>
-		<string>afii10059</string>
+		<string>afii10110</string>
 		<string>Dcroat</string>
-		<string>uni0212</string>
 		<string>infinity</string>
 		<string>IJ</string>
 		<string>emdash</string>
@@ -546,11 +546,11 @@
 		<string>Wdieresis</string>
 		<string>Zcaron</string>
 		<string>afii10046</string>
+		<string>ecaron</string>
+		<string>uni01F3</string>
 		<string>Ncaron</string>
 		<string>Wacute</string>
 		<string>Hbar</string>
-		<string>uni01F2</string>
-		<string>uni01F3</string>
 		<string>uni01F1</string>
 		<string>uni01F4</string>
 		<string>lcaron</string>
@@ -562,7 +562,7 @@
 		<string>uni00B2</string>
 		<string>scircumflex</string>
 		<string>uni00B9</string>
-		<string>Wcircumflex</string>
+		<string>uni1E41</string>
 		<string>afii10092</string>
 		<string>afii10093</string>
 		<string>afii10090</string>
@@ -573,15 +573,17 @@
 		<string>afii10099</string>
 		<string>eogonek</string>
 		<string>Umacron</string>
+		<string>uni0490</string>
 		<string>uni0214</string>
 		<string>uni0215</string>
 		<string>uni0216</string>
-		<string>utilde</string>
+		<string>uni0217</string>
 		<string>uni0210</string>
-		<string>uni1E0B</string>
-		<string>uni1E0A</string>
+		<string>uni0211</string>
+		<string>uni0212</string>
 		<string>uni0213</string>
 		<string>ellipsis</string>
+		<string>guilsinglright</string>
 		<string>ncommaaccent</string>
 		<string>Gdotaccent</string>
 		<string>zcaron</string>
@@ -591,38 +593,36 @@
 		<string>uni02C9</string>
 		<string>Scircumflex</string>
 		<string>uni1E03</string>
-		<string>uni1E02</string>
+		<string>uni021A</string>
 		<string>uni021B</string>
-		<string>lc_descender_stem</string>
+		<string>afii10029</string>
 		<string>afii10028</string>
 		<string>afii10027</string>
-		<string>rcommaaccent</string>
-		<string>oe</string>
+		<string>afii10026</string>
+		<string>afii10025</string>
 		<string>afii10024</string>
-		<string>guilsinglleft</string>
-		<string>uni040D</string>
-		<string>afii10021</string>
-		<string>uni0491</string>
-		<string>afii10068</string>
+		<string>afii10023</string>
+		<string>afii10022</string>
+		<string>Uring</string>
+		<string>afii10020</string>
 		<string>uni00B3</string>
 		<string>dagger</string>
 		<string>integral</string>
 		<string>Ibreve</string>
+		<string>Gcommaaccent</string>
 		<string>Ebreve</string>
 		<string>uogonek</string>
-		<string>fraction</string>
+		<string>Ccircumflex</string>
 		<string>afii10077</string>
-		<string>afii10100</string>
+		<string>wgrave</string>
 		<string>Omacron</string>
 		<string>Iogonek</string>
-		<string>afii10102</string>
+		<string>wcircumflex</string>
 		<string>afii10104</string>
-		<string>bullet</string>
+		<string>afii10106</string>
 		<string>iogonek</string>
-		<string>uc_main_stem</string>
 		<string>wdieresis</string>
 		<string>afii10097</string>
-		<string>nacute</string>
 		<string>Zdotaccent</string>
 		<string>afii10095</string>
 		<string>quotedblbase</string>
@@ -635,26 +635,26 @@
 		<string>ibreve</string>
 		<string>ubreve</string>
 		<string>gdotaccent</string>
-		<string>uni1E41</string>
+		<string>Wcircumflex</string>
 		<string>uni1E40</string>
 		<string>approxequal</string>
 		<string>Imacron</string>
 		<string>scedilla</string>
 		<string>afii10069</string>
-		<string>Ccircumflex</string>
+		<string>afii10068</string>
 		<string>cyrillic_uc_right_bowl</string>
+		<string>afii10062</string>
 		<string>afii10061</string>
 		<string>afii10060</string>
 		<string>afii10067</string>
 		<string>afii10066</string>
 		<string>afii10065</string>
-		<string>wgrave</string>
-		<string>uni0490</string>
-		<string>wcircumflex</string>
+		<string>afii10100</string>
+		<string>afii10101</string>
+		<string>afii10102</string>
 		<string>afii10103</string>
-		<string>Nacute</string>
 		<string>afii10105</string>
-		<string>afii10106</string>
+		<string>bullet</string>
 		<string>afii10107</string>
 		<string>afii10108</string>
 		<string>afii10109</string>

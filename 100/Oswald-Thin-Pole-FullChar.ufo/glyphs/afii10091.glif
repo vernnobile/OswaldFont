@@ -11,9 +11,9 @@
       <point x="152" y="0" type="line"/>
       <point x="951" y="0" type="line"/>
     </contour>
-    <component base="lc_xheight_stem" xOffset="373"/>
-    <component base="lc_xheight_stem" xOffset="749"/>
-    <component base="lc_xheight_stem" xOffset="-17"/>
+    <component base="lc_xheight_stem" xScale="0.966194902409" xOffset="385"/>
+    <component base="lc_xheight_stem" xScale="0.966194902409" xOffset="-12"/>
+    <component base="lc_xheight_stem" xScale="0.966194902409" xOffset="769"/>
   </outline>
   <lib>
     <dict>
@@ -26,6 +26,45 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>lc_xheight_stem</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>373</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>lc_xheight_stem</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-17</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>lc_xheight_stem</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>749</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>

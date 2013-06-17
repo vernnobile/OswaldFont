@@ -4,7 +4,7 @@
   <unicode hex="0411"/>
   <outline>
     <component base="cyrillic_uc_right_bowl" xOffset="-133"/>
-    <component base="uc_horiz_bar" xScale="0.84658" xOffset="233" yOffset="1309"/>
+    <component base="uc_horiz_bar" xScale="0.84658" xOffset="233" yOffset="1342"/>
     <component base="uc_main_stem" xOffset="7"/>
   </outline>
   <lib>
@@ -44,6 +44,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10018</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1069</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

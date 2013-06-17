@@ -4,22 +4,51 @@
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="58" y="34" type="line"/>
-      <point x="485" y="518" type="line"/>
-      <point x="485" y="634" type="line"/>
-      <point x="58" y="1118" type="line"/>
-      <point x="58" y="783" type="line"/>
-      <point x="281" y="577" type="line"/>
-      <point x="58" y="369" type="line"/>
+      <point x="82" y="74" type="line"/>
+      <point x="509" y="558" type="line"/>
+      <point x="509" y="674" type="line"/>
+      <point x="82" y="1158" type="line"/>
+      <point x="82" y="823" type="line"/>
+      <point x="305" y="617" type="line"/>
+      <point x="82" y="409" type="line"/>
     </contour>
     <contour>
-      <point x="516" y="34" type="line"/>
-      <point x="942" y="518" type="line"/>
-      <point x="942" y="634" type="line"/>
-      <point x="516" y="1118" type="line"/>
-      <point x="516" y="783" type="line"/>
-      <point x="738" y="577" type="line"/>
-      <point x="516" y="369" type="line"/>
+      <point x="540" y="74" type="line"/>
+      <point x="966" y="558" type="line"/>
+      <point x="966" y="674" type="line"/>
+      <point x="540" y="1158" type="line"/>
+      <point x="540" y="823" type="line"/>
+      <point x="762" y="617" type="line"/>
+      <point x="540" y="409" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guillemotright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1020</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

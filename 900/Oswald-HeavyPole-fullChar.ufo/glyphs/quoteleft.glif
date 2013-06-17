@@ -4,22 +4,44 @@
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="122" y="1092" type="curve"/>
-      <point x="434" y="1092" type="line"/>
-      <point x="434" y="1406" type="line"/>
-      <point x="280" y="1406" type="line"/>
-      <point x="280" y="1494"/>
-      <point x="295" y="1573"/>
-      <point x="409" y="1573" type="curve"/>
-      <point x="390" y="1686" type="line"/>
-      <point x="131" y="1686"/>
-      <point x="122" y="1497"/>
+      <point x="122" y="1064" type="curve"/>
+      <point x="434" y="1064" type="line"/>
+      <point x="434" y="1378" type="line"/>
+      <point x="280" y="1378" type="line"/>
+      <point x="280" y="1466"/>
+      <point x="295" y="1545"/>
+      <point x="409" y="1545" type="curve"/>
+      <point x="390" y="1658" type="line"/>
+      <point x="131" y="1658"/>
+      <point x="122" y="1469"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quoteleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>568</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

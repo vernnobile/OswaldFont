@@ -1,80 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10051" format="1">
-  <advance width="826"/>
+  <advance width="794"/>
   <unicode hex="0402"/>
   <outline>
     <contour>
-      <point x="104" y="795" type="line"/>
-      <point x="725" y="795" type="line"/>
-      <point x="725" y="945" type="line"/>
-      <point x="104" y="945" type="line"/>
+      <point x="340" y="-386" type="line"/>
+      <point x="411" y="-386" type="line" smooth="yes"/>
+      <point x="654" y="-386"/>
+      <point x="819" y="-255"/>
+      <point x="819" y="-12" type="curve" smooth="yes"/>
+      <point x="819" y="0" type="line"/>
+      <point x="582" y="0" type="line"/>
+      <point x="582" y="-10" type="line" smooth="yes"/>
+      <point x="582" y="-146"/>
+      <point x="544" y="-208"/>
+      <point x="340" y="-208" type="curve"/>
     </contour>
-    <component base="T"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>&lt;?xml_version="1.0"_encoding="UTF-8"?&gt;
-&lt;glyph_name="None"_format="1"&gt;
-__&lt;advance_width="0"-&gt;
-__&lt;outline&gt;
-____&lt;contour&gt;
-______&lt;point_x="441"_y="178"_type="curve"_smooth="yes"-&gt;
-______&lt;point_x="323"_y="178"-&gt;
-______&lt;point_x="323"_y="296"-&gt;
-______&lt;point_x="323"_y="414"_type="curve"_smooth="yes"-&gt;
-______&lt;point_x="323"_y="769"_type="line"_smooth="yes"-&gt;
-______&lt;point_x="323"_y="887"-&gt;
-______&lt;point_x="323"_y="1007"-&gt;
-______&lt;point_x="441"_y="1007"_type="curve"_smooth="yes"-&gt;
-______&lt;point_x="559"_y="1007"-&gt;
-______&lt;point_x="559"_y="887"-&gt;
-______&lt;point_x="559"_y="769"_type="curve"_smooth="yes"-&gt;
-______&lt;point_x="559"_y="414"_type="line"_smooth="yes"-&gt;
-______&lt;point_x="559"_y="296"-&gt;
-______&lt;point_x="559"_y="178"-&gt;
-____&lt;-contour&gt;
-____&lt;contour&gt;
-______&lt;point_x="441"_y="-17"_type="curve"_smooth="yes"-&gt;
-______&lt;point_x="708"_y="-17"-&gt;
-______&lt;point_x="797"_y="152"-&gt;
-______&lt;point_x="797"_y="414"_type="curve"_smooth="yes"-&gt;
-______&lt;point_x="797"_y="769"_type="line"_smooth="yes"-&gt;
-______&lt;point_x="797"_y="1031"-&gt;
-______&lt;point_x="708"_y="1200"-&gt;
-______&lt;point_x="441"_y="1200"_type="curve"_smooth="yes"-&gt;
-______&lt;point_x="174"_y="1200"-&gt;
-______&lt;point_x="86"_y="1031"-&gt;
-______&lt;point_x="86"_y="769"_type="curve"_smooth="yes"-&gt;
-______&lt;point_x="86"_y="414"_type="line"_smooth="yes"-&gt;
-______&lt;point_x="86"_y="152"-&gt;
-______&lt;point_x="174"_y="-17"-&gt;
-____&lt;-contour&gt;
-__&lt;-outline&gt;
-&lt;-glyph&gt;
-b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10051</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>826</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-406</integer>
+	    <key>width</key>	    <integer>237</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

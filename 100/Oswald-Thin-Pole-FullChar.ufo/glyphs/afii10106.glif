@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10106" format="1">
-  <advance width="1136"/>
+  <advance width="1160"/>
   <unicode hex="0459"/>
   <outline>
-    <component base="cyrillic_lc_right_bowl" xOffset="407"/>
-    <component base="lc_horiz_bar" xScale="0.799816522117" xOffset="150" yOffset="1132"/>
-    <component base="lc_xheight_stem" xOffset="451"/>
-    <component base="lc_xheight_stem" xOffset="-17"/>
+    <contour>
+      <point x="231" y="545" type="line" smooth="yes"/>
+      <point x="207" y="184"/>
+      <point x="204" y="40"/>
+      <point x="50" y="40" type="curve"/>
+      <point x="50" y="-10" type="line"/>
+      <point x="58" y="-10" type="line" smooth="yes"/>
+      <point x="239" y="-10"/>
+      <point x="261" y="38"/>
+      <point x="295" y="544" type="curve" smooth="yes"/>
+      <point x="338" y="1184" type="line"/>
+      <point x="274" y="1184" type="line"/>
+    </contour>
+    <component base="cyrillic_lc_right_bowl" xOffset="471"/>
+    <component base="uc_horiz_bar" xScale="0.652476882922" xOffset="299" yOffset="1132"/>
+    <component base="lc_xheight_stem" xOffset="516"/>
   </outline>
   <lib>
     <dict>
@@ -71,7 +83,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1136</integer>
+          <integer>1160</integer>
         </dict>
       </dict>
     </dict>

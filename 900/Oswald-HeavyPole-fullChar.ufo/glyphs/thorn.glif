@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="1015"/>
+  <advance width="1044"/>
   <unicode hex="00FE"/>
   <outline>
-    <component base="lc_ascender_stem" xOffset="3"/>
-    <component base="lc_descender_stem" xOffset="1"/>
-    <component base="lc_right_curve" xOffset="-1"/>
+    <component base="lc_ascender_stem" xOffset="13"/>
+    <component base="lc_descender_stem" xOffset="11"/>
+    <component base="lc_right_curve" xOffset="9"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>thorn</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1044</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
