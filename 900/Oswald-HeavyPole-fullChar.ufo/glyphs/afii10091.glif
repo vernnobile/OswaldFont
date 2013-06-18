@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10091" format="1">
-  <advance width="1598"/>
+  <advance width="1649.82639162"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
-      <point x="1293" y="-290" type="line"/>
-      <point x="1573" y="-290" type="line"/>
-      <point x="1573" y="248" type="line"/>
-      <point x="264.094015" y="248" type="line"/>
-      <point x="264.094015" y="0" type="line"/>
-      <point x="1263" y="0" type="line"/>
+      <point x="1349.82639162" y="-378" type="line"/>
+      <point x="1629.82639162" y="-378" type="line"/>
+      <point x="1629.82639162" y="248" type="line"/>
+      <point x="264.920406617" y="248" type="line"/>
+      <point x="264.920406617" y="0" type="line"/>
+      <point x="1319.82639162" y="0" type="line"/>
     </contour>
-    <component base="lc_xheight_stem" xScale="0.937319589385" xOffset="494"/>
-    <component base="lc_xheight_stem" xScale="0.937319589385" xOffset="978"/>
-    <component base="lc_xheight_stem" xScale="0.937319589385" xOffset="12"/>
+    <component base="lc_xheight_stem" xScale="0.937319589385" xOffset="494.826391617"/>
+    <component base="lc_xheight_stem" xScale="0.937319589385" xOffset="978.826391617"/>
+    <component base="lc_xheight_stem" xScale="0.937319589385" xOffset="12.8263916174"/>
   </outline>
   <lib>
     <dict>
@@ -74,7 +74,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>981</integer>
+                <real>981.8263916173551</real>
                 <integer>0</integer>
               </array>
             </dict>
@@ -87,7 +87,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>13</integer>
+                <real>13.826391617355</real>
                 <integer>0</integer>
               </array>
             </dict>
@@ -100,7 +100,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <integer>497</integer>
+                <real>497.826391617355</real>
                 <integer>0</integer>
               </array>
             </dict>
@@ -117,7 +117,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1598</integer>
+          <real>1649.826391617355</real>
         </dict>
       </dict>
     </dict>

@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10145" format="1">
-  <advance width="1196"/>
+  <advance width="1219"/>
   <unicode hex="040F"/>
   <outline>
-    <component base="uc_horiz_bar" xScale="0.767505" xOffset="249"/>
+    <contour>
+      <point x="312.0" y="0.0" type="line"/>
+      <point x="921" y="0" type="line"/>
+      <point x="921" y="316" type="line"/>
+      <point x="312.0" y="316.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="761" y="-378" type="line"/>
+      <point x="781" y="170" type="line"/>
+      <point x="447" y="170" type="line"/>
+      <point x="467" y="-378" type="line"/>
+    </contour>
     <component base="uc_main_stem" xOffset="17"/>
-    <component base="uc_main_stem" xOffset="605"/>
+    <component base="uc_main_stem" xOffset="628"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1196</integer>
+          <integer>1219</integer>
         </dict>
       </dict>
     </dict>

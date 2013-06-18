@@ -4,12 +4,34 @@
   <unicode hex="040B"/>
   <outline>
     <component base="T" xScale="0.974129" xOffset="-172"/>
-    <component base="lc_xheight_curve_stem" xOffset="3.97413"/>
+    <component base="lc_xheight_curve_stem" yScale="0.800844892812" xOffset="4"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10060</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>924</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

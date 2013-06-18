@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10086" format="1">
-  <advance width="1502"/>
+  <advance width="1465"/>
   <unicode hex="0444"/>
   <outline>
-    <component base="lc_left_curve" yScale="0.802694" xOffset="-303" yOffset="120.448"/>
-    <component base="lc_left_curve" xScale="-1" xyScale="1.3605e-16" yxScale="-1.66533e-16" yScale="-0.816957" xOffset="1805" yOffset="1107.29"/>
-    <component base="uc_main_stem" xScale="0.769417" yScale="1.14275" xOffset="528.677" yOffset="-219"/>
+    <contour>
+      <point x="1300" y="-27"/>
+      <point x="1393.0" y="72.0"/>
+      <point x="1393.0" y="278.0" type="curve" smooth="yes"/>
+      <point x="1393.0" y="915.0" type="line" smooth="yes"/>
+      <point x="1393.0" y="1116.0"/>
+      <point x="1291" y="1223"/>
+      <point x="1142.0" y="1210.0" type="curve" smooth="yes"/>
+      <point x="737" y="1176" type="line"/>
+      <point x="323.0" y="1210.0" type="line" smooth="yes"/>
+      <point x="174" y="1222"/>
+      <point x="72.0" y="1116.0"/>
+      <point x="72.0" y="915.0" type="curve" smooth="yes"/>
+      <point x="72.0" y="278.0" type="line" smooth="yes"/>
+      <point x="72.0" y="72.0"/>
+      <point x="166" y="-26"/>
+      <point x="320.0" y="-17.0" type="curve" smooth="yes"/>
+      <point x="741" y="8" type="line"/>
+      <point x="1145.0" y="-17.0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="728" y="217" type="line"/>
+      <point x="484.0" y="209.0" type="line" smooth="yes"/>
+      <point x="445" y="208"/>
+      <point x="421.0" y="245.0"/>
+      <point x="421.0" y="286.0" type="curve" smooth="yes"/>
+      <point x="421.0" y="900.0" type="line" smooth="yes"/>
+      <point x="421.0" y="954.0"/>
+      <point x="443" y="993"/>
+      <point x="488.0" y="990.0" type="curve" smooth="yes"/>
+      <point x="733" y="975" type="line"/>
+      <point x="977.0" y="990.0" type="line" smooth="yes"/>
+      <point x="1022" y="993"/>
+      <point x="1044.0" y="954.0"/>
+      <point x="1044.0" y="900.0" type="curve" smooth="yes"/>
+      <point x="1044.0" y="286.0" type="line" smooth="yes"/>
+      <point x="1044.0" y="245.0"/>
+      <point x="1020" y="208"/>
+      <point x="981.0" y="209.0" type="curve" smooth="yes"/>
+    </contour>
+    <component base="uc_main_stem" xScale="0.769417" yScale="1.23475911806" xOffset="510" yOffset="-390"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1502</integer>
+          <integer>1465</integer>
         </dict>
       </dict>
     </dict>

@@ -1,24 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10043" format="1">
-  <advance width="1530"/>
+  <advance width="1713.0"/>
   <unicode hex="0429"/>
   <outline>
     <contour>
-      <point x="1314.0" y="-283.0" type="line"/>
-      <point x="1527.0" y="-283.0" type="line"/>
-      <point x="1527.0" y="178.0" type="line"/>
-      <point x="245.0" y="178.0" type="line"/>
-      <point x="245.0" y="0.0" type="line"/>
-      <point x="1314.0" y="0.0" type="line"/>
+      <point x="1490" y="-306" type="line"/>
+      <point x="1683" y="-306" type="line"/>
+      <point x="1683.0" y="178.0" type="line"/>
+      <point x="260.0" y="178.0" type="line"/>
+      <point x="260.0" y="0.0" type="line"/>
+      <point x="1470.0" y="0.0" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="129"/>
-    <component base="uc_main_stem" xOffset="1069"/>
-    <component base="uc_main_stem" xOffset="603"/>
+    <component base="uc_main_stem" xOffset="8"/>
+    <component base="uc_main_stem" xOffset="1059"/>
+    <component base="uc_main_stem" xOffset="540"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>uc_main_stem</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>1058</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>uc_main_stem</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>8</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>uc_main_stem</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>540</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10043</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1713.0</real>
+        </dict>
       </dict>
     </dict>
   </lib>
