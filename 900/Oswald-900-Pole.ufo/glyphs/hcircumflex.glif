@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex" format="1">
+  <advance width="1049"/>
+  <unicode hex="0125"/>
+  <outline>
+    <component base="h"/>
+    <component base="uni0302" xOffset="517.5" yOffset="533"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1748</integer>
+	    <key>width</key>	    <integer>405</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

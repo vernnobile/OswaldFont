@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1085"/>
+  <unicode hex="0138"/>
+  <outline>
+    <component base="lc_xheight_stem" xOffset="8"/>
+    <contour>
+      <point x="675" y="0" type="line"/>
+      <point x="1071" y="0" type="line"/>
+      <point x="832" y="630" type="line"/>
+      <point x="1064" y="1184" type="line"/>
+      <point x="658" y="1184" type="line"/>
+      <point x="276" y="263" type="line"/>
+      <point x="276" y="255" type="line"/>
+      <point x="492" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>572</integer>
+	    <key>width</key>	    <integer>35</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>152</integer>
+	    <key>width</key>
+	    <integer>64</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

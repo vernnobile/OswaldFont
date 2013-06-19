@@ -11,13 +11,23 @@
 	<key>descender</key>
 	<integer>-390</integer>
 	<key>familyName</key>
-	<string>Oswald Thin</string>
+	<string>Oswald</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2013/05/28 14:18:07</string>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -40,7 +50,7 @@
 	<key>openTypeOS2VendorID</key>
 	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
+	<integer>100</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -88,9 +98,11 @@
 	<key>postscriptWeightName</key>
 	<string>Medium</string>
 	<key>styleName</key>
-	<string>Medium</string>
+	<string>Thin</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>4</integer>
 	<key>xHeight</key>
 	<integer>1184</integer>
 </dict>

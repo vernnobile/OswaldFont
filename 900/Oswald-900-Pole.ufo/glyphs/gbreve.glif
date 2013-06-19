@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve" format="1">
+  <advance width="1055"/>
+  <unicode hex="011F"/>
+  <outline>
+    <component base="g"/>
+    <component base="uni0306" xOffset="260.5" yOffset="-28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1435</integer>
+	    <key>width</key>	    <integer>118</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>306</integer>
+	    <key>width</key>
+	    <integer>180</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>646</integer>
+	    <key>width</key>
+	    <integer>179</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

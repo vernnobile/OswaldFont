@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ycircumflex" format="1">
+  <advance width="957"/>
+  <unicode hex="0177"/>
+  <outline>
+    <component base="uni0302" xOffset="455" yOffset="81"/>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1366</integer>
+	    <key>width</key>	    <integer>405</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

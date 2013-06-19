@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="1">
+  <advance width="612"/>
+  <unicode hex="012D"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0306" xOffset="1" yOffset="-95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1366</integer>
+	    <key>width</key>	    <integer>118</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>10</integer>
+	    <key>width</key>
+	    <integer>180</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>80</integer>
+	    <key>width</key>
+	    <integer>378</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>349</integer>
+	    <key>width</key>
+	    <integer>179</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
