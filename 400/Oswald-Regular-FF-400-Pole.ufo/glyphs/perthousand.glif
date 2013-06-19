@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="2694"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="2283" y="168" type="curve" smooth="yes"/>
+      <point x="2178" y="168"/>
+      <point x="2160" y="273"/>
+      <point x="2160" y="382" type="curve" smooth="yes"/>
+      <point x="2160" y="504" type="line" smooth="yes"/>
+      <point x="2160" y="615"/>
+      <point x="2172" y="711"/>
+      <point x="2283" y="711" type="curve" smooth="yes"/>
+      <point x="2393" y="711"/>
+      <point x="2407" y="619"/>
+      <point x="2407" y="506" type="curve" smooth="yes"/>
+      <point x="2407" y="384" type="line" smooth="yes"/>
+      <point x="2407" y="275"/>
+      <point x="2391" y="168"/>
+    </contour>
+    <contour>
+      <point x="2283" y="-10" type="curve" smooth="yes"/>
+      <point x="2523" y="-10"/>
+      <point x="2622" y="134"/>
+      <point x="2622" y="384" type="curve" smooth="yes"/>
+      <point x="2622" y="506" type="line" smooth="yes"/>
+      <point x="2622" y="757"/>
+      <point x="2527" y="891"/>
+      <point x="2283" y="891" type="curve" smooth="yes"/>
+      <point x="2037" y="891"/>
+      <point x="1944" y="748"/>
+      <point x="1944" y="494" type="curve" smooth="yes"/>
+      <point x="1944" y="391" type="line" smooth="yes"/>
+      <point x="1944" y="143"/>
+      <point x="2044" y="-10"/>
+    </contour>
+    <component base="percent"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

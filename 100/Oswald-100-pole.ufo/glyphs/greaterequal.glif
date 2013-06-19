@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="1">
-  <advance width="669"/>
+  <advance width="673"/>
   <unicode hex="2265"/>
   <outline>
-    <component base="greater"/>
+    <component base="greater" xOffset="-55"/>
+    <component base="minus" xOffset="2" yOffset="-734"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

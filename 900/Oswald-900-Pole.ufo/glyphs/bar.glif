@@ -14,15 +14,18 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>128</integer>
-	    <key>width</key>
-	    <integer>297</integer>
-	  </dict>
-	</array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>128</integer>
+            <key>width</key>
+            <integer>297</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

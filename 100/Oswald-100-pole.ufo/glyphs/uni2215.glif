@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2215" format="1">
-  <advance width="548"/>
+  <advance width="640"/>
   <unicode hex="2215"/>
   <outline>
     <component base="slash"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

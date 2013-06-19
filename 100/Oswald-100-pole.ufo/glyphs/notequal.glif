@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notequal" format="1">
-  <advance width="745"/>
+  <advance width="822"/>
   <unicode hex="2260"/>
   <outline>
-    <component base="equal" xOffset="4" yOffset="369"/>
-    <component base="slash" xOffset="125"/>
+    <component base="slash" xOffset="110"/>
+    <component base="equal"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

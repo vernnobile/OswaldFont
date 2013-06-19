@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="1012"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="434" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="940" y="594" type="line"/>
+      <point x="560" y="1184" type="line"/>
+      <point x="434" y="1184" type="line"/>
+      <point x="72" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="240" type="line"/>
+      <point x="298" y="594" type="line"/>
+      <point x="498" y="932" type="line"/>
+      <point x="711" y="594" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>408</integer>
+          <key>y</key>
+          <integer>762</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>322</integer>
+          <key>y</key>
+          <integer>593</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="1">
-  <advance width="585"/>
+  <advance width="684"/>
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="418" y="255" type="line"/>
-      <point x="480" y="255" type="line"/>
-      <point x="480" y="515" type="line"/>
-      <point x="85" y="515" type="line"/>
-      <point x="85" y="447" type="line"/>
-      <point x="418" y="447" type="line"/>
+      <point x="558" y="606" type="line"/>
+      <point x="620" y="606" type="line"/>
+      <point x="620" y="895" type="line"/>
+      <point x="85" y="895" type="line"/>
+      <point x="85" y="836" type="line"/>
+      <point x="558" y="836" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
