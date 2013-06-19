@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="1">
-  <advance width="0"/>
+  <advance width="650"/>
   <unicode hex="0300"/>
   <outline>
-    <contour>
-      <point x="339" y="1281" type="line"/>
-      <point x="582" y="1281" type="line"/>
-      <point x="455" y="1696" type="line"/>
-      <point x="71" y="1696" type="line"/>
-    </contour>
+    <component base="grave"/>
   </outline>
   <lib>
     <dict>
@@ -23,6 +18,31 @@
             <integer>415</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gravecomb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>650</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

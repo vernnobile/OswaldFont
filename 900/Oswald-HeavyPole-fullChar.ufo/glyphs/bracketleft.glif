@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="813"/>
+  <advance width="673"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="143" y="-58" type="line"/>
-      <point x="721" y="-58" type="line"/>
-      <point x="721" y="115" type="line"/>
-      <point x="455" y="115" type="line"/>
-      <point x="455" y="1594" type="line"/>
-      <point x="721" y="1594" type="line"/>
-      <point x="721" y="1767" type="line"/>
-      <point x="143" y="1767" type="line"/>
+      <point x="98" y="-378" type="line"/>
+      <point x="631" y="-378" type="line"/>
+      <point x="631" y="-244" type="line"/>
+      <point x="370" y="-244" type="line"/>
+      <point x="372" y="1524" type="line"/>
+      <point x="633" y="1524" type="line"/>
+      <point x="633" y="1658" type="line"/>
+      <point x="100" y="1658" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>673</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

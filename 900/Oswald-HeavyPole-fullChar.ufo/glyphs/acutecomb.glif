@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="1">
-  <advance width="0"/>
+  <advance width="650"/>
   <unicode hex="0301"/>
   <outline>
-    <contour>
-      <point x="-217" y="1281" type="line"/>
-      <point x="26" y="1281" type="line"/>
-      <point x="294" y="1696" type="line"/>
-      <point x="-89" y="1696" type="line"/>
-    </contour>
+    <component base="acute"/>
   </outline>
   <lib>
     <dict>
@@ -23,6 +18,31 @@
             <integer>415</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>acutecomb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>650</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

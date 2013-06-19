@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="1">
-  <advance width="690"/>
+  <advance width="720"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="109" y="-58" type="line"/>
-      <point x="580" y="-62"/>
-      <point x="633" y="399"/>
-      <point x="633" y="844" type="curve" smooth="yes"/>
-      <point x="633" y="1335"/>
-      <point x="580" y="1767"/>
-      <point x="109" y="1764" type="curve"/>
-      <point x="109" y="1528" type="line"/>
-      <point x="251" y="1528"/>
-      <point x="292" y="1296"/>
-      <point x="292" y="844" type="curve" smooth="yes"/>
-      <point x="292" y="384"/>
-      <point x="239" y="178"/>
-      <point x="109" y="178" type="curve"/>
+      <point x="76" y="-90" type="curve"/>
+      <point x="76" y="-354" type="line"/>
+      <point x="547" y="-358"/>
+      <point x="600" y="116"/>
+      <point x="600" y="652" type="curve" smooth="yes"/>
+      <point x="600" y="1239"/>
+      <point x="547" y="1681"/>
+      <point x="76" y="1678" type="curve"/>
+      <point x="76" y="1415" type="line"/>
+      <point x="218" y="1415"/>
+      <point x="259" y="1196"/>
+      <point x="259" y="652" type="curve" smooth="yes"/>
+      <point x="259" y="99"/>
+      <point x="206" y="-90"/>
     </contour>
   </outline>
   <lib>
@@ -28,11 +28,36 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>292</integer>
+            <integer>109</integer>
             <key>width</key>
             <integer>341</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>720</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

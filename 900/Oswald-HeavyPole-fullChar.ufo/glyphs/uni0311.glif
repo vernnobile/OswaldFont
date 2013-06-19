@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0311" format="1">
-  <advance width="651"/>
+  <advance width="650"/>
   <unicode hex="0311"/>
   <outline>
-    <contour>
-      <point x="87" y="1344" type="curve"/>
-      <point x="246" y="1344" type="line"/>
-      <point x="246" y="1408"/>
-      <point x="255" y="1445"/>
-      <point x="306" y="1445" type="curve" smooth="yes"/>
-      <point x="357" y="1445"/>
-      <point x="366" y="1406"/>
-      <point x="366" y="1344" type="curve"/>
-      <point x="525" y="1344" type="line"/>
-      <point x="525" y="1451"/>
-      <point x="471" y="1559"/>
-      <point x="306" y="1559" type="curve" smooth="yes"/>
-      <point x="145" y="1559"/>
-      <point x="87" y="1451"/>
-    </contour>
+    <component base="breve" xScale="-1.0" yScale="-1.0" xOffset="610" yOffset="3081"/>
   </outline>
   <lib>
     <dict>
@@ -44,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>651</integer>
+          <integer>650</integer>
         </dict>
       </dict>
     </dict>

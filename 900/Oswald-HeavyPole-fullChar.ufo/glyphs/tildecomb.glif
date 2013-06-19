@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb" format="1">
-  <advance width="0"/>
+  <advance width="867"/>
   <unicode hex="0303"/>
   <outline>
-    <contour>
-      <point x="210.497" y="1299" type="curve" smooth="yes"/>
-      <point x="324.497" y="1299"/>
-      <point x="340.497" y="1474"/>
-      <point x="339.497" y="1610" type="curve"/>
-      <point x="184.497" y="1610" type="line"/>
-      <point x="187.497" y="1599"/>
-      <point x="196.497" y="1537"/>
-      <point x="164.497" y="1537" type="curve" smooth="yes"/>
-      <point x="104.497" y="1537"/>
-      <point x="-4.50293" y="1622"/>
-      <point x="-151.503" y="1622" type="curve" smooth="yes"/>
-      <point x="-292.503" y="1622"/>
-      <point x="-318.503" y="1488"/>
-      <point x="-317.503" y="1309" type="curve"/>
-      <point x="-146.503" y="1309" type="line"/>
-      <point x="-149.503" y="1324"/>
-      <point x="-160.503" y="1393"/>
-      <point x="-106.503" y="1393" type="curve" smooth="yes"/>
-      <point x="-4.50293" y="1393"/>
-      <point x="110.497" y="1299"/>
-    </contour>
+    <component base="tilde"/>
   </outline>
   <lib>
     <dict>
@@ -60,6 +39,31 @@
             <integer>155</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tildecomb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>867</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

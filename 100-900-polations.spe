@@ -3,13 +3,13 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="120823_1018_beta_" superpolator="1" />
+<version format="110221_1144_developer_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_2" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="64.0" />
-<data name="previewtext" value="различных" />
+<data name="previewtext" value="nolen (o) H*" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -18,30 +18,24 @@
 <!-- master definitions -->
 <master filename="100/Oswald-Thin-Pole-FullChar.ufo">
 <location>
-<dimension name="new_axis_2" xvalue="0" />
 </location>
 <!-- color for 100/Oswald-Thin-Pole-FullChar.ufo -->
-<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+<color a="1.000000" b="1.000000" g="0.000000" r="0.500000" />
+</master>
+<master filename="400/Oswald-Regular-FF-400-Pole.ufo">
+<location>
+<dimension name="new_axis_2" xvalue="500" />
+</location>
+<!-- color for 400/Oswald-Regular-FF-400-Pole.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 <master filename="900/Oswald-HeavyPole-fullChar.ufo">
 <location>
 <dimension name="new_axis_2" xvalue="1000" />
 </location>
 <!-- color for 900/Oswald-HeavyPole-fullChar.ufo -->
-<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
-</master>
-<master filename="400/Oswald-regular-Pole-FullChar.ufo">
-<location>
-<dimension name="new_axis_2" xvalue="500" />
-</location>
-<!-- color for 400/Oswald-regular-Pole-FullChar.ufo -->
-<color a="1.000000" b="1.000000" g="0.000000" r="0.000000" />
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Oswald Thin" sequence="" stylename="medium">
-<location>
-<dimension name="new_axis_2" xvalue="300" />
-</location>
-</instance>
 </designspace>

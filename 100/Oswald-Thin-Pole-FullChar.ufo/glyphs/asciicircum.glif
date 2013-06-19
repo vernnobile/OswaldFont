@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="1">
-  <advance width="1228"/>
+  <advance width="688"/>
   <unicode hex="005E"/>
   <unicode hex="0302"/>
   <outline>
-    <component base="circumflex" xOffset="-313"/>
+    <contour>
+      <point x="112" y="1204" type="line"/>
+      <point x="167" y="1204" type="line"/>
+      <point x="346" y="1627" type="line"/>
+      <point x="529" y="1204" type="line"/>
+      <point x="580" y="1204" type="line"/>
+      <point x="397" y="1658" type="line"/>
+      <point x="297" y="1658" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -30,7 +38,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1228</integer>
+          <integer>688</integer>
         </dict>
       </dict>
     </dict>
