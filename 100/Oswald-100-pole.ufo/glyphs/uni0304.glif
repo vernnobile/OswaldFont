@@ -3,6 +3,11 @@
   <advance width="817"/>
   <unicode hex="0304"/>
   <outline>
-    <component base="macron"/>
+    <contour>
+      <point x="242" y="1606" type="line"/>
+      <point x="242" y="1658" type="line"/>
+      <point x="575" y="1658" type="line"/>
+      <point x="575" y="1606" type="line"/>
+    </contour>
   </outline>
 </glyph>

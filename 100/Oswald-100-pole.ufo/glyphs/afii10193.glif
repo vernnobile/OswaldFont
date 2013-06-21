@@ -3,14 +3,19 @@
   <advance width="790"/>
   <unicode hex="045F"/>
   <outline>
-    <component base="lc_xheight_stem" xOffset="473"/>
-    <component base="lc_xheight_stem" xOffset="-17"/>
-    <component base="uc_horiz_bar" xScale="0.827828" xOffset="151"/>
     <contour>
       <point x="378" y="-264" type="line"/>
+      <point x="368.865" y="1.77636e-15" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="1184" type="line"/>
+      <point x="182" y="1184" type="line"/>
+      <point x="182" y="52" type="line"/>
+      <point x="608" y="52" type="line"/>
+      <point x="608" y="1184" type="line"/>
+      <point x="672" y="1184" type="line"/>
+      <point x="672" y="0" type="line"/>
+      <point x="431.135" y="0" type="line"/>
       <point x="422" y="-264" type="line"/>
-      <point x="432" y="25" type="line"/>
-      <point x="368" y="25" type="line"/>
     </contour>
   </outline>
   <lib>

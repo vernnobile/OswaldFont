@@ -3,9 +3,19 @@
   <advance width="1396"/>
   <unicode hex="0428"/>
   <outline>
-    <component base="uc_horiz_bar" xScale="1.72054" xOffset="194"/>
-    <component base="uc_main_stem" xOffset="1008"/>
-    <component base="uc_main_stem" xOffset="512"/>
-    <component base="uc_main_stem"/>
+    <contour>
+      <point x="1170" y="52" type="line"/>
+      <point x="1170" y="1658" type="line"/>
+      <point x="1234" y="1658" type="line"/>
+      <point x="1234" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="1658" type="line"/>
+      <point x="226" y="1658" type="line"/>
+      <point x="226" y="52" type="line"/>
+      <point x="674" y="52" type="line"/>
+      <point x="674" y="1658" type="line"/>
+      <point x="738" y="1658" type="line"/>
+      <point x="738" y="52" type="line"/>
+    </contour>
   </outline>
 </glyph>

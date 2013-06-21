@@ -4,6 +4,11 @@
   <unicode hex="006C"/>
   <unicode hex="2113"/>
   <outline>
-    <component base="lc_ascender_stem" xOffset="2"/>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="1658" type="line"/>
+      <point x="204" y="1658" type="line"/>
+      <point x="204" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

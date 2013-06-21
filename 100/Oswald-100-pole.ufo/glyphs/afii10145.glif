@@ -3,19 +3,19 @@
   <advance width="1017"/>
   <unicode hex="040F"/>
   <outline>
-    <component base="uc_main_stem"/>
-    <component base="uc_main_stem" xOffset="629"/>
     <contour>
       <point x="505" y="-264" type="line"/>
+      <point x="495.055" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="1658" type="line"/>
+      <point x="226" y="1658" type="line"/>
+      <point x="226" y="52" type="line"/>
+      <point x="791" y="52" type="line"/>
+      <point x="791" y="1658" type="line"/>
+      <point x="855" y="1658" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="565.041" y="0" type="line"/>
       <point x="556" y="-264" type="line"/>
-      <point x="566" y="28" type="line"/>
-      <point x="494" y="28" type="line"/>
-    </contour>
-    <contour>
-      <point x="196" y="0" type="line"/>
-      <point x="822" y="0" type="line"/>
-      <point x="822" y="52" type="line"/>
-      <point x="196" y="52" type="line"/>
     </contour>
   </outline>
 </glyph>

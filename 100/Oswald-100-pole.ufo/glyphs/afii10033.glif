@@ -3,13 +3,15 @@
   <advance width="1093"/>
   <unicode hex="041F"/>
   <outline>
-    <component base="uc_main_stem"/>
-    <component base="uc_main_stem" xOffset="705"/>
     <contour>
-      <point x="196" y="1606" type="line"/>
-      <point x="897" y="1606" type="line"/>
-      <point x="897" y="1658" type="line"/>
-      <point x="196" y="1658" type="line"/>
+      <point x="867" y="0" type="line"/>
+      <point x="867" y="1606" type="line"/>
+      <point x="226" y="1606" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="1658" type="line"/>
+      <point x="931" y="1658" type="line"/>
+      <point x="931" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

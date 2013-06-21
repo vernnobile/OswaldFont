@@ -2,6 +2,17 @@
 <glyph name="uni0308" format="1">
   <advance width="0"/>
   <outline>
-    <component base="dieresis" xOffset="-355.5"/>
+    <contour>
+      <point x="123.5" y="1533" type="line"/>
+      <point x="123.5" y="1658" type="line"/>
+      <point x="193.5" y="1658" type="line"/>
+      <point x="193.5" y="1533" type="line"/>
+    </contour>
+    <contour>
+      <point x="-193.5" y="1533" type="line"/>
+      <point x="-193.5" y="1658" type="line"/>
+      <point x="-123.5" y="1658" type="line"/>
+      <point x="-123.5" y="1533" type="line"/>
+    </contour>
   </outline>
 </glyph>

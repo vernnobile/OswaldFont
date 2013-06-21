@@ -3,13 +3,19 @@
   <advance width="846"/>
   <unicode hex="043D"/>
   <outline>
-    <component base="lc_xheight_stem" xOffset="529"/>
-    <component base="lc_xheight_stem" xOffset="-17"/>
     <contour>
-      <point x="154" y="593" type="line"/>
-      <point x="697" y="593" type="line"/>
-      <point x="697" y="645" type="line"/>
-      <point x="154" y="645" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="1184" type="line"/>
+      <point x="182" y="1184" type="line"/>
+      <point x="182" y="645" type="line"/>
+      <point x="664" y="645" type="line"/>
+      <point x="664" y="1184" type="line"/>
+      <point x="728" y="1184" type="line"/>
+      <point x="728" y="0" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="664" y="593" type="line"/>
+      <point x="182" y="593" type="line"/>
+      <point x="182" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

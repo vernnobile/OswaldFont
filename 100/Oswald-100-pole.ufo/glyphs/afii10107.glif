@@ -3,10 +3,38 @@
   <advance width="1144"/>
   <unicode hex="045A"/>
   <outline>
-    <component base="cyrillic_lc_right_bowl" xOffset="445"/>
-    <component base="lc_horiz_bar" xScale="0.824535" xOffset="151" yOffset="577"/>
-    <component base="lc_xheight_stem" xOffset="-17"/>
-    <component base="lc_xheight_stem" xOffset="462"/>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="1184" type="line"/>
+      <point x="182" y="1184" type="line"/>
+      <point x="182" y="629" type="line"/>
+      <point x="597" y="629" type="line"/>
+      <point x="597" y="1184" type="line"/>
+      <point x="661" y="1184" type="line"/>
+      <point x="661" y="629" type="line"/>
+      <point x="775" y="629" type="line" smooth="yes"/>
+      <point x="1091" y="629"/>
+      <point x="1094" y="442"/>
+      <point x="1094" y="306" type="curve" smooth="yes"/>
+      <point x="1094" y="174"/>
+      <point x="1088" y="0"/>
+      <point x="775" y="0" type="curve" smooth="yes"/>
+      <point x="597" y="0" type="line"/>
+      <point x="597" y="577" type="line"/>
+      <point x="182" y="577" type="line"/>
+      <point x="182" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="661" y="52" type="line"/>
+      <point x="775" y="52" type="line" smooth="yes"/>
+      <point x="1027" y="52"/>
+      <point x="1030" y="174"/>
+      <point x="1030" y="307" type="curve" smooth="yes"/>
+      <point x="1030" y="443"/>
+      <point x="1027" y="577"/>
+      <point x="775" y="577" type="curve" smooth="yes"/>
+      <point x="661" y="577" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

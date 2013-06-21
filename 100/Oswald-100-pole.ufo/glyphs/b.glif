@@ -3,7 +3,41 @@
   <advance width="772"/>
   <unicode hex="0062"/>
   <outline>
-    <component base="lc_ascender_stem" xOffset="-20"/>
-    <component base="lc_right_curve" xOffset="-20"/>
+    <contour>
+      <point x="405" y="-20" type="curve" smooth="yes"/>
+      <point x="294.464" y="-20"/>
+      <point x="221.438" y="50.1986"/>
+      <point x="182" y="101.943" type="curve"/>
+      <point x="182" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="1658" type="line"/>
+      <point x="182" y="1658" type="line"/>
+      <point x="182" y="1080.91" type="line"/>
+      <point x="222.65" y="1136.58"/>
+      <point x="297.654" y="1204"/>
+      <point x="410" y="1204" type="curve" smooth="yes"/>
+      <point x="617" y="1204"/>
+      <point x="676" y="1057"/>
+      <point x="676" y="698" type="curve" smooth="yes"/>
+      <point x="676" y="494" type="line" smooth="yes"/>
+      <point x="676" y="131"/>
+      <point x="610" y="-20"/>
+    </contour>
+    <contour>
+      <point x="182" y="1024.59" type="curve"/>
+      <point x="182" y="158.873" type="line"/>
+      <point x="231.476" y="91.4632"/>
+      <point x="310.392" y="30"/>
+      <point x="405" y="30" type="curve" smooth="yes"/>
+      <point x="567" y="30"/>
+      <point x="612" y="154"/>
+      <point x="612" y="490" type="curve" smooth="yes"/>
+      <point x="612" y="699" type="line" smooth="yes"/>
+      <point x="612" y="1035"/>
+      <point x="579" y="1154"/>
+      <point x="410" y="1154" type="curve" smooth="yes"/>
+      <point x="307.688" y="1154"/>
+      <point x="225.339" y="1076.19"/>
+    </contour>
   </outline>
 </glyph>

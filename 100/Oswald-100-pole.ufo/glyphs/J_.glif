@@ -3,17 +3,18 @@
   <advance width="513"/>
   <unicode hex="004A"/>
   <outline>
-    <component base="uc_part_stem" xOffset="125"/>
     <contour>
       <point x="17" y="-114" type="line"/>
-      <point x="54" y="-114" type="line" smooth="yes"/>
-      <point x="336" y="-114"/>
-      <point x="351" y="9"/>
-      <point x="351" y="279" type="curve"/>
-      <point x="287" y="279" type="line"/>
-      <point x="287" y="-9"/>
+      <point x="17" y="-58" type="line"/>
       <point x="278" y="-57"/>
-      <point x="17" y="-58" type="curve"/>
+      <point x="287" y="-9"/>
+      <point x="287" y="279" type="curve" smooth="yes"/>
+      <point x="287" y="1658" type="line"/>
+      <point x="351" y="1658" type="line"/>
+      <point x="351" y="262" type="line" smooth="yes"/>
+      <point x="350.243" y="3.83218"/>
+      <point x="330.012" y="-114"/>
+      <point x="54" y="-114" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

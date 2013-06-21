@@ -3,20 +3,30 @@
   <advance width="830"/>
   <unicode hex="00A5"/>
   <outline>
-    <component base="Y"/>
     <contour>
+      <point x="390" y="0" type="line"/>
+      <point x="390" y="212" type="line"/>
       <point x="159" y="212" type="line"/>
-      <point x="683" y="212" type="line"/>
-      <point x="683" y="258" type="line"/>
-      <point x="446" y="258" type="line"/>
-      <point x="446" y="507" type="line"/>
-      <point x="683" y="507" type="line"/>
-      <point x="683" y="551" type="line"/>
-      <point x="159" y="551" type="line"/>
-      <point x="159" y="507" type="line"/>
-      <point x="401" y="507" type="line"/>
-      <point x="401" y="258" type="line"/>
       <point x="159" y="258" type="line"/>
+      <point x="390" y="258" type="line"/>
+      <point x="390" y="507" type="line"/>
+      <point x="159" y="507" type="line"/>
+      <point x="159" y="551" type="line"/>
+      <point x="375.343" y="551" type="line"/>
+      <point x="-2" y="1658" type="line"/>
+      <point x="72" y="1658" type="line"/>
+      <point x="426" y="583" type="line"/>
+      <point x="760" y="1658" type="line"/>
+      <point x="832" y="1658" type="line"/>
+      <point x="471.022" y="551" type="line"/>
+      <point x="683" y="551" type="line"/>
+      <point x="683" y="507" type="line"/>
+      <point x="457" y="507" type="line"/>
+      <point x="457" y="258" type="line"/>
+      <point x="683" y="258" type="line"/>
+      <point x="683" y="212" type="line"/>
+      <point x="457" y="212" type="line"/>
+      <point x="457" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

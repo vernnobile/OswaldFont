@@ -3,14 +3,31 @@
   <advance width="970"/>
   <unicode hex="201D"/>
   <outline>
-    <component base="quoteleft" xScale="-1" yScale="-1" xOffset="745" yOffset="2987"/>
-    <component base="quoteleft" xScale="-1" yScale="-1" xOffset="556" yOffset="2987"/>
+    <contour>
+      <point x="449" y="1658" type="line"/>
+      <point x="449" y="1522" type="line" smooth="yes"/>
+      <point x="449" y="1403"/>
+      <point x="438" y="1344"/>
+      <point x="366" y="1283" type="curve"/>
+      <point x="336" y="1300" type="line"/>
+      <point x="403" y="1363"/>
+      <point x="408" y="1403"/>
+      <point x="408" y="1492" type="curve"/>
+      <point x="359" y="1492" type="line"/>
+      <point x="359" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="638" y="1658" type="line"/>
+      <point x="638" y="1522" type="line" smooth="yes"/>
+      <point x="638" y="1403"/>
+      <point x="627" y="1344"/>
+      <point x="555" y="1283" type="curve"/>
+      <point x="525" y="1300" type="line"/>
+      <point x="592" y="1363"/>
+      <point x="597" y="1403"/>
+      <point x="597" y="1492" type="curve"/>
+      <point x="548" y="1492" type="line"/>
+      <point x="548" y="1658" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
