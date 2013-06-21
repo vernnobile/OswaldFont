@@ -4,18 +4,25 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="230" y="600" type="curve" smooth="yes"/>
-      <point x="313" y="600"/>
-      <point x="354" y="662"/>
-      <point x="354" y="725" type="curve" smooth="yes"/>
-      <point x="354" y="787"/>
-      <point x="313" y="849"/>
-      <point x="230" y="849" type="curve" smooth="yes"/>
-      <point x="149" y="849"/>
-      <point x="108" y="787"/>
-      <point x="108" y="725" type="curve" smooth="yes"/>
-      <point x="108" y="662"/>
-      <point x="149" y="600"/>
+      <point x="230" y="672" type="curve" smooth="yes"/>
+      <point x="313" y="672"/>
+      <point x="354" y="734"/>
+      <point x="354" y="797" type="curve" smooth="yes"/>
+      <point x="354" y="859"/>
+      <point x="313" y="921"/>
+      <point x="230" y="921" type="curve" smooth="yes"/>
+      <point x="149" y="921"/>
+      <point x="108" y="859"/>
+      <point x="108" y="797" type="curve" smooth="yes"/>
+      <point x="108" y="734"/>
+      <point x="149" y="672"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

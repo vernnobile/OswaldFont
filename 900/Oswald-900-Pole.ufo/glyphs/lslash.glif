@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="605"/>
+  <advance width="730"/>
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="139" y="0" type="line"/>
-      <point x="516" y="0" type="line"/>
-      <point x="516" y="989" type="line"/>
-      <point x="703" y="1053" type="line"/>
-      <point x="703" y="1245" type="line"/>
-      <point x="516" y="1181" type="line"/>
-      <point x="516" y="1652" type="line"/>
-      <point x="139" y="1652" type="line"/>
-      <point x="139" y="1043" type="line"/>
-      <point x="-40" y="982" type="line"/>
-      <point x="-40" y="790" type="line"/>
-      <point x="139" y="851" type="line"/>
+      <point x="44" y="790" type="line"/>
+      <point x="717" y="1073" type="line"/>
+      <point x="717" y="1265" type="line"/>
+      <point x="44" y="982" type="line"/>
     </contour>
+    <component base="lc_ascender_stem" xOffset="103"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
