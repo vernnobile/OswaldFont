@@ -14,12 +14,37 @@
       <point x="407" y="330" type="line"/>
       <point x="260" y="1184" type="line"/>
       <point x="20" y="1184" type="line"/>
-      <point x="111.667" y="796.667"/>
-      <point x="203.334" y="409.334"/>
+      <point x="98.7940854067" y="851.060670876"/>
+      <point x="177.588170813" y="518.121341752"/>
+      <point x="256.38162112" y="185.181377528" type="curve" smooth="yes"/>
+      <point x="269.254431955" y="130.787602893"/>
+      <point x="282.127225838" y="76.3938113072"/>
       <point x="295" y="22" type="curve" smooth="yes"/>
       <point x="323" y="-95"/>
       <point x="284" y="-118"/>
       <point x="95" y="-118" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-296</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1164</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

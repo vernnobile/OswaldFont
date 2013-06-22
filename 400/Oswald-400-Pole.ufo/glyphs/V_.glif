@@ -8,12 +8,34 @@
       <point x="614" y="0" type="line"/>
       <point x="969" y="1658" type="line"/>
       <point x="737" y="1658" type="line"/>
-      <point x="560" y="709" type="line"/>
       <point x="497" y="345" type="line"/>
-      <point x="425.688" y="791.355"/>
-      <point x="337.672" y="1221.01"/>
-      <point x="257" y="1658" type="curve"/>
+      <point x="257" y="1658" type="line"/>
       <point x="22" y="1658" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1638</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

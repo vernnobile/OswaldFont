@@ -4,12 +4,6 @@
   <unicode hex="003F"/>
   <outline>
     <contour>
-      <point x="315.145" y="0" type="line"/>
-      <point x="552.145" y="0" type="line"/>
-      <point x="552.145" y="237" type="line"/>
-      <point x="315.145" y="237" type="line"/>
-    </contour>
-    <contour>
       <point x="325.145" y="416" type="line"/>
       <point x="536.145" y="416" type="line"/>
       <point x="536.145" y="612" type="line"/>
@@ -35,5 +29,60 @@
       <point x="505.145" y="839"/>
       <point x="325.145" y="671" type="curve"/>
     </contour>
+    <contour>
+      <point x="315.145" y="0" type="line"/>
+      <point x="552.145" y="0" type="line"/>
+      <point x="552.145" y="237" type="line"/>
+      <point x="315.145" y="237" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1473</integer>
+            <key>width</key>
+            <integer>207</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>118</integer>
+            <key>width</key>
+            <integer>223</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>315</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>325</integer>
+            <key>width</key>
+            <integer>211</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>691</integer>
+            <key>width</key>
+            <integer>232</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

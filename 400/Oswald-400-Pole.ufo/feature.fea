@@ -4222,8 +4222,9 @@ feature mark {
 	\uni1E41 \uni1E56 \uni1E57 \uni1E60 \uni1E61 \uni1E6A \uni1E6B \uni2074 \uni2215 
 	\uni2219 \uniFB00 \uniFB01 \uniFB02 \uniFB03 \uniFB04 \uogonek \uring \utilde \v 
 	\w \wacute \wcircumflex \wdieresis \wgrave \x \y \yacute \ycircumflex \ydieresis 
-	\yen \ygrave \z \zacute \zcaron \zdotaccent \zero \NameMe.543 \NameMe.542 
-	\NameMe.541 \NameMe.540 \NameMe.539 \NameMe.538 \NameMe.537 \NameMe.546 ];
+	\yen \ygrave \z \zacute \zcaron \zdotaccent \zero \uni04C0 \uni0400 \uni0450 
+	\uni045d \uni02BC \uni04AE \uni0490 \uni0491 \uni04AF \uni04E8 \uni04E9 \uni04B0 
+	\uni04B1 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

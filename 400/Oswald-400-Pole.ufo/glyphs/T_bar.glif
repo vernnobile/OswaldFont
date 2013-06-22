@@ -4,22 +4,51 @@
   <unicode hex="0166"/>
   <outline>
     <contour>
-      <point x="294" y="0" type="line"/>
-      <point x="544" y="0" type="line"/>
-      <point x="544" y="793" type="line"/>
-      <point x="742" y="793" type="line"/>
-      <point x="742" y="933" type="line"/>
-      <point x="544" y="933" type="line"/>
-      <point x="544" y="1474" type="line"/>
-      <point x="828" y="1474" type="line"/>
-      <point x="828" y="1658" type="line"/>
-      <point x="-1" y="1658" type="line"/>
-      <point x="-1" y="1474" type="line"/>
-      <point x="294" y="1474" type="line"/>
-      <point x="294" y="933" type="line"/>
-      <point x="83" y="933" type="line"/>
-      <point x="83" y="793" type="line"/>
-      <point x="294" y="793" type="line"/>
+      <point x="84" y="793" type="line"/>
+      <point x="743" y="793" type="line"/>
+      <point x="743" y="933" type="line"/>
+      <point x="84" y="933" type="line"/>
     </contour>
+    <component base="T"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>793</integer>
+            <key>width</key>
+            <integer>140</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1474</integer>
+            <key>width</key>
+            <integer>184</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>294</integer>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

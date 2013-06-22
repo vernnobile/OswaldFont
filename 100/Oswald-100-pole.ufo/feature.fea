@@ -1487,12 +1487,13 @@ feature kern {
 	\uni020A \uni020B \uni020C \uni020D \uni020E \uni020F \uni0210 \uni0211 \uni0212 
 	\uni0213 \uni0214 \uni0215 \uni0216 \uni0217 \uni021A \uni021B \uni0237 \U+02c9 
 	\uni0302 \uni0304 \uni0306 \uni0307 \uni0308 \uni030A \uni030C \uni030F \uni0311 
-	\uni0326 \U+0400 \U+040d \U+0450 \U+045d \U+0490 \U+0491 \U+04b0 \U+04b1 \uni1E02 
-	\uni1E03 \uni1E0A \uni1E0B \uni1E1E \uni1E1F \uni1E40 \uni1E41 \uni1E56 \uni1E57 
-	\uni1E60 \uni1E61 \uni1E6A \uni1E6B \uni2074 \U+2113 \U+2215 \U+2219 \uniFB00 
-	\uniFB01 \uniFB02 \uniFB03 \uniFB04 \uogonek \uring \utilde \v \w \wacute 
+	\uni0326 \uni0400 \U+040d \uni0450 \uni045d \uni0490 \uni0491 \uni04B0 \uni04B1 
+	\uni1E02 \uni1E03 \uni1E0A \uni1E0B \uni1E1E \uni1E1F \uni1E40 \uni1E41 \uni1E56 
+	\uni1E57 \uni1E60 \uni1E61 \uni1E6A \uni1E6B \uni2074 \U+2113 \U+2215 \U+2219 
+	\uniFB00 \uniFB01 \uniFB02 \uniFB03 \uniFB04 \uogonek \uring \utilde \v \w \wacute 
 	\wcircumflex \wdieresis \wgrave \x \y \yacute \ycircumflex \ydieresis \yen 
-	\ygrave \z \zacute \zcaron \zdotaccent \zero ];
+	\ygrave \z \zacute \zcaron \zdotaccent \zero \uni04AE \uni04AF \uni04C0 \uni02BC 
+	\uni04E8 \uni04E9 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

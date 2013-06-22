@@ -3,13 +3,13 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="110221_1144_developer_" superpolator="1" />
+<version format="120823_1018_beta_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_2" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="64.0" />
-<data name="previewtext" value="Bynolen 8+9=17 шрифты установленные" />
+<data name="previewTypeSize" value="48.0" />
+<data name="previewtext" value="Grumpy wizards make toxic brew" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -23,11 +23,11 @@
 <!-- color for 100/Oswald-100-pole.ufo -->
 <color a="1.000000" b="1.000000" g="0.000000" r="0.500000" />
 </master>
-<master filename="400/Oswald-Regular-FF-400-Pole.ufo">
+<master filename="400/Oswald-400-Pole.ufo">
 <location>
 <dimension name="new_axis_2" xvalue="500" />
 </location>
-<!-- color for 400/Oswald-Regular-FF-400-Pole.ufo -->
+<!-- color for 400/Oswald-400-Pole.ufo -->
 <color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 <master filename="900/Oswald-900-Pole.ufo">
@@ -35,8 +35,50 @@
 <dimension name="new_axis_2" xvalue="1000" />
 </location>
 <!-- color for 900/Oswald-900-Pole.ufo -->
-<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
 </master>
 
 <!-- instance definitions -->
+<instance familyname="Oswald" sequence="" stylename="-200">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_2" xvalue="200" />
+</location>
+</instance>
+<instance familyname="Oswald" sequence="" stylename="-300">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_2" xvalue="350" />
+</location>
+</instance>
+<instance familyname="Oswald" sequence="" stylename="-500">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_2" xvalue="660" />
+</location>
+</instance>
+<instance familyname="Oswald" sequence="" stylename="-600">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_2" xvalue="770" />
+</location>
+</instance>
+<instance familyname="Oswald" sequence="" stylename="-700">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_2" xvalue="850" />
+</location>
+</instance>
+<instance familyname="Oswald" sequence="" stylename="-400">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_2" xvalue="500" />
+</location>
+</instance>
+<instance familyname="Oswald" sequence="" stylename="-800">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_2" xvalue="970" />
+</location>
+</instance>
 </designspace>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb" format="1">
+  <advance width="690"/>
+  <outline>
+    <contour>
+      <point x="339" y="1368" type="curve" smooth="yes"/>
+      <point x="543" y="1368"/>
+      <point x="610" y="1489"/>
+      <point x="610" y="1658" type="curve"/>
+      <point x="468" y="1658" type="line"/>
+      <point x="468" y="1548"/>
+      <point x="436" y="1502"/>
+      <point x="339" y="1502" type="curve" smooth="yes"/>
+      <point x="242" y="1502"/>
+      <point x="210" y="1547"/>
+      <point x="210" y="1658" type="curve"/>
+      <point x="69" y="1658" type="line"/>
+      <point x="69" y="1490"/>
+      <point x="137" y="1368"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1423</integer>
+            <key>width</key>
+            <integer>138</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>46</integer>
+            <key>width</key>
+            <integer>150</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>415</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
