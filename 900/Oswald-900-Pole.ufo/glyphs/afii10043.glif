@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10043" format="1">
-  <advance width="1933"/>
+  <advance width="1955"/>
   <unicode hex="0429"/>
   <outline>
     <contour>
-      <point x="1603" y="-378" type="line"/>
-      <point x="1901" y="-378" type="line"/>
-      <point x="1901" y="275" type="line"/>
-      <point x="1582.12" y="275" type="line"/>
-      <point x="1582.12" y="1658" type="line"/>
-      <point x="1198.43" y="1658" type="line"/>
-      <point x="1198.43" y="275" type="line"/>
-      <point x="1033.69" y="275" type="line"/>
-      <point x="1033.69" y="1658" type="line"/>
-      <point x="650" y="1658" type="line"/>
-      <point x="650" y="275" type="line"/>
-      <point x="481.688" y="275" type="line"/>
-      <point x="481.688" y="1658" type="line"/>
-      <point x="98" y="1658" type="line"/>
-      <point x="98" y="0" type="line"/>
-      <point x="1582" y="0" type="line"/>
+      <point x="1625" y="-378" type="line"/>
+      <point x="1923" y="-378" type="line"/>
+      <point x="1923" y="275" type="line"/>
+      <point x="1604.12" y="275" type="line"/>
+      <point x="1604.12" y="1658" type="line"/>
+      <point x="1220.43" y="1658" type="line"/>
+      <point x="1220.43" y="275" type="line"/>
+      <point x="1055.69" y="275" type="line"/>
+      <point x="1055.69" y="1658" type="line"/>
+      <point x="672" y="1658" type="line"/>
+      <point x="672" y="275" type="line"/>
+      <point x="503.688" y="275" type="line"/>
+      <point x="503.688" y="1658" type="line"/>
+      <point x="120" y="1658" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="1604" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,6 +35,9 @@
             <integer>298</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

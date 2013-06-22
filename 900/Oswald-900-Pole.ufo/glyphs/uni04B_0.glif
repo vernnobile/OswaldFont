@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B0" format="1">
-  <advance width="986"/>
+  <advance width="1045"/>
   <unicode hex="04B0"/>
   <outline>
     <contour>
-      <point x="2" y="663" type="line"/>
-      <point x="986" y="663" type="line"/>
-      <point x="986" y="912" type="line"/>
-      <point x="2" y="912" type="line"/>
+      <point x="21" y="663" type="line"/>
+      <point x="1005" y="663" type="line"/>
+      <point x="1005" y="912" type="line"/>
+      <point x="21" y="912" type="line"/>
     </contour>
-    <component base="Y"/>
+    <component base="Y" xOffset="19"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

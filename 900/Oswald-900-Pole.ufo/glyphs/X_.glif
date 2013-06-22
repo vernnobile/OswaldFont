@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="1018"/>
+  <advance width="1077"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="-12" y="0" type="line"/>
-      <point x="321" y="0" type="line"/>
-      <point x="482.423" y="451.342" type="line"/>
-      <point x="661" y="0" type="line"/>
-      <point x="1047" y="0" type="line"/>
-      <point x="741.588" y="779.036" type="line"/>
-      <point x="1003" y="1658" type="line"/>
-      <point x="666" y="1658" type="line"/>
-      <point x="554.986" y="1255.01" type="line"/>
-      <point x="397" y="1658" type="line"/>
-      <point x="5" y="1658" type="line"/>
-      <point x="303.564" y="903.398" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="503.423" y="451.342" type="line"/>
+      <point x="682" y="0" type="line"/>
+      <point x="1068" y="0" type="line"/>
+      <point x="762.588" y="779.036" type="line"/>
+      <point x="1032" y="1658" type="line"/>
+      <point x="695" y="1658" type="line"/>
+      <point x="575.986" y="1255.01" type="line"/>
+      <point x="418" y="1658" type="line"/>
+      <point x="26" y="1658" type="line"/>
+      <point x="324.564" y="903.398" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
