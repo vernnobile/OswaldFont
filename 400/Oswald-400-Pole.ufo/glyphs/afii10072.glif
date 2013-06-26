@@ -5,27 +5,27 @@
   <outline>
     <contour>
       <point x="8" y="0" type="line"/>
-      <point x="237" y="0" type="line"/>
-      <point x="478" y="557" type="line"/>
-      <point x="494.906" y="557" type="line"/>
-      <point x="494.906" y="0" type="line"/>
-      <point x="714.72" y="0" type="line"/>
-      <point x="714.72" y="557" type="line"/>
-      <point x="732" y="557" type="line"/>
-      <point x="972" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="491" y="551" type="line"/>
+      <point x="508" y="551" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="702" y="0" type="line"/>
+      <point x="702" y="551" type="line"/>
+      <point x="719" y="551" type="line"/>
+      <point x="982" y="0" type="line"/>
       <point x="1201" y="0" type="line"/>
-      <point x="913" y="593" type="line"/>
+      <point x="913" y="603" type="line"/>
       <point x="1182" y="1184" type="line"/>
-      <point x="947" y="1184" type="line"/>
-      <point x="731" y="665" type="line"/>
-      <point x="714.72" y="665" type="line"/>
-      <point x="714.72" y="1184" type="line"/>
-      <point x="494.906" y="1184" type="line"/>
-      <point x="494.906" y="665" type="line"/>
-      <point x="479" y="665" type="line"/>
-      <point x="262" y="1184" type="line"/>
+      <point x="957" y="1184" type="line"/>
+      <point x="718" y="665" type="line"/>
+      <point x="702" y="665" type="line"/>
+      <point x="702" y="1184" type="line"/>
+      <point x="508" y="1184" type="line"/>
+      <point x="508" y="665" type="line"/>
+      <point x="492" y="665" type="line"/>
+      <point x="252" y="1184" type="line"/>
       <point x="26" y="1184" type="line"/>
-      <point x="297" y="593" type="line"/>
+      <point x="297" y="603" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,6 +62,31 @@
             <integer>220</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10072</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1209</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

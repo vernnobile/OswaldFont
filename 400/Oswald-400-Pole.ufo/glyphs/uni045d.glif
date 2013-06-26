@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045d" format="1">
-  <advance width="940"/>
+  <advance width="940.692"/>
   <unicode hex="045D"/>
   <outline>
     <component base="afii10074"/>
@@ -52,6 +52,31 @@
             <integer>188</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni045d</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>940.692</real>
+        </dict>
       </dict>
     </dict>
   </lib>

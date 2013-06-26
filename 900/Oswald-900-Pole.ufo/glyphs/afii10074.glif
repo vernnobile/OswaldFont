@@ -5,14 +5,14 @@
   <outline>
     <contour>
       <point x="102.0" y="0" type="line"/>
-      <point x="423.0248" y="0" type="line"/>
-      <point x="646.5508" y="535.572" type="line"/>
-      <point x="646.5508" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="677" y="567" type="line"/>
+      <point x="677" y="0" type="line"/>
       <point x="975.0708" y="0" type="line"/>
       <point x="975.0708" y="1184" type="line"/>
-      <point x="646.5508" y="1184" type="line"/>
-      <point x="423.0248" y="603.925" type="line"/>
-      <point x="423.0248" y="1184" type="line"/>
+      <point x="687" y="1184" type="line"/>
+      <point x="393" y="604" type="line"/>
+      <point x="393" y="1184" type="line"/>
       <point x="102.0" y="1184" type="line"/>
     </contour>
   </outline>
@@ -20,6 +20,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10074</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1077.0708</real>
+        </dict>
       </dict>
     </dict>
   </lib>

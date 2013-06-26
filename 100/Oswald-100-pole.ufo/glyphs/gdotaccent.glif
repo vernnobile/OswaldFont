@@ -3,7 +3,36 @@
   <advance width="846"/>
   <unicode hex="0121"/>
   <outline>
-    <component base="dotaccent" xOffset="285.500" yOffset="-4"/>
+    <component base="dotaccent" xOffset="285.5" yOffset="-4"/>
     <component base="g"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gdotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>846</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

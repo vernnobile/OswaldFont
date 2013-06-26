@@ -1,42 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="1">
-  <advance width="664"/>
+  <advance width="755"/>
   <unicode hex="0167"/>
   <outline>
     <contour>
-      <point x="446" y="-13" type="curve" smooth="yes"/>
-      <point x="517" y="-13"/>
-      <point x="625" y="-14"/>
-      <point x="691" y="7" type="curve"/>
-      <point x="691" y="304" type="line"/>
-      <point x="659" y="300"/>
-      <point x="610" y="300"/>
-      <point x="578" y="300" type="curve" smooth="yes"/>
-      <point x="525" y="300"/>
-      <point x="501" y="321"/>
-      <point x="501" y="361" type="curve" smooth="yes"/>
-      <point x="501" y="583" type="line"/>
-      <point x="657" y="583" type="line"/>
-      <point x="657" y="780" type="line"/>
-      <point x="501" y="780" type="line"/>
-      <point x="501" y="925" type="line"/>
-      <point x="655" y="925" type="line"/>
-      <point x="655" y="1184" type="line"/>
-      <point x="501" y="1184" type="line"/>
-      <point x="501" y="1550" type="line"/>
-      <point x="124" y="1550" type="line"/>
-      <point x="124" y="1184" type="line"/>
-      <point x="14" y="1184" type="line"/>
-      <point x="14" y="925" type="line"/>
-      <point x="124" y="925" type="line"/>
-      <point x="124" y="780" type="line"/>
-      <point x="14" y="780" type="line"/>
-      <point x="14" y="583" type="line"/>
-      <point x="124" y="583" type="line"/>
-      <point x="124" y="469" type="line" smooth="yes"/>
-      <point x="124" y="234"/>
-      <point x="154" y="-13"/>
+      <point x="661" y="595" type="line"/>
+      <point x="661" y="750" type="line"/>
+      <point x="18" y="750" type="line"/>
+      <point x="18" y="595" type="line"/>
     </contour>
+    <component base="t"/>
   </outline>
   <lib>
     <dict>
@@ -54,6 +27,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>755</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="892"/>
+  <advance width="920"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
       <point x="120" y="0" type="line"/>
       <point x="532" y="0" type="line"/>
       <point x="532" y="723" type="line"/>
-      <point x="806" y="723" type="line"/>
-      <point x="806" y="1009" type="line"/>
+      <point x="834" y="723" type="line"/>
+      <point x="834" y="1009" type="line"/>
       <point x="532" y="1009" type="line"/>
       <point x="532" y="1382" type="line"/>
-      <point x="853" y="1382" type="line"/>
-      <point x="853" y="1658" type="line"/>
+      <point x="865" y="1382" type="line"/>
+      <point x="865" y="1658" type="line"/>
       <point x="120" y="1658" type="line"/>
     </contour>
   </outline>
@@ -20,6 +20,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>920</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

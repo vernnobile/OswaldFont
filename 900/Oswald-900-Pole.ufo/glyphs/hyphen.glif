@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
-  <advance width="460"/>
+  <advance width="837"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="2" y="713" type="line"/>
-      <point x="458" y="713" type="line"/>
-      <point x="458" y="962" type="line"/>
-      <point x="2" y="962" type="line"/>
+      <point x="140" y="640" type="line"/>
+      <point x="697" y="640" type="line"/>
+      <point x="697" y="869" type="line"/>
+      <point x="140" y="869" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +32,31 @@
             <integer>456</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hyphen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>837</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

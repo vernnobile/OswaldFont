@@ -6,14 +6,15 @@
     <contour>
       <point x="110" y="0" type="line"/>
       <point x="346" y="0" type="line"/>
-      <point x="346" y="447.628" type="line"/>
-      <point x="402" y="544" type="line"/>
+      <point x="346" y="549" type="line"/>
+      <point x="402" y="549" type="line"/>
       <point x="611" y="0" type="line"/>
       <point x="858" y="0" type="line"/>
-      <point x="592" y="657" type="line"/>
+      <point x="617" y="611" type="line"/>
       <point x="856" y="1184" type="line"/>
       <point x="613" y="1184" type="line"/>
-      <point x="346" y="651.394" type="line"/>
+      <point x="403" y="691" type="line"/>
+      <point x="346" y="691" type="line"/>
       <point x="346" y="1184" type="line"/>
       <point x="110" y="1184" type="line"/>
     </contour>
@@ -46,6 +47,62 @@
             <integer>236</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>346</integer>
+          <key>y</key>
+          <integer>511</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>403</integer>
+          <key>y</key>
+          <integer>492</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10076</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>862</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

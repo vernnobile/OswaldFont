@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04E9" format="1">
-  <advance width="1027"/>
+  <advance width="1031"/>
   <unicode hex="04E9"/>
   <outline>
     <contour>
-      <point x="259" y="513" type="line"/>
-      <point x="766" y="513" type="line"/>
-      <point x="766" y="702" type="line"/>
-      <point x="259" y="702" type="line"/>
+      <point x="269" y="510" type="line"/>
+      <point x="776" y="510" type="line"/>
+      <point x="776" y="677" type="line"/>
+      <point x="269" y="677" type="line"/>
     </contour>
     <component base="o"/>
   </outline>
@@ -48,6 +48,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni04E9</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1031</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

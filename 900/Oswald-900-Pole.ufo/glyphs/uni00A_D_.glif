@@ -6,8 +6,8 @@
     <contour>
       <point x="138" y="383" type="line"/>
       <point x="664" y="383" type="line"/>
-      <point x="664" y="669" type="line"/>
-      <point x="138" y="669" type="line"/>
+      <point x="664" y="612" type="line"/>
+      <point x="138" y="612" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +32,31 @@
             <integer>526</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni00AD</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>781</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

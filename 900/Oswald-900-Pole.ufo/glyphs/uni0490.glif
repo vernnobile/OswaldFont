@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0490" format="1">
-  <advance width="992"/>
+  <advance width="1002"/>
   <unicode hex="0490"/>
   <outline>
     <contour>
-      <point x="120" y="0" type="line"/>
-      <point x="532" y="0" type="line"/>
-      <point x="532" y="1353" type="line"/>
-      <point x="932" y="1353" type="line"/>
-      <point x="932" y="1943" type="line"/>
-      <point x="694" y="1943" type="line"/>
-      <point x="694" y="1658" type="line"/>
-      <point x="120" y="1658" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="1353" type="line"/>
+      <point x="942" y="1353" type="line"/>
+      <point x="942" y="1943" type="line"/>
+      <point x="704" y="1943" type="line"/>
+      <point x="704" y="1658" type="line"/>
+      <point x="130" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0490</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1002</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

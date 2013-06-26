@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="1224"/>
+  <advance width="1232"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="998" y="-322" type="curve"/>
-      <point x="1088" y="-94" type="line"/>
-      <point x="1031" y="-66.4063"/>
-      <point x="969.914" y="-13.0297"/>
-      <point x="918.061" y="40.2119" type="curve"/>
-      <point x="1070.22" y="126.061"/>
-      <point x="1128" y="292.555"/>
-      <point x="1128" y="523" type="curve" smooth="yes"/>
-      <point x="1128" y="1135" type="line" smooth="yes"/>
-      <point x="1128" y="1482"/>
-      <point x="997" y="1684"/>
-      <point x="610" y="1684" type="curve" smooth="yes"/>
-      <point x="223" y="1684"/>
-      <point x="96" y="1482"/>
-      <point x="96" y="1135" type="curve" smooth="yes"/>
-      <point x="96" y="523" type="line" smooth="yes"/>
-      <point x="96" y="176"/>
-      <point x="223" y="-26"/>
-      <point x="610" y="-26" type="curve" smooth="yes"/>
-      <point x="621.257" y="-26"/>
-      <point x="632.297" y="-25.8291"/>
-      <point x="643.123" y="-25.4887" type="curve"/>
-      <point x="733.038" y="-163.569"/>
-      <point x="913.014" y="-289.625"/>
+      <point x="1002" y="-322" type="curve"/>
+      <point x="1092" y="-94" type="line"/>
+      <point x="1035" y="-66.4063"/>
+      <point x="973.914" y="-13.0297"/>
+      <point x="922.061" y="40.2119" type="curve"/>
+      <point x="1074.22" y="126.061"/>
+      <point x="1132" y="292.555"/>
+      <point x="1132" y="523" type="curve" smooth="yes"/>
+      <point x="1132" y="1135" type="line" smooth="yes"/>
+      <point x="1132" y="1482"/>
+      <point x="1001" y="1684"/>
+      <point x="614" y="1684" type="curve" smooth="yes"/>
+      <point x="227" y="1684"/>
+      <point x="100" y="1482"/>
+      <point x="100" y="1135" type="curve" smooth="yes"/>
+      <point x="100" y="523" type="line" smooth="yes"/>
+      <point x="100" y="176"/>
+      <point x="227" y="-26"/>
+      <point x="614" y="-26" type="curve" smooth="yes"/>
+      <point x="625.257" y="-26"/>
+      <point x="636.297" y="-25.8291"/>
+      <point x="647.123" y="-25.4887" type="curve"/>
+      <point x="737.038" y="-163.569"/>
+      <point x="917.014" y="-289.625"/>
     </contour>
     <contour>
-      <point x="610" y="258" type="curve" smooth="yes"/>
-      <point x="520" y="258"/>
-      <point x="520" y="352"/>
-      <point x="520" y="418" type="curve" smooth="yes"/>
-      <point x="520" y="1241" type="line" smooth="yes"/>
-      <point x="520" y="1307"/>
-      <point x="520" y="1400"/>
-      <point x="610" y="1400" type="curve" smooth="yes"/>
-      <point x="700" y="1400"/>
-      <point x="704" y="1307"/>
-      <point x="704" y="1241" type="curve" smooth="yes"/>
-      <point x="704" y="418" type="line" smooth="yes"/>
-      <point x="704" y="352"/>
-      <point x="700" y="258"/>
+      <point x="614" y="258" type="curve" smooth="yes"/>
+      <point x="524" y="258"/>
+      <point x="524" y="352"/>
+      <point x="524" y="418" type="curve" smooth="yes"/>
+      <point x="524" y="1241" type="line" smooth="yes"/>
+      <point x="524" y="1307"/>
+      <point x="524" y="1400"/>
+      <point x="614" y="1400" type="curve" smooth="yes"/>
+      <point x="704" y="1400"/>
+      <point x="708" y="1307"/>
+      <point x="708" y="1241" type="curve" smooth="yes"/>
+      <point x="708" y="418" type="line" smooth="yes"/>
+      <point x="708" y="352"/>
+      <point x="704" y="258"/>
     </contour>
   </outline>
   <lib>
@@ -83,6 +83,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1232</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

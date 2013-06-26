@@ -4,19 +4,21 @@
   <unicode hex="0443"/>
   <outline>
     <contour>
-      <point x="103" y="-292" type="line"/>
-      <point x="322" y="-292"/>
+      <point x="103" y="-302" type="line"/>
+      <point x="322" y="-302"/>
       <point x="473" y="-261"/>
       <point x="528" y="5" type="curve"/>
       <point x="781" y="1184" type="line"/>
       <point x="551" y="1184" type="line"/>
-      <point x="415" y="315" type="line"/>
+      <point x="459" y="569" type="line"/>
+      <point x="415" y="206" type="line"/>
+      <point x="360" y="570" type="line"/>
       <point x="247" y="1184" type="line"/>
       <point x="27" y="1184" type="line"/>
-      <point x="271" y="110" type="line" smooth="yes"/>
-      <point x="312" y="-70"/>
-      <point x="308" y="-114"/>
-      <point x="103" y="-116" type="curve"/>
+      <point x="271" y="99" type="line" smooth="yes"/>
+      <point x="312" y="-81"/>
+      <point x="258" y="-105"/>
+      <point x="103" y="-107" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -38,6 +40,31 @@
             <integer>20</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10085</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>819</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

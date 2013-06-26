@@ -8,6 +8,13 @@
 	<false/>
 	<key>com.schriftgestaltung.weight</key>
 	<string>Light</string>
+	<key>com.typemytype.robofont.b.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<true/>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -29,6 +36,7 @@
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>b</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -597,6 +605,7 @@
 				<string>Pi</string>
 				<string>afii61289</string>
 				<string>pi</string>
+				<string>afii10098</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1977,6 +1986,7 @@
 		<string>Pi</string>
 		<string>afii61289</string>
 		<string>pi</string>
+		<string>afii10098</string>
 	</array>
 </dict>
 </plist>

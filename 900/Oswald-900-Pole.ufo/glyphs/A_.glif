@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1122"/>
+  <advance width="1170.0"/>
   <unicode hex="0041"/>
   <outline>
+    <contour>
+      <point x="47.0" y="0.0" type="line"/>
+      <point x="436.0" y="0.0" type="line"/>
+      <point x="484.0" y="328.0" type="line"/>
+      <point x="695.0" y="328.0" type="line"/>
+      <point x="746.0" y="0.0" type="line"/>
+      <point x="1123.0" y="0.0" type="line"/>
+      <point x="827.0" y="1658.0" type="line"/>
+      <point x="345.0" y="1658.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="516.0" y="564.0" type="line"/>
+      <point x="588.0" y="1179.0" type="line"/>
+      <point x="661.0" y="564.0" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1170.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

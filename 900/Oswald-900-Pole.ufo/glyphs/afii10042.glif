@@ -1,27 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10042" format="1">
-  <advance width="1723.26"/>
+  <advance width="1743"/>
   <unicode hex="0428"/>
   <outline>
     <contour>
-      <point x="120" y="0" type="line"/>
-      <point x="1603" y="0" type="line"/>
-      <point x="1603" y="1658" type="line"/>
-      <point x="1220" y="1658" type="line"/>
-      <point x="1220" y="294" type="line"/>
-      <point x="1055" y="294" type="line"/>
-      <point x="1055" y="1658" type="line"/>
-      <point x="672" y="1658" type="line"/>
-      <point x="672" y="294" type="line"/>
-      <point x="504" y="294" type="line"/>
-      <point x="504" y="1658" type="line"/>
-      <point x="120" y="1658" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="1613" y="0" type="line"/>
+      <point x="1613" y="1658" type="line"/>
+      <point x="1230" y="1658" type="line"/>
+      <point x="1230" y="294" type="line"/>
+      <point x="1065" y="294" type="line"/>
+      <point x="1065" y="1658" type="line"/>
+      <point x="682" y="1658" type="line"/>
+      <point x="682" y="294" type="line"/>
+      <point x="514" y="294" type="line"/>
+      <point x="514" y="1658" type="line"/>
+      <point x="130" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10042</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1743</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

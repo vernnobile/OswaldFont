@@ -1,22 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Delta" format="1">
-  <advance width="1019"/>
+  <advance width="1103"/>
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="12" y="0" type="line"/>
-      <point x="1007" y="0" type="line"/>
-      <point x="746" y="1658" type="line"/>
-      <point x="296" y="1658" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="1049" y="0" type="line"/>
+      <point x="788" y="1658" type="line"/>
+      <point x="338" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="408" y="243" type="line"/>
-      <point x="447.456" y="536.544"/>
-      <point x="483.474" y="833.526"/>
-      <point x="519" y="1131" type="curve"/>
-      <point x="552.678" y="833.678"/>
-      <point x="586.694" y="536.694"/>
-      <point x="624" y="243" type="curve"/>
+      <point x="450" y="243" type="line"/>
+      <point x="489.456" y="536.544"/>
+      <point x="525.474" y="833.526"/>
+      <point x="561" y="1131" type="curve"/>
+      <point x="594.678" y="833.678"/>
+      <point x="628.694" y="536.694"/>
+      <point x="666" y="243" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Delta</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1103</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0135"/>
   <outline>
     <component base="uni0237"/>
-    <component base="uni0302" xOffset="-211.5" yOffset="75"/>
+    <component base="uni0302" xOffset="-150" yOffset="75"/>
   </outline>
   <lib>
     <dict>
@@ -25,6 +25,31 @@
             <integer>405</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jcircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>579</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

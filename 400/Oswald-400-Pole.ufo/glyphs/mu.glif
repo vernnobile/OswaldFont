@@ -4,11 +4,14 @@
   <unicode hex="00B5"/>
   <outline>
     <contour>
-      <point x="105" y="-360" type="line"/>
+      <point x="105" y="-360" type="curve"/>
       <point x="343" y="-360" type="line"/>
       <point x="341.669" y="-9.98304" type="line"/>
-      <point x="429.208" y="6.70306"/>
-      <point x="503.475" y="56.1235"/>
+      <point x="351.334011186" y="-8.14076006582"/>
+      <point x="360.837237492" y="-5.89945049867"/>
+      <point x="370.182083963" y="-3.29266953824" type="curve" smooth="yes"/>
+      <point x="445.476406489" y="17.7109720961"/>
+      <point x="510.488672028" y="62.4411044117"/>
       <point x="567" y="113.344" type="curve"/>
       <point x="567" y="0" type="line"/>
       <point x="803" y="0" type="line"/>
@@ -23,10 +26,8 @@
       <point x="339" y="296" type="curve" smooth="yes"/>
       <point x="339" y="1184" type="line"/>
       <point x="103" y="1184" type="line"/>
-      <point x="103" y="224" type="line" smooth="yes"/>
-      <point x="103" y="216.581"/>
-      <point x="103.148" y="208.999"/>
-      <point x="103.475" y="201.315" type="curve" smooth="yes"/>
+      <point x="103.0" y="1184.0"/>
+      <point x="105" y="-360"/>
     </contour>
   </outline>
   <lib>
