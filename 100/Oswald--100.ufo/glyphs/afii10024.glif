@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10024" format="1">
+  <advance width="1222"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="550" y="847" type="line"/>
+      <point x="573" y="847" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="649" y="0" type="line"/>
+      <point x="649" y="847" type="line"/>
+      <point x="672" y="847" type="line"/>
+      <point x="1091" y="0" type="line"/>
+      <point x="1168" y="0" type="line"/>
+      <point x="730" y="871" type="line"/>
+      <point x="1129" y="1658" type="line"/>
+      <point x="1055" y="1658" type="line"/>
+      <point x="665" y="876" type="line"/>
+      <point x="649" y="876" type="line"/>
+      <point x="649" y="1658" type="line"/>
+      <point x="573" y="1658" type="line"/>
+      <point x="573" y="876" type="line"/>
+      <point x="557" y="876" type="line"/>
+      <point x="167" y="1658" type="line"/>
+      <point x="93" y="1658" type="line"/>
+      <point x="491" y="871" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>643</integer>
+          <key>y</key>
+          <integer>1094</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>1019</integer>
+          <key>y</key>
+          <integer>615</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10024</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1206</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

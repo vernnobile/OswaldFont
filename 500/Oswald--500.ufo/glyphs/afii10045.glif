@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10045" format="1">
+  <advance width="1593"/>
+  <unicode hex="042B"/>
+  <outline>
+    <contour>
+      <point x="127" y="0" type="line"/>
+      <point x="481" y="0" type="line" smooth="yes"/>
+      <point x="814" y="0"/>
+      <point x="1011" y="110"/>
+      <point x="1011" y="485" type="curve" smooth="yes"/>
+      <point x="1011" y="850"/>
+      <point x="833" y="964"/>
+      <point x="488" y="964" type="curve" smooth="yes"/>
+      <point x="429" y="964" type="line"/>
+      <point x="429" y="1658" type="line"/>
+      <point x="127" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="206" type="line"/>
+      <point x="429" y="753" type="line"/>
+      <point x="478" y="753" type="line" smooth="yes"/>
+      <point x="673" y="753"/>
+      <point x="729" y="668"/>
+      <point x="730" y="489" type="curve" smooth="yes"/>
+      <point x="732" y="259"/>
+      <point x="655" y="206"/>
+      <point x="482" y="206" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1164" y="0" type="line"/>
+      <point x="1466" y="0" type="line"/>
+      <point x="1466" y="1658" type="line"/>
+      <point x="1164" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>694</integer>
+            <key>width</key>
+            <integer>380</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10045</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1323</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

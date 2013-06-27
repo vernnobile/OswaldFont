@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="1">
+  <advance width="841"/>
+  <unicode hex="0063"/>
+  <outline>
+    <contour>
+      <point x="434" y="-17" type="curve" smooth="yes"/>
+      <point x="688" y="-17"/>
+      <point x="757" y="124"/>
+      <point x="757" y="365" type="curve" smooth="yes"/>
+      <point x="757" y="447" type="line"/>
+      <point x="559" y="447" type="line"/>
+      <point x="559" y="351" type="line" smooth="yes"/>
+      <point x="559" y="230"/>
+      <point x="547" y="145"/>
+      <point x="438" y="145" type="curve" smooth="yes"/>
+      <point x="339" y="145"/>
+      <point x="308" y="197"/>
+      <point x="308" y="400" type="curve" smooth="yes"/>
+      <point x="308" y="773" type="line" smooth="yes"/>
+      <point x="308" y="972"/>
+      <point x="327" y="1039"/>
+      <point x="437" y="1039" type="curve" smooth="yes"/>
+      <point x="532" y="1039"/>
+      <point x="559" y="983"/>
+      <point x="559" y="829" type="curve" smooth="yes"/>
+      <point x="559" y="757" type="line"/>
+      <point x="757" y="757" type="line"/>
+      <point x="757" y="828" type="line" smooth="yes"/>
+      <point x="757" y="1072"/>
+      <point x="692" y="1200"/>
+      <point x="434" y="1200" type="curve" smooth="yes"/>
+      <point x="148" y="1200"/>
+      <point x="89" y="1024"/>
+      <point x="89" y="728" type="curve" smooth="yes"/>
+      <point x="89" y="454" type="line" smooth="yes"/>
+      <point x="89" y="170"/>
+      <point x="143" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>263</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>945</integer>
+            <key>width</key>
+            <integer>261</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>72</integer>
+            <key>width</key>
+            <integer>374</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>c</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1000</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="500"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="612" y="690" type="line"/>
+      <point x="612" y="809" type="line"/>
+      <point x="52" y="809" type="line"/>
+      <point x="52" y="690" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>181</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>760</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1026</integer>
+            <key>width</key>
+            <integer>158</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>167</integer>
+            <key>width</key>
+            <integer>236</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>181</integer>
+          <key>y</key>
+          <integer>809</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>218</integer>
+          <key>y</key>
+          <integer>690</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
