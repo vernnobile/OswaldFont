@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10079" format="1">
+  <advance width="950.0"/>
+  <unicode hex="043D"/>
+  <outline>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="401" y="519" type="line"/>
+      <point x="659" y="519" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="840" y="0" type="line"/>
+      <point x="964" y="1184" type="line"/>
+      <point x="728" y="1184" type="line"/>
+      <point x="677" y="692" type="line"/>
+      <point x="419" y="692" type="line"/>
+      <point x="470" y="1184" type="line"/>
+      <point x="234" y="1184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>519</integer>
+            <key>width</key>
+            <integer>173</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1164</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>110</integer>
+            <key>width</key>
+            <integer>236</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>604</integer>
+            <key>width</key>
+            <integer>236</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10079</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>950.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

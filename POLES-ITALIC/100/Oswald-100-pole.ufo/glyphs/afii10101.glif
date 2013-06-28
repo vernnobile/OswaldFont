@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10101" format="1">
+  <advance width="753.0"/>
+  <unicode hex="0454"/>
+  <outline>
+    <contour>
+      <point x="375" y="-20" type="curve" smooth="yes"/>
+      <point x="636" y="-20"/>
+      <point x="670" y="168"/>
+      <point x="694" y="403" type="curve" smooth="yes"/>
+      <point x="696" y="422" type="line"/>
+      <point x="632" y="422" type="line"/>
+      <point x="631" y="405" type="line" smooth="yes"/>
+      <point x="601" y="125"/>
+      <point x="560" y="30"/>
+      <point x="380" y="30" type="curve" smooth="yes"/>
+      <point x="202" y="30"/>
+      <point x="177" y="161"/>
+      <point x="206" y="441" type="curve" smooth="yes"/>
+      <point x="220" y="575" type="line"/>
+      <point x="540" y="575" type="line"/>
+      <point x="546" y="626" type="line"/>
+      <point x="226" y="626" type="line"/>
+      <point x="236" y="721" type="line" smooth="yes"/>
+      <point x="269" y="1034"/>
+      <point x="316" y="1154"/>
+      <point x="497" y="1154" type="curve" smooth="yes"/>
+      <point x="642" y="1154"/>
+      <point x="704" y="1100"/>
+      <point x="675" y="827" type="curve" smooth="yes"/>
+      <point x="672" y="800" type="line"/>
+      <point x="736" y="800" type="line"/>
+      <point x="739" y="829" type="line" smooth="yes"/>
+      <point x="761" y="1034"/>
+      <point x="745" y="1204"/>
+      <point x="503" y="1204" type="curve" smooth="yes"/>
+      <point x="294" y="1204"/>
+      <point x="211" y="1090"/>
+      <point x="172" y="721" type="curve" smooth="yes"/>
+      <point x="142" y="442" type="line" smooth="yes"/>
+      <point x="116" y="194"/>
+      <point x="119" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10101</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>753.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

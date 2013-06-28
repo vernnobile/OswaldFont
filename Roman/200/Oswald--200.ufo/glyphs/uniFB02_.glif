@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB02" format="1">
+  <advance width="910"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <contour>
+      <point x="303" y="1107" type="line"/>
+      <point x="501" y="1107" type="line"/>
+      <point x="501" y="1184" type="line"/>
+      <point x="303" y="1184" type="line"/>
+      <point x="303" y="1184"/>
+      <point x="303" y="1336"/>
+      <point x="303" y="1337" type="curve" smooth="yes"/>
+      <point x="303" y="1455"/>
+      <point x="309" y="1547"/>
+      <point x="512" y="1547" type="curve" smooth="yes"/>
+      <point x="554" y="1547"/>
+      <point x="604" y="1543"/>
+      <point x="666" y="1535" type="curve"/>
+      <point x="666" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="775" y="1598" type="line"/>
+      <point x="664" y="1620"/>
+      <point x="575" y="1630"/>
+      <point x="503" y="1630" type="curve" smooth="yes"/>
+      <point x="212" y="1630"/>
+      <point x="195" y="1476"/>
+      <point x="195" y="1344" type="curve" smooth="yes"/>
+      <point x="195" y="1184" type="line"/>
+      <point x="35" y="1184" type="line"/>
+      <point x="35" y="1107" type="line"/>
+      <point x="195" y="1107" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="303" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>80</integer>
+            <key>width</key>
+            <integer>32</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uniFB02</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>851</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

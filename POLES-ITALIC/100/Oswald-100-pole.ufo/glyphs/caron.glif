@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="517.0"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="386" y="1335" type="line"/>
+      <point x="415" y="1335" type="line"/>
+      <point x="622" y="1658" type="line"/>
+      <point x="560" y="1658" type="line"/>
+      <point x="410" y="1405" type="line"/>
+      <point x="312" y="1658" type="line"/>
+      <point x="249" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>517.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

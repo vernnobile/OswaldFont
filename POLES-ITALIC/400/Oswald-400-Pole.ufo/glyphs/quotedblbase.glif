@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="974.0"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="208" y="-274" type="line"/>
+      <point x="368" y="-274"/>
+      <point x="438" y="-142"/>
+      <point x="461" y="80" type="curve" smooth="yes"/>
+      <point x="483" y="285" type="line"/>
+      <point x="227" y="285" type="line"/>
+      <point x="202" y="48" type="line"/>
+      <point x="317" y="48" type="line"/>
+      <point x="300" y="-115"/>
+      <point x="264" y="-186"/>
+      <point x="178" y="-186" type="curve"/>
+    </contour>
+    <contour>
+      <point x="649" y="-274" type="line"/>
+      <point x="809" y="-274"/>
+      <point x="879" y="-142"/>
+      <point x="902" y="80" type="curve" smooth="yes"/>
+      <point x="924" y="285" type="line"/>
+      <point x="668" y="285" type="line"/>
+      <point x="643" y="48" type="line"/>
+      <point x="758" y="48" type="line"/>
+      <point x="741" y="-115"/>
+      <point x="705" y="-186"/>
+      <point x="619" y="-186" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-274</integer>
+            <key>width</key>
+            <integer>88</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>48</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>197</integer>
+            <key>width</key>
+            <integer>256</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>312</integer>
+            <key>width</key>
+            <integer>141</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>638</integer>
+            <key>width</key>
+            <integer>256</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>753</integer>
+            <key>width</key>
+            <integer>141</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblbase</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>974.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1045.0"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="162" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="381" y="1512" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="883" y="0" type="line"/>
+      <point x="1057" y="1658" type="line"/>
+      <point x="997" y="1658" type="line"/>
+      <point x="837" y="137" type="line"/>
+      <point x="398" y="1658" type="line"/>
+      <point x="336" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1045.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

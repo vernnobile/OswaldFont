@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1520.0"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="790" y="754" type="line"/>
+      <point x="926" y="754" type="line"/>
+      <point x="982" y="1287" type="line"/>
+      <point x="1105" y="754" type="line"/>
+      <point x="1179" y="754" type="line"/>
+      <point x="1406" y="1287" type="line"/>
+      <point x="1350" y="754" type="line"/>
+      <point x="1486" y="754" type="line"/>
+      <point x="1581" y="1658" type="line"/>
+      <point x="1438" y="1658" type="line"/>
+      <point x="1167" y="1047" type="line"/>
+      <point x="1043" y="1658" type="line"/>
+      <point x="885" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="754" type="line"/>
+      <point x="537" y="754" type="line"/>
+      <point x="617" y="1513" type="line"/>
+      <point x="769" y="1513" type="line"/>
+      <point x="784" y="1658" type="line"/>
+      <point x="296" y="1658" type="line"/>
+      <point x="281" y="1513" type="line"/>
+      <point x="443" y="1513" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1513</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>284</integer>
+            <key>width</key>
+            <integer>174</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>711</integer>
+            <key>width</key>
+            <integer>136</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1271</integer>
+            <key>width</key>
+            <integer>136</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1520.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

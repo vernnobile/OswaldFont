@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="1306.0"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="938" y="0" type="line"/>
+      <point x="1104" y="0" type="line"/>
+      <point x="1128" y="226" type="line"/>
+      <point x="1231" y="226" type="line"/>
+      <point x="1248" y="391" type="line"/>
+      <point x="1145" y="391" type="line"/>
+      <point x="1193" y="847" type="line"/>
+      <point x="1043" y="847" type="line"/>
+      <point x="713" y="380" type="line"/>
+      <point x="697" y="226" type="line"/>
+      <point x="962" y="226" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="827" type="line"/>
+      <point x="515" y="827" type="line"/>
+      <point x="602" y="1658" type="line"/>
+      <point x="473" y="1658" type="line"/>
+      <point x="429" y="1609"/>
+      <point x="367" y="1552"/>
+      <point x="256" y="1495" type="curve"/>
+      <point x="238" y="1327" type="line"/>
+      <point x="370" y="1405" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="1331" y="1658" type="line"/>
+      <point x="1174" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="832" y="391" type="line"/>
+      <point x="1006" y="644" type="line"/>
+      <point x="979" y="391" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onequarter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1306.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

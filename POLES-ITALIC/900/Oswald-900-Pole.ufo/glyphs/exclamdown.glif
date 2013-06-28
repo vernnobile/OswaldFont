@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="507.0"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="35" y="-303" type="line"/>
+      <point x="404" y="-303" type="line"/>
+      <point x="427" y="903" type="line"/>
+      <point x="298" y="903" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="1009" type="line"/>
+      <point x="550" y="1009" type="line"/>
+      <point x="586" y="1349" type="line"/>
+      <point x="240" y="1349" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>203</integer>
+            <key>width</key>
+            <integer>129</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>exclamdown</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>507.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

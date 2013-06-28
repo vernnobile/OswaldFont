@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AF" format="1">
+  <advance width="957.0"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="291" y="-361" type="line"/>
+      <point x="614" y="-361" type="line"/>
+      <point x="673" y="196" type="line"/>
+      <point x="1059" y="1184" type="line"/>
+      <point x="734" y="1184" type="line"/>
+      <point x="551" y="628" type="line"/>
+      <point x="448" y="1184" type="line"/>
+      <point x="123" y="1184" type="line"/>
+      <point x="349" y="195" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni04AF</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>957.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

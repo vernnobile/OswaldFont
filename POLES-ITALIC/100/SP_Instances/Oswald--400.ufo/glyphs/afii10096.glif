@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10096" format="1">
+  <advance width="1173"/>
+  <unicode hex="044E"/>
+  <outline>
+    <contour>
+      <point x="772" y="-17" type="curve" smooth="yes"/>
+      <point x="1009" y="-17"/>
+      <point x="1097" y="153"/>
+      <point x="1126" y="420" type="curve" smooth="yes"/>
+      <point x="1161" y="763" type="line" smooth="yes"/>
+      <point x="1190" y="1030"/>
+      <point x="1137" y="1200"/>
+      <point x="900" y="1200" type="curve" smooth="yes"/>
+      <point x="661" y="1200"/>
+      <point x="575" y="1030"/>
+      <point x="547" y="763" type="curve" smooth="yes"/>
+      <point x="537" y="665" type="line"/>
+      <point x="374" y="665" type="line"/>
+      <point x="428" y="1184" type="line"/>
+      <point x="235" y="1184" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="358" y="521" type="line"/>
+      <point x="521" y="521" type="line"/>
+      <point x="511" y="420" type="line" smooth="yes"/>
+      <point x="483" y="153"/>
+      <point x="533" y="-17"/>
+    </contour>
+    <contour>
+      <point x="789" y="145" type="curve" smooth="yes"/>
+      <point x="675" y="145"/>
+      <point x="687" y="273"/>
+      <point x="701" y="406" type="curve" smooth="yes"/>
+      <point x="740" y="777" type="line" smooth="yes"/>
+      <point x="754" y="910"/>
+      <point x="769" y="1039"/>
+      <point x="883" y="1039" type="curve" smooth="yes"/>
+      <point x="998" y="1039"/>
+      <point x="984" y="910"/>
+      <point x="971" y="777" type="curve" smooth="yes"/>
+      <point x="931" y="406" type="line" smooth="yes"/>
+      <point x="918" y="273"/>
+      <point x="904" y="145"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>263</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>943</integer>
+            <key>width</key>
+            <integer>263</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>593</integer>
+            <key>width</key>
+            <integer>352</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1079</integer>
+            <key>width</key>
+            <integer>352</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10096</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1002.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

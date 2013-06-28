@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="1">
+  <advance width="669.0"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="137" y="734" type="line"/>
+      <point x="686" y="734" type="line"/>
+      <point x="692" y="788" type="line"/>
+      <point x="143" y="788" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>minus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>669.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

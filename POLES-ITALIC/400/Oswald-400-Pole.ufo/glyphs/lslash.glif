@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="553.0"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="505" y="946" type="line"/>
+      <point x="638" y="1005" type="line"/>
+      <point x="657" y="1186" type="line"/>
+      <point x="525" y="1128" type="line"/>
+      <point x="580" y="1658" type="line"/>
+      <point x="344" y="1658" type="line"/>
+      <point x="277" y="1019" type="line"/>
+      <point x="129" y="954" type="line"/>
+      <point x="110" y="771" type="line"/>
+      <point x="258" y="837" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1166</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1638</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>170</integer>
+            <key>width</key>
+            <integer>236</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>553.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

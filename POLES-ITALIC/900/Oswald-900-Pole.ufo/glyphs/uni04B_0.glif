@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B0" format="1">
+  <advance width="1045.0"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="101" y="573" type="line"/>
+      <point x="1085" y="573" type="line"/>
+      <point x="1111" y="822" type="line"/>
+      <point x="127" y="822" type="line"/>
+    </contour>
+    <component base="uni04AE" xOffset="176.131411035"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni04B0</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1045.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

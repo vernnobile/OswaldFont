@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foundryicon" format="1">
+  <advance width="1397.0"/>
+  <outline>
+    <contour>
+      <point x="296" y="256" type="line"/>
+      <point x="753" y="558" type="line"/>
+      <point x="1155" y="256" type="line"/>
+      <point x="1051" y="757" type="line"/>
+      <point x="1511" y="1080" type="line"/>
+      <point x="982" y="1080" type="line"/>
+      <point x="860" y="1582" type="line"/>
+      <point x="643" y="1080" type="line"/>
+      <point x="114" y="1080" type="line"/>
+      <point x="504" y="757" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>foundryicon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1397.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

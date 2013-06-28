@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="1103.0"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="1049" y="0" type="line"/>
+      <point x="962" y="1658" type="line"/>
+      <point x="512" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="243" type="line"/>
+      <point x="546" y="537"/>
+      <point x="613" y="834"/>
+      <point x="680" y="1131" type="curve"/>
+      <point x="682" y="834"/>
+      <point x="685" y="537"/>
+      <point x="692" y="243" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Delta</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1103.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

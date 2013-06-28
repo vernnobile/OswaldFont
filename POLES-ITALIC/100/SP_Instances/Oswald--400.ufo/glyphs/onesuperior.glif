@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="867"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="477" y="627" type="line"/>
+      <point x="637" y="627" type="line"/>
+      <point x="760" y="1804" type="line"/>
+      <point x="638" y="1804" type="line"/>
+      <point x="568" y="1723"/>
+      <point x="447" y="1692"/>
+      <point x="376" y="1674" type="curve"/>
+      <point x="363" y="1552" type="line"/>
+      <point x="370" y="1554"/>
+      <point x="573" y="1590"/>
+      <point x="578" y="1597" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>148</integer>
+            <key>width</key>
+            <integer>481</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onesuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>772.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

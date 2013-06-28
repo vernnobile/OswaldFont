@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="679.0"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="136" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="607" y="938" type="line"/>
+      <point x="747" y="938" type="line"/>
+      <point x="772" y="1184" type="line"/>
+      <point x="632" y="1184" type="line"/>
+      <point x="642" y="1278" type="line" smooth="yes"/>
+      <point x="648" y="1334"/>
+      <point x="685" y="1348"/>
+      <point x="723" y="1348" type="curve" smooth="yes"/>
+      <point x="747" y="1348"/>
+      <point x="771" y="1342"/>
+      <point x="789" y="1339" type="curve"/>
+      <point x="818" y="1615" type="line"/>
+      <point x="756" y="1622"/>
+      <point x="703" y="1625"/>
+      <point x="655" y="1625" type="curve" smooth="yes"/>
+      <point x="345" y="1625"/>
+      <point x="292" y="1486"/>
+      <point x="271" y="1282" type="curve" smooth="yes"/>
+      <point x="260" y="1184" type="line"/>
+      <point x="157" y="1184" type="line"/>
+      <point x="132" y="938" type="line"/>
+      <point x="235" y="938" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1348</integer>
+            <key>width</key>
+            <integer>277</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>16</integer>
+            <key>width</key>
+            <integer>615</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>679.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

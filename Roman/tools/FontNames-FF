@@ -1,0 +1,63 @@
+#!/usr/local/bin/fontforge
+# set copyright
+SetTTFName(0x409,0,"2010-13 (c) Vernon Adams");
+# set family
+SetTTFName(0x409,1,"Oswald");
+SetTTFName(0x409,2,"2");
+SetTTFName(0x409,3,"3");
+# set Fullname
+SetTTFName(0x409,5,"5");
+#uniqueID
+SetTTFName(0x409,4,"4");
+SetTTFName(0x409,6,"6");
+# set trademark
+SetTTFName(0x409,7,"7");
+# set manufacturer
+SetTTFName(0x409,8,"Vernon Adams");
+# designer
+SetTTFName(0x409,9,"Vernon Adams");
+SetTTFName(0x409,10,"10");
+# vendor URL
+SetTTFName(0x409,11,"code.newtypography.co.uk");
+#designer URL
+SetTTFName(0x409,12,"code.newtypography.co.uk");
+# license
+SetTTFName(0x409,13,"Copyright (c) 2013, vernon adams (vernnobile@gmail.com),with Reserved Font Name Oswald. This Font Software is licensed under the SIL Open Font License, Version 1.1.");
+# license URL
+SetTTFName(0x409,14,"http://scripts.sil.org/OFL");
+
+# guess PS stuff for OT hints
+
+SelectAll();
+AutoHint();
+AutoCounter();
+
+PrivateGuess('BlueScale');
+PrivateGuess('BlueShift');
+PrivateGuess('BlueFuzz');
+PrivateGuess('BlueValues');
+PrivateGuess('OtherBlues');
+PrivateGuess('StdHW');
+PrivateGuess('StdVW');
+PrivateGuess('StemSnapH');
+PrivateGuess('StemSnapV');
+PrivateGuess('ForceBold');
+
+AutoHint();
+AutoCounter();
+SelectNone();
+
+SetFontNames('Oswald','Oswald','empty','empty','2010-13 (c) Vernon Adams','4');
+
+# OS/2 Stuff
+SetOS2Value('FSType',0x0000);
+SetOS2Value('VendorID','newt');
+SetOS2Value('WinAscent',1658);
+SetOS2Value('WinDescent',390);
+SetOS2Value('TypoAscent',1658);
+SetOS2Value('TypoDescent',-390);
+SetOS2Value('HHeadAscent',1658);
+SetOS2Value('HHeadDescent',-390);
+SetOS2Value('TypoLineGap',0);
+SetOS2Value('HHeadLineGap',0);
+

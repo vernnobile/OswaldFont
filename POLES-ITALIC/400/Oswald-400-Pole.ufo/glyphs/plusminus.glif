@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="769.0"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="333" y="355" type="line"/>
+      <point x="510" y="355" type="line"/>
+      <point x="529" y="533" type="line"/>
+      <point x="707" y="533" type="line"/>
+      <point x="726" y="711" type="line"/>
+      <point x="548" y="711" type="line"/>
+      <point x="566" y="888" type="line"/>
+      <point x="389" y="888" type="line"/>
+      <point x="371" y="711" type="line"/>
+      <point x="193" y="711" type="line"/>
+      <point x="174" y="533" type="line"/>
+      <point x="352" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="651" y="0" type="line"/>
+      <point x="670" y="178" type="line"/>
+      <point x="137" y="178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>533</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>118</integer>
+            <key>width</key>
+            <integer>533</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>296</integer>
+            <key>width</key>
+            <integer>177</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>769.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

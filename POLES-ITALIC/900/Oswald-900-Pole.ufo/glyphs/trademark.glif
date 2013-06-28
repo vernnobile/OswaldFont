@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1874.0"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="902" y="618" type="line"/>
+      <point x="1110" y="618" type="line"/>
+      <point x="1171" y="1201" type="line"/>
+      <point x="1282" y="618" type="line"/>
+      <point x="1395" y="618" type="line"/>
+      <point x="1624" y="1195" type="line"/>
+      <point x="1563" y="618" type="line"/>
+      <point x="1773" y="618" type="line"/>
+      <point x="1882" y="1658" type="line"/>
+      <point x="1602" y="1658" type="line"/>
+      <point x="1380" y="1049" type="line"/>
+      <point x="1283" y="1658" type="line"/>
+      <point x="1011" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="618" type="line"/>
+      <point x="632" y="618" type="line"/>
+      <point x="719" y="1448" type="line"/>
+      <point x="917" y="1448" type="line"/>
+      <point x="939" y="1658" type="line"/>
+      <point x="295" y="1658" type="line"/>
+      <point x="273" y="1448" type="line"/>
+      <point x="477" y="1448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1195</integer>
+            <key>width</key>
+            <integer>153</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1874.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

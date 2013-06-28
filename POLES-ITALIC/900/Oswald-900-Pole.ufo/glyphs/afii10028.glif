@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10028" format="1">
+  <advance width="1218.0"/>
+  <unicode hex="041A"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="615" y="694" type="line"/>
+      <point x="634" y="694" type="line"/>
+      <point x="772" y="0" type="line"/>
+      <point x="1197" y="0" type="line"/>
+      <point x="995" y="883" type="line"/>
+      <point x="1369" y="1658" type="line"/>
+      <point x="963" y="1658" type="line"/>
+      <point x="669" y="1027" type="line"/>
+      <point x="650" y="1027" type="line"/>
+      <point x="716" y="1658" type="line"/>
+      <point x="304" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>542</integer>
+          <key>y</key>
+          <integer>778</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>561</integer>
+          <key>y</key>
+          <integer>783</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10028</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1218.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

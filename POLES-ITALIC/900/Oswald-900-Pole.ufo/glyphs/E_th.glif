@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="1185.0"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="540" y="284" type="line"/>
+      <point x="588" y="746" type="line"/>
+      <point x="659" y="746" type="line"/>
+      <point x="680" y="946" type="line"/>
+      <point x="609" y="946" type="line"/>
+      <point x="654" y="1374" type="line"/>
+      <point x="689" y="1374" type="line" smooth="yes"/>
+      <point x="824" y="1374"/>
+      <point x="834" y="1332"/>
+      <point x="823" y="1224" type="curve" smooth="yes"/>
+      <point x="740" y="435" type="line" smooth="yes"/>
+      <point x="728" y="327"/>
+      <point x="710" y="284"/>
+      <point x="575" y="284" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="538" y="0" type="line" smooth="yes"/>
+      <point x="994" y="0"/>
+      <point x="1134" y="149"/>
+      <point x="1174" y="530" type="curve" smooth="yes"/>
+      <point x="1237" y="1128" type="line" smooth="yes"/>
+      <point x="1277" y="1509"/>
+      <point x="1168" y="1658"/>
+      <point x="712" y="1658" type="curve" smooth="yes"/>
+      <point x="272" y="1658" type="line"/>
+      <point x="197" y="946" type="line"/>
+      <point x="109" y="946" type="line"/>
+      <point x="88" y="746" type="line"/>
+      <point x="176" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>284</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1374</integer>
+            <key>width</key>
+            <integer>284</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>694</integer>
+            <key>width</key>
+            <integer>424</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1185.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

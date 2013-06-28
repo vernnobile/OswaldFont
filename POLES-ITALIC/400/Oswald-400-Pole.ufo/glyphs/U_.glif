@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="1116.0"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="557" y="-17" type="curve" smooth="yes"/>
+      <point x="925" y="-17"/>
+      <point x="1027" y="220"/>
+      <point x="1065" y="585" type="curve" smooth="yes"/>
+      <point x="1178" y="1658" type="line"/>
+      <point x="941" y="1658" type="line"/>
+      <point x="827" y="573" type="line" smooth="yes"/>
+      <point x="804" y="354"/>
+      <point x="767" y="178"/>
+      <point x="578" y="178" type="curve" smooth="yes"/>
+      <point x="389" y="178"/>
+      <point x="386" y="354"/>
+      <point x="409" y="573" type="curve" smooth="yes"/>
+      <point x="523" y="1658" type="line"/>
+      <point x="286" y="1658" type="line"/>
+      <point x="173" y="585" type="line" smooth="yes"/>
+      <point x="135" y="220"/>
+      <point x="189" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>195</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1638</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>112</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>767</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>U</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1116.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

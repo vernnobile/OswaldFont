@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10028" format="1">
+  <advance width="1053.0"/>
+  <unicode hex="041A"/>
+  <outline>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="461" y="808" type="line"/>
+      <point x="540" y="808" type="line"/>
+      <point x="777" y="0" type="line"/>
+      <point x="1027" y="0" type="line"/>
+      <point x="763" y="873" type="line"/>
+      <point x="1164" y="1658" type="line"/>
+      <point x="914" y="1658" type="line"/>
+      <point x="552" y="928" type="line"/>
+      <point x="474" y="928" type="line"/>
+      <point x="550" y="1658" type="line"/>
+      <point x="300" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1638</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>126</integer>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>376</integer>
+          <key>y</key>
+          <integer>727</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>455</integer>
+          <key>y</key>
+          <integer>759</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10028</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1053.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

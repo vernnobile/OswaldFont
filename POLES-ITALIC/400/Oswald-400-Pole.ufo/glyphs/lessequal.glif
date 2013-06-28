@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="805.0"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="699" y="221" type="line"/>
+      <point x="724" y="457" type="line"/>
+      <point x="341" y="754" type="line"/>
+      <point x="786" y="1049" type="line"/>
+      <point x="811" y="1286" type="line"/>
+      <point x="177" y="872" type="line"/>
+      <point x="152" y="634" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="702" y="139" type="line"/>
+      <point x="83" y="139" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>139</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>68</integer>
+            <key>width</key>
+            <integer>619</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lessequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>805.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

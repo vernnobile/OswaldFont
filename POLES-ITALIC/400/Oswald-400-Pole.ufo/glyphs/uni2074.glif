@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2074" format="1">
+  <advance width="709.0"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="439" y="570" type="line"/>
+      <point x="617" y="570" type="line"/>
+      <point x="648" y="866" type="line"/>
+      <point x="766" y="866" type="line"/>
+      <point x="779" y="985" type="line"/>
+      <point x="661" y="985" type="line"/>
+      <point x="731" y="1658" type="line"/>
+      <point x="572" y="1658" type="line"/>
+      <point x="158" y="985" type="line"/>
+      <point x="145" y="866" type="line"/>
+      <point x="470" y="866" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="985" type="line"/>
+      <point x="522" y="1362" type="line"/>
+      <point x="483" y="985" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>866</integer>
+            <key>width</key>
+            <integer>119</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1638</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>379</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni2074</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>709.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

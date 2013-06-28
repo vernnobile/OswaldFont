@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="631"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="426" y="-17" type="curve" smooth="yes"/>
+      <point x="481" y="-17"/>
+      <point x="522" y="-12"/>
+      <point x="578" y="-5" type="curve"/>
+      <point x="578" y="157" type="line"/>
+      <point x="551" y="153"/>
+      <point x="518" y="152"/>
+      <point x="497" y="152" type="curve" smooth="yes"/>
+      <point x="411" y="152"/>
+      <point x="389" y="189"/>
+      <point x="389" y="281" type="curve" smooth="yes"/>
+      <point x="389" y="1038" type="line"/>
+      <point x="579" y="1038" type="line"/>
+      <point x="579" y="1184" type="line"/>
+      <point x="389" y="1184" type="line"/>
+      <point x="389" y="1529" type="line"/>
+      <point x="170" y="1529" type="line"/>
+      <point x="170" y="1184" type="line"/>
+      <point x="46" y="1184" type="line"/>
+      <point x="46" y="1038" type="line"/>
+      <point x="170" y="1038" type="line"/>
+      <point x="170" y="266" type="line" smooth="yes"/>
+      <point x="172" y="86"/>
+      <point x="239" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-13</integer>
+            <key>width</key>
+            <integer>313</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>t</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>755</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <advance width="993"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="852" y="0" type="line"/>
+      <point x="852" y="127" type="line"/>
+      <point x="276" y="127" type="line"/>
+      <point x="690" y="755" type="line" smooth="yes"/>
+      <point x="791" y="907"/>
+      <point x="888" y="1052"/>
+      <point x="888" y="1255" type="curve" smooth="yes"/>
+      <point x="888" y="1519"/>
+      <point x="760" y="1676"/>
+      <point x="510" y="1676" type="curve" smooth="yes"/>
+      <point x="229" y="1676"/>
+      <point x="113" y="1512"/>
+      <point x="113" y="1209" type="curve"/>
+      <point x="113" y="1167" type="line"/>
+      <point x="262" y="1167" type="line"/>
+      <point x="262" y="1170"/>
+      <point x="262" y="1202"/>
+      <point x="262" y="1205" type="curve" smooth="yes"/>
+      <point x="263" y="1399"/>
+      <point x="311" y="1551"/>
+      <point x="517" y="1551" type="curve" smooth="yes"/>
+      <point x="665" y="1551"/>
+      <point x="738" y="1442"/>
+      <point x="738" y="1265" type="curve" smooth="yes"/>
+      <point x="738" y="1067"/>
+      <point x="646" y="947"/>
+      <point x="547" y="795" type="curve" smooth="yes"/>
+      <point x="101" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>658</integer>
+            <key>width</key>
+            <integer>378</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>two</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1128</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

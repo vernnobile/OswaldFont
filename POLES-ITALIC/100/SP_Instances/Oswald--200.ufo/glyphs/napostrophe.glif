@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="1">
+  <advance width="910"/>
+  <unicode hex="0149"/>
+  <outline>
+    <component base="comma" xOffset="-79" yOffset="1468"/>
+    <component base="n" xOffset="115"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>napostrophe</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>863.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

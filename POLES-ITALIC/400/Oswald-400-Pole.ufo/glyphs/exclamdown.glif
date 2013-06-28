@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="428.0"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="59" y="-356" type="line"/>
+      <point x="295" y="-356" type="line"/>
+      <point x="356" y="947" type="line"/>
+      <point x="273" y="947" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="1065" type="line"/>
+      <point x="444" y="1065" type="line"/>
+      <point x="469" y="1302" type="line"/>
+      <point x="233" y="1302" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1065</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>96</integer>
+            <key>width</key>
+            <integer>236</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>173</integer>
+            <key>width</key>
+            <integer>83</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>exclamdown</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>428.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="761.0"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="287" y="1000" type="line"/>
+      <point x="375" y="1092"/>
+      <point x="478" y="1154"/>
+      <point x="570" y="1154" type="curve" smooth="yes"/>
+      <point x="645" y="1154"/>
+      <point x="702" y="1117"/>
+      <point x="685" y="948" type="curve" smooth="yes"/>
+      <point x="585" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="749" y="939" type="line" smooth="yes"/>
+      <point x="772" y="1157"/>
+      <point x="678" y="1204"/>
+      <point x="587" y="1204" type="curve" smooth="yes"/>
+      <point x="482" y="1204"/>
+      <point x="376" y="1147"/>
+      <point x="293" y="1053" type="curve"/>
+      <point x="306" y="1184" type="line"/>
+      <point x="242" y="1184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>761.0</real>
+        </dict>
+      </dict>
+      <key>hhints</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>585</integer>
+      <key>vhints</key>
+      <dict>
+      </dict>
+      <key>width</key>
+      <integer>65</integer>
+    </dict>
+  </lib>
+</glyph>

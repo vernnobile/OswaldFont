@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="1">
+  <advance width="927.0"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="185" y="484" type="line"/>
+      <point x="844" y="484" type="line"/>
+      <point x="866" y="698" type="line"/>
+      <point x="207" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="881" type="line"/>
+      <point x="886" y="881" type="line"/>
+      <point x="908" y="1095" type="line"/>
+      <point x="249" y="1095" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>134</integer>
+            <key>width</key>
+            <integer>659</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>equal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>927.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="1286.0"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="120" y="0" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="609" y="731" type="line"/>
+      <point x="690" y="731" type="line"/>
+      <point x="784" y="0" type="line"/>
+      <point x="1216" y="0" type="line"/>
+      <point x="1073" y="793" type="line"/>
+      <point x="1252" y="881"/>
+      <point x="1301" y="1014"/>
+      <point x="1322" y="1221" type="curve" smooth="yes"/>
+      <point x="1360" y="1580"/>
+      <point x="1129" y="1658"/>
+      <point x="796" y="1658" type="curve" smooth="yes"/>
+      <point x="294" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="632" y="956" type="line"/>
+      <point x="678" y="1386" type="line"/>
+      <point x="806" y="1386" type="line" smooth="yes"/>
+      <point x="921" y="1386"/>
+      <point x="950" y="1301"/>
+      <point x="936" y="1175" type="curve" smooth="yes"/>
+      <point x="924" y="1053"/>
+      <point x="881" y="956"/>
+      <point x="740" y="956" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>747</integer>
+            <key>width</key>
+            <integer>399</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>R</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1286.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

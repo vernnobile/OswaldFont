@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="974.0"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="145" y="-203" type="line"/>
+      <point x="347" y="-203"/>
+      <point x="409" y="-88"/>
+      <point x="447" y="156" type="curve" smooth="yes"/>
+      <point x="457" y="224"/>
+      <point x="466" y="303"/>
+      <point x="475" y="391" type="curve"/>
+      <point x="163" y="391" type="line"/>
+      <point x="130" y="77" type="line"/>
+      <point x="284" y="77" type="line"/>
+      <point x="275" y="-11"/>
+      <point x="252" y="-90"/>
+      <point x="138" y="-90" type="curve"/>
+    </contour>
+    <contour>
+      <point x="586" y="-203" type="line"/>
+      <point x="788" y="-203"/>
+      <point x="850" y="-88"/>
+      <point x="888" y="156" type="curve" smooth="yes"/>
+      <point x="898" y="224"/>
+      <point x="907" y="303"/>
+      <point x="916" y="391" type="curve"/>
+      <point x="604" y="391" type="line"/>
+      <point x="571" y="77" type="line"/>
+      <point x="725" y="77" type="line"/>
+      <point x="716" y="-11"/>
+      <point x="693" y="-90"/>
+      <point x="579" y="-90" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-203</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>276</integer>
+            <key>width</key>
+            <integer>154</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>717</integer>
+            <key>width</key>
+            <integer>154</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblbase</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>974.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="892.0"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="114" y="3" type="line"/>
+      <point x="350" y="3" type="line"/>
+      <point x="398" y="456" type="line"/>
+      <point x="505" y="598" type="line"/>
+      <point x="656" y="0" type="line"/>
+      <point x="891" y="0" type="line"/>
+      <point x="700" y="718" type="line"/>
+      <point x="1022" y="1184" type="line"/>
+      <point x="776" y="1183" type="line"/>
+      <point x="422" y="688" type="line"/>
+      <point x="525" y="1661" type="line"/>
+      <point x="289" y="1661" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1164</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1641</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>114</integer>
+            <key>width</key>
+            <integer>236</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>892.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

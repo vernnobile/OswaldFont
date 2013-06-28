@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="876.0"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="234" y="1253" type="line"/>
+      <point x="504" y="1253" type="line"/>
+      <point x="606" y="1497" type="line"/>
+      <point x="659" y="1253" type="line"/>
+      <point x="930" y="1253" type="line"/>
+      <point x="765" y="1658" type="line"/>
+      <point x="475" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1253</integer>
+            <key>width</key>
+            <integer>405</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>876.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

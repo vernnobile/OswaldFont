@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="923"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="455" y="-192" type="line"/>
+      <point x="515" y="-192" type="line"/>
+      <point x="533" y="-19" type="line"/>
+      <point x="726" y="-2"/>
+      <point x="869" y="115"/>
+      <point x="893" y="344" type="curve" smooth="yes"/>
+      <point x="912" y="521"/>
+      <point x="814" y="668"/>
+      <point x="695" y="799" type="curve" smooth="yes"/>
+      <point x="426" y="1094" type="line" smooth="yes"/>
+      <point x="345" y="1186"/>
+      <point x="323" y="1261"/>
+      <point x="331" y="1345" type="curve" smooth="yes"/>
+      <point x="349" y="1514"/>
+      <point x="469" y="1585"/>
+      <point x="622" y="1587" type="curve" smooth="yes"/>
+      <point x="820" y="1591"/>
+      <point x="879" y="1472"/>
+      <point x="874" y="1239" type="curve"/>
+      <point x="971" y="1261" type="line"/>
+      <point x="983" y="1558"/>
+      <point x="868" y="1666"/>
+      <point x="663" y="1676" type="curve"/>
+      <point x="684" y="1870" type="line"/>
+      <point x="623" y="1870" type="line"/>
+      <point x="602" y="1676" type="line"/>
+      <point x="399" y="1666"/>
+      <point x="252" y="1549"/>
+      <point x="229" y="1337" type="curve" smooth="yes"/>
+      <point x="218" y="1229"/>
+      <point x="249" y="1124"/>
+      <point x="341" y="1022" type="curve" smooth="yes"/>
+      <point x="612" y="720" type="line" smooth="yes"/>
+      <point x="734" y="585"/>
+      <point x="804" y="483"/>
+      <point x="788" y="338" type="curve" smooth="yes"/>
+      <point x="768" y="148"/>
+      <point x="659" y="71"/>
+      <point x="494" y="71" type="curve" smooth="yes"/>
+      <point x="278" y="71"/>
+      <point x="235" y="221"/>
+      <point x="230" y="440" type="curve"/>
+      <point x="128" y="409" type="line"/>
+      <point x="122" y="151"/>
+      <point x="219" y="-17"/>
+      <point x="474" y="-21" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>32</integer>
+            <key>width</key>
+            <integer>404</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>32</integer>
+            <key>width</key>
+            <integer>350</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>558</integer>
+            <key>width</key>
+            <integer>409</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dollar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>889.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

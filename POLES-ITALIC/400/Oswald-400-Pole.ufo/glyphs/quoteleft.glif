@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="1">
+  <advance width="828.0"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="226" y="1170" type="line"/>
+      <point x="482" y="1170" type="line"/>
+      <point x="507" y="1407" type="line"/>
+      <point x="392" y="1407" type="line"/>
+      <point x="409" y="1570"/>
+      <point x="444" y="1641"/>
+      <point x="530" y="1641" type="curve"/>
+      <point x="501" y="1729" type="line"/>
+      <point x="341" y="1729"/>
+      <point x="271" y="1597"/>
+      <point x="248" y="1375" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1170</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1641</integer>
+            <key>width</key>
+            <integer>88</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>103</integer>
+            <key>width</key>
+            <integer>256</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>103</integer>
+            <key>width</key>
+            <integer>141</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quoteleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>828.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

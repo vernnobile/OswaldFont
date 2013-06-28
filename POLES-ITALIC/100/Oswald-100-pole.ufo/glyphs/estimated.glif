@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estimated" format="1">
+  <advance width="773.0"/>
+  <unicode hex="212E"/>
+  <outline>
+    <contour>
+      <point x="394" y="-20" type="curve" smooth="yes"/>
+      <point x="610" y="-20"/>
+      <point x="683" y="116"/>
+      <point x="703" y="304" type="curve" smooth="yes"/>
+      <point x="713" y="395" type="line"/>
+      <point x="660" y="395" type="line"/>
+      <point x="650" y="301" type="line" smooth="yes"/>
+      <point x="621" y="28"/>
+      <point x="479" y="30"/>
+      <point x="399" y="30" type="curve" smooth="yes"/>
+      <point x="261" y="30"/>
+      <point x="209" y="65"/>
+      <point x="244" y="400" type="curve" smooth="yes"/>
+      <point x="267" y="619" type="line"/>
+      <point x="734" y="619" type="line"/>
+      <point x="748" y="719" type="line"/>
+      <point x="784" y="1065"/>
+      <point x="713" y="1172"/>
+      <point x="523" y="1172" type="curve" smooth="yes"/>
+      <point x="371" y="1172"/>
+      <point x="232" y="1127"/>
+      <point x="191" y="733" type="curve" smooth="yes"/>
+      <point x="159" y="431" type="line" smooth="yes"/>
+      <point x="118" y="42"/>
+      <point x="243" y="-20"/>
+    </contour>
+    <contour>
+      <point x="272" y="663" type="line"/>
+      <point x="283" y="773" type="line" smooth="yes"/>
+      <point x="316" y="1086"/>
+      <point x="373" y="1122"/>
+      <point x="518" y="1122" type="curve" smooth="yes"/>
+      <point x="707" y="1122"/>
+      <point x="693" y="996"/>
+      <point x="668" y="759" type="curve" smooth="yes"/>
+      <point x="658" y="663" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>estimated</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>773.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
