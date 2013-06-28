@@ -1,0 +1,24 @@
+Reencode('Latin1');
+
+SelectSingletons('afii61352','ij','afii10054','afii10017','afii10022','afii10031','afii10032','afii10035','afii10036','afii10039','afii10065','afii10070','afii10080','afii10082','afii10083','afii10087');
+SelectMore('uni01C4','uni01F3');
+BuildComposite();
+SelectNone();
+
+SelectSingletons('afii10023','afii10052','afii10056','afii10061','afii10062','afii10027','afii10075','afii10071','afii10100','afii10104','afii10109','afii10110');
+SelectMore('Agrave','Odieresis','Ugrave','abreve');
+SelectMoreSingletons('amacron','aogonek','obreve','ohungarumlaut','omacron');
+SelectMore('cacute','cdotaccent','dcaron','eogonek','gbreve','gdotaccent','hcircumflex','ncommaaccent','racute','rcommaaccent','sacute','tcommaaccent','ubreve','uni021B','uni0400','uni1E6B','uogonek','zdotaccent');
+BuildAccented();
+
+
+# fix unicode on a few glyphs
+SelectSingletons('uni2215');
+SetGlyphName('uni2215');
+SelectSingletons('uni2219');
+SetGlyphName('uni2219');
+
+# delete few glyphs
+
+SelectSingletons('periodcentred','brevecomb');
+DetachAndRemoveGlyphs();
