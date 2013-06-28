@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="520"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0308" xOffset="-113.476" yOffset="375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1796</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

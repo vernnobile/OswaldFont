@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="1">
+  <advance width="1116"/>
+  <unicode hex="016A"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0304" xOffset="272.986" yOffset="279"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>195</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1796</integer>
+            <key>width</key>
+            <integer>141</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

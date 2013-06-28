@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubreve" format="1">
+  <advance width="1116"/>
+  <unicode hex="016C"/>
+  <outline>
+    <component base="U"/>
+    <component base="brevecomb" xOffset="250.25" yOffset="454"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>195</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1796</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>336</integer>
+            <key>width</key>
+            <integer>137</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>789</integer>
+            <key>width</key>
+            <integer>138</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

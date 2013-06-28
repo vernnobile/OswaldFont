@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="1">
+  <advance width="915"/>
+  <unicode hex="0148"/>
+  <outline>
+    <component base="n"/>
+    <component base="uni030C" xOffset="370.702" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1014</integer>
+            <key>width</key>
+            <integer>186</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1322</integer>
+            <key>width</key>
+            <integer>356</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

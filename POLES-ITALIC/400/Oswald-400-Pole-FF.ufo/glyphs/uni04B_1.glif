@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B1" format="1">
+  <advance width="810"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="26" y="-32" type="line"/>
+      <point x="666" y="-32" type="line"/>
+      <point x="682" y="125" type="line"/>
+      <point x="42" y="125" type="line"/>
+    </contour>
+    <component base="uni04AF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>94</integer>
+            <key>width</key>
+            <integer>240</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

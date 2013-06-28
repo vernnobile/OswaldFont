@@ -1,0 +1,7 @@
+#!/usr/local/bin/fontforge
+# fix direction etc
+
+SelectAll();
+RemoveOverlap();
+CorrectDirection(0)
+RoundToInt();

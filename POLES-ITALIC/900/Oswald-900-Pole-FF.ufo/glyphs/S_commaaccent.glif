@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scommaaccent" format="1">
+  <advance width="1081"/>
+  <unicode hex="0218"/>
+  <outline>
+    <component base="S"/>
+    <component base="uni0326" xOffset="348.901" yOffset="-81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-780</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-26</integer>
+            <key>width</key>
+            <integer>310</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1387</integer>
+            <key>width</key>
+            <integer>297</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-68</integer>
+            <key>width</key>
+            <integer>350</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-68</integer>
+            <key>width</key>
+            <integer>404</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>421</integer>
+            <key>width</key>
+            <integer>151</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>458</integer>
+            <key>width</key>
+            <integer>409</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>476</integer>
+            <key>width</key>
+            <integer>358</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

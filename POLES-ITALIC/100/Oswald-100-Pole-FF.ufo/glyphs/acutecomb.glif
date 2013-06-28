@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="1">
+  <advance width="362"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="169" y="1264" type="line"/>
+      <point x="205" y="1264" type="line"/>
+      <point x="412" y="1658" type="line"/>
+      <point x="347" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1264</integer>
+            <key>width</key>
+            <integer>394</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

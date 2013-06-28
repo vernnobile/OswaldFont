@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="984"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="376" y="-308" type="line"/>
+      <point x="467" y="-308" type="line"/>
+      <point x="497" y="-21" type="line"/>
+      <point x="722" y="-7"/>
+      <point x="890" y="109"/>
+      <point x="914" y="331" type="curve"/>
+      <point x="931" y="496" type="line"/>
+      <point x="567" y="496" type="line"/>
+      <point x="550" y="329" type="line"/>
+      <point x="541" y="252"/>
+      <point x="510" y="241"/>
+      <point x="478" y="241" type="curve" smooth="yes"/>
+      <point x="448" y="241"/>
+      <point x="424" y="263"/>
+      <point x="431" y="337" type="curve" smooth="yes"/>
+      <point x="485" y="849" type="line" smooth="yes"/>
+      <point x="493" y="923"/>
+      <point x="522" y="945"/>
+      <point x="552" y="945" type="curve" smooth="yes"/>
+      <point x="584" y="945"/>
+      <point x="613" y="934"/>
+      <point x="605" y="857" type="curve" smooth="yes"/>
+      <point x="590" y="710" type="line"/>
+      <point x="954" y="710" type="line"/>
+      <point x="969" y="855" type="line" smooth="yes"/>
+      <point x="992" y="1077"/>
+      <point x="848" y="1191"/>
+      <point x="626" y="1205" type="curve"/>
+      <point x="655" y="1488" type="line"/>
+      <point x="564" y="1488" type="line"/>
+      <point x="535" y="1205" type="line"/>
+      <point x="308" y="1189"/>
+      <point x="133" y="1058"/>
+      <point x="110" y="837" type="curve" smooth="yes"/>
+      <point x="59" y="349" type="line" smooth="yes"/>
+      <point x="35" y="128"/>
+      <point x="183" y="-5"/>
+      <point x="406" y="-20" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>22</integer>
+            <key>width</key>
+            <integer>374</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

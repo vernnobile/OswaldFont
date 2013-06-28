@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="1">
+  <advance width="473"/>
+  <unicode hex="012D"/>
+  <outline>
+    <component base="brevecomb" xOffset="-177.75" yOffset="-20"/>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1322</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>20</integer>
+            <key>width</key>
+            <integer>137</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>473</integer>
+            <key>width</key>
+            <integer>138</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

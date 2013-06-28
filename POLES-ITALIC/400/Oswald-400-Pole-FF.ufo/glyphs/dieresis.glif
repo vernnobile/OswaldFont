@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="828"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="217" y="1421" type="line"/>
+      <point x="454" y="1421" type="line"/>
+      <point x="479" y="1658" type="line"/>
+      <point x="242" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="572" y="1421" type="line"/>
+      <point x="810" y="1421" type="line"/>
+      <point x="835" y="1658" type="line"/>
+      <point x="597" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1421</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

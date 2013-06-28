@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="1">
+  <advance width="881"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni0308" xOffset="15.3444" yOffset="-99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>175</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1026</integer>
+            <key>width</key>
+            <integer>174</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1322</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

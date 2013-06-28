@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="652"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="656" y="1658" type="line"/>
+      <point x="244" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>48</integer>
+            <key>width</key>
+            <integer>412</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

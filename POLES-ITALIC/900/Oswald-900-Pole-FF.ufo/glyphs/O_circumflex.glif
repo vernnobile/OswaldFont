@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="1">
+  <advance width="1232"/>
+  <unicode hex="00D4"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0302" xOffset="221.908" yOffset="553"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-26</integer>
+            <key>width</key>
+            <integer>284</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1400</integer>
+            <key>width</key>
+            <integer>284</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1806</integer>
+            <key>width</key>
+            <integer>405</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>424</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>588</integer>
+            <key>width</key>
+            <integer>424</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

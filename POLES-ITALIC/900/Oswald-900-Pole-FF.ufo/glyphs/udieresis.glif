@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="1">
+  <advance width="1075"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni0308" xOffset="87.9282" yOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>258</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1328</integer>
+            <key>width</key>
+            <integer>328</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
