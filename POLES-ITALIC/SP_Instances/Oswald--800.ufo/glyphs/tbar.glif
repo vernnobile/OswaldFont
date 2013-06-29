@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="1">
-  <advance width="735"/>
+  <advance width="753"/>
   <unicode hex="0167"/>
   <outline>
     <contour>
-      <point x="35" y="603" type="line"/>
-      <point x="671" y="603" type="line"/>
-      <point x="687" y="755" type="line"/>
-      <point x="50" y="755" type="line"/>
+      <point x="44" y="603" type="line"/>
+      <point x="680" y="603" type="line"/>
+      <point x="696" y="755" type="line"/>
+      <point x="59" y="755" type="line"/>
     </contour>
-    <component base="t" xOffset="-41"/>
+    <component base="t" xOffset="17"/>
   </outline>
   <lib>
     <dict>
@@ -24,6 +24,31 @@
             <integer>53</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>753</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

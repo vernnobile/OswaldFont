@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1065"/>
+  <advance width="1063.49245663"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -59,6 +59,31 @@
             <integer>50</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>b</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1063.4924566330267</real>
+        </dict>
       </dict>
     </dict>
   </lib>

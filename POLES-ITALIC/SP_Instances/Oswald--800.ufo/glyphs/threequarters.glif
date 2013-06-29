@@ -58,10 +58,10 @@
       <point x="948" y="227" type="line"/>
     </contour>
     <contour>
-      <point x="115" y="0" type="line"/>
-      <point x="274" y="0" type="line"/>
-      <point x="1279" y="1658" type="line"/>
-      <point x="1119" y="1658" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="1277" y="1658" type="line"/>
+      <point x="1117" y="1658" type="line"/>
     </contour>
     <contour>
       <point x="817" y="388" type="line"/>
@@ -94,6 +94,31 @@
             <integer>58</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threequarters</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1335</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

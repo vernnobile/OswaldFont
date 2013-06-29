@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u" format="1">
-  <advance width="1062"/>
+  <advance width="1054.71724549"/>
   <unicode hex="0075"/>
   <outline>
     <contour>
-      <point x="268" y="-22" type="curve" smooth="yes"/>
-      <point x="367" y="-22"/>
-      <point x="463" y="25"/>
-      <point x="559" y="107" type="curve"/>
-      <point x="548" y="0" type="line"/>
-      <point x="909" y="0" type="line"/>
-      <point x="1033" y="1184" type="line"/>
-      <point x="672" y="1184" type="line"/>
-      <point x="574" y="246" type="line"/>
-      <point x="540" y="227"/>
-      <point x="510" y="219"/>
-      <point x="488" y="218" type="curve" smooth="yes"/>
-      <point x="442" y="216"/>
-      <point x="428" y="244"/>
-      <point x="433" y="294" type="curve" smooth="yes"/>
-      <point x="526" y="1184" type="line"/>
-      <point x="165" y="1184" type="line"/>
-      <point x="69" y="264" type="line" smooth="yes"/>
-      <point x="51" y="95"/>
-      <point x="123" y="-22"/>
+      <point x="264.717245485" y="-22" type="curve" smooth="yes"/>
+      <point x="363.717245485" y="-22"/>
+      <point x="459.717245485" y="25"/>
+      <point x="555.717245485" y="107" type="curve"/>
+      <point x="544.717245485" y="0" type="line"/>
+      <point x="905.717245485" y="0" type="line"/>
+      <point x="1029.71724549" y="1184" type="line"/>
+      <point x="668.717245485" y="1184" type="line"/>
+      <point x="570.717245485" y="246" type="line"/>
+      <point x="536.717245485" y="227"/>
+      <point x="506.717245485" y="219"/>
+      <point x="484.717245485" y="218" type="curve" smooth="yes"/>
+      <point x="438.717245485" y="216"/>
+      <point x="424.717245485" y="244"/>
+      <point x="429.717245485" y="294" type="curve" smooth="yes"/>
+      <point x="522.717245485" y="1184" type="line"/>
+      <point x="161.717245485" y="1184" type="line"/>
+      <point x="65.7172454852" y="264" type="line" smooth="yes"/>
+      <point x="47.7172454852" y="95"/>
+      <point x="119.717245485" y="-22"/>
     </contour>
   </outline>
   <lib>
@@ -39,6 +39,31 @@
             <integer>50</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>u</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1054.7172454851552</real>
+        </dict>
       </dict>
     </dict>
   </lib>
