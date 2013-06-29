@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+  <advance width="738"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="-25" y="-43" type="line"/>
+      <point x="169" y="-43" type="line" smooth="yes"/>
+      <point x="474" y="-43"/>
+      <point x="571" y="95"/>
+      <point x="606" y="364" type="curve"/>
+      <point x="742" y="1658" type="line"/>
+      <point x="343" y="1658" type="line"/>
+      <point x="209" y="382" type="line" smooth="yes"/>
+      <point x="196" y="256"/>
+      <point x="141" y="232"/>
+      <point x="4" y="234" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-114</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

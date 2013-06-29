@@ -24,14 +24,5 @@ DefaultUseMyMetrics()
 
 # delete few glyphs
 
-if (InFont('periodcentred')=true)
-SelectSingletons('periodcentred');
-DetachAndRemoveGlyphs();
-
-if InFont('brevecomb')
-SelectSingletons('brevecomb');
-DetachAndRemoveGlyphs();
-
-
 
 
