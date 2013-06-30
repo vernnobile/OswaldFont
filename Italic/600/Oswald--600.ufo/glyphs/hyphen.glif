@@ -1,55 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
-  <advance width="760"/>
+  <advance width="754"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="123" y="583" type="line"/>
-      <point x="637" y="583" type="line"/>
-      <point x="637" y="789" type="line"/>
-      <point x="123" y="789" type="line"/>
+      <point x="132" y="578" type="line"/>
+      <point x="643" y="578" type="line"/>
+      <point x="664" y="782" type="line"/>
+      <point x="154" y="782" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>701</integer>
+            <key>width</key>
+            <integer>59</integer>
           </dict>
-          <key>name</key>
-          <string>hyphen</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>549</integer>
-        </dict>
+        </array>
       </dict>
-      <key>hhints</key>
-      <dict>
-      </dict>
-      <key>position</key>
-      <integer>-134</integer>
-      <key>vhints</key>
-      <dict>
-      </dict>
-      <key>width</key>
-      <integer>269</integer>
     </dict>
   </lib>
 </glyph>

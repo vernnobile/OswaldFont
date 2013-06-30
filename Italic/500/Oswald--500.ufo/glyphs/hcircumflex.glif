@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcircumflex" format="1">
-  <advance width="967"/>
+  <advance width="973"/>
   <unicode hex="0125"/>
   <outline>
     <component base="h"/>
@@ -13,36 +13,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1780</integer>
+            <integer>1154</integer>
             <key>width</key>
-            <integer>405</integer>
+            <integer>50</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>hcircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1049</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

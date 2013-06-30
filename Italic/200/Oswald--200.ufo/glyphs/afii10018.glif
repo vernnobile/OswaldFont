@@ -4,70 +4,51 @@
   <unicode hex="0411"/>
   <outline>
     <contour>
-      <point x="152" y="0" type="line"/>
-      <point x="450" y="0" type="line" smooth="yes"/>
-      <point x="772" y="0"/>
-      <point x="890" y="194"/>
-      <point x="890" y="470" type="curve" smooth="yes"/>
-      <point x="890" y="795"/>
-      <point x="752" y="959"/>
-      <point x="446" y="959" type="curve" smooth="yes"/>
-      <point x="264" y="959" type="line"/>
-      <point x="264" y="1573" type="line"/>
-      <point x="790" y="1573" type="line"/>
-      <point x="790" y="1658" type="line"/>
-      <point x="152" y="1658" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="408" y="0" type="line" smooth="yes"/>
+      <point x="729" y="0"/>
+      <point x="868" y="194"/>
+      <point x="897" y="470" type="curve" smooth="yes"/>
+      <point x="931" y="795"/>
+      <point x="810" y="959"/>
+      <point x="504" y="959" type="curve" smooth="yes"/>
+      <point x="322" y="959" type="line"/>
+      <point x="387" y="1573" type="line"/>
+      <point x="913" y="1573" type="line"/>
+      <point x="922" y="1658" type="line"/>
+      <point x="283" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="264" y="91" type="line"/>
-      <point x="264" y="868" type="line"/>
-      <point x="452" y="868" type="line" smooth="yes"/>
-      <point x="696" y="868"/>
-      <point x="777" y="719"/>
-      <point x="777" y="472" type="curve" smooth="yes"/>
-      <point x="777" y="225"/>
-      <point x="695" y="91"/>
-      <point x="453" y="91" type="curve" smooth="yes"/>
+      <point x="231" y="91" type="line"/>
+      <point x="313" y="868" type="line"/>
+      <point x="501" y="868" type="line" smooth="yes"/>
+      <point x="744" y="868"/>
+      <point x="810" y="719"/>
+      <point x="784" y="472" type="curve" smooth="yes"/>
+      <point x="758" y="225"/>
+      <point x="662" y="91"/>
+      <point x="420" y="91" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>vhints</key>
+        <key>hhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>683</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>380</integer>
+            <integer>61</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>895</integer>
+            <key>width</key>
+            <integer>61</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10018</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1175</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

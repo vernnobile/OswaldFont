@@ -4,81 +4,61 @@
   <unicode hex="0409"/>
   <outline>
     <contour>
-      <point x="38" y="-4" type="line"/>
-      <point x="71" y="-5" type="line" smooth="yes"/>
-      <point x="363" y="-11"/>
-      <point x="417" y="199"/>
-      <point x="455" y="720" type="curve" smooth="yes"/>
-      <point x="515" y="1540" type="line"/>
-      <point x="862" y="1540" type="line"/>
-      <point x="862" y="0" type="line"/>
-      <point x="1148" y="0" type="line" smooth="yes"/>
-      <point x="1483" y="0"/>
-      <point x="1618" y="176"/>
-      <point x="1618" y="476" type="curve" smooth="yes"/>
-      <point x="1618" y="822"/>
-      <point x="1467" y="963"/>
-      <point x="1141" y="963" type="curve" smooth="yes"/>
-      <point x="1019" y="963" type="line"/>
-      <point x="1019" y="1658" type="line"/>
-      <point x="374" y="1658" type="line"/>
-      <point x="309" y="720" type="line" smooth="yes"/>
-      <point x="272" y="229"/>
-      <point x="239" y="110"/>
-      <point x="38" y="117" type="curve"/>
+      <point x="-8" y="-4" type="line"/>
+      <point x="26" y="-5" type="line" smooth="yes"/>
+      <point x="317" y="-11"/>
+      <point x="393" y="199"/>
+      <point x="485" y="720" type="curve" smooth="yes"/>
+      <point x="632" y="1540" type="line"/>
+      <point x="979" y="1540" type="line"/>
+      <point x="817" y="0" type="line"/>
+      <point x="1103" y="0" type="line" smooth="yes"/>
+      <point x="1438" y="0"/>
+      <point x="1592" y="176"/>
+      <point x="1623" y="476" type="curve" smooth="yes"/>
+      <point x="1660" y="822"/>
+      <point x="1523" y="963"/>
+      <point x="1197" y="963" type="curve" smooth="yes"/>
+      <point x="1075" y="963" type="line"/>
+      <point x="1148" y="1658" type="line"/>
+      <point x="503" y="1658" type="line"/>
+      <point x="339" y="720" type="line" smooth="yes"/>
+      <point x="251" y="229"/>
+      <point x="206" y="110"/>
+      <point x="5" y="117" type="curve"/>
     </contour>
     <contour>
-      <point x="1019" y="120" type="line"/>
-      <point x="1019" y="843" type="line"/>
-      <point x="1148" y="843" type="line" smooth="yes"/>
-      <point x="1387" y="843"/>
-      <point x="1466" y="717"/>
-      <point x="1466" y="478" type="curve" smooth="yes"/>
-      <point x="1466" y="222"/>
-      <point x="1379" y="120"/>
-      <point x="1150" y="120" type="curve" smooth="yes"/>
+      <point x="987" y="120" type="line"/>
+      <point x="1063" y="843" type="line"/>
+      <point x="1191" y="843" type="line" smooth="yes"/>
+      <point x="1431" y="843"/>
+      <point x="1496" y="717"/>
+      <point x="1471" y="478" type="curve" smooth="yes"/>
+      <point x="1444" y="222"/>
+      <point x="1346" y="120"/>
+      <point x="1118" y="120" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>61</integer>
           </dict>
-          <key>name</key>
-          <string>afii10058</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1636</integer>
-        </dict>
+          <dict>
+            <key>position</key>
+            <integer>895</integer>
+            <key>width</key>
+            <integer>61</integer>
+          </dict>
+        </array>
       </dict>
-      <key>hhints</key>
-      <dict>
-      </dict>
-      <key>position</key>
-      <integer>1442</integer>
-      <key>vhints</key>
-      <dict>
-      </dict>
-      <key>width</key>
-      <integer>386</integer>
     </dict>
   </lib>
 </glyph>

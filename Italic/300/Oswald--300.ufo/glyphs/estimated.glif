@@ -4,42 +4,42 @@
   <unicode hex="212E"/>
   <outline>
     <contour>
-      <point x="437" y="-19" type="curve" smooth="yes"/>
-      <point x="673" y="-19"/>
-      <point x="729" y="96"/>
-      <point x="729" y="312" type="curve" smooth="yes"/>
-      <point x="729" y="405" type="line"/>
-      <point x="644" y="405" type="line"/>
-      <point x="644" y="306" type="line" smooth="yes"/>
-      <point x="644" y="86"/>
-      <point x="572" y="44"/>
-      <point x="451" y="44" type="curve" smooth="yes"/>
-      <point x="292" y="44"/>
-      <point x="263" y="103"/>
-      <point x="263" y="360" type="curve" smooth="yes"/>
-      <point x="263" y="601" type="line"/>
-      <point x="729" y="601" type="line"/>
-      <point x="730" y="718" type="line" smooth="yes"/>
-      <point x="730" y="1052"/>
-      <point x="677" y="1186"/>
-      <point x="427" y="1186" type="curve" smooth="yes"/>
-      <point x="208" y="1186"/>
-      <point x="101" y="1098"/>
-      <point x="101" y="748" type="curve" smooth="yes"/>
+      <point x="390" y="-19" type="curve" smooth="yes"/>
+      <point x="626" y="-19"/>
+      <point x="694" y="96"/>
+      <point x="717" y="312" type="curve" smooth="yes"/>
+      <point x="727" y="405" type="line"/>
+      <point x="642" y="405" type="line"/>
+      <point x="631" y="306" type="line" smooth="yes"/>
+      <point x="608" y="86"/>
+      <point x="532" y="44"/>
+      <point x="410" y="44" type="curve" smooth="yes"/>
+      <point x="251" y="44"/>
+      <point x="229" y="103"/>
+      <point x="256" y="360" type="curve" smooth="yes"/>
+      <point x="281" y="601" type="line"/>
+      <point x="747" y="601" type="line"/>
+      <point x="761" y="718" type="line" smooth="yes"/>
+      <point x="796" y="1052"/>
+      <point x="756" y="1186"/>
+      <point x="507" y="1186" type="curve" smooth="yes"/>
+      <point x="288" y="1186"/>
+      <point x="171" y="1098"/>
+      <point x="135" y="748" type="curve" smooth="yes"/>
       <point x="101" y="425" type="line" smooth="yes"/>
-      <point x="101" y="81"/>
-      <point x="214" y="-19"/>
+      <point x="65" y="81"/>
+      <point x="167" y="-19"/>
     </contour>
     <contour>
-      <point x="263" y="661" type="line"/>
-      <point x="263" y="802" type="line" smooth="yes"/>
-      <point x="263" y="1054"/>
-      <point x="295" y="1119"/>
-      <point x="426" y="1119" type="curve" smooth="yes"/>
-      <point x="578" y="1119"/>
-      <point x="582" y="1005"/>
-      <point x="582" y="820" type="curve" smooth="yes"/>
-      <point x="582" y="661" type="line"/>
+      <point x="288" y="661" type="line"/>
+      <point x="302" y="802" type="line" smooth="yes"/>
+      <point x="329" y="1054"/>
+      <point x="368" y="1119"/>
+      <point x="499" y="1119" type="curve" smooth="yes"/>
+      <point x="651" y="1119"/>
+      <point x="643" y="1005"/>
+      <point x="623" y="820" type="curve" smooth="yes"/>
+      <point x="607" y="661" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -50,57 +50,26 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-22</integer>
+            <integer>-20</integer>
             <key>width</key>
-            <integer>83</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1126</integer>
+            <integer>1122</integer>
             <key>width</key>
-            <integer>80</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>76</integer>
+            <integer>610</integer>
             <key>width</key>
-            <integer>304</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>657</integer>
-            <key>width</key>
-            <integer>264</integer>
+            <integer>53</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>estimated</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>773</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

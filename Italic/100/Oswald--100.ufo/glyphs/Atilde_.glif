@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="1">
-  <advance width="919"/>
+  <advance width="945"/>
   <unicode hex="00C3"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb" xOffset="110" yOffset="291"/>
   </outline>
   <lib>
     <dict>
@@ -14,42 +13,17 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>232</integer>
+            <integer>320</integer>
             <key>width</key>
-            <integer>171</integer>
+            <integer>55</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>734</integer>
+            <integer>718</integer>
             <key>width</key>
-            <integer>155</integer>
+            <integer>49</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Atilde</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>911</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E61" format="1">
-  <advance width="808"/>
+  <advance width="836"/>
   <unicode hex="1E61"/>
   <outline>
     <component base="s"/>
@@ -13,57 +13,38 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-22</integer>
+            <integer>-20</integer>
             <key>width</key>
-            <integer>249</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1328</integer>
+            <integer>1154</integer>
             <key>width</key>
-            <integer>340</integer>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1326</integer>
+            <key>width</key>
+            <integer>161</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>262</integer>
+            <integer>31</integer>
             <key>width</key>
-            <integer>348</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>496</integer>
+            <integer>570</integer>
             <key>width</key>
-            <integer>353</integer>
+            <integer>55</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni1E61</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>699</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

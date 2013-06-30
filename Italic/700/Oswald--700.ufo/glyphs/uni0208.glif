@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0208" format="1">
-  <advance width="583"/>
+  <advance width="610"/>
   <unicode hex="0208"/>
   <outline>
     <component base="I"/>
-    <component base="uni030F" xOffset="-251" yOffset="529"/>
+    <component base="uni030F" xOffset="-72" yOffset="527"/>
   </outline>
   <lib>
     <dict>
@@ -14,45 +14,26 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>1800</integer>
             <key>width</key>
-            <integer>448</integer>
+            <integer>280</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>98</integer>
+            <integer>107</integer>
             <key>width</key>
-            <integer>412</integer>
+            <integer>80</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>305</integer>
+            <key>width</key>
+            <integer>77</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0208</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>608</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

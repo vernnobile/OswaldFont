@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E02" format="1">
-  <advance width="1119"/>
+  <advance width="1131"/>
   <unicode hex="1E02"/>
   <outline>
     <component base="B"/>
@@ -15,73 +15,27 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>287</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>742</integer>
+            <integer>864</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>53</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1388</integer>
+            <integer>1602</integer>
             <key>width</key>
-            <integer>270</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>1800</integer>
             <key>width</key>
-            <integer>340</integer>
+            <integer>161</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>455</integer>
-            <key>width</key>
-            <integer>348</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>745</integer>
-            <key>width</key>
-            <integer>360</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>761</integer>
-            <key>width</key>
-            <integer>398</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni1E02</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1194</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

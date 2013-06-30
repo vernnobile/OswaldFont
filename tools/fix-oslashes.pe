@@ -1,0 +1,9 @@
+SelectSingletons('o');
+CopyReference();
+SelectSingletons('oslash');
+PasteInto();
+
+SelectSingletons('O');
+CopyReference();
+SelectSingletons('Oslash');
+PasteInto();

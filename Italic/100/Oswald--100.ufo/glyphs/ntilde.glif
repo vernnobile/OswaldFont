@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="772"/>
+  <advance width="773"/>
   <unicode hex="00F1"/>
   <outline>
     <component base="n"/>
@@ -9,46 +9,30 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1154</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+        </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>202</integer>
+            <integer>248</integer>
             <key>width</key>
-            <integer>171</integer>
+            <integer>55</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>704</integer>
+            <integer>646</integer>
             <key>width</key>
-            <integer>155</integer>
+            <integer>49</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ntilde</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1053</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

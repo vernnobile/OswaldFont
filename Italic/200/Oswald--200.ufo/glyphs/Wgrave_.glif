@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wgrave" format="1">
-  <advance width="1413"/>
+  <advance width="1446"/>
   <unicode hex="1E80"/>
   <outline>
-    <component base="gravecomb" xOffset="656" yOffset="525"/>
+    <component base="gravecomb" xOffset="730" yOffset="538"/>
     <component base="W"/>
   </outline>
   <lib>
@@ -14,36 +14,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>1800</integer>
             <key>width</key>
-            <integer>415</integer>
+            <integer>394</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Wgrave</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1396</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

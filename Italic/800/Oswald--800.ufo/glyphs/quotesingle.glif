@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-  <advance width="376"/>
+  <advance width="394"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="60" y="1011" type="line"/>
-      <point x="234" y="1011" type="line"/>
-      <point x="354" y="1658" type="line"/>
-      <point x="60" y="1658" type="line"/>
+      <point x="122" y="1016" type="line"/>
+      <point x="294" y="1016" type="line"/>
+      <point x="480" y="1658" type="line"/>
+      <point x="189" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,45 +18,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1005</integer>
+            <integer>1204</integer>
             <key>width</key>
-            <integer>653</integer>
+            <integer>454</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>10</integer>
-            <key>width</key>
-            <integer>176</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quotesingle</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>359</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

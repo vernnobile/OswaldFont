@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10017" format="1">
-  <advance width="938"/>
+  <advance width="959"/>
   <unicode hex="0410"/>
   <outline>
-    <contour>
-      <point x="55" y="0" type="line"/>
-      <point x="166" y="0" type="line"/>
-      <point x="254" y="458" type="line"/>
-      <point x="685" y="458" type="line"/>
-      <point x="771" y="0" type="line"/>
-      <point x="883" y="0" type="line"/>
-      <point x="532" y="1658" type="line"/>
-      <point x="404" y="1658" type="line"/>
-    </contour>
-    <contour>
-      <point x="271" y="541" type="line"/>
-      <point x="469" y="1523" type="line"/>
-      <point x="669" y="541" type="line"/>
-    </contour>
+    <component base="A"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10017</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1122</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

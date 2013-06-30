@@ -1,54 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="1071"/>
+  <advance width="1077"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="567" y="0" type="line"/>
-      <point x="856" y="0" type="line"/>
-      <point x="856" y="392" type="line"/>
-      <point x="1021" y="392" type="line"/>
-      <point x="1021" y="635" type="line"/>
-      <point x="856" y="635" type="line"/>
-      <point x="856" y="1658" type="line"/>
-      <point x="496" y="1658" type="line"/>
-      <point x="70" y="651" type="line"/>
-      <point x="70" y="392" type="line"/>
-      <point x="567" y="392" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="801" y="0" type="line"/>
+      <point x="843" y="395" type="line"/>
+      <point x="1009" y="395" type="line"/>
+      <point x="1034" y="636" type="line"/>
+      <point x="868" y="636" type="line"/>
+      <point x="975" y="1659" type="line"/>
+      <point x="620" y="1659" type="line"/>
+      <point x="90" y="654" type="line"/>
+      <point x="62" y="395" type="line"/>
+      <point x="557" y="395" type="line"/>
     </contour>
     <contour>
-      <point x="323" y="635" type="line"/>
-      <point x="567" y="1332" type="line"/>
-      <point x="567" y="635" type="line"/>
+      <point x="339" y="636" type="line"/>
+      <point x="656" y="1335" type="line"/>
+      <point x="582" y="636" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>four</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1128</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

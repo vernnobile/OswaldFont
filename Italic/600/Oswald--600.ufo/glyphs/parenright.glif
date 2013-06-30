@@ -1,36 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="1">
-  <advance width="634"/>
+  <advance width="627"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="69" y="-381" type="line"/>
-      <point x="510" y="-383"/>
-      <point x="542" y="126"/>
-      <point x="542" y="643" type="curve" smooth="yes"/>
-      <point x="542" y="1187"/>
-      <point x="510" y="1678"/>
-      <point x="69" y="1676" type="curve"/>
-      <point x="69" y="1462" type="line"/>
-      <point x="233" y="1462"/>
-      <point x="253" y="1127"/>
-      <point x="253" y="643" type="curve" smooth="yes"/>
-      <point x="253" y="157"/>
-      <point x="226" y="-165"/>
-      <point x="69" y="-165" type="curve"/>
+      <point x="-22" y="-383" type="line"/>
+      <point x="416" y="-385"/>
+      <point x="500" y="127"/>
+      <point x="555" y="643" type="curve"/>
+      <point x="611" y="1183"/>
+      <point x="633" y="1678"/>
+      <point x="194" y="1676" type="curve"/>
+      <point x="172" y="1466" type="line"/>
+      <point x="339" y="1466"/>
+      <point x="321" y="1122"/>
+      <point x="271" y="643" type="curve"/>
+      <point x="220" y="162"/>
+      <point x="160" y="-172"/>
+      <point x="0" y="-172" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>vhints</key>
+        <key>hhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>259</integer>
+            <integer>-264</integer>
             <key>width</key>
-            <integer>341</integer>
+            <integer>51</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1616</integer>
+            <key>width</key>
+            <integer>51</integer>
           </dict>
         </array>
       </dict>

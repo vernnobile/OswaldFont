@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="1">
-  <advance width="425"/>
+  <advance width="424"/>
   <unicode hex="00A1"/>
   <outline>
     <contour>
-      <point x="102" y="-364" type="line"/>
-      <point x="323" y="-364" type="line"/>
-      <point x="251" y="939" type="line"/>
-      <point x="174" y="939" type="line"/>
+      <point x="17" y="-367" type="line"/>
+      <point x="232" y="-367" type="line"/>
+      <point x="300" y="936" type="line"/>
+      <point x="225" y="936" type="line"/>
     </contour>
     <contour>
-      <point x="102" y="1069" type="line"/>
-      <point x="323" y="1069" type="line"/>
-      <point x="323" y="1294" type="line"/>
-      <point x="102" y="1294" type="line"/>
+      <point x="169" y="1070" type="line"/>
+      <point x="383" y="1070" type="line"/>
+      <point x="407" y="1291" type="line"/>
+      <point x="192" y="1291" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,9 +24,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>203</integer>
+            <integer>237</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>24</integer>
           </dict>
         </array>
       </dict>

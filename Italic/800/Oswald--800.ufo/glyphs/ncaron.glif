@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron" format="1">
-  <advance width="1047"/>
+  <advance width="1073"/>
   <unicode hex="0148"/>
   <outline>
     <component base="n"/>
@@ -13,36 +13,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1328</integer>
+            <integer>1154</integer>
             <key>width</key>
-            <integer>389</integer>
+            <integer>50</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ncaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1053</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

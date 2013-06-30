@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="1">
-  <advance width="1180"/>
+  <advance width="1268"/>
   <unicode hex="0158"/>
   <outline>
     <component base="R"/>
@@ -13,45 +13,20 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>860</integer>
             <key>width</key>
-            <integer>389</integer>
+            <integer>52</integer>
           </dict>
-        </array>
-        <key>vhints</key>
-        <array>
           <dict>
             <key>position</key>
-            <integer>747</integer>
+            <integer>1602</integer>
             <key>width</key>
-            <integer>399</integer>
+            <integer>56</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Rcaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1186</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

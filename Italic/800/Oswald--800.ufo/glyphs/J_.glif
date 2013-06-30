@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="743"/>
+  <advance width="738"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="30" y="-43" type="line"/>
-      <point x="228" y="-43" type="line" smooth="yes"/>
-      <point x="533" y="-43"/>
-      <point x="616" y="96"/>
-      <point x="622" y="363" type="curve"/>
-      <point x="623" y="1658" type="line"/>
-      <point x="217" y="1658" type="line"/>
-      <point x="217" y="381" type="line" smooth="yes"/>
-      <point x="217" y="259"/>
-      <point x="165" y="235"/>
-      <point x="30" y="238" type="curve"/>
+      <point x="-26" y="-43" type="line"/>
+      <point x="168" y="-43" type="line" smooth="yes"/>
+      <point x="473" y="-43"/>
+      <point x="570" y="95"/>
+      <point x="605" y="364" type="curve"/>
+      <point x="741" y="1658" type="line"/>
+      <point x="342" y="1658" type="line"/>
+      <point x="208" y="382" type="line" smooth="yes"/>
+      <point x="195" y="256"/>
+      <point x="140" y="232"/>
+      <point x="3" y="234" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -25,36 +25,14 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-44</integer>
+            <integer>-114</integer>
             <key>width</key>
-            <integer>286</integer>
+            <integer>56</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>J</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>748</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

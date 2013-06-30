@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0400" format="1">
-  <advance width="783"/>
+  <advance width="804"/>
   <unicode hex="0400"/>
   <outline>
-    <component base="gravecomb" xOffset="391" yOffset="525"/>
+    <component base="gravecomb" xOffset="418" yOffset="538"/>
     <component base="afii10022"/>
   </outline>
   <lib>
@@ -14,36 +14,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>1800</integer>
             <key>width</key>
-            <integer>415</integer>
+            <integer>394</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0400</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>894</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

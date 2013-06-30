@@ -13,9 +13,9 @@
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHheaAscender</key>
-	<integer>131</integer>
+	<integer>0</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-33</integer>
+	<integer>0</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2FamilyClass</key>
@@ -24,9 +24,9 @@
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>131</integer>
+	<integer>3183</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-33</integer>
+	<integer>-31</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -34,40 +34,47 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1638</integer>
+	<integer>1658</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>410</integer>
+	<integer>390</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.022896</real>
+	<real>0.039625</real>
 	<key>postscriptBlueShift</key>
-	<integer>0</integer>
+	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-16</integer>
+		<integer>-23</integer>
 		<integer>0</integer>
-		<integer>694</integer>
-		<integer>710</integer>
-		<integer>997</integer>
-		<integer>1011</integer>
-	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
+		<integer>1184</integer>
+		<integer>1204</integer>
+		<integer>1658</integer>
+		<integer>1678</integer>
 	</array>
 	<key>postscriptFullName</key>
 	<string>Oswald -100</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-228</integer>
-		<integer>-223</integer>
+		<integer>-390</integer>
+		<integer>-327</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
+		<integer>50</integer>
+		<integer>56</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
+		<integer>24</integer>
+		<integer>42</integer>
+		<integer>50</integer>
+		<integer>54</integer>
+		<integer>61</integer>
+		<integer>77</integer>
+		<integer>100</integer>
+		<integer>246</integer>
+		<integer>662</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-84</integer>

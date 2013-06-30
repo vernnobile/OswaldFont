@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="1">
-  <advance width="953"/>
+  <advance width="956"/>
   <unicode hex="00F5"/>
   <outline>
     <component base="o"/>
@@ -13,69 +13,32 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-22</integer>
+            <integer>-20</integer>
             <key>width</key>
-            <integer>263</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>943</integer>
+            <integer>1154</integer>
             <key>width</key>
-            <integer>263</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>72</integer>
+            <integer>239</integer>
             <key>width</key>
-            <integer>366</integer>
+            <integer>55</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>179</integer>
+            <integer>637</integer>
             <key>width</key>
-            <integer>171</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>577</integer>
-            <key>width</key>
-            <integer>366</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>681</integer>
-            <key>width</key>
-            <integer>155</integer>
+            <integer>49</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>otilde</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1015</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

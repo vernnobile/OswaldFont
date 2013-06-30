@@ -1,45 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="960"/>
+  <advance width="1077"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="211" y="0" type="line"/>
-      <point x="518" y="0" type="line"/>
-      <point x="862" y="1455" type="line"/>
-      <point x="862" y="1658" type="line"/>
-      <point x="109" y="1658" type="line"/>
-      <point x="109" y="1417" type="line"/>
-      <point x="553" y="1417" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="1031" y="1446" type="line"/>
+      <point x="1052" y="1658" type="line"/>
+      <point x="275" y="1658" type="line"/>
+      <point x="251" y="1422" type="line"/>
+      <point x="723" y="1422" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>seven</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1128</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

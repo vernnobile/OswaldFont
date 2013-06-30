@@ -3,48 +3,6 @@
   <advance width="909"/>
   <unicode hex="0425"/>
   <outline>
-    <contour>
-      <point x="32" y="0" type="line"/>
-      <point x="113" y="0" type="line"/>
-      <point x="439" y="780" type="line"/>
-      <point x="801" y="0" type="line"/>
-      <point x="877" y="0" type="line"/>
-      <point x="485" y="841" type="line"/>
-      <point x="874" y="1659" type="line"/>
-      <point x="792" y="1659" type="line"/>
-      <point x="450" y="917" type="line"/>
-      <point x="104" y="1659" type="line"/>
-      <point x="33" y="1659" type="line"/>
-      <point x="403" y="859" type="line"/>
-    </contour>
+    <component base="X"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10039</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1063</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

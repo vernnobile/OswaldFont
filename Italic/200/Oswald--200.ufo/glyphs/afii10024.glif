@@ -4,88 +4,28 @@
   <unicode hex="0416"/>
   <outline>
     <contour>
-      <point x="43" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="556" y="844" type="line"/>
-      <point x="578" y="844" type="line"/>
-      <point x="578" y="0" type="line"/>
-      <point x="680" y="0" type="line"/>
-      <point x="680" y="844" type="line"/>
-      <point x="701" y="844" type="line"/>
-      <point x="1104" y="0" type="line"/>
-      <point x="1214" y="0" type="line"/>
-      <point x="788" y="866" type="line"/>
-      <point x="1175" y="1658" type="line"/>
-      <point x="1068" y="1658" type="line"/>
-      <point x="695" y="873" type="line"/>
-      <point x="680" y="873" type="line"/>
-      <point x="680" y="1658" type="line"/>
-      <point x="578" y="1658" type="line"/>
-      <point x="578" y="873" type="line"/>
-      <point x="563" y="873" type="line"/>
-      <point x="190" y="1658" type="line"/>
-      <point x="82" y="1658" type="line"/>
-      <point x="470" y="866" type="line"/>
+      <point x="1" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="602" y="844" type="line"/>
+      <point x="624" y="844" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="637" y="0" type="line"/>
+      <point x="726" y="844" type="line"/>
+      <point x="747" y="844" type="line"/>
+      <point x="1061" y="0" type="line"/>
+      <point x="1172" y="0" type="line"/>
+      <point x="836" y="866" type="line"/>
+      <point x="1307" y="1658" type="line"/>
+      <point x="1199" y="1658" type="line"/>
+      <point x="744" y="873" type="line"/>
+      <point x="729" y="873" type="line"/>
+      <point x="811" y="1658" type="line"/>
+      <point x="709" y="1658" type="line"/>
+      <point x="627" y="873" type="line"/>
+      <point x="611" y="873" type="line"/>
+      <point x="321" y="1658" type="line"/>
+      <point x="214" y="1658" type="line"/>
+      <point x="519" y="866" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>643</integer>
-          <key>y</key>
-          <integer>1094</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>1019</integer>
-          <key>y</key>
-          <integer>615</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10024</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1206</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

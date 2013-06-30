@@ -4,16 +4,16 @@
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="66" y="0" type="line"/>
-      <point x="597" y="0" type="line"/>
-      <point x="597" y="83" type="line"/>
-      <point x="181" y="83" type="line"/>
-      <point x="605" y="1113" type="line"/>
-      <point x="605" y="1184" type="line"/>
-      <point x="111" y="1184" type="line"/>
-      <point x="111" y="1100" type="line"/>
-      <point x="493" y="1100" type="line"/>
-      <point x="66" y="79" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="563" y="83" type="line"/>
+      <point x="147" y="83" type="line"/>
+      <point x="680" y="1113" type="line"/>
+      <point x="687" y="1184" type="line"/>
+      <point x="192" y="1184" type="line"/>
+      <point x="184" y="1100" type="line"/>
+      <point x="567" y="1100" type="line"/>
+      <point x="32" y="79" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,36 +24,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>56</integer>
+            <integer>6</integer>
             <key>width</key>
             <integer>676</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>z</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>648</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

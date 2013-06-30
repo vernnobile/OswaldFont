@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wdieresis" format="1">
-  <advance width="1406"/>
+  <advance width="1453"/>
   <unicode hex="1E84"/>
   <outline>
     <component base="W"/>
@@ -13,36 +13,14 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>1800</integer>
             <key>width</key>
-            <integer>328</integer>
+            <integer>125</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Wdieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1396</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

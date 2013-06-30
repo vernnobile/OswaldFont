@@ -18,11 +18,8 @@ SetGlyphName('uni2215');
 SelectSingletons('uni2219');
 SetGlyphName('uni2219');
 
-
-SelectAll();
-DefaultUseMyMetrics()
-
 # delete few glyphs
 
-
-
+SelectSingletons('periodcentred','brevecomb');
+DetachAndRemoveGlyphs();
+RemoveDetachedGlyphs();

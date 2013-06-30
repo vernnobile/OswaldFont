@@ -4,19 +4,19 @@
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="135" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="254" y="1439" type="line"/>
-      <point x="603" y="0" type="line"/>
-      <point x="671" y="0" type="line"/>
-      <point x="1025" y="1444" type="line"/>
-      <point x="1072" y="0" type="line"/>
-      <point x="1143" y="0" type="line"/>
-      <point x="1091" y="1658" type="line"/>
-      <point x="1006" y="1658" type="line"/>
-      <point x="636" y="120" type="line"/>
-      <point x="266" y="1658" type="line"/>
-      <point x="190" y="1658" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="364" y="1439" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="1136" y="1444" type="line"/>
+      <point x="1031" y="0" type="line"/>
+      <point x="1102" y="0" type="line"/>
+      <point x="1224" y="1658" type="line"/>
+      <point x="1140" y="1658" type="line"/>
+      <point x="608" y="120" type="line"/>
+      <point x="399" y="1658" type="line"/>
+      <point x="323" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,54 +27,29 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>86</integer>
+            <integer>36</integer>
             <key>width</key>
             <integer>290</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>113</integer>
+            <integer>63</integer>
             <key>width</key>
             <integer>291</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1012</integer>
+            <integer>962</integer>
             <key>width</key>
             <integer>291</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1044</integer>
+            <integer>994</integer>
             <key>width</key>
             <integer>286</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>M</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1472</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

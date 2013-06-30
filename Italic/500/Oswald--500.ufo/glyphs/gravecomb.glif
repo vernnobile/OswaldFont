@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="1">
-  <advance width="208"/>
+  <advance width="182"/>
   <unicode hex="0300"/>
   <outline>
     <contour>
-      <point x="202" y="1249" type="line"/>
-      <point x="360" y="1249" type="line"/>
-      <point x="239" y="1658" type="line"/>
-      <point x="-45" y="1658" type="line"/>
+      <point x="275" y="1249" type="line"/>
+      <point x="428" y="1249" type="line"/>
+      <point x="350" y="1658" type="line"/>
+      <point x="72" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,9 +18,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1243</integer>
+            <integer>1264</integer>
             <key>width</key>
-            <integer>415</integer>
+            <integer>394</integer>
           </dict>
         </array>
       </dict>

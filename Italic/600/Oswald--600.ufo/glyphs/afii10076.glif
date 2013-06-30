@@ -1,82 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10076" format="1">
-  <advance width="1001"/>
+  <advance width="991"/>
   <unicode hex="043A"/>
   <outline>
     <contour>
-      <point x="106" y="0" type="line"/>
-      <point x="415" y="0" type="line"/>
-      <point x="415" y="531" type="line"/>
-      <point x="466" y="531" type="line"/>
-      <point x="660" y="0" type="line"/>
-      <point x="988" y="0" type="line"/>
-      <point x="748" y="621" type="line"/>
-      <point x="983" y="1184" type="line"/>
-      <point x="652" y="1184" type="line"/>
-      <point x="466" y="712" type="line"/>
-      <point x="415" y="712" type="line"/>
-      <point x="415" y="1184" type="line"/>
-      <point x="106" y="1184" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="416" y="533" type="line"/>
+      <point x="467" y="533" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="928" y="0" type="line"/>
+      <point x="753" y="621" type="line"/>
+      <point x="1048" y="1184" type="line"/>
+      <point x="723" y="1184" type="line"/>
+      <point x="487" y="710" type="line"/>
+      <point x="435" y="710" type="line"/>
+      <point x="484" y="1184" type="line"/>
+      <point x="180" y="1184" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>182</integer>
-          <key>y</key>
-          <integer>388</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>351</integer>
-          <key>y</key>
-          <integer>403</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10076</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>727</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

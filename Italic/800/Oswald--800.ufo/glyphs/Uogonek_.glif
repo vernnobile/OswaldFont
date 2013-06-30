@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="1">
-  <advance width="1176"/>
+  <advance width="1225"/>
   <unicode hex="0172"/>
   <outline>
-    <component base="ogonek" xOffset="373"/>
+    <component base="ogonek" xOffset="316"/>
     <component base="U"/>
   </outline>
   <lib>
@@ -14,51 +14,17 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-529</integer>
+            <integer>-383</integer>
             <key>width</key>
-            <integer>179</integer>
+            <integer>42</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>-26</integer>
+            <integer>-24</integer>
             <key>width</key>
-            <integer>293</integer>
+            <integer>56</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>416</integer>
-            <key>width</key>
-            <integer>258</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Uogonek</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1179</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

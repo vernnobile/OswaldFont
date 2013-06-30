@@ -1,58 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021A" format="1">
-  <advance width="885"/>
+  <advance width="938"/>
   <unicode hex="021A"/>
   <outline>
-    <component base="uni0326" xOffset="225" yOffset="-55"/>
+    <component base="uni0326" xOffset="249" yOffset="-55"/>
     <component base="T"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-754</integer>
-            <key>width</key>
-            <integer>111</integer>
-          </dict>
-        </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>465</integer>
+            <integer>239</integer>
             <key>width</key>
-            <integer>151</integer>
+            <integer>100</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni021A</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>887</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

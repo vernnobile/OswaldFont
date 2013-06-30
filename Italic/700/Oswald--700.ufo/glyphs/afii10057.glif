@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10057" format="1">
-  <advance width="666"/>
+  <advance width="664"/>
   <unicode hex="0408"/>
   <outline>
     <contour>
-      <point x="9" y="-40" type="line"/>
-      <point x="187" y="-40" type="line" smooth="yes"/>
-      <point x="487" y="-40"/>
-      <point x="570" y="97"/>
-      <point x="575" y="369" type="curve"/>
-      <point x="575" y="1658" type="line"/>
-      <point x="209" y="1658" type="line"/>
-      <point x="209" y="383" type="line" smooth="yes"/>
-      <point x="209" y="242"/>
-      <point x="158" y="213"/>
-      <point x="9" y="215" type="curve"/>
+      <point x="-45" y="-40" type="line"/>
+      <point x="129" y="-40" type="line" smooth="yes"/>
+      <point x="430" y="-40"/>
+      <point x="526" y="97"/>
+      <point x="560" y="370" type="curve"/>
+      <point x="695" y="1658" type="line"/>
+      <point x="335" y="1658" type="line"/>
+      <point x="201" y="384" type="line" smooth="yes"/>
+      <point x="186" y="239"/>
+      <point x="133" y="210"/>
+      <point x="-19" y="212" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -25,9 +25,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-44</integer>
+            <integer>-114</integer>
             <key>width</key>
-            <integer>286</integer>
+            <integer>56</integer>
           </dict>
         </array>
       </dict>

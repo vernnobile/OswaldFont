@@ -1,5 +1,5 @@
 #!/usr/local/bin/fontforge
 
 
-SelectSingletons('napostrophe');
+SelectSingletons('napostrophe','dcaron','tcaron','lcaron','ldot','Lcaron','Ldot','Lacute');
 

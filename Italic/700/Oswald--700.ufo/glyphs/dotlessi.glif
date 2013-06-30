@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="573"/>
+  <advance width="568"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="121" y="0" type="line"/>
-      <point x="455" y="0" type="line"/>
-      <point x="455" y="1184" type="line"/>
-      <point x="121" y="1184" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="524" y="1184" type="line"/>
+      <point x="195" y="1184" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>120</integer>
-            <key>width</key>
-            <integer>372</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

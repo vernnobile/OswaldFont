@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gdotaccent" format="1">
-  <advance width="1133"/>
+  <advance width="1138"/>
   <unicode hex="0120"/>
   <outline>
     <component base="G"/>
@@ -13,63 +13,35 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-26</integer>
+            <integer>-24</integer>
             <key>width</key>
-            <integer>285</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1400</integer>
+            <integer>1623</integer>
             <key>width</key>
-            <integer>284</integer>
+            <integer>55</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>1800</integer>
             <key>width</key>
-            <integer>340</integer>
+            <integer>161</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>754</integer>
             <key>width</key>
-            <integer>424</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>416</integer>
-            <key>width</key>
-            <integer>348</integer>
+            <integer>42</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Gdotaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1196</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

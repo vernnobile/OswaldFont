@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020B" format="1">
-  <advance width="548"/>
+  <advance width="543"/>
   <unicode hex="020B"/>
   <outline>
-    <component base="uni0311" xOffset="-51" yOffset="-61"/>
+    <component base="uni0311" xOffset="-93" yOffset="-58"/>
     <component base="dotlessi"/>
   </outline>
   <lib>
@@ -14,30 +14,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1425</integer>
+            <integer>1474</integer>
             <key>width</key>
-            <integer>138</integer>
+            <integer>48</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>47</integer>
+            <integer>23</integer>
             <key>width</key>
-            <integer>149</integer>
+            <integer>54</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>120</integer>
+            <integer>407</integer>
             <key>width</key>
-            <integer>372</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>415</integer>
-            <key>width</key>
-            <integer>150</integer>
+            <integer>54</integer>
           </dict>
         </array>
       </dict>

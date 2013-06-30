@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04AE" format="1">
-  <advance width="976"/>
+  <advance width="969"/>
   <outline>
     <contour>
-      <point x="379" y="0" type="line"/>
-      <point x="600" y="0" type="line"/>
-      <point x="600" y="725" type="line"/>
-      <point x="956" y="1658" type="line"/>
-      <point x="738" y="1658" type="line"/>
-      <point x="588" y="1245" type="line"/>
-      <point x="488" y="967" type="line"/>
-      <point x="386" y="1245" type="line"/>
-      <point x="235" y="1658" type="line"/>
-      <point x="20" y="1658" type="line"/>
-      <point x="379" y="725" type="line"/>
+      <point x="331" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="621" y="724" type="line"/>
+      <point x="1076" y="1658" type="line"/>
+      <point x="864" y="1658" type="line"/>
+      <point x="668" y="1237" type="line"/>
+      <point x="538" y="958" type="line"/>
+      <point x="465" y="1237" type="line"/>
+      <point x="353" y="1658" type="line"/>
+      <point x="144" y="1658" type="line"/>
+      <point x="407" y="724" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni04AE</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>830</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

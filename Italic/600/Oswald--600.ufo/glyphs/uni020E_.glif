@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020E" format="1">
-  <advance width="1155"/>
+  <advance width="1172"/>
   <unicode hex="020E"/>
   <outline>
-    <component base="uni0311" xOffset="250" yOffset="416"/>
+    <component base="uni0311" xOffset="299" yOffset="419"/>
     <component base="O"/>
   </outline>
   <lib>
@@ -14,75 +14,38 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-26</integer>
+            <integer>-24</integer>
             <key>width</key>
-            <integer>284</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1400</integer>
+            <integer>1623</integer>
             <key>width</key>
-            <integer>284</integer>
+            <integer>55</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1903</integer>
+            <integer>1948</integer>
             <key>width</key>
-            <integer>138</integer>
+            <integer>48</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>383</integer>
             <key>width</key>
-            <integer>424</integer>
+            <integer>54</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>337</integer>
+            <integer>767</integer>
             <key>width</key>
-            <integer>149</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>688</integer>
-            <key>width</key>
-            <integer>424</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>705</integer>
-            <key>width</key>
-            <integer>150</integer>
+            <integer>54</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni020E</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1056</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

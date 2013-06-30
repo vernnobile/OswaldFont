@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10100" format="1">
-  <advance width="576"/>
+  <advance width="580"/>
   <unicode hex="0453"/>
   <outline>
-    <component base="afii10068" xOffset="-4"/>
+    <component base="acutecomb" xOffset="171" yOffset="66"/>
+    <component base="afii10068"/>
   </outline>
   <lib>
     <dict>
@@ -13,45 +14,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1328</integer>
+            <integer>1326</integer>
             <key>width</key>
-            <integer>415</integer>
+            <integer>394</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>85</integer>
-            <key>width</key>
-            <integer>628</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10100</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>738</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

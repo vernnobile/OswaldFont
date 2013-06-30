@@ -4,43 +4,49 @@
   <unicode hex="00DE"/>
   <outline>
     <contour>
-      <point x="159" y="0" type="line"/>
-      <point x="238" y="0" type="line"/>
-      <point x="238" y="524" type="line"/>
-      <point x="566" y="524" type="line" smooth="yes"/>
-      <point x="901" y="524"/>
-      <point x="959" y="811"/>
-      <point x="959" y="1003" type="curve" smooth="yes"/>
-      <point x="959" y="1227"/>
-      <point x="867" y="1447"/>
-      <point x="569" y="1447" type="curve" smooth="yes"/>
-      <point x="238" y="1447" type="line"/>
-      <point x="238" y="1658" type="line"/>
-      <point x="159" y="1658" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="252" y="524" type="line"/>
+      <point x="579" y="524" type="line" smooth="yes"/>
+      <point x="915" y="524"/>
+      <point x="1003" y="811"/>
+      <point x="1023" y="1003" type="curve" smooth="yes"/>
+      <point x="1047" y="1227"/>
+      <point x="978" y="1447"/>
+      <point x="680" y="1447" type="curve" smooth="yes"/>
+      <point x="349" y="1447" type="line"/>
+      <point x="371" y="1658" type="line"/>
+      <point x="292" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="238" y="595" type="line"/>
-      <point x="238" y="1377" type="line"/>
-      <point x="565" y="1377" type="line" smooth="yes"/>
-      <point x="747" y="1377"/>
-      <point x="874" y="1271"/>
-      <point x="874" y="997" type="curve" smooth="yes"/>
-      <point x="874" y="721"/>
-      <point x="772" y="595"/>
-      <point x="560" y="595" type="curve" smooth="yes"/>
+      <point x="260" y="595" type="line"/>
+      <point x="342" y="1377" type="line"/>
+      <point x="669" y="1377" type="line" smooth="yes"/>
+      <point x="851" y="1377"/>
+      <point x="967" y="1271"/>
+      <point x="938" y="997" type="curve" smooth="yes"/>
+      <point x="909" y="721"/>
+      <point x="794" y="595"/>
+      <point x="582" y="595" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>vhints</key>
+        <key>hhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>792</integer>
+            <integer>528</integer>
             <key>width</key>
-            <integer>372</integer>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1389</integer>
+            <key>width</key>
+            <integer>59</integer>
           </dict>
         </array>
       </dict>

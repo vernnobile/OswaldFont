@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="1">
-  <advance width="850"/>
+  <advance width="847"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="110" y="572" type="line"/>
-      <point x="739" y="572" type="line"/>
-      <point x="739" y="738" type="line"/>
-      <point x="110" y="738" type="line"/>
+      <point x="122" y="573" type="line"/>
+      <point x="749" y="573" type="line"/>
+      <point x="766" y="735" type="line"/>
+      <point x="139" y="735" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="934" type="line"/>
-      <point x="739" y="934" type="line"/>
-      <point x="739" y="1101" type="line"/>
-      <point x="110" y="1101" type="line"/>
+      <point x="159" y="933" type="line"/>
+      <point x="786" y="933" type="line"/>
+      <point x="803" y="1095" type="line"/>
+      <point x="176" y="1095" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>vhints</key>
+        <key>hhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>134</integer>
+            <integer>598</integer>
             <key>width</key>
-            <integer>659</integer>
+            <integer>381</integer>
           </dict>
         </array>
       </dict>

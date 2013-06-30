@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="1167"/>
+  <advance width="1161"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="460" y="235" type="line"/>
-      <point x="460" y="1420" type="line"/>
-      <point x="527" y="1420" type="line" smooth="yes"/>
-      <point x="708" y="1420"/>
-      <point x="724" y="1351"/>
-      <point x="724" y="1175" type="curve" smooth="yes"/>
-      <point x="724" y="510" type="line" smooth="yes"/>
-      <point x="724" y="326"/>
-      <point x="718" y="235"/>
-      <point x="530" y="235" type="curve" smooth="yes"/>
+      <point x="429" y="231" type="line"/>
+      <point x="554" y="1424" type="line"/>
+      <point x="624" y="1424" type="line" smooth="yes"/>
+      <point x="809" y="1424"/>
+      <point x="817" y="1353"/>
+      <point x="799" y="1171" type="curve" smooth="yes"/>
+      <point x="730" y="517" type="line" smooth="yes"/>
+      <point x="709" y="326"/>
+      <point x="694" y="231"/>
+      <point x="501" y="231" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="123" y="0" type="line"/>
-      <point x="534" y="0" type="line" smooth="yes"/>
-      <point x="943" y="0"/>
-      <point x="1069" y="166"/>
-      <point x="1069" y="539" type="curve" smooth="yes"/>
-      <point x="1069" y="1137" type="line" smooth="yes"/>
-      <point x="1069" y="1503"/>
-      <point x="945" y="1658"/>
-      <point x="526" y="1658" type="curve" smooth="yes"/>
-      <point x="123" y="1658" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="482" y="0" type="line" smooth="yes"/>
+      <point x="887" y="0"/>
+      <point x="1031" y="168"/>
+      <point x="1070" y="540" type="curve" smooth="yes"/>
+      <point x="1133" y="1138" type="line" smooth="yes"/>
+      <point x="1171" y="1502"/>
+      <point x="1063" y="1658"/>
+      <point x="647" y="1658" type="curve" smooth="yes"/>
+      <point x="247" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,49 +38,15 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>284</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1374</integer>
+            <integer>1602</integer>
             <key>width</key>
-            <integer>284</integer>
+            <integer>56</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>694</integer>
-            <key>width</key>
-            <integer>424</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>D</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1240</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

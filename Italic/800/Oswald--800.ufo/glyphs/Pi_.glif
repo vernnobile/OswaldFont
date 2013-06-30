@@ -1,46 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="1">
-  <advance width="1283"/>
+  <advance width="1277"/>
   <unicode hex="03A0"/>
   <outline>
     <contour>
-      <point x="99" y="0" type="line"/>
-      <point x="453" y="0" type="line"/>
-      <point x="453" y="1367" type="line"/>
-      <point x="830" y="1367" type="line"/>
-      <point x="830" y="0" type="line"/>
-      <point x="1184" y="0" type="line"/>
-      <point x="1184" y="1658" type="line"/>
-      <point x="99" y="1658" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="544" y="1371" type="line"/>
+      <point x="922" y="1371" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="1127" y="0" type="line"/>
+      <point x="1301" y="1658" type="line"/>
+      <point x="224" y="1658" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Pi</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1151</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

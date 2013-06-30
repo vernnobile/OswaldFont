@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Amacron" format="1">
-  <advance width="1005"/>
+  <advance width="1004"/>
   <unicode hex="0100"/>
   <outline>
     <component base="A"/>
+    <component base="uni0304" xOffset="197" yOffset="267"/>
   </outline>
   <lib>
     <dict>
@@ -22,36 +23,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>280</integer>
+            <integer>180</integer>
             <key>width</key>
             <integer>562</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Amacron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>911</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

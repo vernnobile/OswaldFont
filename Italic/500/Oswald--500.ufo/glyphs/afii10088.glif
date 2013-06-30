@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10088" format="1">
-  <advance width="1082"/>
+  <advance width="1074"/>
   <unicode hex="0446"/>
   <outline>
     <contour>
-      <point x="854" y="-313" type="line"/>
-      <point x="1055" y="-313" type="line"/>
-      <point x="1055" y="185" type="line"/>
-      <point x="896" y="185" type="line"/>
-      <point x="896" y="1184" type="line"/>
-      <point x="617" y="1184" type="line"/>
-      <point x="617" y="185" type="line"/>
-      <point x="387" y="185" type="line"/>
-      <point x="387" y="1184" type="line"/>
-      <point x="107" y="1184" type="line"/>
-      <point x="107" y="0" type="line"/>
-      <point x="833" y="0" type="line"/>
+      <point x="769" y="-312" type="line"/>
+      <point x="966" y="-312" type="line"/>
+      <point x="1018" y="183" type="line"/>
+      <point x="860" y="183" type="line"/>
+      <point x="965" y="1184" type="line"/>
+      <point x="691" y="1184" type="line"/>
+      <point x="586" y="183" type="line"/>
+      <point x="351" y="183" type="line"/>
+      <point x="456" y="1184" type="line"/>
+      <point x="181" y="1184" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="780" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,36 +26,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>922</integer>
+            <integer>872</integer>
             <key>width</key>
             <integer>260</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10088</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>777</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

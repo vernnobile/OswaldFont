@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="763"/>
+  <advance width="767"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="124" y="1100" type="line"/>
-      <point x="263" y="1100" type="line"/>
-      <point x="367" y="1658" type="line"/>
-      <point x="124" y="1658" type="line"/>
+      <point x="197" y="1105" type="line"/>
+      <point x="334" y="1105" type="line"/>
+      <point x="494" y="1658" type="line"/>
+      <point x="255" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="466" y="1100" type="line"/>
-      <point x="605" y="1100" type="line"/>
-      <point x="710" y="1658" type="line"/>
-      <point x="466" y="1658" type="line"/>
+      <point x="535" y="1105" type="line"/>
+      <point x="672" y="1105" type="line"/>
+      <point x="832" y="1658" type="line"/>
+      <point x="593" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,24 +24,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1005</integer>
+            <integer>1204</integer>
             <key>width</key>
-            <integer>653</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>12</integer>
-            <key>width</key>
-            <integer>164</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>420</integer>
-            <key>width</key>
-            <integer>164</integer>
+            <integer>454</integer>
           </dict>
         </array>
       </dict>

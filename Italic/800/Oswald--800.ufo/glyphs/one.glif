@@ -1,60 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="1">
-  <advance width="1122"/>
+  <advance width="1120"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="415" y="0" type="line"/>
-      <point x="795" y="0" type="line"/>
-      <point x="795" y="1658" type="line"/>
-      <point x="496" y="1658" type="line"/>
-      <point x="449" y="1617"/>
-      <point x="255" y="1505"/>
-      <point x="206" y="1475" type="curve"/>
-      <point x="206" y="1194" type="line"/>
-      <point x="206" y="1194"/>
-      <point x="415" y="1306"/>
-      <point x="415" y="1306" type="curve"/>
+      <point x="367" y="0" type="line"/>
+      <point x="741" y="0" type="line"/>
+      <point x="915" y="1658" type="line"/>
+      <point x="622" y="1658" type="line"/>
+      <point x="569" y="1614"/>
+      <point x="364" y="1505"/>
+      <point x="310" y="1475" type="curve"/>
+      <point x="281" y="1198" type="line"/>
+      <point x="505" y="1308" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>vhints</key>
+        <key>hhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>209</integer>
+            <integer>1397</integer>
             <key>width</key>
-            <integer>565</integer>
+            <integer>64</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>one</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1128</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -4,16 +4,16 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="162" y="1188" type="line"/>
-      <point x="222" y="1188" type="line"/>
-      <point x="274" y="1658" type="line"/>
-      <point x="162" y="1658" type="line"/>
+      <point x="245" y="1188" type="line"/>
+      <point x="304" y="1188" type="line"/>
+      <point x="405" y="1658" type="line"/>
+      <point x="294" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="432" y="1188" type="line"/>
-      <point x="491" y="1188" type="line"/>
-      <point x="543" y="1658" type="line"/>
-      <point x="432" y="1658" type="line"/>
+      <point x="514" y="1188" type="line"/>
+      <point x="574" y="1188" type="line"/>
+      <point x="675" y="1658" type="line"/>
+      <point x="563" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,24 +24,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1005</integer>
+            <integer>1204</integer>
             <key>width</key>
-            <integer>653</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>12</integer>
-            <key>width</key>
-            <integer>164</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>420</integer>
-            <key>width</key>
-            <integer>164</integer>
+            <integer>454</integer>
           </dict>
         </array>
       </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0205" format="1">
-  <advance width="971"/>
+  <advance width="986"/>
   <unicode hex="0205"/>
   <outline>
-    <component base="uni030F" xOffset="-86" yOffset="62"/>
+    <component base="uni030F" xOffset="38" yOffset="60"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -14,57 +14,38 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-22</integer>
+            <integer>-20</integer>
             <key>width</key>
-            <integer>263</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>943</integer>
+            <integer>1154</integer>
             <key>width</key>
-            <integer>263</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1328</integer>
+            <integer>1326</integer>
             <key>width</key>
-            <integer>448</integer>
+            <integer>280</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>72</integer>
+            <integer>287</integer>
             <key>width</key>
-            <integer>368</integer>
+            <integer>80</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>485</integer>
+            <key>width</key>
+            <integer>77</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0205</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>975</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -3,20 +3,7 @@
   <advance width="1124"/>
   <unicode hex="041D"/>
   <outline>
-    <contour>
-      <point x="144" y="0" type="line"/>
-      <point x="301" y="0" type="line"/>
-      <point x="301" y="808" type="line"/>
-      <point x="823" y="808" type="line"/>
-      <point x="823" y="0" type="line"/>
-      <point x="980" y="0" type="line"/>
-      <point x="980" y="1658" type="line"/>
-      <point x="823" y="1658" type="line"/>
-      <point x="823" y="923" type="line"/>
-      <point x="301" y="923" type="line"/>
-      <point x="301" y="1658" type="line"/>
-      <point x="144" y="1658" type="line"/>
-    </contour>
+    <component base="H"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1243</integer>
+          <integer>1093</integer>
         </dict>
       </dict>
     </dict>

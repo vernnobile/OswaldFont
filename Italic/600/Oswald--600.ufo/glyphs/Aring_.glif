@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="1073"/>
+  <advance width="1093"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
@@ -13,57 +13,17 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1669</integer>
+            <integer>1668</integer>
             <key>width</key>
-            <integer>119</integer>
+            <integer>43</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1997</integer>
+            <integer>1930</integer>
             <key>width</key>
-            <integer>119</integer>
+            <integer>42</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>319</integer>
-            <key>width</key>
-            <integer>144</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>655</integer>
-            <key>width</key>
-            <integer>148</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Aring</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>911</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="1">
-  <advance width="971"/>
+  <advance width="965"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="585" y="-390" type="line"/>
-      <point x="865" y="-390" type="line"/>
-      <point x="865" y="1184" type="line"/>
-      <point x="585" y="1184" type="line"/>
-      <point x="585" y="1108" type="line"/>
-      <point x="527" y="1163"/>
-      <point x="455" y="1202"/>
-      <point x="373" y="1202" type="curve" smooth="yes"/>
-      <point x="154" y="1202"/>
-      <point x="88" y="996"/>
-      <point x="88" y="755" type="curve" smooth="yes"/>
-      <point x="88" y="411" type="line" smooth="yes"/>
-      <point x="88" y="107"/>
-      <point x="186" y="-19"/>
-      <point x="377" y="-19" type="curve" smooth="yes"/>
-      <point x="454" y="-18"/>
-      <point x="524" y="20"/>
-      <point x="585" y="83" type="curve"/>
+      <point x="493" y="-390" type="line"/>
+      <point x="767" y="-390" type="line"/>
+      <point x="932" y="1184" type="line"/>
+      <point x="658" y="1184" type="line"/>
+      <point x="651" y="1109" type="line"/>
+      <point x="599" y="1163"/>
+      <point x="532" y="1202"/>
+      <point x="450" y="1202" type="curve" smooth="yes"/>
+      <point x="228" y="1202"/>
+      <point x="142" y="991"/>
+      <point x="117" y="747" type="curve" smooth="yes"/>
+      <point x="83" y="417" type="line" smooth="yes"/>
+      <point x="50" y="108"/>
+      <point x="135" y="-19"/>
+      <point x="327" y="-18" type="curve" smooth="yes"/>
+      <point x="403" y="-18"/>
+      <point x="476" y="20"/>
+      <point x="543" y="82" type="curve"/>
     </contour>
     <contour>
-      <point x="476" y="181" type="curve" smooth="yes"/>
-      <point x="386" y="181"/>
-      <point x="368" y="277"/>
-      <point x="368" y="390" type="curve" smooth="yes"/>
-      <point x="368" y="824" type="line" smooth="yes"/>
-      <point x="368" y="917"/>
-      <point x="393" y="1005"/>
-      <point x="475" y="1005" type="curve" smooth="yes"/>
-      <point x="513" y="1005"/>
-      <point x="551" y="990"/>
-      <point x="585" y="968" type="curve"/>
-      <point x="585" y="214" type="line"/>
-      <point x="545" y="192"/>
-      <point x="506" y="181"/>
+      <point x="442" y="180" type="curve" smooth="yes"/>
+      <point x="349" y="180"/>
+      <point x="342" y="279"/>
+      <point x="354" y="396" type="curve" smooth="yes"/>
+      <point x="399" y="820" type="line" smooth="yes"/>
+      <point x="409" y="915"/>
+      <point x="444" y="1006"/>
+      <point x="527" y="1006" type="curve" smooth="yes"/>
+      <point x="567" y="1006"/>
+      <point x="603" y="991"/>
+      <point x="636" y="968" type="curve"/>
+      <point x="557" y="213" type="line"/>
+      <point x="513" y="191"/>
+      <point x="472" y="180"/>
     </contour>
   </outline>
   <lib>
@@ -48,42 +48,17 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-22</integer>
+            <integer>-20</integer>
             <key>width</key>
-            <integer>226</integer>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>986</integer>
+            <integer>1154</integer>
             <key>width</key>
-            <integer>220</integer>
+            <integer>50</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>q</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1076</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

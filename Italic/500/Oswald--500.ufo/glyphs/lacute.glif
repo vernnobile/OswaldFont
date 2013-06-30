@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="1">
-  <advance width="502"/>
+  <advance width="514"/>
   <unicode hex="013A"/>
   <outline>
+    <component base="acutecomb" xOffset="68" yOffset="531"/>
     <component base="l"/>
   </outline>
   <lib>
@@ -15,43 +16,9 @@
             <key>position</key>
             <integer>1780</integer>
             <key>width</key>
-            <integer>415</integer>
+            <integer>394</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>88</integer>
-            <key>width</key>
-            <integer>372</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>lacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>344</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

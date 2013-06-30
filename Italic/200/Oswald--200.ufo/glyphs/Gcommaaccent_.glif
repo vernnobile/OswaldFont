@@ -3,7 +3,7 @@
   <advance width="1045"/>
   <unicode hex="0122"/>
   <outline>
-    <component base="uni0326" xOffset="295" yOffset="-60"/>
+    <component base="uni0326" xOffset="254" yOffset="-60"/>
     <component base="G"/>
   </outline>
   <lib>
@@ -14,63 +14,32 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-780</integer>
+            <integer>-24</integer>
             <key>width</key>
-            <integer>111</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>-26</integer>
+            <integer>1623</integer>
             <key>width</key>
-            <integer>285</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1400</integer>
-            <key>width</key>
-            <integer>284</integer>
+            <integer>55</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>359</integer>
             <key>width</key>
-            <integer>424</integer>
+            <integer>100</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>611</integer>
+            <integer>754</integer>
             <key>width</key>
-            <integer>151</integer>
+            <integer>42</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Gcommaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1196</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

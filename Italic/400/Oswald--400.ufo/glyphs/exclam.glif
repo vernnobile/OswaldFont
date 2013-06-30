@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="1">
-  <advance width="425"/>
+  <advance width="424"/>
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="102" y="0" type="line"/>
-      <point x="323" y="0" type="line"/>
-      <point x="323" y="225" type="line"/>
-      <point x="102" y="225" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="294" y="221" type="line"/>
+      <point x="79" y="221" type="line"/>
     </contour>
     <contour>
-      <point x="173" y="355" type="line"/>
-      <point x="250" y="355" type="line"/>
-      <point x="323" y="1658" type="line"/>
-      <point x="102" y="1658" type="line"/>
+      <point x="163" y="355" type="line"/>
+      <point x="237" y="355" type="line"/>
+      <point x="445" y="1658" type="line"/>
+      <point x="230" y="1658" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,36 +24,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>180</integer>
+            <integer>130</integer>
             <key>width</key>
             <integer>129</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>exclam</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>561</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

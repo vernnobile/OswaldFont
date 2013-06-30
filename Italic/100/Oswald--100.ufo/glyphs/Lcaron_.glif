@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="1">
-  <advance width="859"/>
+  <advance width="750"/>
   <unicode hex="013D"/>
   <outline>
-    <component base="comma" xOffset="504" yOffset="1448"/>
+    <component base="uni02BC" xOffset="748" yOffset="20"/>
     <component base="L"/>
   </outline>
   <lib>
@@ -23,36 +23,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1060</integer>
+            <integer>960</integer>
             <key>width</key>
             <integer>176</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Lcaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>854</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

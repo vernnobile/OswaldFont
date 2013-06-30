@@ -4,29 +4,29 @@
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="597" y="766" type="line"/>
-      <point x="665" y="766" type="line"/>
-      <point x="665" y="1511" type="line"/>
-      <point x="920" y="766" type="line"/>
-      <point x="952" y="766" type="line"/>
-      <point x="1211" y="1528" type="line"/>
-      <point x="1211" y="766" type="line"/>
-      <point x="1278" y="766" type="line"/>
-      <point x="1278" y="1658" type="line"/>
-      <point x="1192" y="1658" type="line"/>
-      <point x="936" y="894" type="line"/>
-      <point x="681" y="1658" type="line"/>
-      <point x="597" y="1658" type="line"/>
+      <point x="637" y="766" type="line"/>
+      <point x="705" y="766" type="line"/>
+      <point x="783" y="1511" type="line"/>
+      <point x="960" y="766" type="line"/>
+      <point x="992" y="766" type="line"/>
+      <point x="1331" y="1528" type="line"/>
+      <point x="1251" y="766" type="line"/>
+      <point x="1318" y="766" type="line"/>
+      <point x="1411" y="1658" type="line"/>
+      <point x="1325" y="1658" type="line"/>
+      <point x="990" y="894" type="line"/>
+      <point x="815" y="1658" type="line"/>
+      <point x="730" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="234" y="766" type="line"/>
-      <point x="307" y="766" type="line"/>
-      <point x="307" y="1596" type="line"/>
-      <point x="492" y="1596" type="line"/>
-      <point x="492" y="1658" type="line"/>
-      <point x="36" y="1658" type="line"/>
-      <point x="36" y="1596" type="line"/>
-      <point x="234" y="1596" type="line"/>
+      <point x="274" y="766" type="line"/>
+      <point x="347" y="766" type="line"/>
+      <point x="434" y="1596" type="line"/>
+      <point x="619" y="1596" type="line"/>
+      <point x="625" y="1658" type="line"/>
+      <point x="169" y="1658" type="line"/>
+      <point x="162" y="1596" type="line"/>
+      <point x="361" y="1596" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,36 +37,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1195</integer>
+            <integer>1145</integer>
             <key>width</key>
             <integer>153</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>trademark</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1874</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

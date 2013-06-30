@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="1138"/>
+  <advance width="1134"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
-      <point x="298" y="-161" type="line"/>
-      <point x="904" y="1777" type="line"/>
-      <point x="820" y="1803" type="line"/>
-      <point x="216" y="-132" type="line"/>
+      <point x="200" y="-159" type="line"/>
+      <point x="997" y="1777" type="line"/>
+      <point x="916" y="1802" type="line"/>
+      <point x="121" y="-130" type="line"/>
     </contour>
-    <component base="O"/>
+    <component base="O" xOffset="43"/>
   </outline>
   <lib>
     <dict>
@@ -19,57 +19,17 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-26</integer>
+            <integer>-24</integer>
             <key>width</key>
-            <integer>284</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1400</integer>
+            <integer>1623</integer>
             <key>width</key>
-            <integer>284</integer>
+            <integer>55</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>80</integer>
-            <key>width</key>
-            <integer>424</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>688</integer>
-            <key>width</key>
-            <integer>424</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Oslash</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1056</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,37 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="1">
-  <advance width="954"/>
+  <advance width="1424"/>
   <unicode hex="0149"/>
   <outline>
-    <component base="comma" xOffset="-73" yOffset="1483"/>
-    <component base="n" xOffset="127"/>
+    <component base="uni02BC"/>
+    <component base="n" xOffset="586"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>1154</integer>
+            <key>width</key>
+            <integer>50</integer>
           </dict>
-          <key>name</key>
-          <string>napostrophe</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>863</integer>
-        </dict>
+        </array>
       </dict>
     </dict>
   </lib>

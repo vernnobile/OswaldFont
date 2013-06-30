@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0210" format="1">
-  <advance width="1147"/>
+  <advance width="1216"/>
   <unicode hex="0210"/>
   <outline>
-    <component base="uni030F" xOffset="76" yOffset="529"/>
+    <component base="uni030F" xOffset="-33" yOffset="527"/>
     <component base="R"/>
   </outline>
   <lib>
@@ -14,45 +14,41 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>860</integer>
             <key>width</key>
-            <integer>448</integer>
+            <integer>52</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1602</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1800</integer>
+            <key>width</key>
+            <integer>280</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>747</integer>
+            <integer>457</integer>
             <key>width</key>
-            <integer>399</integer>
+            <integer>80</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>655</integer>
+            <key>width</key>
+            <integer>77</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0210</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1186</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

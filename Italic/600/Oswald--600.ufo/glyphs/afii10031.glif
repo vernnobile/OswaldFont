@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10031" format="1">
-  <advance width="1202"/>
+  <advance width="1219"/>
   <unicode hex="041D"/>
   <outline>
-    <contour>
-      <point x="123" y="0" type="line"/>
-      <point x="460" y="0" type="line"/>
-      <point x="460" y="737" type="line"/>
-      <point x="742" y="737" type="line"/>
-      <point x="742" y="0" type="line"/>
-      <point x="1079" y="0" type="line"/>
-      <point x="1079" y="1658" type="line"/>
-      <point x="742" y="1658" type="line"/>
-      <point x="742" y="978" type="line"/>
-      <point x="460" y="978" type="line"/>
-      <point x="460" y="1658" type="line"/>
-      <point x="123" y="1658" type="line"/>
-    </contour>
+    <component base="H"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1243</integer>
+          <integer>1093</integer>
         </dict>
       </dict>
     </dict>

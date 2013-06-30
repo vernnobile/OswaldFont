@@ -1,0 +1,37 @@
+#!/usr/local/bin/fontforge
+
+# guess PS stuff for OT hints
+
+SelectAll();
+AutoHint();
+AutoCounter();
+
+PrivateGuess('BlueScale');
+PrivateGuess('BlueShift');
+PrivateGuess('BlueFuzz');
+PrivateGuess('BlueValues');
+PrivateGuess('OtherBlues');
+PrivateGuess('StdHW');
+PrivateGuess('StdVW');
+PrivateGuess('StemSnapH');
+PrivateGuess('StemSnapV');
+PrivateGuess('ForceBold');
+
+AutoHint();
+AutoCounter();
+SelectNone();
+
+SetFontNames('Oswald','Oswald','Oswald','empty','Copyright (c) 2010-13 by Vernon Adams','3');
+
+# OS/2 Stuff
+SetOS2Value('FSType',0x0000);
+SetOS2Value('VendorID','newt');
+SetOS2Value('WinAscent',1658);
+SetOS2Value('WinDescent',390);
+SetOS2Value('TypoAscent',1658);
+SetOS2Value('TypoDescent',-390);
+SetOS2Value('HHeadAscent',1658);
+SetOS2Value('HHeadDescent',-390);
+SetOS2Value('TypoLineGap',0);
+SetOS2Value('HHeadLineGap',0);
+

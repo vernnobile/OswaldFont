@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="1">
-  <advance width="885"/>
+  <advance width="938"/>
   <unicode hex="0162"/>
   <outline>
     <component base="T"/>
-    <component base="cedilla" xOffset="199" yOffset="20"/>
+    <component base="cedilla" xOffset="255" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -14,45 +14,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-551</integer>
+            <integer>-333</integer>
             <key>width</key>
-            <integer>155</integer>
+            <integer>36</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>574</integer>
-            <key>width</key>
-            <integer>232</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Tcommaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>887</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

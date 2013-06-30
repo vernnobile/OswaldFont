@@ -1,53 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="1">
-  <advance width="1356"/>
+  <advance width="1344"/>
   <unicode hex="2026"/>
   <outline>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="377" y="0" type="line"/>
-      <point x="377" y="314" type="line"/>
-      <point x="60" y="314" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="355" y="311" type="line"/>
+      <point x="43" y="311" type="line"/>
     </contour>
     <contour>
-      <point x="516" y="0" type="line"/>
-      <point x="833" y="0" type="line"/>
-      <point x="833" y="314" type="line"/>
-      <point x="516" y="314" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="807" y="311" type="line"/>
+      <point x="495" y="311" type="line"/>
     </contour>
     <contour>
-      <point x="979" y="1" type="line"/>
-      <point x="1296" y="1" type="line"/>
-      <point x="1296" y="315" type="line"/>
-      <point x="979" y="315" type="line"/>
+      <point x="921" y="1" type="line"/>
+      <point x="1233" y="1" type="line"/>
+      <point x="1266" y="311" type="line"/>
+      <point x="954" y="311" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>201</integer>
           </dict>
-          <key>name</key>
-          <string>ellipsis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1032</integer>
-        </dict>
+        </array>
       </dict>
     </dict>
   </lib>

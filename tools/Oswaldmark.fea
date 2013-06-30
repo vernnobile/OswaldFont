@@ -4,22 +4,22 @@ lookup markMarkPositioninglookup2 {
   markClass [\uni0302 ] <anchor 328 1225> @circumflexcomb;
   markClass [\cedilla ] <anchor 120 0> @cedilla;
   markClass [\ogonek ] <anchor 271 0> @ogonek;
-  pos base [\A ] <anchor 831 0> mark @ogonek;
+  pos base [\A ] <anchor 880 0> mark @ogonek;
   pos base [\C ] <anchor 480 0> mark @cedilla;
   pos base [\E ] <anchor 511 0> mark @ogonek;
   pos base [\I ] <anchor 220 0> mark @ogonek;
-  pos base [\J ] <anchor 338 1658> mark @circumflexcomb;
+  pos base [\J ] <anchor 338 1800> mark @circumflexcomb;
   pos base [\O \U ] <anchor 581 0> mark @ogonek;
   pos base [\S ] <anchor 470 0> mark @cedilla;
   pos base [\T \c ] <anchor 380 0> mark @cedilla;
-  pos base [\a ] <anchor 632 0> mark @ogonek;
-  pos base [\e ] <anchor 471 0> mark @ogonek;
+  pos base [\a ] <anchor 714 0> mark @ogonek;
+  pos base [\e ] <anchor 518 0> mark @ogonek;
   pos base [\i ] <anchor 196 0> mark @ogonek;
   pos base [\o ] <anchor 421 0> mark @ogonek;
   pos base [\s ] <anchor 370 0> mark @cedilla;
   pos base [\t ] <anchor 340 0> mark @cedilla;
-  pos base [\u ] <anchor 640 0> mark @ogonek;
-  pos base [\uni0237 ] <anchor 215 1188> mark @circumflexcomb;
+  pos base [\u ] <anchor 672 0> mark @ogonek;
+  pos base [\uni0237 ] <anchor 215 1300> mark @circumflexcomb;
 } markMarkPositioninglookup2;
 
 feature mark {

@@ -1,75 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1392"/>
+  <advance width="1359"/>
   <unicode hex="006D"/>
   <outline>
     <contour>
-      <point x="111" y="0" type="line"/>
-      <point x="313" y="0" type="line"/>
-      <point x="313" y="964" type="line"/>
-      <point x="370" y="1023"/>
-      <point x="438" y="1061"/>
-      <point x="498" y="1061" type="curve" smooth="yes"/>
-      <point x="559" y="1062"/>
-      <point x="600" y="1030"/>
-      <point x="600" y="916" type="curve" smooth="yes"/>
-      <point x="600" y="0" type="line"/>
-      <point x="801" y="0" type="line"/>
-      <point x="801" y="929" type="line" smooth="yes"/>
-      <point x="801" y="942"/>
-      <point x="801" y="953"/>
-      <point x="800" y="965" type="curve"/>
-      <point x="856" y="1023"/>
-      <point x="925" y="1061"/>
-      <point x="985" y="1061" type="curve" smooth="yes"/>
-      <point x="1046" y="1062"/>
-      <point x="1087" y="1030"/>
-      <point x="1087" y="916" type="curve" smooth="yes"/>
-      <point x="1087" y="0" type="line"/>
-      <point x="1289" y="0" type="line"/>
-      <point x="1289" y="929" type="line" smooth="yes"/>
-      <point x="1289" y="1127"/>
-      <point x="1194" y="1205"/>
-      <point x="1079" y="1205" type="curve" smooth="yes"/>
-      <point x="971" y="1205"/>
-      <point x="868" y="1157"/>
-      <point x="784" y="1055" type="curve"/>
-      <point x="753" y="1165"/>
-      <point x="677" y="1205"/>
-      <point x="592" y="1205" type="curve" smooth="yes"/>
-      <point x="491" y="1205"/>
-      <point x="393" y="1161"/>
-      <point x="313" y="1072" type="curve"/>
-      <point x="313" y="1184" type="line"/>
-      <point x="111" y="1184" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="375" y="958" type="line"/>
+      <point x="430" y="1001"/>
+      <point x="490" y="1034"/>
+      <point x="540" y="1034" type="curve" smooth="yes"/>
+      <point x="617" y="1034"/>
+      <point x="630" y="985"/>
+      <point x="621" y="896" type="curve" smooth="yes"/>
+      <point x="527" y="0" type="line"/>
+      <point x="739" y="0" type="line"/>
+      <point x="838" y="936" type="line" smooth="yes"/>
+      <point x="838" y="939"/>
+      <point x="839" y="953"/>
+      <point x="839" y="956" type="curve"/>
+      <point x="895" y="1000"/>
+      <point x="956" y="1034"/>
+      <point x="1007" y="1034" type="curve" smooth="yes"/>
+      <point x="1084" y="1034"/>
+      <point x="1097" y="985"/>
+      <point x="1088" y="896" type="curve" smooth="yes"/>
+      <point x="994" y="0" type="line"/>
+      <point x="1206" y="0" type="line"/>
+      <point x="1307" y="957" type="line" smooth="yes"/>
+      <point x="1319" y="1077"/>
+      <point x="1293" y="1201"/>
+      <point x="1155" y="1201" type="curve" smooth="yes"/>
+      <point x="1034" y="1201"/>
+      <point x="928" y="1135"/>
+      <point x="840" y="1056" type="curve"/>
+      <point x="829" y="1139"/>
+      <point x="786" y="1201"/>
+      <point x="688" y="1201" type="curve" smooth="yes"/>
+      <point x="574" y="1201"/>
+      <point x="472" y="1142"/>
+      <point x="387" y="1068" type="curve"/>
+      <point x="398" y="1184" type="line"/>
+      <point x="187" y="1184" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>1154</integer>
+            <key>width</key>
+            <integer>50</integer>
           </dict>
-          <key>name</key>
-          <string>m</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1593</integer>
-        </dict>
+        </array>
       </dict>
     </dict>
   </lib>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="1">
-  <advance width="931"/>
+  <advance width="915"/>
   <unicode hex="201C"/>
   <outline>
     <contour>
-      <point x="107" y="1186" type="line"/>
-      <point x="346" y="1186" type="line"/>
-      <point x="346" y="1416" type="line"/>
-      <point x="238" y="1416" type="line"/>
-      <point x="238" y="1571"/>
-      <point x="264" y="1639"/>
-      <point x="348" y="1646" type="curve"/>
-      <point x="310" y="1727" type="line"/>
-      <point x="159" y="1720"/>
-      <point x="107" y="1596"/>
-      <point x="107" y="1384" type="curve" smooth="yes"/>
+      <point x="185" y="1192" type="line"/>
+      <point x="418" y="1192" type="line"/>
+      <point x="442" y="1419" type="line"/>
+      <point x="336" y="1419" type="line"/>
+      <point x="352" y="1572"/>
+      <point x="384" y="1639"/>
+      <point x="468" y="1647" type="curve"/>
+      <point x="439" y="1726" type="line"/>
+      <point x="290" y="1717"/>
+      <point x="228" y="1595"/>
+      <point x="206" y="1388" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="525" y="1186" type="line"/>
-      <point x="764" y="1186" type="line"/>
-      <point x="764" y="1416" type="line"/>
-      <point x="656" y="1416" type="line"/>
-      <point x="656" y="1571"/>
-      <point x="682" y="1639"/>
-      <point x="766" y="1646" type="curve"/>
-      <point x="728" y="1727" type="line"/>
-      <point x="577" y="1720"/>
-      <point x="525" y="1596"/>
-      <point x="525" y="1384" type="curve" smooth="yes"/>
+      <point x="594" y="1192" type="line"/>
+      <point x="827" y="1192" type="line"/>
+      <point x="851" y="1419" type="line"/>
+      <point x="745" y="1419" type="line"/>
+      <point x="761" y="1572"/>
+      <point x="792" y="1639"/>
+      <point x="877" y="1647" type="curve"/>
+      <point x="848" y="1726" type="line"/>
+      <point x="699" y="1717"/>
+      <point x="637" y="1595"/>
+      <point x="615" y="1388" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -47,13 +47,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>126</integer>
+            <integer>76</integer>
             <key>width</key>
             <integer>154</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>567</integer>
+            <integer>517</integer>
             <key>width</key>
             <integer>154</integer>
           </dict>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2219" format="1">
-  <advance width="431"/>
+  <advance width="426"/>
+  <unicode hex="2219"/>
   <outline>
     <contour>
-      <point x="69" y="625" type="line"/>
-      <point x="364" y="625" type="line"/>
-      <point x="364" y="916" type="line"/>
-      <point x="69" y="916" type="line"/>
+      <point x="84" y="627" type="line"/>
+      <point x="375" y="627" type="line"/>
+      <point x="405" y="914" type="line"/>
+      <point x="114" y="914" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,45 +18,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>601</integer>
+            <integer>713</integer>
             <key>width</key>
-            <integer>338</integer>
+            <integer>123</integer>
           </dict>
         </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>76</integer>
-            <key>width</key>
-            <integer>346</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni2219</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>415</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

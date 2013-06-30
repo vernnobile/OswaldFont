@@ -3,7 +3,7 @@
   <advance width="1087"/>
   <unicode hex="00D9"/>
   <outline>
-    <component base="gravecomb" xOffset="529" yOffset="533"/>
+    <component base="gravecomb" xOffset="557" yOffset="537"/>
     <component base="U"/>
   </outline>
   <lib>
@@ -14,42 +14,17 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-26</integer>
+            <integer>-24</integer>
             <key>width</key>
-            <integer>293</integer>
+            <integer>56</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1806</integer>
+            <integer>1800</integer>
             <key>width</key>
-            <integer>415</integer>
+            <integer>394</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Ugrave</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1179</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -2,485 +2,120 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>@MMK_L_A</key>
-	<dict>
-		<key>@MMK_R_G</key>
-		<integer>-1</integer>
-		<key>@MMK_R_O</key>
-		<integer>-1</integer>
-		<key>@MMK_R_T</key>
-		<integer>-30</integer>
-		<key>@MMK_R_W</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Y</key>
-		<integer>-37</integer>
-		<key>@MMK_R_w</key>
-		<integer>-8</integer>
-		<key>@MMK_R_y</key>
-		<integer>-14</integer>
-		<key>V</key>
-		<integer>-66</integer>
-		<key>quotedblright</key>
-		<integer>-184</integer>
-		<key>quoteright</key>
-		<integer>-75</integer>
-		<key>v</key>
-		<integer>-20</integer>
-	</dict>
-	<key>@MMK_L_D</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-2</integer>
-		<key>@MMK_R_W</key>
-		<integer>-1</integer>
-		<key>@MMK_R_Y</key>
-		<integer>-8</integer>
-		<key>V</key>
-		<integer>-2</integer>
-		<key>comma</key>
-		<integer>-2</integer>
-		<key>period</key>
-		<integer>-2</integer>
-	</dict>
-	<key>@MMK_L_E</key>
-	<dict>
-		<key>@MMK_R_g</key>
-		<integer>-4</integer>
-		<key>@MMK_R_s</key>
-		<integer>-4</integer>
-	</dict>
-	<key>@MMK_L_F</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-44</integer>
-		<key>@MMK_R_a</key>
-		<integer>-22</integer>
-		<key>@MMK_R_g</key>
-		<integer>-21</integer>
-		<key>@MMK_R_o</key>
-		<integer>-17</integer>
-		<key>@MMK_R_r</key>
-		<integer>-2</integer>
-		<key>@MMK_R_s</key>
-		<integer>-40</integer>
-		<key>@MMK_R_y</key>
-		<integer>-1</integer>
-		<key>comma</key>
-		<integer>-68</integer>
-		<key>period</key>
-		<integer>-80</integer>
-	</dict>
-	<key>@MMK_L_G</key>
-	<dict>
-		<key>@MMK_R_Y</key>
-		<integer>-16</integer>
-	</dict>
-	<key>@MMK_L_J</key>
-	<dict>
-		<key>oacute</key>
-		<integer>-1</integer>
-	</dict>
-	<key>@MMK_L_K</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>-6</integer>
-		<key>@MMK_R_G</key>
-		<integer>-6</integer>
-		<key>@MMK_R_O</key>
-		<integer>-6</integer>
-		<key>@MMK_R_U</key>
-		<integer>-1</integer>
-		<key>@MMK_R_c</key>
-		<integer>-4</integer>
-		<key>@MMK_R_g</key>
-		<integer>-4</integer>
-		<key>@MMK_R_s</key>
-		<integer>-4</integer>
-		<key>@MMK_R_w</key>
-		<integer>-10</integer>
-		<key>Q</key>
-		<integer>-6</integer>
-		<key>v</key>
-		<integer>-9</integer>
-	</dict>
-	<key>@MMK_L_L</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>-1</integer>
-		<key>@MMK_R_G</key>
-		<integer>-1</integer>
-		<key>@MMK_R_O</key>
-		<integer>-1</integer>
-		<key>@MMK_R_T</key>
-		<integer>-22</integer>
-		<key>@MMK_R_W</key>
-		<integer>-42</integer>
-		<key>@MMK_R_Y</key>
-		<integer>-42</integer>
-		<key>@MMK_R_g</key>
-		<integer>-2</integer>
-		<key>@MMK_R_s</key>
-		<integer>-2</integer>
-		<key>@MMK_R_w</key>
-		<integer>-2</integer>
-		<key>@MMK_R_y</key>
-		<integer>-1</integer>
-		<key>Q</key>
-		<integer>-1</integer>
-		<key>V</key>
-		<integer>-54</integer>
-		<key>quotedbl</key>
-		<integer>-131</integer>
-		<key>quotedblright</key>
-		<integer>-195</integer>
-		<key>quoteright</key>
-		<integer>-104</integer>
-		<key>quotesingle</key>
-		<integer>-131</integer>
-	</dict>
-	<key>@MMK_L_P</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-80</integer>
-		<key>@MMK_R_J</key>
-		<integer>-22</integer>
-		<key>@MMK_R_a</key>
-		<integer>-22</integer>
-		<key>@MMK_R_c</key>
-		<integer>-1</integer>
-		<key>@MMK_R_e</key>
-		<integer>-22</integer>
-		<key>@MMK_R_g</key>
-		<integer>-28</integer>
-		<key>@MMK_R_o</key>
-		<integer>-20</integer>
-		<key>comma</key>
-		<integer>-282</integer>
-		<key>period</key>
-		<integer>-292</integer>
-		<key>q</key>
-		<integer>-1</integer>
-	</dict>
-	<key>@MMK_L_R</key>
-	<dict>
-		<key>@MMK_R_W</key>
-		<integer>-11</integer>
-		<key>@MMK_R_Y</key>
-		<integer>-8</integer>
-		<key>@MMK_R_e</key>
-		<integer>-7</integer>
-		<key>@MMK_R_o</key>
-		<integer>-7</integer>
-	</dict>
-	<key>@MMK_L_T</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-9</integer>
-		<key>@MMK_R_C</key>
-		<integer>20</integer>
-		<key>@MMK_R_a</key>
-		<integer>-22</integer>
-		<key>@MMK_R_c</key>
-		<integer>-37</integer>
-		<key>@MMK_R_e</key>
-		<integer>-27</integer>
-		<key>@MMK_R_g</key>
-		<integer>-25</integer>
-		<key>@MMK_R_o</key>
-		<integer>-19</integer>
-		<key>@MMK_R_s</key>
-		<integer>-43</integer>
-		<key>q</key>
-		<integer>-2</integer>
-	</dict>
-	<key>@MMK_L_W</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-24</integer>
-		<key>@MMK_R_O</key>
-		<integer>-2</integer>
-		<key>@MMK_R_a</key>
-		<integer>-36</integer>
-		<key>@MMK_R_c</key>
-		<integer>-2</integer>
-		<key>@MMK_R_e</key>
-		<integer>-22</integer>
-		<key>@MMK_R_g</key>
-		<integer>-25</integer>
-		<key>@MMK_R_o</key>
-		<integer>-21</integer>
-		<key>@MMK_R_s</key>
-		<integer>-25</integer>
-		<key>@MMK_R_w</key>
-		<integer>-2</integer>
-		<key>@MMK_R_z</key>
-		<integer>-2</integer>
-		<key>comma</key>
-		<integer>-78</integer>
-		<key>period</key>
-		<integer>-65</integer>
-		<key>q</key>
-		<integer>-2</integer>
-	</dict>
-	<key>@MMK_L_Y</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-45</integer>
-		<key>@MMK_R_a</key>
-		<integer>-31</integer>
-		<key>@MMK_R_c</key>
-		<integer>-36</integer>
-		<key>@MMK_R_e</key>
-		<integer>-41</integer>
-		<key>@MMK_R_g</key>
-		<integer>-58</integer>
-		<key>@MMK_R_o</key>
-		<integer>-25</integer>
-		<key>@MMK_R_s</key>
-		<integer>-49</integer>
-		<key>@MMK_R_u</key>
-		<integer>-1</integer>
-		<key>@MMK_R_w</key>
-		<integer>-2</integer>
-		<key>comma</key>
-		<integer>-104</integer>
-		<key>period</key>
-		<integer>-77</integer>
-		<key>q</key>
-		<integer>-36</integer>
-	</dict>
-	<key>@MMK_L_a</key>
-	<dict>
-		<key>@MMK_R_t</key>
-		<integer>-2</integer>
-		<key>@MMK_R_w</key>
-		<integer>-15</integer>
-		<key>v</key>
-		<integer>-13</integer>
-	</dict>
-	<key>@MMK_L_afii10020</key>
-	<dict>
-		<key>afii10017</key>
-		<integer>-85</integer>
-		<key>afii10021</key>
-		<integer>-91</integer>
-		<key>afii10025</key>
-		<integer>-37</integer>
-		<key>afii10029</key>
-		<integer>-138</integer>
-		<key>afii10038</key>
-		<integer>-78</integer>
-		<key>afii10049</key>
-		<integer>-51</integer>
-		<key>afii10058</key>
-		<integer>-107</integer>
-	</dict>
-	<key>@MMK_L_afii10037</key>
-	<dict>
-		<key>afii10017</key>
-		<integer>-20</integer>
-		<key>afii10021</key>
-		<integer>-89</integer>
-		<key>afii10029</key>
-		<integer>-93</integer>
-	</dict>
-	<key>@MMK_L_afii10068</key>
-	<dict>
-		<key>afii10065</key>
-		<integer>-24</integer>
-		<key>afii10069</key>
-		<integer>-54</integer>
-		<key>afii10073</key>
-		<integer>-17</integer>
-		<key>afii10080</key>
-		<integer>-30</integer>
-	</dict>
-	<key>@MMK_L_afii10070</key>
-	<dict>
-		<key>afii10084</key>
-		<integer>-12</integer>
-	</dict>
-	<key>@MMK_L_afii10085</key>
-	<dict>
-		<key>afii10065</key>
-		<integer>-13</integer>
-		<key>afii10069</key>
-		<integer>-48</integer>
-		<key>afii10073</key>
-		<integer>-10</integer>
-		<key>afii10077</key>
-		<integer>-58</integer>
-		<key>afii10106</key>
-		<integer>-37</integer>
-	</dict>
-	<key>@MMK_L_b</key>
-	<dict>
-		<key>@MMK_R_b</key>
-		<integer>-25</integer>
-		<key>@MMK_R_j</key>
-		<integer>-2</integer>
-		<key>@MMK_R_y</key>
-		<integer>-6</integer>
-		<key>v</key>
-		<integer>-8</integer>
-	</dict>
-	<key>@MMK_L_c</key>
-	<dict>
-		<key>@MMK_R_c</key>
-		<integer>-4</integer>
-		<key>@MMK_R_j</key>
-		<integer>-2</integer>
-		<key>comma</key>
-		<integer>-6</integer>
-	</dict>
-	<key>@MMK_L_d</key>
-	<dict>
-		<key>@MMK_R_d</key>
-		<integer>-14</integer>
-	</dict>
-	<key>@MMK_L_e</key>
-	<dict>
-		<key>@MMK_R_j</key>
-		<integer>-2</integer>
-		<key>@MMK_R_w</key>
-		<integer>-6</integer>
-		<key>x</key>
-		<integer>-15</integer>
-	</dict>
-	<key>@MMK_L_f</key>
-	<dict>
-		<key>@MMK_R_c</key>
-		<integer>-85</integer>
-		<key>@MMK_R_f</key>
-		<integer>-71</integer>
-		<key>@MMK_R_j</key>
-		<integer>-40</integer>
-		<key>comma</key>
-		<integer>-1</integer>
-		<key>ij</key>
-		<integer>-40</integer>
-		<key>period</key>
-		<integer>-2</integer>
-		<key>quoteright</key>
-		<integer>70</integer>
-	</dict>
-	<key>@MMK_L_g</key>
-	<dict>
-		<key>@MMK_R_d</key>
-		<integer>6</integer>
-		<key>@MMK_R_g</key>
-		<integer>-38</integer>
-		<key>@MMK_R_o</key>
-		<integer>-22</integer>
-		<key>oe</key>
-		<integer>-21</integer>
-		<key>q</key>
-		<integer>-21</integer>
-	</dict>
-	<key>@MMK_L_h</key>
-	<dict>
-		<key>@MMK_R_y</key>
-		<integer>-6</integer>
-	</dict>
-	<key>@MMK_L_o</key>
-	<dict>
-		<key>@MMK_R_w</key>
-		<integer>-1</integer>
-		<key>@MMK_R_y</key>
-		<integer>-1</integer>
-		<key>x</key>
-		<integer>-1</integer>
-	</dict>
-	<key>@MMK_L_p</key>
-	<dict>
-		<key>@MMK_R_j</key>
-		<integer>-3</integer>
-		<key>@MMK_R_y</key>
-		<integer>-1</integer>
-		<key>x</key>
-		<integer>-40</integer>
-	</dict>
-	<key>@MMK_L_r</key>
-	<dict>
-		<key>@MMK_R_a</key>
-		<integer>-8</integer>
-		<key>@MMK_R_c</key>
-		<integer>-10</integer>
-		<key>@MMK_R_d</key>
-		<integer>-11</integer>
-		<key>@MMK_R_e</key>
-		<integer>-11</integer>
-		<key>@MMK_R_g</key>
-		<integer>-9</integer>
-		<key>@MMK_R_o</key>
-		<integer>-11</integer>
-		<key>q</key>
-		<integer>-11</integer>
-	</dict>
-	<key>@MMK_L_w</key>
-	<dict>
-		<key>@MMK_R_a</key>
-		<integer>-5</integer>
-		<key>comma</key>
-		<integer>-47</integer>
-	</dict>
-	<key>@MMK_L_y</key>
-	<dict>
-		<key>@MMK_R_a</key>
-		<integer>-9</integer>
-		<key>comma</key>
-		<integer>-46</integer>
-		<key>period</key>
-		<integer>-55</integer>
-	</dict>
 	<key>A</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Aacute</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Abreve</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Acircumflex</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Adieresis</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Agrave</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Amacron</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Aogonek</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Aring</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>Atilde</key>
 	<dict>
 		<key>Ccedilla</key>
+		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
+	</dict>
+	<key>D</key>
+	<dict>
+		<key>A</key>
+		<integer>-2</integer>
+		<key>Aacute</key>
+		<integer>-2</integer>
+		<key>Abreve</key>
+		<integer>-2</integer>
+		<key>Acircumflex</key>
+		<integer>-2</integer>
+		<key>Adieresis</key>
+		<integer>-2</integer>
+		<key>Agrave</key>
+		<integer>-2</integer>
+		<key>Amacron</key>
+		<integer>-2</integer>
+		<key>Aogonek</key>
+		<integer>-2</integer>
+		<key>Aring</key>
+		<integer>-2</integer>
+		<key>Atilde</key>
+		<integer>-2</integer>
+		<key>V</key>
+		<integer>-2</integer>
+		<key>W</key>
+		<integer>-1</integer>
+		<key>Y</key>
+		<integer>-1</integer>
+		<key>Yacute</key>
+		<integer>-1</integer>
+		<key>Ydieresis</key>
+		<integer>-1</integer>
+		<key>comma</key>
+		<integer>-2</integer>
+		<key>period</key>
+		<integer>-2</integer>
+		<key>uni0202</key>
+		<integer>-2</integer>
+	</dict>
+	<key>Dcaron</key>
+	<dict>
+		<key>comma</key>
+		<integer>-2</integer>
+		<key>period</key>
 		<integer>-2</integer>
 	</dict>
 	<key>E</key>
@@ -491,7 +126,25 @@
 		<integer>-4</integer>
 		<key>ecaron</key>
 		<integer>-4</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>ohungarumlaut</key>
+		<integer>-4</integer>
+		<key>s</key>
+		<integer>-4</integer>
+		<key>sacute</key>
+		<integer>-4</integer>
+		<key>scaron</key>
+		<integer>-4</integer>
+		<key>scedilla</key>
+		<integer>-4</integer>
+		<key>scircumflex</key>
 		<integer>-4</integer>
 	</dict>
 	<key>Eacute</key>
@@ -502,7 +155,25 @@
 		<integer>-4</integer>
 		<key>ecaron</key>
 		<integer>-4</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>ohungarumlaut</key>
+		<integer>-4</integer>
+		<key>s</key>
+		<integer>-4</integer>
+		<key>sacute</key>
+		<integer>-4</integer>
+		<key>scaron</key>
+		<integer>-4</integer>
+		<key>scedilla</key>
+		<integer>-4</integer>
+		<key>scircumflex</key>
 		<integer>-4</integer>
 	</dict>
 	<key>Ecaron</key>
@@ -513,7 +184,25 @@
 		<integer>-4</integer>
 		<key>ecaron</key>
 		<integer>-4</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>ohungarumlaut</key>
+		<integer>-4</integer>
+		<key>s</key>
+		<integer>-4</integer>
+		<key>sacute</key>
+		<integer>-4</integer>
+		<key>scaron</key>
+		<integer>-4</integer>
+		<key>scedilla</key>
+		<integer>-4</integer>
+		<key>scircumflex</key>
 		<integer>-4</integer>
 	</dict>
 	<key>Ecircumflex</key>
@@ -524,7 +213,25 @@
 		<integer>-4</integer>
 		<key>ecaron</key>
 		<integer>-4</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>ohungarumlaut</key>
+		<integer>-4</integer>
+		<key>s</key>
+		<integer>-4</integer>
+		<key>sacute</key>
+		<integer>-4</integer>
+		<key>scaron</key>
+		<integer>-4</integer>
+		<key>scedilla</key>
+		<integer>-4</integer>
+		<key>scircumflex</key>
 		<integer>-4</integer>
 	</dict>
 	<key>Edieresis</key>
@@ -535,7 +242,25 @@
 		<integer>-4</integer>
 		<key>ecaron</key>
 		<integer>-4</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>ohungarumlaut</key>
+		<integer>-4</integer>
+		<key>s</key>
+		<integer>-4</integer>
+		<key>sacute</key>
+		<integer>-4</integer>
+		<key>scaron</key>
+		<integer>-4</integer>
+		<key>scedilla</key>
+		<integer>-4</integer>
+		<key>scircumflex</key>
 		<integer>-4</integer>
 	</dict>
 	<key>Egrave</key>
@@ -546,7 +271,25 @@
 		<integer>-4</integer>
 		<key>ecaron</key>
 		<integer>-4</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>ohungarumlaut</key>
+		<integer>-4</integer>
+		<key>s</key>
+		<integer>-4</integer>
+		<key>sacute</key>
+		<integer>-4</integer>
+		<key>scaron</key>
+		<integer>-4</integer>
+		<key>scedilla</key>
+		<integer>-4</integer>
+		<key>scircumflex</key>
 		<integer>-4</integer>
 	</dict>
 	<key>Eogonek</key>
@@ -557,7 +300,25 @@
 		<integer>-4</integer>
 		<key>ecaron</key>
 		<integer>-4</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>ohungarumlaut</key>
+		<integer>-4</integer>
+		<key>s</key>
+		<integer>-4</integer>
+		<key>sacute</key>
+		<integer>-4</integer>
+		<key>scaron</key>
+		<integer>-4</integer>
+		<key>scedilla</key>
+		<integer>-4</integer>
+		<key>scircumflex</key>
 		<integer>-4</integer>
 	</dict>
 	<key>F</key>
@@ -574,45 +335,127 @@
 		<integer>-51</integer>
 		<key>cdotaccent</key>
 		<integer>-4</integer>
+		<key>comma</key>
+		<integer>-8</integer>
 		<key>ecaron</key>
 		<integer>-5</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>oacute</key>
-		<integer>-25</integer>
+		<integer>-8</integer>
 		<key>ocircumflex</key>
-		<integer>-25</integer>
+		<integer>-8</integer>
 		<key>odieresis</key>
-		<integer>-25</integer>
+		<integer>-8</integer>
 		<key>ograve</key>
-		<integer>-25</integer>
+		<integer>-8</integer>
 		<key>ohungarumlaut</key>
-		<integer>-25</integer>
+		<integer>-8</integer>
 		<key>otilde</key>
-		<integer>-25</integer>
+		<integer>-8</integer>
+		<key>period</key>
+		<integer>-8</integer>
+		<key>r</key>
+		<integer>-2</integer>
+		<key>racute</key>
+		<integer>-2</integer>
+		<key>rcaron</key>
+		<integer>-2</integer>
+		<key>s</key>
+		<integer>-3</integer>
 		<key>sacute</key>
-		<integer>-41</integer>
+		<integer>-4</integer>
 		<key>scaron</key>
-		<integer>-41</integer>
+		<integer>-4</integer>
 		<key>scedilla</key>
-		<integer>-41</integer>
+		<integer>-4</integer>
 		<key>scircumflex</key>
-		<integer>-41</integer>
+		<integer>-4</integer>
 		<key>uni020D</key>
 		<integer>15</integer>
 		<key>uni020F</key>
-		<integer>-25</integer>
+		<integer>-8</integer>
+	</dict>
+	<key>J</key>
+	<dict>
+		<key>oacute</key>
+		<integer>-1</integer>
+		<key>ocircumflex</key>
+		<integer>-1</integer>
+		<key>odieresis</key>
+		<integer>-1</integer>
+		<key>ograve</key>
+		<integer>-1</integer>
+		<key>ohungarumlaut</key>
+		<integer>-1</integer>
+		<key>otilde</key>
+		<integer>-1</integer>
+		<key>uni020F</key>
+		<integer>-1</integer>
+	</dict>
+	<key>Jcircumflex</key>
+	<dict>
+		<key>o</key>
+		<integer>-1</integer>
+		<key>oacute</key>
+		<integer>-1</integer>
+		<key>ocircumflex</key>
+		<integer>-1</integer>
+		<key>odieresis</key>
+		<integer>-1</integer>
+		<key>ograve</key>
+		<integer>-1</integer>
+		<key>ohungarumlaut</key>
+		<integer>-1</integer>
+		<key>otilde</key>
+		<integer>-1</integer>
 	</dict>
 	<key>K</key>
 	<dict>
 		<key>Ohungarumlaut</key>
-		<integer>-12</integer>
+		<integer>-7</integer>
 		<key>agrave</key>
 		<integer>-26</integer>
+		<key>c</key>
+		<integer>-4</integer>
+		<key>cacute</key>
+		<integer>-4</integer>
+		<key>ccaron</key>
+		<integer>-4</integer>
+		<key>ccedilla</key>
+		<integer>-4</integer>
 		<key>ccircumflex</key>
 		<integer>-42</integer>
+		<key>cdotaccent</key>
+		<integer>-4</integer>
 		<key>ecaron</key>
 		<integer>-5</integer>
+		<key>g</key>
+		<integer>-4</integer>
+		<key>gbreve</key>
+		<integer>-4</integer>
+		<key>gcircumflex</key>
+		<integer>-4</integer>
+		<key>gdotaccent</key>
+		<integer>-4</integer>
 		<key>ohungarumlaut</key>
 		<integer>-5</integer>
+		<key>s</key>
+		<integer>-4</integer>
+		<key>sacute</key>
+		<integer>-4</integer>
+		<key>scaron</key>
+		<integer>-4</integer>
+		<key>scedilla</key>
+		<integer>-4</integer>
+		<key>scircumflex</key>
+		<integer>-4</integer>
 		<key>ubreve</key>
 		<integer>-3</integer>
 		<key>uhungarumlaut</key>
@@ -631,7 +474,7 @@
 	<key>L</key>
 	<dict>
 		<key>Tcaron</key>
-		<integer>-26</integer>
+		<integer>-8</integer>
 		<key>Ubreve</key>
 		<integer>-3</integer>
 		<key>Uhungarumlaut</key>
@@ -644,13 +487,35 @@
 		<integer>-2</integer>
 		<key>ecaron</key>
 		<integer>-2</integer>
+		<key>g</key>
+		<integer>-2</integer>
+		<key>gbreve</key>
+		<integer>-2</integer>
+		<key>gcircumflex</key>
+		<integer>-2</integer>
+		<key>gdotaccent</key>
+		<integer>-2</integer>
 		<key>ohungarumlaut</key>
+		<integer>-2</integer>
+		<key>quotedblright</key>
+		<integer>-9</integer>
+		<key>quoteright</key>
+		<integer>-10</integer>
+		<key>s</key>
+		<integer>-2</integer>
+		<key>sacute</key>
+		<integer>-2</integer>
+		<key>scaron</key>
+		<integer>-2</integer>
+		<key>scedilla</key>
+		<integer>-2</integer>
+		<key>scircumflex</key>
 		<integer>-2</integer>
 	</dict>
 	<key>Lacute</key>
 	<dict>
 		<key>Tcaron</key>
-		<integer>-26</integer>
+		<integer>-8</integer>
 		<key>Ubreve</key>
 		<integer>-3</integer>
 		<key>Uhungarumlaut</key>
@@ -663,13 +528,31 @@
 		<integer>-2</integer>
 		<key>ecaron</key>
 		<integer>-2</integer>
+		<key>g</key>
+		<integer>-2</integer>
+		<key>gbreve</key>
+		<integer>-2</integer>
+		<key>gcircumflex</key>
+		<integer>-2</integer>
+		<key>gdotaccent</key>
+		<integer>-2</integer>
 		<key>ohungarumlaut</key>
+		<integer>-2</integer>
+		<key>s</key>
+		<integer>-2</integer>
+		<key>sacute</key>
+		<integer>-2</integer>
+		<key>scaron</key>
+		<integer>-2</integer>
+		<key>scedilla</key>
+		<integer>-2</integer>
+		<key>scircumflex</key>
 		<integer>-2</integer>
 	</dict>
 	<key>Lcaron</key>
 	<dict>
 		<key>Tcaron</key>
-		<integer>-26</integer>
+		<integer>-8</integer>
 		<key>Ubreve</key>
 		<integer>-3</integer>
 		<key>Uhungarumlaut</key>
@@ -682,7 +565,25 @@
 		<integer>-2</integer>
 		<key>ecaron</key>
 		<integer>-2</integer>
+		<key>g</key>
+		<integer>-2</integer>
+		<key>gbreve</key>
+		<integer>-2</integer>
+		<key>gcircumflex</key>
+		<integer>-2</integer>
+		<key>gdotaccent</key>
+		<integer>-2</integer>
 		<key>ohungarumlaut</key>
+		<integer>-2</integer>
+		<key>s</key>
+		<integer>-2</integer>
+		<key>sacute</key>
+		<integer>-2</integer>
+		<key>scaron</key>
+		<integer>-2</integer>
+		<key>scedilla</key>
+		<integer>-2</integer>
+		<key>scircumflex</key>
 		<integer>-2</integer>
 	</dict>
 	<key>Ohungarumlaut</key>
@@ -694,34 +595,48 @@
 	</dict>
 	<key>P</key>
 	<dict>
+		<key>c</key>
+		<integer>-4</integer>
 		<key>ocircumflex</key>
-		<integer>-24</integer>
+		<integer>-5</integer>
 	</dict>
 	<key>T</key>
 	<dict>
 		<key>agrave</key>
-		<integer>-98</integer>
+		<integer>-96</integer>
+		<key>c</key>
+		<integer>-5</integer>
 		<key>oacute</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 	</dict>
 	<key>Tcaron</key>
 	<dict>
-		<key>@MMK_R_c</key>
-		<integer>-43</integer>
 		<key>Ohungarumlaut</key>
 		<integer>-4</integer>
+		<key>c</key>
+		<integer>-8</integer>
+		<key>cacute</key>
+		<integer>-8</integer>
+		<key>ccaron</key>
+		<integer>-8</integer>
+		<key>ccedilla</key>
+		<integer>-8</integer>
+		<key>ccircumflex</key>
+		<integer>-8</integer>
+		<key>cdotaccent</key>
+		<integer>-8</integer>
 		<key>comma</key>
 		<integer>-10</integer>
 		<key>ecaron</key>
-		<integer>-35</integer>
+		<integer>-10</integer>
 		<key>g</key>
-		<integer>-33</integer>
+		<integer>-8</integer>
 		<key>gbreve</key>
-		<integer>-33</integer>
+		<integer>-8</integer>
 		<key>gcircumflex</key>
-		<integer>-33</integer>
+		<integer>-8</integer>
 		<key>gdotaccent</key>
-		<integer>-33</integer>
+		<integer>-8</integer>
 		<key>h</key>
 		<integer>-2</integer>
 		<key>i</key>
@@ -735,19 +650,19 @@
 		<key>igrave</key>
 		<integer>-2</integer>
 		<key>o</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 		<key>oacute</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 		<key>ocircumflex</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 		<key>odieresis</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 		<key>ograve</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 		<key>ohungarumlaut</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 		<key>otilde</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 		<key>period</key>
 		<integer>-6</integer>
 		<key>r</key>
@@ -757,15 +672,15 @@
 		<key>rcaron</key>
 		<integer>-8</integer>
 		<key>s</key>
-		<integer>-51</integer>
+		<integer>-8</integer>
 		<key>sacute</key>
-		<integer>-51</integer>
+		<integer>-8</integer>
 		<key>scaron</key>
-		<integer>-51</integer>
+		<integer>-8</integer>
 		<key>scedilla</key>
-		<integer>-51</integer>
+		<integer>-8</integer>
 		<key>scircumflex</key>
-		<integer>-51</integer>
+		<integer>-8</integer>
 		<key>ubreve</key>
 		<integer>-6</integer>
 		<key>uhungarumlaut</key>
@@ -775,39 +690,19 @@
 	</dict>
 	<key>Tcommaaccent</key>
 	<dict>
+		<key>c</key>
+		<integer>-5</integer>
 		<key>oacute</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 	</dict>
 	<key>V</key>
 	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-37</integer>
-		<key>@MMK_R_C</key>
-		<integer>-1</integer>
-		<key>@MMK_R_G</key>
-		<integer>-1</integer>
-		<key>@MMK_R_O</key>
-		<integer>-2</integer>
-		<key>@MMK_R_a</key>
-		<integer>-27</integer>
-		<key>@MMK_R_c</key>
-		<integer>-33</integer>
-		<key>@MMK_R_e</key>
-		<integer>-31</integer>
-		<key>@MMK_R_g</key>
-		<integer>-20</integer>
-		<key>@MMK_R_o</key>
-		<integer>-26</integer>
-		<key>@MMK_R_s</key>
-		<integer>-19</integer>
-		<key>@MMK_R_z</key>
-		<integer>-2</integer>
 		<key>cacute</key>
-		<integer>-39</integer>
+		<integer>-8</integer>
 		<key>comma</key>
 		<integer>-92</integer>
 		<key>ocircumflex</key>
-		<integer>-31</integer>
+		<integer>-7</integer>
 		<key>period</key>
 		<integer>-78</integer>
 		<key>q</key>
@@ -816,12 +711,45 @@
 	<key>Yacute</key>
 	<dict>
 		<key>o</key>
-		<integer>30</integer>
+		<integer>33</integer>
+	</dict>
+	<key>a</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
+	</dict>
+	<key>aacute</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
+	</dict>
+	<key>abreve</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
+	</dict>
+	<key>acircumflex</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
+	</dict>
+	<key>adieresis</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
 	</dict>
 	<key>afii10017</key>
 	<dict>
-		<key>@MMK_R_afii10037</key>
-		<integer>-46</integer>
 		<key>afii10036</key>
 		<integer>-79</integer>
 		<key>afii10041</key>
@@ -847,8 +775,6 @@
 	</dict>
 	<key>afii10059</key>
 	<dict>
-		<key>@MMK_R_afii10037</key>
-		<integer>-37</integer>
 		<key>afii10036</key>
 		<integer>-89</integer>
 		<key>afii10041</key>
@@ -895,15 +821,11 @@
 	</dict>
 	<key>afii10084</key>
 	<dict>
-		<key>@MMK_R_afii10070</key>
-		<integer>-12</integer>
 		<key>afii10080</key>
 		<integer>-12</integer>
 	</dict>
 	<key>afii10092</key>
 	<dict>
-		<key>@MMK_R_afii10085</key>
-		<integer>-64</integer>
 		<key>afii10072</key>
 		<integer>-19</integer>
 		<key>afii10084</key>
@@ -915,8 +837,6 @@
 	</dict>
 	<key>afii10094</key>
 	<dict>
-		<key>@MMK_R_afii10085</key>
-		<integer>-52</integer>
 		<key>afii10072</key>
 		<integer>-19</integer>
 		<key>afii10084</key>
@@ -928,47 +848,171 @@
 		<key>afii10092</key>
 		<integer>-119</integer>
 	</dict>
+	<key>agrave</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
+	</dict>
+	<key>aogonek</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
+	</dict>
+	<key>aring</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
+	</dict>
+	<key>atilde</key>
+	<dict>
+		<key>t</key>
+		<integer>-2</integer>
+		<key>tcaron</key>
+		<integer>-2</integer>
+	</dict>
 	<key>b</key>
 	<dict>
 		<key>agrave</key>
 		<integer>-17</integer>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
+		<key>v</key>
+		<integer>-2</integer>
+		<key>y</key>
+		<integer>-2</integer>
+		<key>yacute</key>
+		<integer>-2</integer>
+		<key>ydieresis</key>
+		<integer>-2</integer>
 	</dict>
 	<key>c</key>
 	<dict>
 		<key>ccircumflex</key>
 		<integer>-21</integer>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
 		<key>uni020D</key>
 		<integer>-21</integer>
 	</dict>
+	<key>cacute</key>
+	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
+	</dict>
+	<key>ccaron</key>
+	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
+	</dict>
+	<key>ccedilla</key>
+	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
+	</dict>
+	<key>ccircumflex</key>
+	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
+	</dict>
+	<key>cdotaccent</key>
+	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
+	</dict>
+	<key>d</key>
+	<dict>
+		<key>d</key>
+		<integer>-3</integer>
+		<key>dcaron</key>
+		<integer>-3</integer>
+	</dict>
+	<key>dcaron</key>
+	<dict>
+		<key>d</key>
+		<integer>-3</integer>
+		<key>dcaron</key>
+		<integer>-3</integer>
+	</dict>
+	<key>e</key>
+	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
+	</dict>
 	<key>eacute</key>
 	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
 		<key>x</key>
 		<integer>7</integer>
 	</dict>
 	<key>ecaron</key>
 	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
 		<key>x</key>
-		<integer>-18</integer>
+		<integer>-4</integer>
 	</dict>
 	<key>ecircumflex</key>
 	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
 		<key>x</key>
 		<integer>7</integer>
 	</dict>
 	<key>edieresis</key>
 	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
 		<key>x</key>
 		<integer>7</integer>
 	</dict>
 	<key>egrave</key>
 	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
 		<key>x</key>
 		<integer>7</integer>
 	</dict>
 	<key>eogonek</key>
 	<dict>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
 		<key>x</key>
-		<integer>-18</integer>
+		<integer>-4</integer>
 	</dict>
 	<key>f</key>
 	<dict>
@@ -978,6 +1022,8 @@
 		<integer>-94</integer>
 		<key>ccircumflex</key>
 		<integer>-94</integer>
+		<key>comma</key>
+		<integer>-3</integer>
 		<key>eacute</key>
 		<integer>-94</integer>
 		<key>ecaron</key>
@@ -986,6 +1032,8 @@
 		<integer>-94</integer>
 		<key>egrave</key>
 		<integer>-94</integer>
+		<key>f</key>
+		<integer>-3</integer>
 		<key>iacute</key>
 		<integer>-1</integer>
 		<key>icircumflex</key>
@@ -1006,6 +1054,8 @@
 		<integer>-1</integer>
 		<key>otilde</key>
 		<integer>-1</integer>
+		<key>period</key>
+		<integer>-2</integer>
 		<key>umacron</key>
 		<integer>-47</integer>
 		<key>uni020D</key>
@@ -1025,24 +1075,26 @@
 		<integer>-77</integer>
 		<key>ecaron</key>
 		<integer>-1</integer>
+		<key>g</key>
+		<integer>-1</integer>
 		<key>oacute</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ocircumflex</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>odieresis</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ograve</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ohungarumlaut</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>otilde</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>umacron</key>
 		<integer>6</integer>
 		<key>uni020D</key>
 		<integer>-13</integer>
 		<key>uni020F</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>uni0215</key>
 		<integer>6</integer>
 		<key>uogonek</key>
@@ -1053,62 +1105,69 @@
 		<key>ecaron</key>
 		<integer>-1</integer>
 		<key>o</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>oacute</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ocircumflex</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>odieresis</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ograve</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ohungarumlaut</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>otilde</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 	</dict>
 	<key>gcircumflex</key>
 	<dict>
 		<key>ecaron</key>
 		<integer>-1</integer>
 		<key>o</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>oacute</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ocircumflex</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>odieresis</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ograve</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ohungarumlaut</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>otilde</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 	</dict>
 	<key>gdotaccent</key>
 	<dict>
 		<key>ecaron</key>
 		<integer>-1</integer>
 		<key>o</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>oacute</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ocircumflex</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>odieresis</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ograve</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>ohungarumlaut</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
 		<key>otilde</key>
-		<integer>-22</integer>
+		<integer>-1</integer>
+	</dict>
+	<key>h</key>
+	<dict>
+		<key>y</key>
+		<integer>-1</integer>
+		<key>yacute</key>
+		<integer>-1</integer>
+		<key>ydieresis</key>
+		<integer>-1</integer>
 	</dict>
 	<key>ohungarumlaut</key>
 	<dict>
-		<key>@MMK_R_j</key>
-		<integer>-2</integer>
 		<key>g</key>
 		<integer>-1</integer>
 		<key>gbreve</key>
@@ -1117,6 +1176,10 @@
 		<integer>-1</integer>
 		<key>gdotaccent</key>
 		<integer>-1</integer>
+		<key>j</key>
+		<integer>-2</integer>
+		<key>jcircumflex</key>
+		<integer>-2</integer>
 		<key>x</key>
 		<integer>-2</integer>
 	</dict>
@@ -1124,61 +1187,38 @@
 	<dict>
 		<key>agrave</key>
 		<integer>-17</integer>
-	</dict>
-	<key>quotedblleft</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-74</integer>
-	</dict>
-	<key>quoteleft</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-74</integer>
+		<key>j</key>
+		<integer>-3</integer>
+		<key>jcircumflex</key>
+		<integer>-3</integer>
+		<key>v</key>
+		<integer>-2</integer>
+		<key>y</key>
+		<integer>-1</integer>
+		<key>yacute</key>
+		<integer>-1</integer>
+		<key>ydieresis</key>
+		<integer>-1</integer>
 	</dict>
 	<key>quoteright</key>
 	<dict>
-		<key>@MMK_R_d</key>
+		<key>d</key>
 		<integer>-4</integer>
-	</dict>
-	<key>r</key>
-	<dict>
-		<key>oacute</key>
-		<integer>-12</integer>
-		<key>ocircumflex</key>
-		<integer>-12</integer>
-		<key>odieresis</key>
-		<integer>-12</integer>
-		<key>ograve</key>
-		<integer>-12</integer>
-		<key>otilde</key>
-		<integer>-12</integer>
+		<key>dcaron</key>
+		<integer>-4</integer>
 	</dict>
 	<key>racute</key>
 	<dict>
 		<key>comma</key>
 		<integer>-6</integer>
 		<key>g</key>
-		<integer>-10</integer>
+		<integer>-1</integer>
 		<key>gbreve</key>
-		<integer>-10</integer>
+		<integer>-1</integer>
 		<key>gcircumflex</key>
-		<integer>-10</integer>
+		<integer>-1</integer>
 		<key>gdotaccent</key>
-		<integer>-10</integer>
-		<key>o</key>
-		<integer>-12</integer>
-		<key>oacute</key>
-		<integer>-12</integer>
-		<key>ocircumflex</key>
-		<integer>-12</integer>
-		<key>odieresis</key>
-		<integer>-12</integer>
-		<key>ograve</key>
-		<integer>-12</integer>
-		<key>ohungarumlaut</key>
-		<integer>-12</integer>
-		<key>otilde</key>
-		<integer>-12</integer>
+		<integer>-1</integer>
 		<key>period</key>
 		<integer>-2</integer>
 		<key>r</key>
@@ -1188,25 +1228,12 @@
 		<key>rcaron</key>
 		<integer>-1</integer>
 	</dict>
-	<key>rcaron</key>
-	<dict>
-		<key>o</key>
-		<integer>-12</integer>
-		<key>oacute</key>
-		<integer>-12</integer>
-		<key>ocircumflex</key>
-		<integer>-12</integer>
-		<key>odieresis</key>
-		<integer>-12</integer>
-		<key>ograve</key>
-		<integer>-12</integer>
-		<key>otilde</key>
-		<integer>-12</integer>
-	</dict>
 	<key>uni0202</key>
 	<dict>
 		<key>Ccedilla</key>
 		<integer>-2</integer>
+		<key>G</key>
+		<integer>-1</integer>
 	</dict>
 	<key>uni020D</key>
 	<dict>
@@ -1216,9 +1243,9 @@
 	<key>uni0211</key>
 	<dict>
 		<key>c</key>
-		<integer>13</integer>
+		<integer>14</integer>
 		<key>ccedilla</key>
-		<integer>13</integer>
+		<integer>14</integer>
 		<key>ccircumflex</key>
 		<integer>-46</integer>
 		<key>d</key>
@@ -1230,8 +1257,10 @@
 	</dict>
 	<key>uni021A</key>
 	<dict>
+		<key>c</key>
+		<integer>-5</integer>
 		<key>oacute</key>
-		<integer>-28</integer>
+		<integer>-10</integer>
 	</dict>
 	<key>v</key>
 	<dict>

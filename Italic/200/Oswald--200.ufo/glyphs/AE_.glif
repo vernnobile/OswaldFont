@@ -4,27 +4,56 @@
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="-31" y="0" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="271" y="458" type="line"/>
-      <point x="645" y="458" type="line"/>
-      <point x="645" y="0" type="line"/>
-      <point x="1220" y="0" type="line"/>
-      <point x="1220" y="97" type="line"/>
-      <point x="762" y="97" type="line"/>
-      <point x="762" y="822" type="line"/>
-      <point x="1089" y="822" type="line"/>
-      <point x="1089" y="911" type="line"/>
-      <point x="762" y="911" type="line"/>
-      <point x="762" y="1561" type="line"/>
-      <point x="1220" y="1561" type="line"/>
-      <point x="1220" y="1658" type="line"/>
-      <point x="612" y="1658" type="line"/>
+      <point x="-74" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="264" y="458" type="line"/>
+      <point x="651" y="458" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="1177" y="0" type="line"/>
+      <point x="1188" y="91" type="line"/>
+      <point x="719" y="91" type="line"/>
+      <point x="795" y="822" type="line"/>
+      <point x="1133" y="822" type="line"/>
+      <point x="1142" y="904" type="line"/>
+      <point x="804" y="904" type="line"/>
+      <point x="873" y="1569" type="line"/>
+      <point x="1342" y="1569" type="line"/>
+      <point x="1351" y="1658" type="line"/>
+      <point x="744" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="303" y="548" type="line"/>
-      <point x="644" y="1489" type="line"/>
-      <point x="644" y="548" type="line"/>
+      <point x="305" y="548" type="line"/>
+      <point x="758" y="1503" type="line"/>
+      <point x="659" y="548" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1284</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

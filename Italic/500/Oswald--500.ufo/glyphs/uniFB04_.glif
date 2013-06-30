@@ -3,50 +3,24 @@
   <advance width="1589"/>
   <unicode hex="FB04"/>
   <outline>
-    <component base="i" xOffset="1044"/>
-    <component base="f" xOffset="485"/>
-    <component base="f"/>
+    <component base="i" xOffset="1087"/>
+    <component base="f" xOffset="43"/>
+    <component base="f" xOffset="528"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>1564</integer>
+            <key>width</key>
+            <integer>53</integer>
           </dict>
-          <key>name</key>
-          <string>uniFB04</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1589</integer>
-        </dict>
+        </array>
       </dict>
-      <key>hhints</key>
-      <dict>
-      </dict>
-      <key>position</key>
-      <integer>1234</integer>
-      <key>vhints</key>
-      <dict>
-      </dict>
-      <key>width</key>
-      <integer>237</integer>
     </dict>
   </lib>
 </glyph>

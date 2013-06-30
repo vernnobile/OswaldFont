@@ -3,7 +3,7 @@
   <advance width="773"/>
   <unicode hex="0146"/>
   <outline>
-    <component base="uni0326" xOffset="154" yOffset="-34"/>
+    <component base="uni0326" xOffset="115" yOffset="-34"/>
     <component base="n"/>
   </outline>
   <lib>
@@ -14,45 +14,20 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-754</integer>
+            <integer>1154</integer>
             <key>width</key>
-            <integer>111</integer>
+            <integer>50</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>552</integer>
+            <integer>241</integer>
             <key>width</key>
-            <integer>151</integer>
+            <integer>100</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ncommaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1053</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

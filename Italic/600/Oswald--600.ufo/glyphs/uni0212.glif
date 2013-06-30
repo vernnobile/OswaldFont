@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0212" format="1">
-  <advance width="1121"/>
+  <advance width="1176"/>
   <unicode hex="0212"/>
   <outline>
-    <component base="uni0311" xOffset="276" yOffset="416"/>
+    <component base="uni0311" xOffset="191" yOffset="419"/>
     <component base="R"/>
   </outline>
   <lib>
@@ -14,57 +14,41 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1903</integer>
+            <integer>860</integer>
             <key>width</key>
-            <integer>138</integer>
+            <integer>52</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1602</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1948</integer>
+            <key>width</key>
+            <integer>48</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>384</integer>
-            <key>width</key>
-            <integer>149</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>747</integer>
-            <key>width</key>
             <integer>399</integer>
+            <key>width</key>
+            <integer>54</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>752</integer>
+            <integer>783</integer>
             <key>width</key>
-            <integer>150</integer>
+            <integer>54</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0212</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1186</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

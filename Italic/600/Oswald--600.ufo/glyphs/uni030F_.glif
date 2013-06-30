@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030F" format="1">
-  <advance width="818"/>
+  <advance width="801"/>
   <unicode hex="030F"/>
   <outline>
     <contour>
-      <point x="268" y="1281" type="line"/>
-      <point x="433" y="1281" type="line"/>
-      <point x="306" y="1687" type="line"/>
-      <point x="53" y="1687" type="line"/>
+      <point x="351" y="1283" type="line"/>
+      <point x="513" y="1283" type="line"/>
+      <point x="428" y="1685" type="line"/>
+      <point x="177" y="1685" type="line"/>
     </contour>
     <contour>
-      <point x="603" y="1281" type="line"/>
-      <point x="767" y="1281" type="line"/>
-      <point x="656" y="1687" type="line"/>
-      <point x="426" y="1687" type="line"/>
+      <point x="682" y="1283" type="line"/>
+      <point x="842" y="1283" type="line"/>
+      <point x="775" y="1685" type="line"/>
+      <point x="548" y="1685" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,9 +24,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>1264</integer>
+            <integer>1378</integer>
             <key>width</key>
-            <integer>448</integer>
+            <integer>280</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>201</integer>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>399</integer>
+            <key>width</key>
+            <integer>77</integer>
           </dict>
         </array>
       </dict>

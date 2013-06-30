@@ -1,46 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Thorn" format="1">
-  <advance width="1147"/>
+  <advance width="1140"/>
   <unicode hex="00DE"/>
   <outline>
     <contour>
-      <point x="106" y="0" type="line"/>
-      <point x="472" y="0" type="line"/>
-      <point x="472" y="477" type="line"/>
-      <point x="611" y="478" type="line" smooth="yes"/>
-      <point x="954" y="480"/>
-      <point x="1118" y="581"/>
-      <point x="1118" y="974" type="curve" smooth="yes"/>
-      <point x="1118" y="1306"/>
-      <point x="958" y="1437"/>
-      <point x="631" y="1437" type="curve" smooth="yes"/>
-      <point x="472" y="1437" type="line"/>
-      <point x="472" y="1658" type="line"/>
-      <point x="106" y="1658" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="467" y="477" type="line"/>
+      <point x="609" y="477" type="line" smooth="yes"/>
+      <point x="949" y="479"/>
+      <point x="1122" y="584"/>
+      <point x="1163" y="973" type="curve" smooth="yes"/>
+      <point x="1198" y="1303"/>
+      <point x="1054" y="1437"/>
+      <point x="730" y="1437" type="curve" smooth="yes"/>
+      <point x="568" y="1437" type="line"/>
+      <point x="591" y="1658" type="line"/>
+      <point x="231" y="1658" type="line"/>
     </contour>
     <contour>
-      <point x="472" y="739" type="line"/>
-      <point x="472" y="1172" type="line"/>
-      <point x="596" y="1172" type="line" smooth="yes"/>
-      <point x="734" y="1172"/>
-      <point x="782" y="1106"/>
-      <point x="782" y="958" type="curve" smooth="yes"/>
-      <point x="782" y="797"/>
-      <point x="728" y="739"/>
-      <point x="585" y="739" type="curve" smooth="yes"/>
+      <point x="494" y="735" type="line"/>
+      <point x="541" y="1176" type="line"/>
+      <point x="666" y="1176" type="line" smooth="yes"/>
+      <point x="806" y="1176"/>
+      <point x="847" y="1109"/>
+      <point x="832" y="958" type="curve" smooth="yes"/>
+      <point x="815" y="793"/>
+      <point x="752" y="735"/>
+      <point x="607" y="735" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>vhints</key>
+        <key>hhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>792</integer>
+            <integer>528</integer>
             <key>width</key>
-            <integer>372</integer>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1389</integer>
+            <key>width</key>
+            <integer>59</integer>
           </dict>
         </array>
       </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="1">
-  <advance width="813"/>
+  <advance width="810"/>
   <unicode hex="013F"/>
   <outline>
     <component base="L"/>
-    <component base="periodcentered" xOffset="490" yOffset="120"/>
+    <component base="periodcentered" xOffset="271" yOffset="66"/>
   </outline>
   <lib>
     <dict>
@@ -14,45 +14,14 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>673</integer>
+            <integer>777</integer>
             <key>width</key>
-            <integer>338</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>314</integer>
-            <key>width</key>
-            <integer>346</integer>
+            <integer>123</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Ldot</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1012</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

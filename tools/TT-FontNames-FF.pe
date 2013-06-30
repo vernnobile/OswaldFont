@@ -1,0 +1,28 @@
+#!/usr/local/bin/fontforge
+# set copyright
+SetTTFName(0x409,0,"Copyright (c) 2010-13 by Vernon Adams");
+# set family
+SetTTFName(0x409,1,"Oswald");
+SetTTFName(0x409,2,"2");
+SetTTFName(0x409,3,"3.0;newt;Oswald");
+# set Fullname
+SetTTFName(0x409,5,"3.0");
+#uniqueID
+SetTTFName(0x409,4,"Oswald");
+SetTTFName(0x409,6,"6");
+# set trademark
+SetTTFName(0x409,7,"Oswald is a trademark of Vernon Adams");
+# set manufacturer
+SetTTFName(0x409,8,"Vernon Adams");
+# designer
+SetTTFName(0x409,9,"Vernon Adams");
+SetTTFName(0x409,10,"Copyright (c) 2010-13 by Vernon Adams");
+# vendor URL
+SetTTFName(0x409,11,"code.newtypography.co.uk");
+#designer URL
+SetTTFName(0x409,12,"code.newtypography.co.uk");
+# license
+SetTTFName(0x409,13,"Copyright (c) 2013, vernon adams (vernnobile@gmail.com),with Reserved Font Name Oswald. This Font Software is licensed under the SIL Open Font License, Version 1.1.");
+# license URL
+SetTTFName(0x409,14,"http://scripts.sil.org/OFL");
+

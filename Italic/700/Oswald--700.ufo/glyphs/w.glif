@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="1225"/>
+  <advance width="1224"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="218" y="0" type="line"/>
-      <point x="502" y="0" type="line"/>
-      <point x="615" y="663" type="line"/>
-      <point x="717" y="0" type="line"/>
-      <point x="1002" y="0" type="line"/>
-      <point x="1181" y="1184" type="line"/>
-      <point x="922" y="1184" type="line"/>
-      <point x="823" y="497" type="line"/>
-      <point x="742" y="1184" type="line"/>
-      <point x="501" y="1184" type="line"/>
-      <point x="407" y="512" type="line"/>
-      <point x="322" y="1184" type="line"/>
-      <point x="43" y="1184" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="635" y="670" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="949" y="0" type="line"/>
+      <point x="1254" y="1184" type="line"/>
+      <point x="998" y="1184" type="line"/>
+      <point x="826" y="489" type="line"/>
+      <point x="814" y="1184" type="line"/>
+      <point x="576" y="1184" type="line"/>
+      <point x="408" y="502" type="line"/>
+      <point x="392" y="1184" type="line"/>
+      <point x="118" y="1184" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,36 +27,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>495</integer>
+            <integer>445</integer>
             <key>width</key>
             <integer>266</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>w</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1142</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

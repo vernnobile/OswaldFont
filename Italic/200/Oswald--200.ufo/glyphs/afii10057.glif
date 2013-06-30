@@ -4,17 +4,17 @@
   <unicode hex="0408"/>
   <outline>
     <contour>
-      <point x="16" y="-92" type="line"/>
-      <point x="74" y="-92" type="line" smooth="yes"/>
-      <point x="353" y="-92"/>
-      <point x="389" y="29"/>
-      <point x="390" y="294" type="curve"/>
-      <point x="390" y="1658" type="line"/>
-      <point x="278" y="1658" type="line"/>
-      <point x="278" y="308" type="line" smooth="yes"/>
-      <point x="278" y="43"/>
-      <point x="260" y="-4"/>
-      <point x="16" y="-5" type="curve"/>
+      <point x="-36" y="-92" type="line"/>
+      <point x="22" y="-92" type="line" smooth="yes"/>
+      <point x="301" y="-92"/>
+      <point x="350" y="29"/>
+      <point x="379" y="294" type="curve"/>
+      <point x="521" y="1658" type="line"/>
+      <point x="409" y="1658" type="line"/>
+      <point x="267" y="308" type="line" smooth="yes"/>
+      <point x="240" y="43"/>
+      <point x="217" y="-4"/>
+      <point x="-27" y="-5" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -25,9 +25,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-44</integer>
+            <integer>-114</integer>
             <key>width</key>
-            <integer>286</integer>
+            <integer>56</integer>
           </dict>
         </array>
       </dict>

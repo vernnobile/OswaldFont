@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wcircumflex" format="1">
-  <advance width="1183"/>
+  <advance width="1201"/>
   <unicode hex="0175"/>
   <outline>
     <component base="w"/>
@@ -22,36 +22,11 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>495</integer>
+            <integer>395</integer>
             <key>width</key>
             <integer>266</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>wcircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1114</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

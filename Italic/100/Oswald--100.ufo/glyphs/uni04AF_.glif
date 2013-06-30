@@ -4,54 +4,15 @@
   <unicode hex="04AF"/>
   <outline>
     <contour>
-      <point x="339" y="-299" type="line"/>
-      <point x="417" y="-299" type="line"/>
-      <point x="417" y="21" type="line"/>
-      <point x="706" y="1184" type="line"/>
-      <point x="630" y="1184" type="line"/>
-      <point x="380" y="160" type="line"/>
-      <point x="131" y="1184" type="line"/>
-      <point x="56" y="1184" type="line"/>
-      <point x="339" y="22" type="line" smooth="yes"/>
+      <point x="267" y="-299" type="line"/>
+      <point x="345" y="-299" type="line"/>
+      <point x="379" y="21" type="line"/>
+      <point x="789" y="1184" type="line"/>
+      <point x="713" y="1184" type="line"/>
+      <point x="356" y="160" type="line"/>
+      <point x="214" y="1184" type="line"/>
+      <point x="139" y="1184" type="line"/>
+      <point x="301" y="22" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni04AF</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>957</integer>
-        </dict>
-      </dict>
-      <key>position</key>
-      <integer>637</integer>
-      <key>vhints</key>
-      <dict>
-      </dict>
-      <key>width</key>
-      <integer>62</integer>
-    </dict>
-  </lib>
 </glyph>

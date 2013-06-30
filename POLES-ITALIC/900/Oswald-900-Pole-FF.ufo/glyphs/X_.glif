@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="1077"/>
+  <advance width="1072"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
@@ -18,4 +18,11 @@
       <point x="370" y="903" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

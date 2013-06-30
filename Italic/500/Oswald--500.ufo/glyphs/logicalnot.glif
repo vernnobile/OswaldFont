@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="1">
-  <advance width="899"/>
+  <advance width="887"/>
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="687" y="473" type="line"/>
-      <point x="827" y="473" type="line"/>
-      <point x="827" y="942" type="line"/>
-      <point x="88" y="942" type="line"/>
-      <point x="88" y="743" type="line"/>
-      <point x="687" y="743" type="line"/>
+      <point x="681" y="478" type="line"/>
+      <point x="817" y="478" type="line"/>
+      <point x="866" y="939" type="line"/>
+      <point x="136" y="939" type="line"/>
+      <point x="115" y="743" type="line"/>
+      <point x="708" y="743" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,9 +20,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>384</integer>
+            <integer>606</integer>
             <key>width</key>
-            <integer>599</integer>
+            <integer>289</integer>
           </dict>
         </array>
       </dict>
