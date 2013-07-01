@@ -20,24 +20,24 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1372545452
-ModificationTime: 1372696645
+ModificationTime: 1372696579
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 2233
+OS2TypoAscent: 1658
 OS2TypoAOffset: 0
-OS2TypoDescent: -548
+OS2TypoDescent: -390
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 2233
+OS2WinAscent: 1658
 OS2WinAOffset: 0
-OS2WinDescent: 548
+OS2WinDescent: 390
 OS2WinDOffset: 0
-HheadAscent: 2233
+HheadAscent: 1658
 HheadAOffset: 0
-HheadDescent: -548
+HheadDescent: -390
 HheadDOffset: 0
 OS2Vendor: 'newt'
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Cyrillic lookup 0"  {"'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  "'kern' Horizontal Kerning lookup 3 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -154,7 +154,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 297 33 9
+WinInfo: 198 33 9
 BeginPrivate: 10
 BlueFuzz 1 1
 BlueScale 9 0.0319355
@@ -1249,10 +1249,17 @@ StartChar: Lcaron
 Encoding: 286 317 59
 Width: 851
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: 0 205<391.409 768.409> 1124 553<781 864> 1638 20<246.31 544.409>
 VStem: 723 292
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 488 700 S 1 0 0 1 387 19 2
 Refer: 57 76 N 1 0 0 1 0.40918 0 3
@@ -1277,12 +1284,12 @@ Encoding: 288 319 61
 Width: 851
 VWidth: 0
 Flags: W
-HStem: 0 205<405.222 782.222> 706 265<696.57 936.57> 1638 20<260.123 558.222>
-VStem: 669.57 294
+HStem: 0 205<391 768> 706 265<388.348 628.348> 1638 20<245.901 544>
+VStem: 361.348 294
 LayerCount: 2
 Fore
-Refer: 385 183 S 1 0 0 1 587.57 68 2
-Refer: 57 76 N 1 0 0 1 14.2222 0 3
+Refer: 385 183 N 1 0 0 1 279.348 68 2
+Refer: 57 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Lslash
@@ -7552,15 +7559,15 @@ EndChar
 
 StartChar: napostrophe
 Encoding: 482 329 353
-Width: 963
+Width: 1754
 VWidth: 0
 Flags: W
-HStem: 0 21<58.0637 334.17 539.064 815.153> 996 206<544.564 820.064> 1164 20<179.969 456.064> 1372 553<212.064 295.064>
-VStem: 154.064 292
+HStem: 0 21<849 1125.11 1330 1606.09> 996 206<1335.5 1611> 1105 553<394 477> 1164 20<970.905 1247>
+VStem: 336 292
 LayerCount: 2
 Fore
-Refer: 351 110 N 1 0 0 1 0.0636826 0 2
-Refer: 488 700 S 1 0 0 1 -181.936 267 2
+Refer: 351 110 N 1 0 0 1 791 0 2
+Refer: 488 700 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ncaron

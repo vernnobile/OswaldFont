@@ -20,24 +20,24 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1372549120
-ModificationTime: 1372698365
+ModificationTime: 1372626237
 PfmFamily: 17
 TTFWeight: 200
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 2233
+OS2TypoAscent: 1658
 OS2TypoAOffset: 0
-OS2TypoDescent: -548
+OS2TypoDescent: -390
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 2233
+OS2WinAscent: 1658
 OS2WinAOffset: 0
-OS2WinDescent: 548
+OS2WinDescent: 390
 OS2WinDOffset: 0
-HheadAscent: 2233
+HheadAscent: 1658
 HheadAOffset: 0
-HheadDescent: -548
+HheadDescent: -390
 HheadDOffset: 0
 OS2Vendor: 'newt'
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Cyrillic lookup 0"  {"'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  "'kern' Horizontal Kerning lookup 3 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -6939,6 +6939,13 @@ HStem: 0 21G<92 202.095> 1164 20G<213.905 324> 1339 189<252 342>
 VStem: 92 269
 AnchorPoint: "ogonek" 196 0 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 239 1389 m 5
@@ -7135,6 +7142,13 @@ Flags: HW
 HStem: -317 89<-99.3062 71.3521> 1164 20G<244.895 356> 1369 189<283 373>
 VStem: -107 500
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 266 1389 m 1
