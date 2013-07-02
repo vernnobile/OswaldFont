@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="676"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="941" type="line"/>
+      <point x="646" y="941" type="line"/>
+      <point x="646" y="1184" type="line"/>
+      <point x="504" y="1184" type="line"/>
+      <point x="504" y="1278" type="line" smooth="yes"/>
+      <point x="504" y="1335"/>
+      <point x="538" y="1351"/>
+      <point x="578" y="1351" type="curve" smooth="yes"/>
+      <point x="602" y="1351"/>
+      <point x="628" y="1345"/>
+      <point x="646" y="1342" type="curve"/>
+      <point x="646" y="1614" type="line"/>
+      <point x="584" y="1621"/>
+      <point x="531" y="1624"/>
+      <point x="482" y="1624" type="curve" smooth="yes"/>
+      <point x="176" y="1624"/>
+      <point x="138" y="1485"/>
+      <point x="138" y="1280" type="curve" smooth="yes"/>
+      <point x="138" y="1184" type="line"/>
+      <point x="33" y="1184" type="line"/>
+      <point x="33" y="941" type="line"/>
+      <point x="138" y="941" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1348</integer>
+            <key>width</key>
+            <integer>277</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>16</integer>
+            <key>width</key>
+            <integer>615</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>679</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

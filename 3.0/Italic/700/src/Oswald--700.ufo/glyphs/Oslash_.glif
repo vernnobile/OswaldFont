@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="1166"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="170" y="-180" type="line"/>
+      <point x="1090" y="1778" type="line"/>
+      <point x="1013" y="1809" type="line"/>
+      <point x="93" y="-148" type="line"/>
+    </contour>
+    <component base="O" xOffset="105"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-24</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1623</integer>
+            <key>width</key>
+            <integer>55</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

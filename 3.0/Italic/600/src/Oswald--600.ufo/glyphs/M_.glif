@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1413"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="454" y="1129" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="761" y="0" type="line"/>
+      <point x="1098" y="1124" type="line"/>
+      <point x="1003" y="0" type="line"/>
+      <point x="1246" y="0" type="line"/>
+      <point x="1393" y="1658" type="line"/>
+      <point x="1055" y="1658" type="line"/>
+      <point x="718" y="581" type="line"/>
+      <point x="616" y="1658" type="line"/>
+      <point x="269" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>36</integer>
+            <key>width</key>
+            <integer>290</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>63</integer>
+            <key>width</key>
+            <integer>291</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>962</integer>
+            <key>width</key>
+            <integer>291</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>994</integer>
+            <key>width</key>
+            <integer>286</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

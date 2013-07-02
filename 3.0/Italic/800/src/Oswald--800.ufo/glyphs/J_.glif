@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+  <advance width="738"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="-26" y="-43" type="line"/>
+      <point x="168" y="-43" type="line" smooth="yes"/>
+      <point x="473" y="-43"/>
+      <point x="570" y="95"/>
+      <point x="605" y="364" type="curve"/>
+      <point x="741" y="1658" type="line"/>
+      <point x="342" y="1658" type="line"/>
+      <point x="208" y="382" type="line" smooth="yes"/>
+      <point x="195" y="256"/>
+      <point x="140" y="232"/>
+      <point x="3" y="234" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-114</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

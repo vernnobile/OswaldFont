@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AF" format="1">
+  <advance width="884"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="313" y="-359" type="line"/>
+      <point x="585" y="-359" type="line"/>
+      <point x="585" y="145" type="line"/>
+      <point x="868" y="1184" type="line"/>
+      <point x="582" y="1184" type="line"/>
+      <point x="450" y="536" type="line"/>
+      <point x="295" y="1184" type="line"/>
+      <point x="9" y="1184" type="line"/>
+      <point x="313" y="141" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni04AF</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>957</integer>
+        </dict>
+      </dict>
+      <key>position</key>
+      <integer>637</integer>
+      <key>vhints</key>
+      <dict>
+      </dict>
+      <key>width</key>
+      <integer>62</integer>
+    </dict>
+  </lib>
+</glyph>

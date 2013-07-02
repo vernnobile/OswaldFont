@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="1">
+  <advance width="1087"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="546" y="-375" type="line"/>
+      <point x="625" y="-375" type="line" smooth="yes"/>
+      <point x="889" y="-375"/>
+      <point x="951" y="-245"/>
+      <point x="951" y="0" type="curve" smooth="yes"/>
+      <point x="951" y="1658" type="line"/>
+      <point x="770" y="1658" type="line"/>
+      <point x="770" y="557" type="line"/>
+      <point x="287" y="1658" type="line"/>
+      <point x="130" y="1658" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="313" y="1133" type="line"/>
+      <point x="768" y="87" type="line"/>
+      <point x="768" y="19" type="line" smooth="yes"/>
+      <point x="768" y="-159"/>
+      <point x="753" y="-218"/>
+      <point x="546" y="-218" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-444</integer>
+            <key>width</key>
+            <integer>237</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eng</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1190</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
