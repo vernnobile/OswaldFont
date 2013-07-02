@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1372549120
-ModificationTime: 1372698365
+ModificationTime: 1372738643
 PfmFamily: 17
 TTFWeight: 200
 TTFWidth: 5
@@ -148,7 +148,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 33 33 9
+WinInfo: 264 33 9
 BeginPrivate: 10
 BlueFuzz 1 1
 BlueScale 9 0.0176786
@@ -695,6 +695,13 @@ VWidth: 0
 Flags: W
 HStem: -288 78<520 697.136> 0 21G<110 208.096> 1638 20G<281.901 379.971 936.9 1034>
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 513 -288 m 1
@@ -1160,11 +1167,18 @@ Width: 543
 VWidth: 0
 Flags: W
 HStem: -92 87<-27 182.973> 1638 20<406.896 521> 1866 367
-VStem: -36 557 184 486
+VStem: -36 557 233 486
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 489 770 N 1 0 0 1 10 575 2
-Refer: 53 74 N 1 0 0 1 0 0 3
+Refer: 489 770 N 1 0 0 1 59 575 2
+Refer: 53 74 N 1 0 0 1 0 0 2
 Kerns2: 533 1 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  442 1 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  438 1 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  377 -2 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  368 -2 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  367 -2 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  364 -2 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  363 -2 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  361 -2 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  360 -2 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  277 -1 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable" 
 EndChar
 
@@ -1247,11 +1261,18 @@ Encoding: 286 317 59
 Width: 764
 VWidth: 0
 Flags: W
-HStem: 0 88<232 723> 1207 470<1080.11 1090.11> 1638 20<281.901 396>
-VStem: 110 622 1031.11 160
+HStem: 0 88<232 723> 1207 470<744.105 754.105> 1638 20<281.901 396>
+VStem: 110 622 695.105 160
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 488 700 N 1 0 0 1 786.105 19 2
+Refer: 488 700 S 1 0 0 1 450.105 19 2
 Refer: 57 76 N 1 0 0 1 0 0 3
 Kerns2: 413 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  412 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  411 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  410 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  409 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  368 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  304 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  302 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  301 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  300 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  277 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  255 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  254 -7 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  107 -10 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  104 -10 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  100 -10 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  95 -26 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable" 
 EndChar
@@ -1274,11 +1295,18 @@ Encoding: 288 319 61
 Width: 764
 VWidth: 0
 Flags: W
-HStem: 0 88<232 723> 762 153<456.105 551.105> 1638 20<281.901 396>
-VStem: 110 622 440.105 127
+HStem: 0 88<232 723> 762 153<526.105 621.105> 1638 20<281.901 396>
+VStem: 110 622 510.105 127
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 385 183 N 1 0 0 1 243.105 65 2
+Refer: 385 183 S 1 0 0 1 313.105 65 2
 Refer: 57 76 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5703,15 +5731,22 @@ EndChar
 
 StartChar: dcaron
 Encoding: 435 271 266
-Width: 808
+Width: 943
 VWidth: 0
 Flags: W
-HStem: -19 85<247.078 466.612> 0 21<540 650.099> 1118 85<342.43 578.603> 1188 470<1005.11 1015.11> 1638 20<711.876 822>
-VStem: 956.105 160
+HStem: -19 85<246.973 466.507> 0 21<539.895 649.994> 1118 85<342.325 578.498> 1188 470<1005 1015> 1638 20<711.771 821.895>
+VStem: 956 160
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 488 700 N 1 0 0 1 711.105 0 2
-Refer: 263 100 N 1 0 0 1 0 0 3
+Refer: 488 700 N 1 0 0 1 711 0 2
+Refer: 263 100 N 1 0 0 1 -0.105469 0 2
 Kerns2: 266 -10 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  263 -10 "'kern' Horizontal Kerning in Cyrillic lookup 0 subtable" 
 EndChar
 
@@ -6934,11 +6969,18 @@ StartChar: i
 Encoding: 105 105 319
 Width: 388
 VWidth: 0
-Flags: HW
-HStem: 0 21G<92 202.095> 1164 20G<213.905 324> 1339 189<252 342>
-VStem: 92 269
+Flags: W
+HStem: 0 21G<92 202.095> 1164 20G<213.905 324> 1389 189<258 348>
+VStem: 92 276
 AnchorPoint: "ogonek" 196 0 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 239 1389 m 5
@@ -7023,10 +7065,17 @@ StartChar: ij
 Encoding: 464 307 325
 Width: 802
 VWidth: 0
-Flags: HW
-HStem: -317 89<288.694 459.352> 0 21<92 202.095> 1164 20<213.905 324 632.895 744> 1339 189<252 342 671 761>
-VStem: 92 269 281 500
+Flags: W
+HStem: -317 89<288.694 459.352> 0 21<92 202.095> 1164 20<213.905 324 632.895 744> 1389 189<258 348 673 763>
+VStem: 92 276 281 502
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 331 106 N 1 0 0 1 388 0 2
 Refer: 319 105 N 1 0 0 1 0 0 2
@@ -7105,10 +7154,17 @@ StartChar: iogonek
 Encoding: 468 303 329
 Width: 388
 VWidth: 0
-Flags: HW
-HStem: -407 62<60.281 169> 0 21<92 202.095> 1164 20<213.905 324> 1339 189<252 342>
-VStem: -66 260 92 269
+Flags: W
+HStem: -407 62<60.281 169> 0 21<92 202.095> 1164 20<213.905 324> 1389 189<258 348>
+VStem: -66 260 92 276
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 366 731 N 1 0 0 1 -75 0 2
 Refer: 319 105 N 1 0 0 1 0 0 3
@@ -7131,10 +7187,17 @@ StartChar: j
 Encoding: 106 106 331
 Width: 414
 VWidth: 0
-Flags: HW
-HStem: -317 89<-99.3062 71.3521> 1164 20G<244.895 356> 1369 189<283 373>
-VStem: -107 500
+Flags: W
+HStem: -317 89<-99.3062 71.3521> 1164 20G<244.895 356> 1389 189<285 375>
+VStem: -107 502
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 266 1389 m 1
@@ -7263,15 +7326,22 @@ EndChar
 
 StartChar: lcaron
 Encoding: 474 318 338
-Width: 380
+Width: 478
 VWidth: 0
 Flags: W
-HStem: 0 21<95 206.099> 1188 470<561.105 571.105> 1638 20<266.901 378>
-VStem: 95 283 512.105 160
+HStem: 0 21<94.8945 205.994> 1188 470<549 559> 1638 20<266.796 377.895>
+VStem: 94.8945 283 500 160
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 488 700 N 1 0 0 1 267.105 0 2
-Refer: 336 108 N 1 0 0 1 0 0 3
+Refer: 488 700 S 1 0 0 1 255 0 2
+Refer: 336 108 N 1 0 0 1 -0.105469 0 2
 EndChar
 
 StartChar: lcommaaccent
@@ -7580,15 +7650,29 @@ EndChar
 
 StartChar: napostrophe
 Encoding: 482 329 353
-Width: 1288
+Width: 800
 VWidth: 0
 Flags: W
-HStem: 0 21<560 671.107 1027 1139.1> 1118 85<915.43 1107.06> 1164 20<681.905 793> 1188 470<294 304>
-VStem: 245 160 560 676
+HStem: 0 21<72.7276 183.835 539.728 651.825> 1118 85<428.158 619.785> 1164 20<194.633 305.728> 1422 470<250.728 260.728>
+VStem: 72.7276 676 201.728 160
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 351 110 N 1 0 0 1 487 0 2
-Refer: 488 700 N 1 0 0 1 0 0 2
+Refer: 351 110 N 1 0 0 1 -0.272392 0 2
+Refer: 488 700 N 1 0 0 1 -43.2724 234 2
 EndChar
 
 StartChar: ncaron
@@ -9296,53 +9380,74 @@ EndChar
 
 StartChar: tbar
 Encoding: 512 359 424
-Width: 500
+Width: 628
 VWidth: 0
 Flags: W
-HStem: -13 86<283.105 444> 742 67<103 222.809 338.773 514> 1112 72<115 262 378 572>
-VStem: 96 483
+HStem: -13 86<291.105 452> 742 67<111 230.809 346.773 522> 1112 72<123 270 386 580>
+VStem: 104 483
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-96 742 m 1
- 103 809 l 1
- 229.90546697 809 l 1
- 262 1112 l 1
- 107 1112 l 1
- 115 1184 l 1
- 269 1184 l 1
- 310 1562 l 1
- 418 1562 l 1
- 378 1184 l 1
- 579 1184 l 1
- 572 1112 l 1
- 371 1112 l 1
- 338.773410405 809 l 1
- 520 809 l 1
- 514 742 l 1
- 331.647398844 742 l 1
- 279 247 l 2
- 266 118 277 73 365 73 c 0
- 390 73 425 78 453 83 c 1
- 444 1 l 1
- 411 -8 366 -13 332 -13 c 0
- 167 -13 155 95 169 234 c 2
- 222.808656036 742 l 1
- 96 742 l 1
+104 742 m 1
+ 111 809 l 1
+ 237.905273438 809 l 1
+ 270 1112 l 1
+ 115 1112 l 1
+ 123 1184 l 1
+ 277 1184 l 1
+ 318 1562 l 1
+ 426 1562 l 1
+ 386 1184 l 1
+ 587 1184 l 1
+ 580 1112 l 1
+ 379 1112 l 1
+ 346.7734375 809 l 1
+ 528 809 l 1
+ 522 742 l 1
+ 339.647460938 742 l 1
+ 287 247 l 2
+ 274 118 285 73 373 73 c 0
+ 398 73 433 78 461 83 c 1
+ 452 1 l 1
+ 419 -8 374 -13 340 -13 c 0
+ 175 -13 163 95 177 234 c 2
+ 230.80859375 742 l 1
+ 104 742 l 1
 EndSplineSet
 EndChar
 
 StartChar: tcaron
 Encoding: 513 357 425
-Width: 538
+Width: 735
 VWidth: 0
 Flags: W
-HStem: -13 86<283.105 444> 1092 470<802.331 812.331> 1112 72<115 262 378 572>
-VStem: 107 472 753.331 160
+HStem: -13 86<282.774 443.669> 1092 470<756 766> 1112 72<114.669 261.669 377.669 571.669>
+VStem: 106.669 472 707 160
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 488 700 N 1 0 0 1 508.331 -96 2
-Refer: 423 116 N 1 0 0 1 0 0 3
+Refer: 488 700 S 1 0 0 1 462 -96 2
+Refer: 423 116 N 1 0 0 1 -0.331055 0 2
 EndChar
 
 StartChar: tcommaaccent
@@ -9862,10 +9967,17 @@ StartChar: uni01C8
 Encoding: 525 456 451
 Width: 1178
 VWidth: 0
-Flags: HW
-HStem: -317 89<664.694 835.352> 0 88<232 723> 1164 20<1008.89 1120> 1339 189<1047 1137> 1638 20<281.901 396>
-VStem: 110 622 657 500
+Flags: W
+HStem: -317 89<664.694 835.352> 0 88<232 723> 1164 20<1008.89 1120> 1389 189<1049 1139> 1638 20<281.901 396>
+VStem: 110 622 657 502
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 331 106 N 1 0 0 1 764 0 2
 Refer: 57 76 N 1 0 0 1 0 0 2
@@ -9875,10 +9987,17 @@ StartChar: uni01C9
 Encoding: 526 457 452
 Width: 794
 VWidth: 0
-Flags: HW
-HStem: -317 89<280.694 451.352> 0 21<95 206.099> 1164 20<624.895 736> 1339 189<663 753> 1638 20<266.901 378>
-VStem: 95 283 273 500
+Flags: W
+HStem: -317 89<280.694 451.352> 0 21<95 206.099> 1164 20<624.895 736> 1389 189<665 755> 1638 20<266.901 378>
+VStem: 95 283 273 502
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 331 106 N 1 0 0 1 380 0 2
 Refer: 336 108 N 1 0 0 1 0 0 2
@@ -9901,10 +10020,17 @@ StartChar: uni01CB
 Encoding: 528 459 454
 Width: 1469
 VWidth: 0
-Flags: HW
-HStem: -317 89<955.694 1126.35> 0 21<110 211.11 766.084 862.099> 1164 20<1299.89 1411> 1339 189<1338 1428> 1638 20<281.901 379.914 933.886 1034>
-VStem: 948 500
+Flags: W
+HStem: -317 89<955.694 1126.35> 0 21<110 211.11 766.084 862.099> 1164 20<1299.89 1411> 1389 189<1340 1430> 1638 20<281.901 379.914 933.886 1034>
+VStem: 948 502
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 331 106 N 1 0 0 1 1055 0 2
 Refer: 64 78 N 1 0 0 1 0 0 2
@@ -9914,10 +10040,17 @@ StartChar: uni01CC
 Encoding: 529 460 455
 Width: 1215
 VWidth: 0
-Flags: HW
-HStem: -317 89<701.694 872.352> 0 21<73 184.107 540 652.097> 1118 85<428.43 620.057> 1164 20<194.905 306 1045.89 1157> 1339 189<1084 1174>
-VStem: 73 676 694 500
+Flags: W
+HStem: -317 89<701.694 872.352> 0 21<73 184.107 540 652.097> 1118 85<428.43 620.057> 1164 20<194.905 306 1045.89 1157> 1389 189<1086 1176>
+VStem: 73 676 694 502
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 331 106 N 1 0 0 1 801 0 2
 Refer: 351 110 N 1 0 0 1 0 0 2
@@ -11191,10 +11324,17 @@ StartChar: uniFB04
 Encoding: 605 64260 531
 Width: 1589
 VWidth: 0
-Flags: HW
-HStem: 0 21<152 262.114 637 747.114 1136 1246.09> 1107 77<116 268 384 575 601 753 869 1060> 1164 20<1257.91 1368> 1339 189<1296 1386> 1527 85<437.46 612.296 922.46 1097.3>
-VStem: 108 513 593 513 1136 269
+Flags: W
+HStem: 0 21<152 262.114 637 747.114 1136 1246.09> 1107 77<116 268 384 575 601 753 869 1060> 1164 20<1257.91 1368> 1389 189<1302 1392> 1527 85<437.46 612.296 922.46 1097.3>
+VStem: 108 513 593 513 1136 276
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 294 102 N 1 0 0 1 485 0 2
 Refer: 294 102 N 1 0 0 1 0 0 2

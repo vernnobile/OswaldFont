@@ -20,24 +20,24 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1372545452
-ModificationTime: 1372696589
+ModificationTime: 1372716444
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 1658
+OS2TypoAscent: 2233
 OS2TypoAOffset: 0
-OS2TypoDescent: -390
+OS2TypoDescent: -548
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 1658
+OS2WinAscent: 2233
 OS2WinAOffset: 0
-OS2WinDescent: 390
+OS2WinDescent: 548
 OS2WinDOffset: 0
-HheadAscent: 1658
+HheadAscent: 2233
 HheadAOffset: 0
-HheadDescent: -390
+HheadDescent: -548
 HheadDOffset: 0
 OS2Vendor: 'newt'
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Cyrillic lookup 0"  {"'kern' Horizontal Kerning in Cyrillic lookup 0 subtable"  "'kern' Horizontal Kerning lookup 3 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -154,7 +154,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 198 33 9
+WinInfo: 330 33 9
 BeginPrivate: 10
 BlueFuzz 1 1
 BlueScale 9 0.0319355
@@ -1249,17 +1249,10 @@ StartChar: Lcaron
 Encoding: 286 317 59
 Width: 851
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 205<391.409 768.409> 1124 553<781 864> 1638 20<246.31 544.409>
 VStem: 723 292
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 488 700 S 1 0 0 1 387 19 2
 Refer: 57 76 N 1 0 0 1 0.40918 0 3
@@ -1287,20 +1280,6 @@ Flags: W
 HStem: 0 205<405.222 782.222> 706 265<696.57 936.57> 1638 20<260.123 558.222>
 VStem: 669.57 294
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 385 183 S 1 0 0 1 587.57 68 2
 Refer: 57 76 N 1 0 0 1 14.2222 0 3
@@ -7573,15 +7552,15 @@ EndChar
 
 StartChar: napostrophe
 Encoding: 482 329 353
-Width: 1754
+Width: 963
 VWidth: 0
 Flags: W
-HStem: 0 21<849 1125.11 1330 1606.09> 996 206<1335.5 1611> 1105 553<394 477> 1164 20<970.905 1247>
-VStem: 336 292
+HStem: 0 21<58.0637 334.17 539.064 815.153> 996 206<544.564 820.064> 1164 20<179.969 456.064> 1372 553<212.064 295.064>
+VStem: 154.064 292
 LayerCount: 2
 Fore
-Refer: 351 110 N 1 0 0 1 791 0 2
-Refer: 488 700 N 1 0 0 1 0 0 2
+Refer: 351 110 N 1 0 0 1 0.0636826 0 2
+Refer: 488 700 S 1 0 0 1 -181.936 267 2
 EndChar
 
 StartChar: ncaron
@@ -10721,32 +10700,46 @@ EndChar
 
 StartChar: uni04E8
 Encoding: 582 1256 508
-Width: 1146
+Width: 1145
 VWidth: 0
 Flags: W
-HStem: -20 220<408.278 652.472> 748 192<428.262 759.241> 1458 219<528.619 776.251>
+HStem: -20 220<425.548 669.742> 748 192<445.531 776.51> 1458 219<545.889 793.521>
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-502 -20 m 0
- 150 -20 49 186 84 526 c 1
- 149 1139 l 2
- 184 1478 328 1677 681 1677 c 0
- 1032 1677 1136 1476 1100 1139 c 2
- 1035 526 l 2
- 1000 189 853 -20 502 -20 c 0
-525 200 m 0
- 679 200 713 311 729 458 c 2
- 759.240641711 748 l 1
- 408.240641711 748 l 1
- 378 458 l 2
- 362 311 372 200 525 200 c 0
-428.262032086 940 m 1
- 779.262032086 940 l 1
- 807 1206 l 2
- 822 1353 811 1458 658 1458 c 0
- 504 1458 471 1353 456 1206 c 2
- 428.262032086 940 l 1
+519.26953125 -20 m 0
+ 167.26953125 -20 66.26953125 186 101.26953125 526 c 1
+ 166.26953125 1139 l 2
+ 201.26953125 1478 345.26953125 1677 698.26953125 1677 c 0
+ 1049.26953125 1677 1153.26953125 1476 1117.26953125 1139 c 2
+ 1052.26953125 526 l 2
+ 1017.26953125 189 870.26953125 -20 519.26953125 -20 c 0
+542.26953125 200 m 0
+ 696.26953125 200 730.26953125 311 746.26953125 458 c 2
+ 776.509765625 748 l 1
+ 425.509765625 748 l 1
+ 395.26953125 458 l 2
+ 379.26953125 311 389.26953125 200 542.26953125 200 c 0
+445.53125 940 m 1
+ 796.53125 940 l 1
+ 824.26953125 1206 l 2
+ 839.26953125 1353 828.26953125 1458 675.26953125 1458 c 0
+ 521.26953125 1458 488.26953125 1353 473.26953125 1206 c 2
+ 445.53125 940 l 1
 EndSplineSet
 EndChar
 

@@ -1,3 +1,13 @@
 #!/usr/local/bin/fontforge
 
-SelectSingletons('Eth','Thorn','germandbls','ae','AE','Eng','Tbar','tbar','uni04B0','uni04B1','uni04E8','uni04E9');
+SelectSingletons('Eth');
+
+SetCharColor(0xfff345);
+
+SelectSingletons('Thorn');
+
+SetCharColor(0xffff00);
+
+SelectSingletons('germandbls','ae','AE','Eng','Tbar','tbar','uni04B0','uni04B1','uni04E8','uni04E9');
+
+SetCharColor(0xffff00);
