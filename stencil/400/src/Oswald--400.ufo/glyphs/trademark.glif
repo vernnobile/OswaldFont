@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1505"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="699" y="755" type="line"/>
+      <point x="827" y="755" type="line"/>
+      <point x="827" y="1311" type="line"/>
+      <point x="1015" y="755" type="line"/>
+      <point x="1084" y="755" type="line"/>
+      <point x="1265" y="1313" type="line"/>
+      <point x="1265" y="755" type="line"/>
+      <point x="1393" y="755" type="line"/>
+      <point x="1393" y="1658" type="line"/>
+      <point x="1256" y="1658" type="line"/>
+      <point x="1044" y="1030" type="line"/>
+      <point x="849" y="1658" type="line"/>
+      <point x="699" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="755" type="line"/>
+      <point x="442" y="755" type="line"/>
+      <point x="442" y="1522" type="line"/>
+      <point x="597" y="1522" type="line"/>
+      <point x="597" y="1658" type="line"/>
+      <point x="113" y="1658" type="line"/>
+      <point x="113" y="1522" type="line"/>
+      <point x="279" y="1522" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1195</integer>
+            <key>width</key>
+            <integer>153</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1874</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="658"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="100" y="535" type="line"/>
+      <point x="558" y="535" type="line"/>
+      <point x="558" y="701" type="line"/>
+      <point x="100" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>hyphen</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>549</integer>
+        </dict>
+      </dict>
+      <key>hhints</key>
+      <dict/>
+      <key>position</key>
+      <integer>-134</integer>
+      <key>vhints</key>
+      <dict/>
+      <key>width</key>
+      <integer>269</integer>
+    </dict>
+  </lib>
+</glyph>

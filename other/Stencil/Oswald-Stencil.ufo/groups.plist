@@ -129,20 +129,20 @@
 	<key>@MMK_L_A</key>
 	<array>
 		<string>A</string>
+		<string>Agrave</string>
 		<string>Aacute</string>
 		<string>Acircumflex</string>
-		<string>Adieresis</string>
-		<string>Agrave</string>
-		<string>Aring</string>
 		<string>Atilde</string>
+		<string>Adieresis</string>
+		<string>Aring</string>
+		<string>AE</string>
 		<string>a</string>
+		<string>agrave</string>
 		<string>aacute</string>
 		<string>acircumflex</string>
-		<string>adieresis</string>
-		<string>agrave</string>
-		<string>aring</string>
 		<string>atilde</string>
-		<string>AE</string>
+		<string>adieresis</string>
+		<string>aring</string>
 	</array>
 	<key>@MMK_L_C</key>
 	<array>
@@ -156,37 +156,37 @@
 	<key>@MMK_L_E</key>
 	<array>
 		<string>E</string>
+		<string>Egrave</string>
 		<string>Eacute</string>
 		<string>Ecircumflex</string>
 		<string>Edieresis</string>
-		<string>Egrave</string>
+		<string>OE</string>
 		<string>e</string>
+		<string>egrave</string>
 		<string>eacute</string>
 		<string>ecircumflex</string>
 		<string>edieresis</string>
-		<string>egrave</string>
-		<string>OE</string>
 		<string>oe</string>
 	</array>
 	<key>@MMK_L_I</key>
 	<array>
 		<string>I</string>
+		<string>Igrave</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
-		<string>Idotaccent</string>
-		<string>Igrave</string>
-		<string>Iogonek</string>
 		<string>Itilde</string>
-		<string>dotlessi</string>
+		<string>Iogonek</string>
+		<string>Idotaccent</string>
 		<string>i</string>
+		<string>igrave</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
-		<string>igrave</string>
-		<string>iogonek</string>
 		<string>itilde</string>
+		<string>iogonek</string>
 		<string>uni020B</string>
+		<string>dotlessi</string>
 	</array>
 	<key>@MMK_L_J</key>
 	<array>
@@ -199,44 +199,44 @@
 	<key>@MMK_L_N</key>
 	<array>
 		<string>N</string>
-		<string>Nacute</string>
 		<string>Ntilde</string>
+		<string>Nacute</string>
 		<string>n</string>
-		<string>nacute</string>
 		<string>ntilde</string>
+		<string>nacute</string>
 	</array>
 	<key>@MMK_L_O</key>
 	<array>
 		<string>O</string>
+		<string>Ograve</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
-		<string>Odieresis</string>
-		<string>Ograve</string>
 		<string>Otilde</string>
+		<string>Odieresis</string>
 		<string>uni020C</string>
 		<string>uni020E</string>
+		<string>Q</string>
 		<string>o</string>
+		<string>ograve</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>
-		<string>odieresis</string>
-		<string>ograve</string>
 		<string>otilde</string>
+		<string>odieresis</string>
 		<string>uni020D</string>
 		<string>uni020F</string>
 		<string>q</string>
-		<string>Q</string>
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
 		<string>R</string>
 		<string>Racute</string>
-		<string>Rcaron</string>
 		<string>Rcommaaccent</string>
+		<string>Rcaron</string>
 		<string>uni0210</string>
 		<string>uni0212</string>
 		<string>r</string>
-		<string>rcaron</string>
 		<string>rcommaaccent</string>
+		<string>rcaron</string>
 		<string>uni0211</string>
 		<string>uni0213</string>
 	</array>
@@ -250,23 +250,23 @@
 	<key>@MMK_L_U</key>
 	<array>
 		<string>U</string>
+		<string>Ugrave</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
-		<string>Ugrave</string>
 		<string>Umacron</string>
 		<string>Uogonek</string>
 		<string>uni0214</string>
 		<string>uni0216</string>
 		<string>u</string>
+		<string>ugrave</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
-		<string>ugrave</string>
 		<string>umacron</string>
+		<string>uogonek</string>
 		<string>uni0215</string>
 		<string>uni0217</string>
-		<string>uogonek</string>
 	</array>
 	<key>@MMK_L_VW</key>
 	<array>
@@ -287,29 +287,29 @@
 	<key>@MMK_L_Z</key>
 	<array>
 		<string>Z</string>
-		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>Zcaron</string>
 		<string>z</string>
-		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>zcaron</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>
 		<string>A</string>
+		<string>Agrave</string>
 		<string>Aacute</string>
 		<string>Acircumflex</string>
-		<string>Adieresis</string>
-		<string>Agrave</string>
-		<string>Aring</string>
 		<string>Atilde</string>
+		<string>Adieresis</string>
+		<string>Aring</string>
 		<string>AE</string>
 		<string>a</string>
+		<string>agrave</string>
 		<string>aacute</string>
 		<string>acircumflex</string>
-		<string>adieresis</string>
-		<string>agrave</string>
-		<string>aring</string>
 		<string>atilde</string>
+		<string>adieresis</string>
+		<string>aring</string>
 		<string>ae</string>
 	</array>
 	<key>@MMK_R_C</key>
@@ -324,33 +324,33 @@
 	<key>@MMK_R_E</key>
 	<array>
 		<string>E</string>
+		<string>Egrave</string>
 		<string>Eacute</string>
 		<string>Ecircumflex</string>
 		<string>Edieresis</string>
-		<string>Egrave</string>
 		<string>e</string>
+		<string>egrave</string>
 		<string>eacute</string>
 		<string>ecircumflex</string>
 		<string>edieresis</string>
-		<string>egrave</string>
 	</array>
 	<key>@MMK_R_I</key>
 	<array>
 		<string>I</string>
+		<string>Igrave</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
-		<string>Idotaccent</string>
-		<string>Igrave</string>
-		<string>Iogonek</string>
 		<string>Itilde</string>
+		<string>Iogonek</string>
+		<string>Idotaccent</string>
 		<string>i</string>
+		<string>igrave</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
-		<string>igrave</string>
-		<string>iogonek</string>
 		<string>itilde</string>
+		<string>iogonek</string>
 		<string>uni020B</string>
 	</array>
 	<key>@MMK_R_J</key>
@@ -363,44 +363,44 @@
 	<key>@MMK_R_N</key>
 	<array>
 		<string>N</string>
-		<string>Nacute</string>
 		<string>Ntilde</string>
+		<string>Nacute</string>
 		<string>n</string>
-		<string>nacute</string>
 		<string>ntilde</string>
+		<string>nacute</string>
 	</array>
 	<key>@MMK_R_O</key>
 	<array>
 		<string>O</string>
+		<string>Ograve</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
-		<string>Odieresis</string>
-		<string>Ograve</string>
 		<string>Otilde</string>
+		<string>Odieresis</string>
 		<string>uni020C</string>
 		<string>uni020E</string>
+		<string>Q</string>
 		<string>o</string>
+		<string>ograve</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>
-		<string>odieresis</string>
-		<string>ograve</string>
 		<string>otilde</string>
+		<string>odieresis</string>
 		<string>uni020D</string>
 		<string>uni020F</string>
 		<string>q</string>
-		<string>Q</string>
 	</array>
 	<key>@MMK_R_R</key>
 	<array>
 		<string>R</string>
 		<string>Racute</string>
-		<string>Rcaron</string>
 		<string>Rcommaaccent</string>
+		<string>Rcaron</string>
 		<string>uni0210</string>
 		<string>uni0212</string>
 		<string>r</string>
-		<string>rcaron</string>
 		<string>rcommaaccent</string>
+		<string>rcaron</string>
 		<string>uni0211</string>
 		<string>uni0213</string>
 	</array>
@@ -414,23 +414,23 @@
 	<key>@MMK_R_U</key>
 	<array>
 		<string>U</string>
+		<string>Ugrave</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
-		<string>Ugrave</string>
 		<string>Umacron</string>
 		<string>Uogonek</string>
 		<string>uni0214</string>
 		<string>uni0216</string>
 		<string>u</string>
+		<string>ugrave</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
-		<string>ugrave</string>
 		<string>umacron</string>
+		<string>uogonek</string>
 		<string>uni0215</string>
 		<string>uni0217</string>
-		<string>uogonek</string>
 	</array>
 	<key>@MMK_R_VW</key>
 	<array>
@@ -451,11 +451,11 @@
 	<key>@MMK_R_Z</key>
 	<array>
 		<string>Z</string>
-		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>Zcaron</string>
 		<string>z</string>
-		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>zcaron</string>
 	</array>
 </dict>
 </plist>

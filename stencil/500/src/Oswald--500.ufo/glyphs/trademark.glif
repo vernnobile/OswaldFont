@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1633"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="751" y="710" type="line"/>
+      <point x="910" y="710" type="line"/>
+      <point x="910" y="1259" type="line"/>
+      <point x="1087" y="710" type="line"/>
+      <point x="1174" y="710" type="line"/>
+      <point x="1344" y="1258" type="line"/>
+      <point x="1344" y="710" type="line"/>
+      <point x="1503" y="710" type="line"/>
+      <point x="1503" y="1658" type="line"/>
+      <point x="1316" y="1658" type="line"/>
+      <point x="1125" y="1048" type="line"/>
+      <point x="946" y="1658" type="line"/>
+      <point x="751" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="710" type="line"/>
+      <point x="493" y="710" type="line"/>
+      <point x="493" y="1492" type="line"/>
+      <point x="660" y="1492" type="line"/>
+      <point x="660" y="1658" type="line"/>
+      <point x="122" y="1658" type="line"/>
+      <point x="122" y="1492" type="line"/>
+      <point x="297" y="1492" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1195</integer>
+            <key>width</key>
+            <integer>153</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1874</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1168"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="527" y="777" type="line"/>
+      <point x="797" y="777" type="line"/>
+      <point x="797" y="0" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="1028" y="1658" type="line"/>
+      <point x="797" y="1658" type="line"/>
+      <point x="797" y="942" type="line"/>
+      <point x="527" y="942" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="1658" type="line"/>
+      <point x="140" y="1658" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="371" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>H</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1283</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

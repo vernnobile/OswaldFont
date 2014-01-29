@@ -9,19 +9,17 @@
 	<key>descender</key>
 	<integer>-374</integer>
 	<key>familyName</key>
-	<string>Oswald</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
+	<string>Oswald --0_xx0_78</string>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
+	<key>openTypeHeadCreated</key>
+	<string>2014/01/17 22:33:36</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>9</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>2364</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-616</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>55</integer>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Oswald</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>--0_xx0_78</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 	</array>
@@ -67,27 +65,19 @@
 	<array>
 		<integer>2</integer>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>5427</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-1382</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>121</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 	</array>
 	<key>openTypeOS2VendorID</key>
 	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>611</integer>
-	<key>openTypeOS2WinAscent</key>
-	<integer>5917</integer>
-	<key>openTypeOS2WinDescent</key>
-	<integer>-1511</integer>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.0098823697639234612</real>
+	<real>0.0099000000000000008</real>
 	<key>postscriptBlueShift</key>
 	<integer>-6</integer>
 	<key>postscriptBlueValues</key>
@@ -101,12 +91,6 @@
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptIsFixedPitch</key>
@@ -118,16 +102,6 @@
 	</array>
 	<key>postscriptSlantAngle</key>
 	<real>0.0</real>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-182</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>90</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
 	<key>postscriptWeightName</key>
@@ -137,7 +111,7 @@
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>--0_xx0_78</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>

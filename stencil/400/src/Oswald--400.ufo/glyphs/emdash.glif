@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="1976"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="17" y="550" type="line"/>
+      <point x="1962" y="550" type="line"/>
+      <point x="1962" y="710" type="line"/>
+      <point x="17" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>713</integer>
+            <key>width</key>
+            <integer>249</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>emdash</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>2048</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

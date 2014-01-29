@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1649"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="330" y="829" type="curve" smooth="yes"/>
+      <point x="483" y="829"/>
+      <point x="566" y="920"/>
+      <point x="566" y="1070" type="curve" smooth="yes"/>
+      <point x="566" y="1193"/>
+      <point x="493" y="1246"/>
+      <point x="392" y="1254" type="curve"/>
+      <point x="494" y="1259"/>
+      <point x="565" y="1318"/>
+      <point x="565" y="1438" type="curve" smooth="yes"/>
+      <point x="565" y="1585"/>
+      <point x="484" y="1676"/>
+      <point x="332" y="1676" type="curve" smooth="yes"/>
+      <point x="179" y="1676"/>
+      <point x="96" y="1587"/>
+      <point x="96" y="1440" type="curve"/>
+      <point x="262" y="1440" type="line"/>
+      <point x="262" y="1505"/>
+      <point x="267" y="1563"/>
+      <point x="332" y="1563" type="curve" smooth="yes"/>
+      <point x="395" y="1563"/>
+      <point x="398" y="1504"/>
+      <point x="398" y="1438" type="curve" smooth="yes"/>
+      <point x="398" y="1343"/>
+      <point x="369" y="1310"/>
+      <point x="279" y="1310" type="curve"/>
+      <point x="279" y="1198" type="line"/>
+      <point x="368" y="1198"/>
+      <point x="399" y="1161"/>
+      <point x="399" y="1069" type="curve" smooth="yes"/>
+      <point x="399" y="999"/>
+      <point x="393" y="941"/>
+      <point x="330" y="941" type="curve" smooth="yes"/>
+      <point x="266" y="941"/>
+      <point x="262" y="1000"/>
+      <point x="262" y="1064" type="curve"/>
+      <point x="96" y="1064" type="line"/>
+      <point x="96" y="917"/>
+      <point x="179" y="829"/>
+    </contour>
+    <contour>
+      <point x="1312" y="0" type="line"/>
+      <point x="1478" y="0" type="line"/>
+      <point x="1478" y="244" type="line"/>
+      <point x="1598" y="244" type="line"/>
+      <point x="1598" y="357" type="line"/>
+      <point x="1478" y="357" type="line"/>
+      <point x="1478" y="912" type="line"/>
+      <point x="1328" y="912" type="line"/>
+      <point x="1013" y="357" type="line"/>
+      <point x="1013" y="244" type="line"/>
+      <point x="1312" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="0" type="line"/>
+      <point x="660" y="0" type="line"/>
+      <point x="1201" y="1658" type="line"/>
+      <point x="1017" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="1146" y="357" type="line"/>
+      <point x="1312" y="681" type="line"/>
+      <point x="1312" y="357" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>905</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1217</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1513</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>97</integer>
+            <key>width</key>
+            <integer>140</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>359</integer>
+            <key>width</key>
+            <integer>157</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>threequarters</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1499</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

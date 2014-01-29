@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1204"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="247" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="605" y="835" type="line"/>
+      <point x="765" y="0" type="line"/>
+      <point x="951" y="0" type="line"/>
+      <point x="1146" y="1184" type="line"/>
+      <point x="967" y="1184" type="line"/>
+      <point x="843" y="315" type="line"/>
+      <point x="686" y="1184" type="line"/>
+      <point x="519" y="1184" type="line"/>
+      <point x="361" y="312" type="line"/>
+      <point x="238" y="1184" type="line"/>
+      <point x="58" y="1184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>495</integer>
+            <key>width</key>
+            <integer>266</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1142</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

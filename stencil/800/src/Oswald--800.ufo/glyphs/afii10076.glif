@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10076" format="1">
+  <advance width="1109"/>
+  <unicode hex="043A"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="469" y="517" type="line"/>
+      <point x="515" y="517" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="1088" y="0" type="line"/>
+      <point x="849" y="629" type="line"/>
+      <point x="1082" y="1184" type="line"/>
+      <point x="682" y="1184" type="line"/>
+      <point x="515" y="727" type="line"/>
+      <point x="469" y="727" type="line"/>
+      <point x="469" y="1184" type="line"/>
+      <point x="102" y="1184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>182</integer>
+          <key>y</key>
+          <integer>388</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>351</integer>
+          <key>y</key>
+          <integer>403</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10076</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>727</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

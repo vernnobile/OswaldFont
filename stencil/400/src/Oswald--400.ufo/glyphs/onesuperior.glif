@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="867"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="411" y="627" type="line"/>
+      <point x="572" y="627" type="line"/>
+      <point x="570" y="1804" type="line"/>
+      <point x="449" y="1804" type="line"/>
+      <point x="387" y="1723"/>
+      <point x="269" y="1692"/>
+      <point x="200" y="1674" type="curve"/>
+      <point x="200" y="1553" type="line"/>
+      <point x="206" y="1554"/>
+      <point x="405" y="1590"/>
+      <point x="410" y="1597" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>148</integer>
+            <key>width</key>
+            <integer>481</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

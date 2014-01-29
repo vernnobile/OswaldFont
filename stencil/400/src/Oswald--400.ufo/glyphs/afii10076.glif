@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10076" format="1">
+  <advance width="849"/>
+  <unicode hex="043A"/>
+  <outline>
+    <contour>
+      <point x="111" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="553" type="line"/>
+      <point x="391" y="553" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="843" y="0" type="line"/>
+      <point x="591" y="611" type="line"/>
+      <point x="840" y="1184" type="line"/>
+      <point x="614" y="1184" type="line"/>
+      <point x="392" y="685" type="line"/>
+      <point x="330" y="685" type="line"/>
+      <point x="330" y="1184" type="line"/>
+      <point x="111" y="1184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>182</integer>
+          <key>y</key>
+          <integer>388</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>351</integer>
+          <key>y</key>
+          <integer>403</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>afii10076</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>727</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
